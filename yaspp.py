@@ -1,6 +1,5 @@
 #!/usr/bin/env python
 
-import datetime
 import json
 import os
 import string
@@ -10,13 +9,6 @@ import yaml
 
 import config
 import templates
-
-class DateTimeEncoder(json.JSONEncoder):
-
-	def default(self, obj):
-		if isinstance(obj, datetime.datetime):
-			return obj.isoformat()
-		return json.JSONEncoder.default(self, obj)
 
 
 def read_content_yaml(filename):
@@ -29,9 +21,14 @@ def read_content_yaml(filename):
 
 def generate_html_entry(entryid, entry):
 	entrydivid = "yassp_entry_%d" % entryid
+	clean_entry = entry.copy()
+	try:
+		clean_entry.pop("uuid")
+	except KeyError:
+		pass
 
 	podlove_player = "<script>podlovePlayer('#%s', %s);</script>" % \
-			(entrydivid, json.dumps(entry, cls=DateTimeEncoder))
+			(entrydivid, json.dumps(clean_entry))
 
 	return templates.entry.substitute(
 			entrydivid=entrydivid,
@@ -52,8 +49,21 @@ def generate_html(content, rev=True):
 		)
 
 
-def generate_feed(content):
-	return ""
+def generate_feed(content, audio_idx=0):
+	p = podgen.Podcast(
+			name=config.podcast_title,
+			description=config.hello_text,
+			website=config.website,
+			explicit=False
+		)
+	p.episodes = [podgen.Episode(
+			id=entry["uuid"],
+			title=entry["title"],
+			summary=entry["summary"],
+			publication_date=entry["publicationDate"],
+			media=podgen.Media.create_from_server_response(entry["audio"][audio_idx]["url"]),
+		) for entry in content]
+	return str(p)
 
 
 def parseArgs():
