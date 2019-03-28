@@ -55,6 +55,9 @@ def generate_feed(content, audio_idx=0):
 			description=config.hello_text,
 			website=config.website,
 			image=config.cover_image,
+			language=config.language,
+			copyright=config.copyright,
+			authors=[podgen.Person(config.author_name)],
 			explicit=False
 		)
 	p.episodes = [podgen.Episode(
