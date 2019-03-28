@@ -2,6 +2,7 @@
 *.pyc
 
 # Generated Files
+output/
 index.html
 feed.xml
 

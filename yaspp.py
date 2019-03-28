@@ -54,6 +54,7 @@ def generate_feed(content, audio_idx=0):
 			name=config.podcast_title,
 			description=config.hello_text,
 			website=config.website,
+			image=config.cover_image,
 			explicit=False
 		)
 	p.episodes = [podgen.Episode(
