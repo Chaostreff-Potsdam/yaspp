@@ -1,5 +1,6 @@
 #!/usr/bin/env python
 
+import datetime
 import json
 import os
 import string
@@ -9,6 +10,14 @@ import yaml
 
 import config
 import templates
+
+class DateTimeEncoder(json.JSONEncoder):
+
+	def default(self, obj):
+		if isinstance(obj, datetime.datetime):
+			return obj.isoformat()
+		return json.JSONEncoder.default(self, obj)
+
 
 def read_content_yaml(filename):
 	for entry in yaml.load_all(open(filename), Loader=yaml.Loader):
@@ -22,7 +31,7 @@ def generate_html_entry(entryid, entry):
 	entrydivid = "yassp_entry_%d" % entryid
 
 	podlove_player = "<script>podlovePlayer('#%s', %s);</script>" % \
-			(entrydivid, json.dumps(entry))
+			(entrydivid, json.dumps(entry, cls=DateTimeEncoder))
 
 	return templates.entry.substitute(
 			entrydivid=entrydivid,
