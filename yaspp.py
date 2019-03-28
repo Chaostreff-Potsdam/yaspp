@@ -1,7 +1,8 @@
 #!/usr/bin/env python
 
-import os
 import json
+import os
+import string
 
 import podgen
 import yaml
@@ -10,7 +11,11 @@ import config
 import templates
 
 def read_content_yaml(filename):
-	return list(yaml.load_all(open(filename), Loader=yaml.Loader))
+	for entry in yaml.load_all(open(filename), Loader=yaml.Loader):
+		for audio in entry["audio"]:
+			audio["url"] = string.Template(audio["url"]).substitute(
+					media_base_url=config.media_base_url)
+		yield entry
 
 
 def generate_html_entry(entryid, entry):
@@ -57,7 +62,7 @@ def parseArgs():
 
 def main():
 	args = parseArgs()
-	content = read_content_yaml(args.yaml_file)
+	content = list(read_content_yaml(args.yaml_file))
 	with open(os.path.join(args.output_dir, "index.html"), "w") as outfile:
 		outfile.writelines(generate_html(content))
 

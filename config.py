@@ -3,4 +3,4 @@ hello_text = r'''<p>Der ChaosTreff Potsdam macht mit beim <a href="http://frrapo
 
 <p>Hier könnt ihr Sendungen nachhören.</p>'''
 
-media_base_url = 'https://radio.ccc-p.org/files/'
+media_base_url = 'https://radio.ccc-p.org/files'
