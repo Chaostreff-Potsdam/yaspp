@@ -11,12 +11,43 @@ import config
 import templates
 
 
+#-------------------------------------------------------------------------------
+
+import html.parser
+
+class HTMLStripParser(html.parser.HTMLParser):
+    def __init__(self):
+        super(HTMLStripParser, self).__init__()
+        self.result = []
+
+    def handle_data(self, data):
+        self.result.append(data)
+
+    def get_text(self):
+        return "".join(self.result)
+
+def strip_html_tags(html):
+	p = HTMLStripParser()
+	p.feed(html)
+	return p.get_text()
+
+#-------------------------------------------------------------------------------
+
 def read_content_yaml(filename):
 	for entry in yaml.load_all(open(filename), Loader=yaml.Loader):
 		for audio in entry["audio"]:
 			audio["url"] = string.Template(audio["url"]).substitute(
 					media_base_url=config.media_base_url)
 		yield entry
+
+
+def generate_subscribe_button(content):
+	return templates.subscribe_button.substitute(
+			title=config.podcast_title,
+			description=strip_html_tags(config.hello_text),
+			cover=config.small_cover_image,
+			feed_url=config.feed_url
+		)
 
 
 def generate_html_entry(entryid, entry):
@@ -45,9 +76,11 @@ def generate_html(content, rev=True):
 	return templates.index_html.substitute(
 			podcast_title=config.podcast_title,
 			hello_text=config.hello_text,
+			subscribe_button=generate_subscribe_button(content),
 			content=content_list
 		)
 
+#-------------------------------------------------------------------------------
 
 def generate_feed(content, audio_idx=0):
 	p = podgen.Podcast(
@@ -69,6 +102,8 @@ def generate_feed(content, audio_idx=0):
 		) for entry in content]
 	return str(p)
 
+
+#-------------------------------------------------------------------------------
 
 def parseArgs():
 	import argparse
