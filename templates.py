@@ -3,7 +3,9 @@ import string
 index_html = string.Template(r"""<!DOCTYPE html>
 <html>
 
-<head>
+<head lang="de">
+
+<title>$podcast_title</title>
 
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
@@ -47,7 +49,7 @@ subscribe_button = string.Template(r"""
 	<script>window.podcastData={
 		"title": "$title",
 		"subtitle": "",
-		"description": "$description",
+		"description": $description,
 		"cover": "$cover",
 		"feeds": [{"type":"audio","format":"mp3","url":"$feed_url"}]}
 	</script>

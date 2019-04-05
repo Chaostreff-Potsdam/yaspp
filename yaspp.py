@@ -44,7 +44,7 @@ def read_content_yaml(filename):
 def generate_subscribe_button(content):
 	return templates.subscribe_button.substitute(
 			title=config.podcast_title,
-			description=strip_html_tags(config.hello_text),
+			description=repr(config.hello_text),
 			cover=config.small_cover_image,
 			feed_url=config.feed_url
 		)
