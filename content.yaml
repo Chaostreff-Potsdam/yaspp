@@ -1,0 +1,65 @@
+---
+uuid:     95b93d5e-5a48-11e9-b2d0-67b00cd6589e
+title:    Nerdtalk vom 24.06.2018
+subtitle: Der Chaostreff im Freien Radio Potsdam
+summary:  >
+  Der Chaostreff ist noch im Entstehen, doch unsere
+  Avantgarde (Christoph und Nicco) erzählt von den Erlebnissen im CoderDojo.
+  Ein Besuch im Frrapo Nerdtalk.
+publicationDate: "2018-06-24T15:30:00+00:00"
+audio:
+  - url:      $media_base_url/2018_06_24-nerdtalk_coderdojo.mp3
+    mimeType: audio/mp3
+---
+uuid:     c4217c5e-51a3-11e9-9e20-a79da1084b4b
+title:    Nerdtalk vom 11.02.2019
+subtitle: Der Chaostreff im Freien Radio Potsdam
+summary:  >
+  Matthias und Christoph erzählen von ihren Erlebnissen im Chaostreff.
+  Ein Meilenstein im Frrapo Nerdtalk ;)
+publicationDate: "2019-02-12T01:40:00+00:00"
+audio:
+  - url:      $media_base_url/nerdtalk_chaostreff.mp3
+    mimeType: audio/mp3
+---
+uuid:     62a017fa-5a4b-11e9-b100-f7faed535345
+title:    Nerdtalk vom 08.03.2019
+subtitle: Der Chaostreff im Freien Radio Potsdam
+summary:  >
+  Einmal ist Zufall, zweimal Absicht und das dritte Mal läuft wie geschmiert.
+  Christoph und Sven sprechen im Frrapo über Vereinsgründung, Dezentralisierung,
+  die Demos rund um die EU-Urheberrechtsverordnung und wofür das S in IoT steht.
+publicationDate: "2019-04-09T00:13:37+02:00"
+audio:
+  - url:      $media_base_url/2019_04_08-nerdtalk.mp3
+    mimeType: audio/mp3
+chapters:
+  - start: '00:00:00'
+    title: 'Musik: "Krisennummer" von Krake & Bense'
+    href:  'https://soundcloud.com/atbense/krake-bense-krisennummer'
+  - start: '00:02:25'
+    title: 'Begrüßung'
+  - start: '00:04:57'
+    title: 'Vereinsgründung'
+  - start: '00:11:19'
+    title: 'Musik: "Sad Robot" von Pornophonique'
+    href:  'https://www.jamendo.com/track/81740/sad-robot'
+  - start: '00:17:39'
+    title: 'Dezentralisierung von Internetdiensten'
+  - start: '00:28:32'
+    title: 'Musik: "Welcome" von CyberSDF'
+    href:  'https://soundcloud.com/cybersdf/welcome'
+  - start: '00:32:01'
+    title: 'EU-Urheberrechtsverordnung'
+  - start: '00:37:03'
+    title: 'Art13-Demos in Potsdam, Berlin und Europa'
+  - start: '00:43:43'
+    title: 'Musik: "Binary" von UNDEAD'
+    href:  'https://soundcloud.com/official-undead-music/binary'
+  - start: '00:46:15'
+    title: 'Neues aus dem Hackspace'
+  - start: '00:52:54'
+    title: 'Wie findet ihr uns'
+  - start: '00:54:27'
+    title: 'Musik: "Children of Planet Earth" von melodysheep'
+    href:  'https://melodysheep.bandcamp.com/track/children-of-planet-earth'
