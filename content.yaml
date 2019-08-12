@@ -96,3 +96,53 @@ chapters:
     title: 'Rundgang durch das bioLab'
   - start: '00:32:10'
     title: 'Verabschiedung'
+---
+uuid:     e4923e4a-bd52-11e9-957f-cf3fd6f6045a
+title:    Nerdtalk vom 12.08.2019
+subtitle: Der Chaostreff im Freien Radio Potsdam
+summary:  >
+  Chaos herrscht: Das Studio ist umgebaut, die Mikros zaudern und
+  der Sendungsplan lag gut zwei Monate auf Halde. Aber: Wir haben Backups!
+  Christoph und Sven sprechen im Frrapo darüber wie ihr eure Daten sichern könnt.
+  Und warum ihr JETZT ein Backup machen solltet.
+publicationDate: "2019-08-13T01:34:10+02:00"
+audio:
+  - url:      $media_base_url/2019_08_12-nerdtalk.mp3
+    mimeType: audio/mp3
+chapters:
+  - start: '00:00:00'
+    title: 'Musik: "33c3 opening music" von Arne Bense'
+    href:  'https://soundcloud.com/atbense/33c3-opening-music'
+  - start: '00:01:35'
+    title: 'Begrüßung'
+  - start: '00:02:58'
+    title: 'Bericht von der GPN19'
+  - start: '00:04:11'
+    title: 'Warum Backups machen?'
+  - start: '00:08:12'
+    title: 'Exkurs: Laptop in der S7 (aus: "Backup-Reminder" des Bohemian Browser Balletts)'
+    href:  'https://youtu.be/jN5mICXIG9M?t=144'
+  - start: '00:11:30'
+    title: 'Musik: "We need Backup" von Spencer Baggett'
+    href:  'https://soundcloud.com/spencer-baggett/we-need-backup'
+  - start: '00:14:15'
+    title: 'Wovon Backups machen?'
+  - start: '00:16:45'
+    title: 'Wie Backups machen? (Ein Einsteig)'
+  - start: '00:25:20'
+    title: 'Musik: "Bending Lights" von The Momo!'
+    href:  'https://soundcloud.com/themomo11/bending-lights'
+  - start: '00:29:05'
+    title: 'Wie Backups machen? (Fortgeschrittene Tools)'
+  - start: '00:39:36'
+    title: 'Wie Backups prüfen?'
+  - start: '00:42:04'
+    title: 'Musik: "Super Mario Theme (Metal Edit)" von Girlz Melon'
+    href:  'https://soundcloud.com/girlz-melon/super-mario-bros-main-theme'
+  - start: '00:43:22'
+    title: 'Abnerden über Blockgeräte und Dateisysteme'
+  - start: '00:51:14'
+    title: 'Der Chaostreff in Potsdam und auf dem CCCamp19'
+  - start: '00:56:42'
+    title: 'Musik: "First Moments" von melodysheep'
+    href:  'https://melodysheep.bandcamp.com/track/first-moments'
