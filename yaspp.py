@@ -97,6 +97,7 @@ def generate_feed(content, audio_idx=0):
 			id=entry["uuid"],
 			title=entry["title"],
 			summary=entry["summary"],
+			long_summary=("<p>%s</p>\n%s" % (entry["summary"], entry["long_summary"])) if "long_summary" in entry else None,
 			publication_date=entry["publicationDate"],
 			media=podgen.Media.create_from_server_response(entry["audio"][audio_idx]["url"]),
 		) for entry in content]

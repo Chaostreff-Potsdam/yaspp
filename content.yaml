@@ -146,3 +146,69 @@ chapters:
   - start: '00:56:42'
     title: 'Musik: "First Moments" von melodysheep'
     href:  'https://melodysheep.bandcamp.com/track/first-moments'
+---
+uuid:     5a49ac4c-4131-11ea-ab84-ef3e5472da1b
+title:    Nerdtalk vom 13.01.2020
+subtitle: Der Chaostreff im Freien Radio Potsdam
+summary:  >
+  Mit neuen Stimmen ins neue Jahr. Frrapomoderatorin Gri Su lässt sich
+  von Virginia und cyroxx erklären was der Chaos Communication Congress ist,
+  was der Chaostreff in der ChaosZone getrieben hat und warum wir alle
+  verdächtig sind. Eine schöne Erinnerung an Hackerweihnachten.
+publicationDate: "2020-01-27T20:30:00+01:00"
+audio:
+  - url:      $media_base_url/2020_01_13-nerdtalk.mp3
+    mimeType: audio/mp3
+chapters:
+  - start: '00:00:00'
+    title: 'Intro & Vorstellung'
+  - start: '00:02:52'
+    title: 'Musik: "36c3 Opener: Resource Exhaustion"'
+    href:  'https://media.ccc.de/v/36c3-11223-opening_ceremony'
+  - start: '00:05:44'
+    title: '18.000 Menschen feiern Hackerweihnachten'
+  - start: '00:09:38'
+    title: 'Musik: "Verdächtig" von Systemabsturz'
+    href:  'https://www.youtube.com/watch?v=C55AnGYnoEA'
+  - start: '00:13:07'
+    title: 'Alle verdächtig?'
+  - start: '00:19:34'
+    title: 'Chaostreff Potsdam'
+  - start: '00:24:46'
+    title: 'ChaosZone'
+  - start: '00:26:21'
+    title: 'Reizüberflutung'
+  - start: '00:34:24'
+    title: 'Schreibmaschinenprojekt'
+  - start: '00:38:07'
+    title: 'Musik: "GIGABYTE" von Kurt Razelli'
+    href:  'https://www.youtube.com/watch?v=Myfg-s4tVa0'
+  - start: '00:41:33'
+    title: 'Wer darf zum Congress?'
+  - start: '00:46:02'
+    title: 'Orga und Engelsystem'
+  - start: '00:52:00'
+    title: 'Wer kommt zum Congress?'
+  - start: '00:54:13'
+    title: 'Wie und wann zum Chaostreff Potsdam?'
+  - start: '00:57:15'
+    title: 'Musik: "Wake Up" von Crazy Games'
+    href:  'http://freemusicarchive.org/music/Crazy_Games/Micro_Invasion_-_East_Jakarta_Chiptunes_Compilation/02_Micro_Invasion_-_Crazy_Games_-_Wake_Up'
+long_summary: >
+  <p><strong>Shownotes:</strong></p>
+  <p>
+  <ul>
+    <li><a href="https://events.ccc.de/congress/2019/wiki/index.php/Main_Page">Offizielles Wiki zum 36c3</a></li>
+    <li><a href="https://chaoszone.cz/">ChaosZone</a></li>
+    <li>netzpolitik.org: <a href="https://netzpolitik.org/2019/ueberwachung-am-suedkreuz-soll-jetzt-situationen-und-verhalten-scannen/">Überwachung am Südkreuz soll jetzt Situationen und Verhalten scannen</a></li>
+    <li><a href="https://media.ccc.de/v/36c3-10828-polizei-datenbanken_und_minderheiten_staatliche_stigmatisierung_und_diskriminierung_von_sinti_und_roma">Polizei-Datenbanken und Minderheiten: Staatliche Stigmatisierung und Diskriminierung von Sinti und Roma</li>
+    <li><a href="https://www.ifun.de/sonos-trade-up-wer-rabatt-will-muss-lautsprecher-stilllegen-145282/">Sonos "Trade-up": Wer Rabatt will muss Lautsprecher stilllegen</a></li>
+    <li><a href="https://www.youtube.com/watch?v=_H-Keya6xB8">DevOps Disasters 2.0" by Stefan - Vortrag auf der ChaosZone-Bühne beim 36c3</a></li>
+    <li>Schreibmaschienenprojekt: <a href="https://forum.wilap.de/t/erika-3004-electronic-adapter/121">Forum</a>, <a href="https://github.com/Chaostreff-Potsdam/erika3004">Quelltext</a></li>
+    <li><a href="https://logbuch-netzpolitik.de/">Logbuch Netzpolitik</a></li>
+    <li>&#x1f3b6;&nbsp;<a href="https://media.ccc.de/v/36c3-11223-opening_ceremony">36c3 Opener: Resource Exhaustion</a></li>
+    <li>&#x1f3b6;&nbsp;<a href="https://www.youtube.com/watch?v=C55AnGYnoEA">Systemabsturz - Verdächtig</a></li>
+    <li>&#x1f3b6;&nbsp;<a href="https://www.youtube.com/watch?v=Myfg-s4tVa0">Kurt Razelli - GIGABYTE</a></li>
+    <li>&#x1f3b6;&nbsp;<a href="http://freemusicarchive.org/music/Crazy_Games/Micro_Invasion_-_East_Jakarta_Chiptunes_Compilation/02_Micro_Invasion_-_Crazy_Games_-_Wake_Up">Crazy Games - Wake Up</a></li>
+  </ul>
+  </p>
