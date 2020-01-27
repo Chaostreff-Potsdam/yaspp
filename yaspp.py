@@ -91,6 +91,7 @@ def generate_feed(content, audio_idx=0):
 			language=config.language,
 			copyright=config.copyright,
 			authors=[podgen.Person(config.author_name)],
+			category=podgen.Category(config.category),
 			explicit=False
 		)
 	p.episodes = [podgen.Episode(

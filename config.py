@@ -9,6 +9,8 @@ media_base_url = website + '/files'
 cover_image = website + '/cover.jpg'
 small_cover_image = website + '/cover_250.jpg'
 
+category = 'Technology'
+
 feed_url = website + '/feed.xml'
 
 language = 'de-DE'
