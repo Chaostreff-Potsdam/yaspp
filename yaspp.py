@@ -62,6 +62,7 @@ def generate_html_entry(entryid, entry):
 			(entrydivid, json.dumps(clean_entry))
 
 	return templates.entry.substitute(
+			uuid=entry["uuid"],
 			entrydivid=entrydivid,
 			title=entry["title"],
 			summary=entry["summary"]

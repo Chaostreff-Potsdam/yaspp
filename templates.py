@@ -38,7 +38,7 @@ $content
 
 
 entry = string.Template(r"""
-<h2 id="toc_2">$title</h2>
+<a href="#$uuid" style="text-decoration: none;"><h2 id="$uuid">$title</h2></a>
 
 <p>$summary</p>
 
