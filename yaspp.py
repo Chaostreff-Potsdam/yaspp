@@ -55,6 +55,7 @@ def generate_html_entry(entryid, entry):
 	clean_entry = entry.copy()
 	try:
 		clean_entry.pop("uuid")
+		clean_entry.pop("long_summary")
 	except KeyError:
 		pass
 
@@ -65,7 +66,8 @@ def generate_html_entry(entryid, entry):
 			uuid=entry["uuid"],
 			entrydivid=entrydivid,
 			title=entry["title"],
-			summary=entry["summary"]
+			summary=entry["summary"],
+			long_summary=entry.get("long_summary", ""),
 		) + podlove_player
 
 

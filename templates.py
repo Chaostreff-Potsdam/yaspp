@@ -42,7 +42,8 @@ entry = string.Template(r"""
 
 <p>$summary</p>
 
-<p><div id="$entrydivid" /></p>
+<p><div id="$entrydivid" /></div></p>
+$long_summary
 """)
 
 subscribe_button = string.Template(r"""
