@@ -212,3 +212,108 @@ long_summary: >
     <li>&#x1f3b6;&nbsp;<a href="http://freemusicarchive.org/music/Crazy_Games/Micro_Invasion_-_East_Jakarta_Chiptunes_Compilation/02_Micro_Invasion_-_Crazy_Games_-_Wake_Up">Crazy Games - Wake Up</a></li>
   </ul>
   </p>
+---
+uuid:     c897640c-4dd2-11ea-b8ee-378d09553106
+title:    Nerdtalk vom 10.02.2020
+subtitle: Der Chaostreff im Freien Radio Potsdam
+summary:  >
+  Es geht ein Cyber um in Potsdam.
+  Virginia und cyroxx verfolgen einen Plan: 1. Sendungsfrequenz erhöhen. 2. Lokalbezug schaffen.
+  3. Hannes mit ins Boot holen. Gemeinsam sprechen sie über das kaputte Citrix im Potsdamer Rathaus,
+  viel Cyber und werfen einen Blick nach Griebnitzsee auf die CleanIT-Initiative des HPIs.
+publicationDate: "2020-02-13T01:00:00+01:00"
+audio:
+  - url:      $media_base_url/2020_02_10-nerdtalk.mp3
+    mimeType: audio/mp3
+chapters:
+  - start: '00:00:00'
+    title: 'Musik: "Skate" von Komiku'
+    href: 'https://freemusicarchive.org/music/Komiku/Captain_Glouglous_Incredible_Week_Soundtrack/Skate'
+  - start: '00:00:46'
+    title: 'Begrüßung'
+  - start: '00:01:35'
+    title: '#Shitrix in Potsdam: Was ist passiert?'
+  - start: '00:13:34'
+    title: 'Musik: "Against the Wall" von BoxCat Games'
+    href: 'https://freemusicarchive.org/music/BoxCat_Games/Nameless_the_Hackers_RPG_Soundtrack/BoxCat_Games_-_Nameless-_the_Hackers_RPG_Soundtrack_-_27_Against_the_Wall'
+  - start: '00:16:58'
+    title: 'Wie funktionieren Cyberattacken?'
+  - start: '00:35:29'
+    title: 'Musik: "The Cypher" von Audiobinger'
+    href: 'https://freemusicarchive.org/music/Audiobinger/~/The_Cypher_1534'
+  - start: '00:39:05'
+    title: 'Die CleanIT-Initiative des HPI'
+  - start: '00:52:06'
+    title: 'Kurzmeldungen'
+  - start: '00:56:24'
+    title: 'Verabschiedung'
+  - start: '00:57:37'
+    title: 'Musik: "The Garden State" von Audiobinger'
+    href: 'https://freemusicarchive.org/music/Audiobinger/~/The_Garden_State'
+---
+uuid:     f23034dc-626e-11ea-b5ee-a38a48fc1656
+title:    Nerdtalk vom 09.03.2020
+subtitle: Der Chaostreff im Freien Radio Potsdam
+summary:  >
+  Es ist eng zu fünft im Studio. Virginia, cyroxx, Hannes, knurps und Sven
+  haben dennoch Spaß und berichten von fragwürdigen Onlineabstimmungen in
+  Stahnsdorf, App-Ratings gegen Quarantänehausaufgaben und welche Schritte
+  zur selbstgeätzten Leiterplatte führen.
+publicationDate: "2020-03-09T03:30:00+01:00"
+audio:
+  - url:      $media_base_url/2020_03_09-nerdtalk.mp3
+    mimeType: audio/mp3
+chapters:
+  - start: '00:00:00'
+    title: 'Musik: "33c3 Closing Intro: Theme+Beethoven5+Telekom" von Arne Bense'
+    href: 'https://soundcloud.com/alsternerd/33c3-theme-beethoven5-telekom>'
+  - start: '00:01:41'
+    title: 'Begrüßung & Vorstellung'
+  - start: '00:03:02'
+    title: 'Errata & Update zum Citrix-Bug in Potsdam'
+  - start: '00:07:17'
+    title: 'Musik: "Staatstrojaner" von Systemabsturz'
+    href: 'https://www.youtube.com/watch?v=v2eq1KHNgq0&t=1003'
+  - start: '00:11:56'
+    title: 'Onlineabstimmungen in Stahnsdorf'
+  - start: '00:32:43'
+    title: 'Softwarezertifikate bedeuten keine Sicherheit'
+  - start: '00:34:52'
+    title: 'Musik: "CORONAVIRUS APP" von Kurz Razelli'
+    href: 'https://www.youtube.com/watch?v=GVi9hnENOA0>'
+  - start: '00:37:45'
+    title: 'Schlechte App-Ratings gegen Hausaufgaben'
+  - start: '00:41:15'
+    title: 'Schlechte Entlohnung gegen Behörden-IT'
+  - start: '00:47:07'
+    title: 'Schlechte Sicherung gegen Wegfahren'
+  - start: '00:49:01'
+    title: 'Platinenätzen selbst gemacht'
+  - start: '00:57:33'
+    title: 'Musik: "My Pixels are Weapons" von !Cube'
+    href: 'https://soundcloud.com/cube-5/my-pixels-are-weapons'
+long_summary: >
+  <p><strong>Shownotes:</strong></p>
+  <p>
+  <ul>
+    <li>Pressemitteilung Potsdam: <a href="https://www.potsdam.de/148-bargeldloses-zahlen-wieder-moeglich-maerker-wieder-online" target="_blank" rel="noopener">Wiederinbetriebnahme bürgernaher Dienste</a></li>
+    <li>MAZ: <a href="https://www.maz-online.de/Lokales/Potsdam/Citrix-Blackout-im-Potsdamer-Rathaus-Nichtssagende-Antworten" target="_blank" rel="noopener">Citrix-Anfragen in der SVV</a> (PayWall)</li>
+    <li>Hintergrund zum <a href="https://knowyourmeme.com/memes/hitlers-downfall-parodies" target="_blank" rel="noopener">Stahnsdorf-Meme</a></li>
+    <li>PNN: <a href="https://www.pnn.de/potsdam-mittelmark/stahnsdorf-waehlt-online-umfrage-zur-waldschaenke-hat-begonnen/25483234.html" target="_blank" rel="noopener">Onlinebefragung in Stahnsdorf</a></li>
+    <li>PNN: <a href="https://www.pnn.de/potsdam-mittelmark/zukunft-der-waldschaenke-kritik-an-stahnsdorfs-online-befragung/25606692.html" target="_blank" rel="noopener">Kritik an Onlinebefragung</a></li>
+    <li>Marie Schäffer: <a href="https://marie-schaeffer.de/2020/02/polyas-stahnsdorf-buergerbeteiligung/" target="_blank" rel="noopener">Echte Bürgerbeteiligung statt nicht überprüfbaren Online-Abstimmungen</a></li>
+    <li>Sven Köhler: <a href="https://twitter.com/tzwenn/status/1234053927689228288" target="_blank" rel="noopener">POLYAS Zertifizierung</a></li>
+    <li>Bernd Albers postet auf Twitter seine <a href="https://twitter.com/BerndAlbers1/status/1235211354493067265" target="_blank" rel="noopener">Bundes-CCC-Mail von 2018</a></li>
+    <li>Maurice, Clémentine, et al., <a href="https://gruss.cc/files/hello.pdf" target="_blank" rel="noopener">Hello from the Other Side: SSH over Robust Cache Covert Channels in the Cloud</a>, NDSS. Vol. 17. 2017</li>
+    <li><a href="https://imagefactory.otc.t-systems.com/home/root-cause-analysis-and-improvements-on-otc-outage-2019-03-30" target="_blank" rel="noopener">Open Telekom Ausfall 2019</a></li>
+    <li>London Review of Books: <a href="https://www.lrb.co.uk/the-paper/v42/n05/wang-xiuying/the-word-from-wuhan" target="_blank" rel="noopener">Keine Hausaufgaben dank App-Rating</a></li>
+    <li><a href="https://service.bund.de/IMPORTE/Stellenangebote/editor/Kammergericht-Berlin/2020/02/3300352.html" target="_blank" rel="noopener">Stellenanzeigen Kammergericht Berlin</a></li>
+    <li>Golem: <a href="https://www.golem.de/news/sicherheitsluecke-rfid-wegfahrsperre-von-toyota-und-hyundai-gehackt-2003-147108.html" target="_blank" rel="noopener">Kaputte Wegfahrsperre</a></li>
+    <li>Wikipedia (de): <a href="https://de.wikipedia.org/wiki/Leiterplatte" target="_blank" rel="noopener">Leiterplatte</a></li>
+    <li>Wikipedia (en): <a href="https://en.wikipedia.org/wiki/Printed_circuit_board#Manufacturing" target="_blank" rel="noopener">PCB Manufacturing</a></li>
+    <li>&#x1f3b6;&nbsp;<a href="https://soundcloud.com/alsternerd/33c3-theme-beethoven5-telekom" target="_blank" rel="noopener">Arne Bense - 33c3 Closing Intro Theme+Beethoven5+Telekom</a></li>
+    <li>&#x1f3b6;&nbsp;<a href="https://www.youtube.com/watch?v=v2eq1KHNgq0&amp;t=1003" target="_blank" rel="noopener">Systemabsturz - Staatstrojaner</a></li>
+    <li>&#x1f3b6;&nbsp;<a href="https://www.youtube.com/watch?v=GVi9hnENOA0" target="_blank" rel="noopener">Kurz Razelli - CORONAVIRUS APP</a></li>
+    <li>&#x1f3b6;&nbsp;<a href="https://soundcloud.com/cube-5/my-pixels-are-weapons" target="_blank" rel="noopener">!Cube - My Pixels are Weapons</a></li>
+  </ul>
+  </p>
