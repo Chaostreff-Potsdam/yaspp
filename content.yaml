@@ -372,3 +372,125 @@ long_summary: >
     <li>&#x1f3b6;&nbsp;<a href="https://freemusicarchive.org/music/Audiobinger/~/The_Garden_State">Audiobinger - The Garden State</a></li>
   </ul>
   </p>
+---
+uuid:     TODO
+title:    Nerdtalk vom 11.05.2020
+subtitle: Der Chaostreff im Freien Radio Potsdam
+summary:  >
+  Nachdem es beim letzten Mal so gut geklappt hat,
+  wird eine weitere Sendung räumlich verteilt aufgenommen.
+  gini, knurps, ajuvo und cyroxx berichten von ihren Erlebnissen
+  im Home Office und den Einsatz verschiedener,
+  teils freier Videokonferenzlösungen.
+  Außerdem beleuchten wir, was einen guten Mentor ausmacht und
+  wie Digitalisierung die Bildung verändert.
+publicationDate: "2020-05-12T01:30:00+01:00"
+audio:
+  - url:      $media_base_url/2020_05_11-nerdtalk.mp3
+    mimeType: audio/mp3
+chapters:
+  - start: '00:00:00'
+    title: 'Musik: "Skate" von Komiku'
+    href: 'https://freemusicarchive.org/music/Komiku/Captain_Glouglous_Incredible_Week_Soundtrack/Skate'
+  - start: '00:00:47'
+    title: 'Intro'
+  - start: '00:01:24'
+    title: 'Videokonferenzen & Best of Home Office'
+  - start: '00:18:13'
+    title: 'Hygieneregeln für Videokonferenzen'
+  - start: '00:25:31'
+    title: 'Musik: "Delusion" von Roman Meleshin'
+    href: 'https://meleshin.bandcamp.com/track/delusion-electronic-creative-commons-by-license'
+  - start: '00:29:32'
+    title: 'Wie wird man ein guter Mentor?'
+  - start: '00:39:36'
+    title: 'Digitale Bildung'
+  - start: '00:53:49'
+    title: 'Starlink'
+  - start: '00:55:42'
+    title: 'Musik: "Man on the Moon" von melodysheep'
+    href: 'https://melodysheep.bandcamp.com/track/man-on-the-moon-the-sounds-of-apollo-remixed'
+long_summary: >
+  <p><strong>Shownotes:</strong></p>
+  <p>
+  Zoom-Bombing
+  https://en.wikipedia.org/wiki/Zoombombing
+  https://www.heise.de/newsticker/meldung/Gegen-Zoombombing-Meeting-Tool-Zoom-aktiviert-Passwoerter-und-Warteraeume-4697256.html
+
+  Freie Software (FLOSS/FOSS)
+  https://de.wikipedia.org/wiki/Free/Libre_Open_Source_Software
+
+  BigBlueButton https://bigbluebutton.org/
+  Jitsi https://jitsi.org/
+  Mumble https://www.mumble.info/
+
+  DLF: Open-Source-Angebote für Videokonferenzen
+  https://www.deutschlandfunk.de/jitsi-und-big-blue-button-open-source-angebote-fuer.684.de.html?dram:article_id=476375
+
+  Chaos macht Schule
+  https://www.ccc.de/schule
+
+  IBM-Großrechner auf einem Raspberry Pi Zero emuliert:
+  https://twitter.com/BrianRoemmele/status/1257832168455208963
+
+  Radio Eriwan
+  https://de.wikipedia.org/wiki/Radio_Eriwan
+
+  Polizei Mittelfranken mit Meme-Potenzial:
+  "Rechtlich dürfen Sie es, ob dies auch richtig ist müssen Sie selbst entscheiden."
+  https://twitter.com/polizeimfr/status/1247509491282841600
+
+  Fear of missing out (FOMO)
+  https://de.wikipedia.org/wiki/Fear_of_missing_out
+
+  United We Stream: Berliner Clubs im Livestream
+  https://unitedwestream.berlin/
+
+  Tamagotchi
+  https://de.wikipedia.org/wiki/Tamagotchi
+
+  Aibo
+  https://de.wikipedia.org/wiki/Aibo
+
+  Matrix: Rote oder blaue Pille?
+  https://www.youtube.com/watch?v=TAI4rZweU6s
+
+  re:publica
+  https://re-publica.com
+  https://www.youtube.com/republica
+
+  jugend hackt
+  https://jugendhackt.org/
+
+  jugend hackt: Rolle der Mentor/innen während der Veranstaltung
+  https://handbuch.jugendhackt.de/#chapter-3.9.12
+
+  Netiquette
+  https://de.wikipedia.org/wiki/Netiquette
+
+  Don't-Rush-Challenge und anderer Zeitvertreib:
+  https://www.br.de/radio/bayern2/sendungen/zuendfunk/corona-beschaeftigung-ideen-100.html
+
+  Umgedrehter Unterricht (Flipped Classroom, Inverted Classroom)
+  https://de.wikipedia.org/wiki/Umgedrehter_Unterricht
+
+  Lernplattform/Learning Management System (LMS)
+  https://de.wikipedia.org/wiki/Lernplattform
+
+  Moodle
+  https://moodle.org/
+
+  Countdown-Podcast
+  https://countdown.podigee.io/
+  https://twitter.com/countdown_pod
+
+  SpaceX-Satelliten gucken
+  https://findstarlink.com/
+  Für Berlin und Umgebung:
+  https://findstarlink.com/#539;3
+  <ul>
+    <li>&#x1f3b6;&nbsp;<a href="https://freemusicarchive.org/music/Komiku/Captain_Glouglous_Incredible_Week_Soundtrack/Skate">Komiku - Skate</a>(00:48, CC0)</li>
+    <li>&#x1f3b6;&nbsp;<a href="https://meleshin.bandcamp.com/track/delusion-electronic-creative-commons-by-license">Roman Meleshin - Delusion</a> (4:04, CC-BY 3.0)</li>
+    <li>&#x1f3b6;&nbsp;<a href="https://melodysheep.bandcamp.com/track/man-on-the-moon-the-sounds-of-apollo-remixed">melodysheep - Man On The Moon</a> (3:38, CC-BY 3.0)</li>
+  </ul>
+  </p>
