@@ -317,3 +317,58 @@ long_summary: >
     <li>&#x1f3b6;&nbsp;<a href="https://soundcloud.com/cube-5/my-pixels-are-weapons" target="_blank" rel="noopener">!Cube - My Pixels are Weapons</a></li>
   </ul>
   </p>
+---
+uuid:     TODO
+title:    Nerdtalk vom 13.04.2020
+subtitle: Der Chaostreff im Freien Radio Potsdam
+summary:  >
+  Alles ist diesmal anders aufgrund eines nicht-digitalen Virus.
+  Statt im Studio gehen ajuvo, gini, knurps und cyroxx
+  diesmal dezentral auf Sendung - das Internet machts möglich.
+  Wir gehen nochmal auf den Prozess der Leiterplatten-Herstellung
+  ein und sprechen darüber, ob und wie Nerds die Welt
+  retten und was Schaltpläne damit zu tun haben.
+publicationDate: "2020-05-11T23:30:00+01:00"
+audio:
+  - url:      $media_base_url/2020_04_13-nerdtalk.mp3
+    mimeType: audio/mp3
+chapters:
+  - start: '00:00:00'
+    title: 'Leben in Zeiten von Corona'
+  - start: '00:06:40'
+    title: 'Verteiltes Online-Chaos'
+  - start: '00:13:05'
+    title: 'Leiterplatten ätzen und löten'
+  - start: '00:28:24'
+    title: 'Schaltpläne und geplante Obsoleszenz'
+  - start: '00:30:05'
+    title: 'Neues vom Schreibmaschinen-Projekt'
+  - start: '00:34:54'
+    title: '"Man-müsste-mal"-Listen'
+  - start: '00:37:15'
+    title: 'Gesellschaftliche Dimensionen von Corona'
+  - start: '00:39:46'
+    title: 'Makerspaces packen`s an: 12.000 Gesichtsvisiere für Brandenburg, Berlin und Mecklenburg-Vorpommern'
+  - start: '00:47:52'
+    title: 'Nerds retten die Welt'
+  - start: '00:56:07'
+    title: 'Musik: "Verdächtig" von Systemabsturz'
+    href:  'https://www.youtube.com/watch?v=C55AnGYnoEA'
+  - start: '00:59:37'
+    title: 'Musik: "The Garden State" von Audiobinger'
+    href: 'https://freemusicarchive.org/music/Audiobinger/~/The_Garden_State'
+long_summary: >
+  <p><strong>Shownotes:</strong></p>
+  <p>
+  <ul>
+    <li><a href="https://di.c3voc.de/" target="_blank" rel="noopener">DIVOC - Digital verteiltes Online-Chaos</a></li>
+    <li><a href="https://www.melitta-group.com/de/Melitta-stellt-ab-sofort-Millionen-Atemmasken-her-3659,263.html" target="_blank" rel="noopener">Melitta stellt ab sofort Millionen Atemmasken her</a></li>
+    <li><a href="https://radio.ccc-p.org/files/PCB-Fertigung.pdf" target="_blank" rel="noopener">Schematischer Ablauf Leiterplatten-Herstellung (PDF)</a></li>
+    <li><a href="https://machbar-potsdam.de/pressemitteilung-12-000-gesichtsvisiere-fur-brandenburg-berlin-und-mecklenburg-vorpommern/" target="_blank" rel="noopener">machbar Potsdam: 12.000 Gesichtsvisiere für Brandenburg, Berlin und Mecklenburg-Vorpommern</a></li>
+    <li>Bericht aus dem Havellab zur Produktion der Gesichtsvisiere: siehe <a href="https://www.rbb-online.de/rbbspezial/videos/region-im-krisenmodus-25-Tag.html" target="_blank" rel="noopener">rbb Corona-Spezial vom 10.04.2020</a> ab Minute 10:19</li>
+    <li><a href="https://www.kiwi-verlag.de/buch/sibylle-berg-nerds-retten-die-welt-9783462054606" target="_blank" rel="noopener">Sibylle Berg: Nerds retten die Welt</a></li>
+    <li><a href="https://wirvsvirushackathon.org/" target="_blank" rel="noopener">WirVsVirus-Hackathon</a></li>
+    <li>&#x1f3b6;&nbsp;<a href="https://www.youtube.com/watch?v=C55AnGYnoEA">Systemabsturz - Verdächtig</a></li>
+    <li>&#x1f3b6;&nbsp;<a href="https://freemusicarchive.org/music/Audiobinger/~/The_Garden_State">Audiobinger - The Garden State</a></li>
+  </ul>
+  </p>
