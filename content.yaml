@@ -317,3 +317,131 @@ long_summary: >
     <li>&#x1f3b6;&nbsp;<a href="https://soundcloud.com/cube-5/my-pixels-are-weapons" target="_blank" rel="noopener">!Cube - My Pixels are Weapons</a></li>
   </ul>
   </p>
+---
+uuid:     3f1f4fc4-9548-11ea-97d7-ef4d3200d719
+title:    Nerdtalk vom 13.04.2020
+subtitle: Der Chaostreff im Freien Radio Potsdam
+summary:  >
+  Alles ist diesmal anders aufgrund eines nicht-digitalen Virus.
+  Statt im Studio gehen ajuvo, gini, knurps und cyroxx
+  diesmal dezentral auf Sendung - das Internet machts möglich.
+  Wir gehen nochmal auf den Prozess der Leiterplatten-Herstellung
+  ein und sprechen darüber, ob und wie Nerds die Welt
+  retten und was Schaltpläne damit zu tun haben.
+publicationDate: "2020-05-13T21:00:00+02:00"
+audio:
+  - url:      $media_base_url/2020_04_13-nerdtalk.mp3
+    mimeType: audio/mp3
+chapters:
+  - start: '00:00:00'
+    title: 'Leben in Zeiten von Corona'
+  - start: '00:06:40'
+    title: 'Verteiltes Online-Chaos'
+  - start: '00:13:05'
+    title: 'Leiterplatten ätzen und löten'
+  - start: '00:28:24'
+    title: 'Schaltpläne und geplante Obsoleszenz'
+  - start: '00:30:05'
+    title: 'Neues vom Schreibmaschinen-Projekt'
+  - start: '00:34:54'
+    title: '"Man-müsste-mal"-Listen'
+  - start: '00:37:15'
+    title: 'Gesellschaftliche Dimensionen von Corona'
+  - start: '00:39:46'
+    title: 'Makerspaces packen`s an: 12.000 Gesichtsvisiere für Brandenburg, Berlin und Mecklenburg-Vorpommern'
+  - start: '00:47:52'
+    title: 'Nerds retten die Welt'
+  - start: '00:56:07'
+    title: 'Musik: "Verdächtig" von Systemabsturz'
+    href:  'https://www.youtube.com/watch?v=C55AnGYnoEA'
+  - start: '00:59:37'
+    title: 'Musik: "The Garden State" von Audiobinger'
+    href: 'https://freemusicarchive.org/music/Audiobinger/~/The_Garden_State'
+long_summary: >
+  <p><strong>Shownotes:</strong></p>
+  <p>
+  <ul>
+    <li><a href="https://di.c3voc.de/" target="_blank" rel="noopener">DIVOC - Digital verteiltes Online-Chaos</a></li>
+    <li><a href="https://www.melitta-group.com/de/Melitta-stellt-ab-sofort-Millionen-Atemmasken-her-3659,263.html" target="_blank" rel="noopener">Melitta stellt ab sofort Millionen Atemmasken her</a></li>
+    <li><a href="https://radio.ccc-p.org/files/PCB-Fertigung.pdf" target="_blank" rel="noopener">Schematischer Ablauf Leiterplatten-Herstellung (PDF)</a></li>
+    <li><a href="https://machbar-potsdam.de/pressemitteilung-12-000-gesichtsvisiere-fur-brandenburg-berlin-und-mecklenburg-vorpommern/" target="_blank" rel="noopener">machbar Potsdam: 12.000 Gesichtsvisiere für Brandenburg, Berlin und Mecklenburg-Vorpommern</a></li>
+    <li>Bericht aus dem Havellab zur Produktion der Gesichtsvisiere: siehe <a href="https://www.rbb-online.de/rbbspezial/videos/region-im-krisenmodus-25-Tag.html" target="_blank" rel="noopener">rbb Corona-Spezial vom 10.04.2020</a> ab Minute 10:19</li>
+    <li><a href="https://www.kiwi-verlag.de/buch/sibylle-berg-nerds-retten-die-welt-9783462054606" target="_blank" rel="noopener">Sibylle Berg: Nerds retten die Welt</a></li>
+    <li><a href="https://wirvsvirushackathon.org/" target="_blank" rel="noopener">WirVsVirus-Hackathon</a></li>
+    <li>&#x1f3b6;&nbsp;<a href="https://www.youtube.com/watch?v=C55AnGYnoEA">Systemabsturz - Verdächtig</a></li>
+    <li>&#x1f3b6;&nbsp;<a href="https://freemusicarchive.org/music/Audiobinger/~/The_Garden_State">Audiobinger - The Garden State</a></li>
+  </ul>
+  </p>
+---
+uuid:     4863009e-9548-11ea-a6a7-9fd1118acd7b
+title:    Nerdtalk vom 11.05.2020
+subtitle: Der Chaostreff im Freien Radio Potsdam
+summary:  >
+  Nachdem es beim letzten Mal so gut geklappt hat,
+  wird eine weitere Sendung räumlich verteilt aufgenommen.
+  gini, knurps, ajuvo und cyroxx berichten von ihren Erlebnissen
+  im Home Office und den Einsatz verschiedener,
+  teils freier Videokonferenzlösungen.
+  Außerdem beleuchten wir, was einen guten Mentor ausmacht und
+  wie Digitalisierung die Bildung verändert.
+publicationDate: "2020-05-13T21:00:00+02:00"
+audio:
+  - url:      $media_base_url/2020_05_11-nerdtalk.mp3
+    mimeType: audio/mp3
+chapters:
+  - start: '00:00:00'
+    title: 'Musik: "Skate" von Komiku'
+    href: 'https://freemusicarchive.org/music/Komiku/Captain_Glouglous_Incredible_Week_Soundtrack/Skate'
+  - start: '00:00:47'
+    title: 'Intro'
+  - start: '00:01:24'
+    title: 'Videokonferenzen & Best of Home Office'
+  - start: '00:18:13'
+    title: 'Hygieneregeln für Videokonferenzen'
+  - start: '00:25:31'
+    title: 'Musik: "Delusion" von Roman Meleshin'
+    href: 'https://meleshin.bandcamp.com/track/delusion-electronic-creative-commons-by-license'
+  - start: '00:29:32'
+    title: 'Wie wird man ein guter Mentor?'
+  - start: '00:39:36'
+    title: 'Digitale Bildung'
+  - start: '00:53:49'
+    title: 'Starlink'
+  - start: '00:55:42'
+    title: 'Musik: "Man on the Moon" von melodysheep'
+    href: 'https://melodysheep.bandcamp.com/track/man-on-the-moon-the-sounds-of-apollo-remixed'
+long_summary: >
+  <p><strong>Shownotes:</strong></p>
+  <p>
+  <ul>
+    <li>Wikipedia (en): <a href="https://en.wikipedia.org/wiki/Zoombombing">Zoombombing</a></li>
+    <li>Heise: <a href="https://www.heise.de/newsticker/meldung/Gegen-Zoombombing-Meeting-Tool-Zoom-aktiviert-Passwoerter-und-Warteraeume-4697256.html">Zoom gegen Zoombombin</a></li>
+    <li>Wikipedia (de): <a href="https://de.wikipedia.org/wiki/Free/Libre_Open_Source_Software">Freie Software (FLOSS/FOSS)</a></li>
+    <li><a href="https://bigbluebutton.org/">BigBlueButton</a></li>
+    <li><a href="https://jitsi.org/">Jitsi</a></li>
+    <li><a href="https://www.mumble.info/">Mumble</a></li>
+    <li>DLF: <a href="https://www.deutschlandfunk.de/jitsi-und-big-blue-button-open-source-angebote-fuer.684.de.html?dram:article_id=476375">Open-Source-Angebote für Videokonferenzen</a></li>
+    <li><a href="https://www.ccc.de/schule">Chaos macht Schule</a></li>
+    <li><a href="https://twitter.com/BrianRoemmele/status/1257832168455208963">IBM-Großrechner auf einem Raspberry Pi Zero emuliert</a></li>
+    <li><a href="https://de.wikipedia.org/wiki/Radio_Eriwan">Radio Eriwan</a></li>
+    <li>Polizei Mittelfranken mit Meme-Potenzial: <a href="https://twitter.com/polizeimfr/status/1247509491282841600">"Rechtlich dürfen Sie es, ob dies auch richtig ist müssen Sie selbst entscheiden."</a></li>
+    <li>Wikipedia (de): <a href="https://de.wikipedia.org/wiki/Fear_of_missing_out">Fear of missing out (FOMO)</a></li>
+    <li><a href="https://unitedwestream.berlin/">United We Stream: Berliner Clubs im Livestream</a></li>
+    <li>Wikipedia (de): <a href="https://de.wikipedia.org/wiki/Tamagotchi">Tamagotchi</a></li>
+    <li>Wikipedia (de): <a href="https://de.wikipedia.org/wiki/Aibo">Aibo</a></li>
+    <li><a href="https://www.youtube.com/watch?v=TAI4rZweU6s">Matrix: Rote oder blaue Pille?</a></li>
+    <li><a href="https://re-publica.com">re:publica</a> (<a href="https://www.youtube.com/republica">Youtube-Recordings</a>)</li>
+    <li><a href="https://jugendhackt.org/">jugend hackt</a></li>
+    <li><jugend hackt: a href="https://handbuch.jugendhackt.de/#chapter-3.9.12">Rolle der Mentor/innen während der Veranstaltung</a></li>
+    <li>Wikipedia (de): <a href="https://de.wikipedia.org/wiki/Netiquette">Netiquette</a></li>
+    <li>BR: <a href="https://www.br.de/radio/bayern2/sendungen/zuendfunk/corona-beschaeftigung-ideen-100.html">Don't-Rush-Challenge und anderer Zeitvertreib</a></li>
+    <li>Wikipedia (de): <a href="https://de.wikipedia.org/wiki/Umgedrehter_Unterricht">Umgedrehter Unterricht (Flipped Classroom, Inverted Classroom)</a></li>
+    <li>Wikipedia (de): <a href="https://de.wikipedia.org/wiki/Lernplattform">Lernplattform/Learning Management System (LMS)</a></li>
+    <li><a href="https://moodle.org/">Moodle</a></li>
+    <li><a href="https://countdown.podigee.io/">Countdown-Podcast</a>  <a href="https://twitter.com/countdown_pod">(Twitter)</a></li>
+    <li><a href="https://findstarlink.com/">SpaceX-Satelliten gucken</a> <a href="https://findstarlink.com/#539;3">(für Berlin und Umgebung)</a></li>
+    <li>&#x1f3b6;&nbsp;<a href="https://freemusicarchive.org/music/Komiku/Captain_Glouglous_Incredible_Week_Soundtrack/Skate">Komiku - Skate</a> (00:48, CC0)</li>
+    <li>&#x1f3b6;&nbsp;<a href="https://meleshin.bandcamp.com/track/delusion-electronic-creative-commons-by-license">Roman Meleshin - Delusion</a> (04:04, CC-BY 3.0)</li>
+    <li>&#x1f3b6;&nbsp;<a href="https://melodysheep.bandcamp.com/track/man-on-the-moon-the-sounds-of-apollo-remixed">melodysheep - Man On The Moon</a> (03:38, CC-BY 3.0)</li>
+  </ul>
+  </p>
