@@ -113,6 +113,9 @@ li p.first {
   display: inline-block; }
 li {
   margin: 0; }
+li * {
+  margin: 0;
+}
 ul, ol {
   padding-left: 30px; }
 
