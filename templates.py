@@ -1,9 +1,9 @@
 import string
 
 index_html = string.Template(r"""<!DOCTYPE html>
-<html>
+<html lang="de">
 
-<head lang="de">
+<head>
 
 <title>$podcast_title</title>
 
@@ -42,7 +42,7 @@ entry = string.Template(r"""
 
 <p>$summary</p>
 
-<p><div id="$entrydivid" /></div></p>
+<div id="$entrydivid"></div>
 $long_summary
 """)
 
