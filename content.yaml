@@ -588,4 +588,78 @@ long_summary: >
       <li><p>&#x1f3b6;&nbsp;<a href="https://soundcloud.com/cube-5/my-pixels-are-weapons">My Pixels are Weapons</a> von !Cube, a.k.a Toni Lönnberg (3:36, CC BY-NC 3.0)</p></li>
       <li><p>&#x1f3b6;&nbsp;<a href="https://soundcloud.com/cube-5/glittering-waves">Glittering Waves</a> von !Cube, a.k.a Toni Lönnberg (2:44, CC BY-NC 3.0)</p></li>
   </ul>
-
+---
+uuid:     9dcb8d83-b02f-4b91-92ef-59c674287d20
+title:    Nerdtalk vom 13.07.2020
+subtitle: Der Chaostreff im Freien Radio Potsdam
+summary:  >
+  Knurps, Gini und cyroxx berichten von ein paar Neuerungen im Potsdamer Chaos. Außerdem sprechen wir unter anderem
+  über die Corona-Warn-App, das Funkzellenabfragen-Transparenz-System des Landes Berlin und das Entpixeln von Bildern.
+publicationDate: "2020-07-22T22:00:00+02:00"
+audio:
+  - url:      $media_base_url/2020_07_13-nerdtalk.mp3
+    mimeType: audio/mp3
+chapters:
+  - start: '00:00:00.000'
+    title: 'Intro'
+  - start: '00:00:49.000'
+    title: 'Musik: Professor Kliq - Bust This Bust That'
+    href: 'https://freemusicarchive.org/music/Professor_Kliq/Bust_This_Bust_That/Bust_This_Bust_That'
+  - start: '00:05:03.000'
+    title: 'Aktuelles vom Chaostreff'
+  - start: '00:09:44.000'
+    title: 'Corona-Warn-App'
+  - start: '00:27:39.700'
+    title: 'Musik: Organism - Space Funk'
+    href: 'https://freemusicarchive.org/music/Organism/S27-X_II/Organism_-S27-X_II-_19_Space_Funk'
+  - start: '00:33:23.000'
+    title: 'Kurzmeldungen'
+  - start: '00:56:53.000'
+    title: 'Erdbeerschnitzel - Walkampfchampagne'
+    href: 'https://freemusicarchive.org/music/Erdbeerschnitzel/Pathetik_Party/02-Walkampfchampagne'
+long_summary: >
+  <p><strong>Shownotes:</strong></p>
+  <ul>
+      <li>
+          <p><a href="mailto:radio@ccc-p.org">radio@ccc-p.org</a></p>
+      </li>
+      <li><a href="https://forum.wilap.de/t/spaceschalter/654">Spaceschalter</a></li>
+      <li>
+          <p>Corona-Warn-App</p>
+          <ul>
+              <li><a href="https://www.bundesregierung.de/breg-de/themen/corona-warn-app">Offizielle Infos zur App</a></li>
+              <li><a href="http://hybr.de/2020/06/16/hyperbandrauschen-juni-2020-coronawarnapp-ein-making-of/">hyperbandrauschen juni 2020: CoronaWarnApp – ein Making-Of</a></li>
+              <li>Unsere kleine Welt: <a href="https://ukw.fm/ukw030-die-corona-warn-app/">UKW030: Die Corona-Warn-App</a></li>
+              <li>Logbuch Netzpolitik: <a href="https://logbuch-netzpolitik.de/lnp350-der-gaesteblock-muss-in-quarantaene">LNP350 Der Gästeblock muss in Quarantäne</a></li>
+              <li><a href="https://lagedernation.org/2020/06/20/ldn195-corona-warn-app-corona-update-amthor-auf-abwegen-trojanereinsatz-durch-geheimdienste/">Lage der Nation (LdN) Folge 195</a></li>
+              <li><a href="https://www.golem.de/news/gegen-die-corona-app-die-peinliche-spaeher-app-der-afd-2007-149540.html">Die peinliche "Späher-App" der AfD</a></li>
+          </ul>
+      </li>
+      <li>
+          <p>Reproducible Builds</p>
+          <ul>
+              <li><a href="https://reproducible-builds.org/">reproducible-builds.org</a></li>
+              <li><a href="https://media.ccc.de/v/31c3_-_6240_-_en_-_saal_g_-_201412271400_-_reproducible_builds_-_mike_perry_-_seth_schoen_-_hans_steiner">Reproducible Builds - Moving Beyond Single Points of Failure for Software Distribution</a>, Vortrag beim 31C3</li>
+              <li><a href="https://media.ccc.de/v/ASG2017-117-reproducible_builds_-_where_do_we_want_to_go_tomorrow#t=111">Reproducible Builds - where do we want to go tomorrow?</a>, Vortrag von der Konferenz "All Systems Go! 2017"</li>
+              <li>Logbuch Netzpolitik: <a href="https://logbuch-netzpolitik.de/lnp350-der-gaesteblock-muss-in-quarantaene">LNP350 Der Gästeblock muss in Quarantäne</a></li>
+              <li><a href="https://lagedernation.org/2020/06/20/ldn195-corona-warn-app-corona-update-amthor-auf-abwegen-trojanereinsatz-durch-geheimdienste/">Lage der Nation (LdN) Folge 195</a></li>
+          </ul>
+      </li>
+      <li>
+          <p>Kurzmeldungen</p>
+          <ul>
+            <li>Der VDI (Verband Deutscher Ingenieure) möchte den Arbeitskreis Informationstechnik wiederbeleben und sucht noch Arbeitskreis-Leiter und / oder Stellvertreter. Melden unbedingt bis morgen vormittag!</li>
+            <li>Das <a href="https://fts.berlin.de/">Berliner Funkzellenabfragen-Transparenz-System (FTS)</a> versendet hoffentlich bald Benachrichtigungen: <a href="https://twitter.com/Funkzellen/status/1276414099660963840">https://twitter.com/Funkzellen/status/1276414099660963840</a></li>
+            <li><a href="https://balkaninsight.com/2020/06/30/moldova-shuts-down-bootleg-helicopter-factory/">Moldavische Hubschrauberfälscher</a></li>
+            <li>Wikipedia: <a href="https://de.wikipedia.org/wiki/CE-Kennzeichnung">CE-Kennzeichnung</a>, inklusive Abschnitt „China_Export“</li>
+            <li><a href="https://twitter.com/tg_bomze/status/1274098682284163072">Entpixeln von Bildern</a>, die die Gefahr der De-Anonymisierung bietet</li>
+            <li>aber die Entpixelung ist nicht frei von Fehler: <a href="https://twitter.com/apenwarr/status/1274473358483165189">Aus Obama wird nicht Obama</a>.</li>
+            <li>Vollständig computer-generierte Gesichter: <a href="https://thispersondoesnotexist.com/">ThisPersonDoesNotExist.com</a></li>
+            <li><a href="https://www.openstreetmap.org/">OpenStreetMap</a> - freier Kartendienst als Alternative zu Google Maps</li>
+            <li><a href="https://wiki.openstreetmap.org/wiki/DE:StreetComplete">StreetComplete</a> - App zum spielerischen Verbessern der OpenStreetMap</li>
+          </ul>
+      <li><p>&#x1f3b6;&nbsp;<a href="https://freemusicarchive.org/music/Professor_Kliq/Bust_This_Bust_That/Bust_This_Bust_That">Professor Kliq - Bust This Bust That</a> (4:28, CC BY-NC-SA 3.0 US</p></li>
+      <li><p>&#x1f3b6;&nbsp;<a href="https://freemusicarchive.org/music/Organism/S27-X_II/Organism_-S27-X_II-_19_Space_Funk">Organism - Space Funk</a> (5:48, CC BY-NC-ND 3.0)</p></li>
+      <li><p>&#x1f3b6;&nbsp;<a href="https://soundcloud.com/systemabsturz/und-alle-so-yeah">Systemabsturz - und alle so yeah</a>  (3:28)</p></li>
+      <li><p>&#x1f3b6;&nbsp;<a href="https://freemusicarchive.org/music/Erdbeerschnitzel/Pathetik_Party/02-Walkampfchampagne">Erdbeerschnitzel - Walkampfchampagne</a> (6:46, CC BY-NC-ND)</p></li>
+  </ul>
