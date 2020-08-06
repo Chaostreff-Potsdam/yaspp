@@ -15,11 +15,17 @@ INPUT = """00:00:00.000 Intro
 00:55:06.622 Abschluss mit Hotfix
 00:56:34.209 Musik: !Cube - Glittering Waves"""
 
-lines = INPUT.splitlines()
 
-for line in lines:
-    chapter_start, chapter_title = line.split(' ', 1)
+def generate_yaml(content):
+    lines = content.splitlines()
+    for line in lines:
+        chapter_start, chapter_title = line.split(' ', 1)
 
-    template = f"""  - start: '{chapter_start}'\n{' '*4}title: '{chapter_title}'"""
+        template = f"""  - start: '{chapter_start}'\n{' ' * 4}title: '{chapter_title}'"""
 
-    print(template)
+        print(template)
+
+
+if __name__ == '__main__':
+    generate_yaml(INPUT)
+
