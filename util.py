@@ -53,6 +53,9 @@ def generate_chapter_file():
     for chapter in content['chapters']:
         template = f"{chapter['start']} {chapter['title']}"
 
+        if chapter.get('href'):
+            template += f" <{chapter['href']}>"
+
         print(template)
 
     #read_content_yaml()
