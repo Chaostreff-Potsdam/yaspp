@@ -15,4 +15,4 @@ feed_url = website + '/feed.xml'
 
 language = 'de-DE'
 author_name = 'ChaosTreff Potsdam'
-copyright = '2019 ' + author_name
+copyright = '2020 ' + author_name
