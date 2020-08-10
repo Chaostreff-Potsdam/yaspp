@@ -1,19 +1,16 @@
 # Small utility to convert the chapter marks into YAML markup
 
+import re
+
 # TODO: use a chapter file instead
-INPUT = """00:00:00.000 Intro
-00:00:54.114 Citrix-Update
-00:07:08.971 Bundestagshack:Haftbefehl gegen russischen Hacker
-00:09:04.332 Gesetze für mehr angebliche Sicherheit
-00:22:06.578 Musik: Virgill - Computers are gay
-00:25:32.756 Gesichtsvisiere im Museum
-00:27:53.515 Patentendatenschutzgesetz
-00:34:23.902 IT-Sicherheit per Gesetz
-00:40:01.013 Corona-Warn-App
-00:43:55.898 Musik: !Cube - My Pixels are Weapons
-00:47:29.475 Jugendmedienschutzstaatsvertrag
-00:55:06.622 Abschluss mit Hotfix
-00:56:34.209 Musik: !Cube - Glittering Waves"""
+INPUT = """00:00:00 Intro mit Hitze, Schulanfang und SUP
+00:05:24 Musik: Black Bones - Captain Blood (CC-BY-NC-SA 3.0 US) <https://freemusicarchive.org/music/Black_Bones/Pirates_of_the_Coast/08_-_Black_Bones_-_Captain_Blood>
+00:09:32 Update CE-Zeichen
+00:15:14 Update SpaceSchalter
+00:21:19 Was tun, bevor bzw. nachdem das eigene Smartphone geklaut wird?
+00:43:13 Open Health HACKademy
+00:53:53 Outro
+00:54:58 Musik: Roman Meleshin - Delusion (CC-BY 3.0) <https://meleshin.bandcamp.com/track/delusion-electronic-creative-commons-by-license>"""
 
 YAML_INPUT = """
 chapters:
@@ -41,9 +38,16 @@ def generate_yaml(content):
     for line in lines:
         chapter_start, chapter_title = line.split(' ', 1)
 
-        template = f"""  - start: '{chapter_start}'\n{' ' * 4}title: '{chapter_title}'"""
+        # Extract hyperlink if present
+        href = ''
+        if matches := re.search(r' <([^ ]+)>$', chapter_title):
+            href = f"\n{' ' * 4}href:  '{ matches.group(1) }'"
+            chapter_title = chapter_title[:matches.start()]
+
+        template = f"""  - start: '{chapter_start}'\n{' ' * 4}title: '{chapter_title}'{href}"""
 
         print(template)
+
 
 def generate_chapter_file():
     import yaml
@@ -61,6 +65,6 @@ def generate_chapter_file():
     #read_content_yaml()
 
 if __name__ == '__main__':
-    #generate_yaml(INPUT)
-    generate_chapter_file()
+    generate_yaml(INPUT)
+    #generate_chapter_file()
 
