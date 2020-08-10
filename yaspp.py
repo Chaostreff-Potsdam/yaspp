@@ -50,24 +50,29 @@ def generate_subscribe_button(content):
 		)
 
 
-def generate_html_entry(entryid, entry):
+def generate_html_entry(entryid: int, entry: dict):
 	entrydivid = "yassp_entry_%d" % entryid
 	clean_entry = entry.copy()
-	try:
-		clean_entry.pop("uuid")
-		clean_entry.pop("long_summary")
-	except KeyError:
-		pass
+
+	clean_entry.pop("uuid", None)
+	clean_entry.pop("long_summary", None)
+	clean_entry.pop("long_summary_md", None)
 
 	podlove_player = "<script>podlovePlayer('#%s', %s);</script>" % \
 			(entrydivid, json.dumps(clean_entry))
+
+	if long_summary_md := entry.get("long_summary_md"):
+		import markdown
+		long_summary = markdown.markdown(long_summary_md)
+	else:
+		long_summary = entry.get("long_summary", "")
 
 	return templates.entry.substitute(
 			uuid=entry["uuid"],
 			entrydivid=entrydivid,
 			title=entry["title"],
 			summary=entry["summary"],
-			long_summary=entry.get("long_summary", ""),
+			long_summary=long_summary,
 		) + podlove_player
 
 
@@ -85,7 +90,17 @@ def generate_html(content, rev=True):
 
 #-------------------------------------------------------------------------------
 
+
 def generate_feed(content, audio_idx=0):
+	def create_long_summary(entry):
+		if long_summary_md := entry.get("long_summary_md"):
+			import markdown
+			long_summary = markdown.markdown(long_summary_md)
+		else:
+			long_summary = entry.get("long_summary", "")
+
+		return entry.get("summary"), long_summary
+
 	p = podgen.Podcast(
 			name=config.podcast_title,
 			description=config.hello_text,
@@ -97,11 +112,12 @@ def generate_feed(content, audio_idx=0):
 			category=podgen.Category(config.category),
 			explicit=False
 		)
+
 	p.episodes = [podgen.Episode(
 			id=entry["uuid"],
 			title=entry["title"],
 			summary=entry["summary"],
-			long_summary=("<p>%s</p>\n%s" % (entry["summary"], entry["long_summary"])) if "long_summary" in entry else None,
+			long_summary=("<p>%s</p>\n%s" % create_long_summary(entry)),
 			publication_date=entry["publicationDate"],
 			media=podgen.Media.create_from_server_response(entry["audio"][audio_idx]["url"]),
 		) for entry in content]
