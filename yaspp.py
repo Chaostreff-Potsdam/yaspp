@@ -72,7 +72,7 @@ def generate_html_entry(entryid, entry):
 
 
 def generate_html(content, rev=True):
-	op = reversed if True else lambda x: x
+	op = reversed if rev else lambda x: x
 	content_list = "\n".join(generate_html_entry(i, e)
 								for i, e in enumerate(op(content)))
 
