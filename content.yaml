@@ -663,3 +663,67 @@ long_summary: >
       <li><p>&#x1f3b6;&nbsp;<a href="https://soundcloud.com/systemabsturz/und-alle-so-yeah">Systemabsturz - und alle so yeah</a>  (3:28)</p></li>
       <li><p>&#x1f3b6;&nbsp;<a href="https://freemusicarchive.org/music/Erdbeerschnitzel/Pathetik_Party/02-Walkampfchampagne">Erdbeerschnitzel - Walkampfchampagne</a> (6:46, CC BY-NC-ND)</p></li>
   </ul>
+---
+uuid:     29bec992-190a-4117-9fe3-6929eeaf6ce1
+title:    Nerdtalk vom 10.08.2020
+subtitle: Der Chaostreff im Freien Radio Potsdam
+summary:  >
+  Eine neue Ladung Nerdtalk! Wir sprechen unter anderem darüber, woran man denken sollte, bevor bzw. nachdem das
+  eigene Smartphone geklaut wird.
+  Außerdem berichtet Knurps von der Open Health HACKademy von MatchMyMaker.
+publicationDate: "2020-08-11T12:00:00+02:00"
+audio:
+  - url:      $media_base_url/2020_08_10-nerdtalk.mp3
+    mimeType: audio/mp3
+chapters:
+  - start: '00:00:00'
+    title: 'Intro mit Hitze, Schulanfang und SUP'
+  - start: '00:05:24'
+    title: 'Musik: Black Bones - Captain Blood (CC-BY-NC-SA 3.0 US)'
+    href:  'https://freemusicarchive.org/music/Black_Bones/Pirates_of_the_Coast/08_-_Black_Bones_-_Captain_Blood'
+  - start: '00:09:32'
+    title: 'Update CE-Zeichen'
+  - start: '00:15:14'
+    title: 'Update SpaceSchalter'
+  - start: '00:21:19'
+    title: 'Was tun, bevor bzw. nachdem das eigene Smartphone geklaut wird?'
+  - start: '00:43:13'
+    title: 'Open Health HACKademy'
+  - start: '00:53:53'
+    title: 'Outro'
+  - start: '00:54:58'
+    title: 'Musik: Roman Meleshin - Delusion (CC-BY 3.0)'
+    href:  'https://meleshin.bandcamp.com/track/delusion-electronic-creative-commons-by-license'
+long_summary_md: |
+  **Shownotes:**
+
+  * CE-Zeichen
+      * [Parlamentarische Anfrage von Zuzana Roithová (PPE-DE) an die EU-Kommission](https://www.europarl.europa.eu/sides/getDoc.do?pubRef=-//EP//TEXT+WQ+P-2007-5938+0+DOC+XML+V0//DE&language=DE)
+      * [Antwort von Günter Verheugen](https://www.europarl.europa.eu/sides/getAllAnswers.do?reference=P-2007-5938&language=DE)
+      * [t-online: Was bedeutet das CE-Symbol auf Produkten?](https://www.t-online.de/heim-garten/haushaltstipps/id_84639572/ce-symbol-auf-produkten-das-bedeutet-die-ce-kennzeichnung.html)
+  * MyHackerspace-App (Android)
+      * <https://f-droid.org/en/packages/ch.fixme.status/>
+      * <https://play.google.com/store/apps/details?id=ch.fixme.status&hl=de>
+  * Hackerspaces (iOS)
+  * <http://ist-heute-chaostreff.online/>
+  * SpaceAPI des CCCP: <https://spaceapi.ccc-p.org>
+  * Was ist die SpaceAPI? <https://spaceapi.io/>
+  * SpaceSchalter: <https://forum.wilap.de/t/spaceschalter/654/2>
+  * Sammlung von Infos über und für Hackerspaces: <https://hackerspaces.org/> und das dazugehörige [Wiki](https://wiki.hackerspaces.org/)
+  * [Zwei-Faktor-Authentifizierung](https://de.wikipedia.org/wiki/Zwei-Faktor-Authentisierung) (2FA)
+  * Biometrische Hacks
+      * [Quo vadis Gesichtserkennung](https://media.ccc.de/v/DiVOC-11-quo-vadis-gesichtserkennung)
+      * [35C3: Venenerkennung hacken](https://media.ccc.de/v/35c3-9545-venenerkennung_hacken)
+      * [Privacy Week 2017: Sichere Authentifizierung wie man Biometrie und Passworte richtig verwendet](https://media.ccc.de/v/pw17-97-sichere_authentifizierung)
+      * [31C3: Ich sehe, also bin ich ... Du](https://media.ccc.de/v/31c3_-_6450_-_de_-_saal_1_-_201412272030_-_ich_sehe_also_bin_ich_du_-_starbug)
+  * Alternative zur Google Cloud: [NextCloud](https://nextcloud.com/)
+  * [Nerdtalk vom 12.08.2019 zum Thema Backups](https://radio.ccc-p.org/#e4923e4a-bd52-11e9-957f-cf3fd6f6045a)
+  * [IMEI](https://de.wikipedia.org/wiki/International_Mobile_Equipment_Identity)
+  * Zahlungsdiensterichtlinie [PSD2](https://de.wikipedia.org/wiki/Zahlungsdiensterichtlinie#%C3%9Cberarbeitete_Zahlungsdiensterichtlinie_(PSD2))
+  * Vim oder Emacs? - der [Editor War](https://de.wikipedia.org/wiki/Editor_War)
+  * Nachhaltig produziertes Smartphone: [Fairphone](https://www.fairphone.com/de/)
+  * [Seltene Erden](https://de.wikipedia.org/wiki/Metalle_der_Seltenen_Erden)
+  * [Smartphone-Reparierbarkeits-Index](https://de.ifixit.com/smartphone-repairability)
+  * [Open Health HACKademy #3](https://matchmymaker.de/open-health-hackademy-3/)
+  * &#x1f3b6;&nbsp;[Black Bones - Captain Blood](https://freemusicarchive.org/music/Black_Bones/Pirates_of_the_Coast/08_-_Black_Bones_-_Captain_Blood) (4:14,  CC-BY-NC-SA 3.0 US)
+  * &#x1f3b6;&nbsp;[Roman Meleshin - Delusion](https://meleshin.bandcamp.com/track/delusion-electronic-creative-commons-by-license) (4:04, CC-BY 3.0)
