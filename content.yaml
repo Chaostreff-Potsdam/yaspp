@@ -736,7 +736,7 @@ summary:  >
   Neben den üblichen Verdächtigen ist auch Hannes mal wieder dabei. Gemeinsam reden die fatastischen Vier über Homeschooling,
   Audio-Equipment, geklaute Laptops, persönliche Digitalisierung und Kundenportale. Außerdem geht's um das übliche Datenschutz-Chaos
   und Rumgenerde über Verschlüsselung, Faxe und Registrierkassen kommt auch nicht zu kurz.
-publicationDate: "2020-11-20T12:00:00+02:00"
+publicationDate: "2020-11-19T22:30:00+01:00"
 audio:
   - url:      $media_base_url/2020_09_14-nerdtalk.mp3
     mimeType: audio/mp3
@@ -778,11 +778,12 @@ chapters:
     href:  'https://stimmgewalt-berlin.de/'
 long_summary_md: |
   **Shownotes:**
+ 
   * [Wikipedia: YubiKey](https://de.wikipedia.org/wiki/YubiKey)
   * [tagesschau.de: Digitalisierung an Schulen - An Geld fehlt es nicht](https://www.tagesschau.de/inland/digitalisierung-schule-105.html)
   * [Wikipedia: Texterkennung](https://de.wikipedia.org/wiki/Texterkennung), englisch: Optical Character Recognition (OCR)
-  * ePA
-  * DeMail
+  * [Wikipedia: ePA](https://de.wikipedia.org/wiki/Personalausweis_(Deutschland)#nPA)
+  * [Wikipedia: De-Mail](https://de.wikipedia.org/wiki/De-Mail)
   * [Wikipedia: OAuth](https://de.wikipedia.org/wiki/OAuth)
   * [Wikipedia: OpenAPI](https://de.wikipedia.org/wiki/OpenAPI)
   * [Wikipedia: Pretty Good Privacy (PGP)](https://de.wikipedia.org/wiki/Pretty_Good_Privacy)
@@ -794,8 +795,7 @@ long_summary_md: |
   * Gesichtserkennung an chinesischen Flughäfen
       * [Facial Recognition Is Everywhere at China’s New Mega Airport](https://www.bloomberg.com/news/articles/2019-12-11/face-recognition-tech-is-everywhere-at-china-s-new-mega-airport) (11.09.2019)
       * [Facial recognition kiosk gives flight updates at Chinese airport](https://www.businesstraveller.com/business-travel/2019/03/27/facial-recognition-kiosk-gives-flight-updates-at-chinese-airport/)
-  * Technische Sicherheitseinrichtung (TSE) für Kassensysteme
-      * https://www.bsi.bund.de/DE/Themen/DigitaleGesellschaft/Grundaufzeichnungen/FAQ/faq_node.html
+  * Technische Sicherheitseinrichtung (TSE) für Kassensysteme ([FAQ des BSI](https://www.bsi.bund.de/DE/Themen/DigitaleGesellschaft/Grundaufzeichnungen/FAQ/faq_node.html))
   * &#x1f3b6;&nbsp;[Software Defined Music - Dreaming Orchestral](https://soundcloud.com/software-defined-music/dreaming-orchestral) (1:14)
   * &#x1f3b6;&nbsp;[My Pixels are Weapons](https://soundcloud.com/cube-5/my-pixels-are-weapons) von !Cube, a.k.a Toni Lönnberg (3:36, CC BY-NC 3.0)
   * &#x1f3b6;&nbsp;[Stimmgewalt - Hautlos](https://www.youtube.com/watch?v=CCY-LoBBpB0) (3:39); [Website der Band](https://stimmgewalt-berlin.de/)
