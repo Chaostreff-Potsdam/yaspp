@@ -734,30 +734,45 @@ title:    Nerdtalk vom 14.09.2020
 subtitle: Der Chaostreff im Freien Radio Potsdam
 summary:  >
   Neben den üblichen Verdächtigen ist auch Hannes mal wieder dabei. Gemeinsam reden die fatastischen Vier über Homeschooling,
-  Audio-Equipment, geklaute Laptops und Kundenportale. Außerdem gibt's das übliche Chaos und Rumgenerde über Verschlüsselung, Faxe
-  und Registrierkassen.
+  Audio-Equipment, geklaute Laptops, persönliche Digitalisierung und Kundenportale. Außerdem gibt's das übliche Chaos und 
+  Rumgenerde über Verschlüsselung, Faxe und Registrierkassen.
 publicationDate: "2020-11-20T12:00:00+02:00"
 audio:
   - url:      $media_base_url/2020_09_14-nerdtalk.mp3
     mimeType: audio/mp3
 chapters:
-0.000000	0.000000	Intro
-39.864000	39.864000	Hannes ist zurück
-103.801000	103.801000	Audio-Equipment
-325.947000	325.947000	Notebook-Klau
-682.499000	682.499000	Dreaming - Orchestral
-782.956000	782.956000	Papierlose Workflows
-1229.624000	1229.624000	Online-Kundenportale
-1611.062000	1611.062000	EMail und andere Briefe
-1785.245000	1785.245000	Videoident
-1904.850000	1904.850000	E-Post
-1981.116000	1981.116000	Coronatest-Faxe
-2081.989000	2081.989000	Musik - My Pixels
-2311.393000	2311.393000	Datenschmutz
-2864.433000	2864.433000	DiVOC - PTT
-3481.757000	3481.757000	Registrierkassen - TSE
-3633.783000	3633.783000	Outro
-3718.395000	3718.395000	Musik - Stimmgewalt
+  - start: '00:00:00'
+    title: 'Intro - Hannes ist zurück'
+  - start: '00:01:23'
+    title: 'Audio-Equipment'
+  - start: '00:04:35'
+    title: 'Notebook-Klau'
+  - start: '00:09:40'
+    title: 'Software Defined Music - Dreaming Orchestral'
+    href:  'https://soundcloud.com/software-defined-music/dreaming-orchestral'
+  - start: '00:11:00'
+    title: 'Papierlose Workflows'
+  - start: '00:17:55'
+    title: 'Online-Kundenportale'
+  - start: '00:23:15'
+    title: 'EMail und andere Briefe'
+  - start: '00:25:40'
+    title: 'E-Post und Videoident'
+  - start: '00:29:30'
+    title: 'Coronatest-Faxe'
+  - start: '00:30:55'
+    title: '!Cube, a.k.a Toni Lönnberg My Pixels are Weapons (CC BY-NC 3.0)'    
+    href:  'https://soundcloud.com/cube-5/my-pixels-are-weapons'
+  - start: '00:00:00'
+    title: 'Datenschmutz'
+  - start: '00:00:00'
+    title: 'DiVOC - PTT'
+  - start: '00:00:00'
+    title: 'Registrierkassen - TSE'
+  - start: '00:00:00'
+    title: 'Outro'
+  - start: '00:00:00'
+    title: 'Musik - Stimmgewalt'
 long_summary_md: |
   **Shownotes:**
   * [Wikipedia: YubiKey](https://de.wikipedia.org/wiki/YubiKey)
