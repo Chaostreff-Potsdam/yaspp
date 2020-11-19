@@ -761,22 +761,25 @@ chapters:
   - start: '00:29:30'
     title: 'Coronatest-Faxe'
   - start: '00:30:55'
-    title: '!Cube, a.k.a Toni Lönnberg My Pixels are Weapons (CC BY-NC 3.0)'    
+    title: '!Cube, a.k.a Toni Lönnberg My Pixels are Weapons (CC BY-NC 3.0)'
     href:  'https://soundcloud.com/cube-5/my-pixels-are-weapons'
-  - start: '00:00:00'
-    title: 'Datenschmutz'
-  - start: '00:00:00'
-    title: 'DiVOC - PTT'
-  - start: '00:00:00'
+  - start: '00:34:50'
+    title: 'Datenschmutz, Sammelei und Unsinn und Corona-Listen'
+  - start: '00:45:40'
+    title: 'China und die Gesichtserkennung'    
+  - start: '00:47:11'
+    title: 'Corona-Listen und Contact Tracing'
+  - start: '00:52:20'
     title: 'Registrierkassen - TSE'
-  - start: '00:00:00'
+  - start: '00:54:48'
     title: 'Outro'
-  - start: '00:00:00'
-    title: 'Musik - Stimmgewalt'
+  - start: '00:56:03'
+    title: 'Stimmgewalt - Hautlos'
+    href:  'https://stimmgewalt-berlin.de/'
 long_summary_md: |
   **Shownotes:**
   * [Wikipedia: YubiKey](https://de.wikipedia.org/wiki/YubiKey)
-  * [tagesschau.de: Digitalisierung an Schulen - An Geld fehlt es nicht ](https://www.tagesschau.de/inland/digitalisierung-schule-105.html)
+  * [tagesschau.de: Digitalisierung an Schulen - An Geld fehlt es nicht](https://www.tagesschau.de/inland/digitalisierung-schule-105.html)
   * [Wikipedia: Texterkennung](https://de.wikipedia.org/wiki/Texterkennung), englisch: Optical Character Recognition (OCR)
   * ePA
   * DeMail
