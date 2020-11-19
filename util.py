@@ -64,7 +64,20 @@ def generate_chapter_file():
 
     #read_content_yaml()
 
+
+def convert_to_audacity_chapters(chapter_file='chapters.txt'):
+    from datetime import datetime
+    with open(chapter_file) as f:
+        for line in f.readlines():
+            chapter_start, chapter_title = line.split(' ', 1)
+
+            t = datetime.strptime(chapter_start, '%H:%M:%S.%f')
+            td = t - datetime(1900, 1, 1)
+
+            print("{0:0.6f}\t{0:0.6f}\t{1:s}".format(td.total_seconds(), chapter_title), end='')
+
 if __name__ == '__main__':
-    generate_yaml(INPUT)
+    #generate_yaml(INPUT)
     #generate_chapter_file()
+    convert_to_audacity_chapters()
 
