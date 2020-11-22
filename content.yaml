@@ -799,3 +799,84 @@ long_summary_md: |
   * &#x1f3b6;&nbsp;[Software Defined Music - Dreaming Orchestral](https://soundcloud.com/software-defined-music/dreaming-orchestral) (1:14)
   * &#x1f3b6;&nbsp;[My Pixels are Weapons](https://soundcloud.com/cube-5/my-pixels-are-weapons) von !Cube, a.k.a Toni Lönnberg (3:36, CC BY-NC 3.0)
   * &#x1f3b6;&nbsp;[Stimmgewalt - Hautlos](https://www.youtube.com/watch?v=CCY-LoBBpB0) (3:39); [Website der Band](https://stimmgewalt-berlin.de/)
+  
+
+---
+uuid:     nt-2020-11-09
+title:    Nerdtalk vom 11.09.2020
+subtitle: Der Chaostreff im Freien Radio Potsdam
+summary:  >
+  Gemeinsam mit unseren Gästen Mario und Dominik von der uplug sprechen wir darüber, was man in einem Verein für Linux-Nutzer_innen macht. 
+  Außerdem beleuchten wir die Vorteile von Linux und freie Software im Allgemeinen und stellen euch Online-Konferenzlösungen vor.
+publicationDate: "2020-11-19T22:30:00+01:00"
+audio:
+  - url:      $media_base_url/2020_11_09-nerdtalk.mp3
+    mimeType: audio/mp3
+chapters:
+  - start: '00:00:00'
+    title: 'Begrüßung und Vorstellung Mario'
+  - start: '00:01:09'
+    title: 'Cryptoparty'
+  - start: '00:03:19'
+    title: 'Vorstellung Dominik'
+  - start: '00:04:35'
+    title: 'uplug'
+  - start: '00:05:55'
+    title: 'Freie Software und die Corona Warn App'
+  - start: '00:10:28'
+    title: 'uplug als Ansprechpartner für Linux-Newbies'
+  - start: '00:18:40'
+    title: 'Musik: Ego Dome - Lounge Track'
+    href: 'https://egodome.bandcamp.com/track/lounge-track'
+  - start: '00:21:22'
+    title: 'uplug als Hochschulgruppe und e.V.'
+  - start: '00:27:28'
+    title: 'Freie Online Konferenz Tools und Sicherheitslücken'
+  - start: '00:36:26'
+    title: 'Musik: Paper Navy - Swan Song'
+    href: 'https://freemusicarchive.org/music/Paper_Navy/All_Grown_Up/08_Swan_Song'
+  - start: '00:40:07'
+    title: 'Creative Commons'
+  - start: '00:41:12'
+    title: 'Eine neue Kategorie: das Tool der Woche: byobu'
+  - start: '00:51:05'
+    title: 'uplug Termine im November'
+  - start: '00:56:00'
+    title: 'Outro und Teaser auf nächste Sendung'
+  - start: '00:57:05'
+    title: 'Musik: Freak Fandango Orchestra - The Gypsy Song'
+    href: 'https://freakfandango.bandcamp.com/track/the-gypsy-song'
+long_summary_md: |
+  **Shownotes:**
+
+  * "uplug" spricht man deutsch aus, auch wenn Hannes das nicht immer hinbekommt
+  * [Wikipedia: CryptoParty](https://de.wikipedia.org/wiki/CryptoParty)
+  * Eine freie Konfrenzsoftware (zum selber Hosten): [Jitsi](https://jitsi.org/) 
+  * [Krypto-Party bei der Kritischen Einführungswoche](https://kritisch.stud.astaup.de/veranstaltungen/sichere-internetnutzung-allgemeines-linux-ama/)
+  * [Linux Mint](https://linuxmint.com/)
+  * [uplug](http://uplug.de/)
+  * [Wikiepdia: Freie Software](https://de.wikipedia.org/wiki/Freie_Software)
+  * [Corona Warn App](https://www.coronawarn.app/de/)
+  * [Wikipedia: Internet Information Services](https://en.wikipedia.org/wiki/Internet_Information_Services)
+  * Google-freies Android erweitern: [microG Project](https://microg.org/)
+  * [Wikipedia: GCC](https://en.wikipedia.org/wiki/GNU_Compiler_Collection)
+  * [Studentisches Kulturzentrum Potsdam (Kuze)](https://www.kuze-potsdam.de/):  Hermann Elflein Str. 10, 14467 Potsdam
+  * [Freifunk Potsdam](https://blog.freifunk-potsdam.de/) trifft sich auch im Kuze
+  * [Arch Linux](https://www.archlinux.org/), [Puppy Linux](http://puppylinux.com/) für alte Laptops
+  * Ein schlanker Tiling Window Manager für Linux: [i3](https://i3wm.org/)
+  * [Wikipedia: Code Audit (englisch)](https://en.wikipedia.org/wiki/Code_audit)
+  * [Code Dojo Potsdam 2020 auf potsdam.de](https://www.potsdam.de/event/coderdojo-potsdam-programmieren-fuer-kids-von-6-17-jahren-0)
+  * Eine andere freie Konferenzsoftware: [Big Blue Button](https://bigbluebutton.org/)
+  * [Wikipedia: Patch Tuesday](https://en.wikipedia.org/wiki/Patch_Tuesday)
+  * [Black Hat/Cracker](https://de.wikipedia.org/wiki/Cracker_(Computersicherheit))
+  * BBB Bug: "Mute functionality still records and transmits audio to server": [Issues 8951](https://github.com/bigbluebutton/bigbluebutton/issues/8951)
+  * Keine Quelle für Hannes Behauptung, dass MS Teams was ähnliches macht. Hörensagen `¯\_(ツ)_/¯`
+  * [Wikipedia: BOS-Funk](https://de.wikipedia.org/wiki/BOS-Funk)
+  * [Wikipedia: Security Through Obscurity](https://de.wikipedia.org/wiki/Security_through_obscurity)
+  * Knurps erwähnt den Podcast mit Honkhase über alte Software. Folien [hier](https://talks.mrmcd.net/media/ptt/submissions/NKBDXR/resources/Erlebnisse_eines_KRITIS_Pr%C3%BCfers_DiVOC_PTT_HonkHase_2020_0dpBiud.pdf) (Seite 22). Alternativ: [Stiegler Legal Folge 34](https://www.stiegler-legal.com/frontend/default/de/blog/blog-podcast_folge_34)
+  * Software für Aufnahmen mit mehreren Menschen über's Internet: [Studio Link](https://studio-link.de/)
+  * [Creative Commons Lizenzen](https://creativecommons.org/licenses/?lang=de)
+  * [Byobu](https://www.byobu.org/) (Links auf tmux und screen bei Byobu)
+  * [octoprint](https://octoprint.org/), [XScreensaver](https://www.jwz.org/xscreensaver/)
+  * [Veranstaltungen bei der uplug](http://uplug.de/veranstaltungen.html)
+  * [DistroChooser](https://distrochooser.de/) und [DistroWatch](https://distrowatch.com/)
