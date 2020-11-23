@@ -806,7 +806,7 @@ title:    Nerdtalk vom 12.10.2020
 subtitle: Der Chaostreff im Freien Radio Potsdam
 summary:  >
   Gini, Knurps und ihr Gast Moe unterhalten sich über OpenSource, alte und neue Hardware, Lizenzen, die Extinction Rebellion und vergessen fast, Musik zu spielen.
-publicationDate: "2020-11-19T22:30:00+01:00"
+publicationDate: "2020-11-23T23:45:00+01:00"
 audio:
   - url:      $media_base_url/2020_10_12-nerdtalk.mp3
     mimeType: audio/mp3
@@ -854,12 +854,12 @@ long_summary_md: |
 
 ---
 uuid:     nt-2020-11-09
-title:    Nerdtalk vom 11.09.2020
+title:    Nerdtalk vom 09.11.2020
 subtitle: Der Chaostreff im Freien Radio Potsdam
 summary:  >
   Gemeinsam mit unseren Gästen Mario und Dominik von der uplug sprechen wir darüber, was man in einem Verein für Linux-Nutzer_innen macht. 
   Außerdem beleuchten wir die Vorteile von Linux und freier Software im Allgemeinen und stellen euch Online-Konferenzlösungen vor.
-publicationDate: "2020-11-19T22:30:00+01:00"
+publicationDate: "2020-11-23T23:50:00+01:00"
 audio:
   - url:      $media_base_url/2020_11_09-nerdtalk.mp3
     mimeType: audio/mp3
