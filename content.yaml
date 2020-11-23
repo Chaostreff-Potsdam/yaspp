@@ -800,6 +800,57 @@ long_summary_md: |
   * &#x1f3b6;&nbsp;[My Pixels are Weapons](https://soundcloud.com/cube-5/my-pixels-are-weapons) von !Cube, a.k.a Toni Lönnberg (3:36, CC BY-NC 3.0)
   * &#x1f3b6;&nbsp;[Stimmgewalt - Hautlos](https://www.youtube.com/watch?v=CCY-LoBBpB0) (3:39); [Website der Band](https://stimmgewalt-berlin.de/)
   
+---
+uuid:     nt-2020-10-12
+title:    Nerdtalk vom 12.10.2020
+subtitle: Der Chaostreff im Freien Radio Potsdam
+summary:  >
+  Gini, Knurps und ihr Gast Moe unterhalten sich über OpenSource, alte und neue Hardware, Lizenzen, die Extinction Rebellion und vergessen fast, Musik zu spielen.
+publicationDate: "2020-11-19T22:30:00+01:00"
+audio:
+  - url:      $media_base_url/2020_10_12-nerdtalk.mp3
+    mimeType: audio/mp3
+chapters:
+  - start: '00:00:00'
+    title: 'Begrüßung und Chaos'
+  - start: '00:02:24'
+    title: 'Corona, die Kinder und die Warn App'
+  - start: '00:05:30'
+    title: 'Open Source Everything'
+  - start: '00:21:10'
+    title: 'RISC-V'
+  - start: '00:25:02'
+    title: 'Smartphone Foo'
+  - start: '00:27:40'
+    title: 'Musik: Starbox - Digital Dream (Azureflux Remix)'
+    href: 'https://freemusicarchive.org/music/Starbox/Bit_Bops/05_starbox_-_digital_dream__azureflux_remix'
+  - start: '00:30:40'
+    title: 'NC - Lizenzen und mehr Rechtliches'
+  - start: '00:35:40'
+    title: 'Die OpenSource-Definition'
+  - start: '00:39:30'
+    title: 'Extinction Rebellion'
+  - start: '00:45:30'
+    title: 'Soziales Engagement durch die eigene Arbeit'
+  - start: '00:50:03'
+    title: 'Nerdiges Abschweifen'
+  - start: '00:54:14'
+    title: 'Veranstaltungshinweise für das Jahresende'
+  - start: '00:56:11'
+    title: 'Musik: Expendable Friend - Song for Riemann'
+    href: 'https://freemusicarchive.org/music/Expendable_Friend/The_Tidy_Ship/Expendable_Friend_-_The_Tidy_Ship_-_08_Song_for_Riemann'
+long_summary_md: |
+  **Shownotes:**
+ 
+  * Link zur Übersicht der Corona-Symptome fehlt :(
+  * [MongoDB wechselte Lizenz Ende 2018](https://www.mongodb.com/licensing/server-side-public-license/faq), seit 2019 AWS Document DB [(Wikipedia)](https://en.wikipedia.org/wiki/Amazon_DocumentDB)
+  * [Wikipedia: NLNet](https://en.wikipedia.org/wiki/NLnet)
+  * [Wikipedia: RISC-V](https://de.wikipedia.org/wiki/RISC-V)
+  - [Floor Drees: OSS == TBD](https://dev.to/floord/oss-tbd-3b4e)
+  - [My business card runs linux](https://www.thirtythreeforty.net/posts/2019/12/my-business-card-runs-linux/)
+  - [Extinction Rebellion DE](https://extinctionrebellion.de/)
+  * &#x1f3b6;&nbsp;[Digital Dream - Azureflux Remix](https://freemusicarchive.org/music/Starbox/Bit_Bops/05_starbox_-_digital_dream__azureflux_remix) - von Starbox (CC BY-NC-SA 4.0)
+  * &#x1f3b6;&nbsp;[Song for Riemann](https://freemusicarchive.org/music/Expendable_Friend/The_Tidy_Ship/Expendable_Friend_-_The_Tidy_Ship_-_08_Song_for_Riemann) - von Expendable Friend (CC BY-NC-ND 4.0)
 
 ---
 uuid:     nt-2020-11-09
