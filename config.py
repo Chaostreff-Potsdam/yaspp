@@ -3,6 +3,10 @@ hello_text = r'''<p>Der ChaosTreff Potsdam macht mit beim <a href="http://frrapo
 
 <p>Hier könnt ihr Sendungen nachhören.</p>'''
 
+footer_text = r'''
+<a href="https://www.ccc-p.org">Hauptseite</a> · <code>radio (ett) ccc-p [pkt.] org</code> · <a href="https://www.ccc-p.org/Impressum">Impressum</a>
+'''
+
 website = 'https://radio.ccc-p.org'
 media_base_url = website + '/files'
 

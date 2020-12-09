@@ -84,6 +84,7 @@ def generate_html(content, rev=True):
 	return templates.index_html.substitute(
 			podcast_title=config.podcast_title,
 			hello_text=config.hello_text,
+			footer_text=config.footer_text,
 			subscribe_button=generate_subscribe_button(content),
 			content=content_list
 		)

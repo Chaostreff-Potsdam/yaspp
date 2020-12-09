@@ -32,6 +32,16 @@ index_html = string.Template(r"""<!DOCTYPE html>
 
 $content
 
+<h2></h2>
+
+<footer>
+	<center>
+		<small>
+			$footer_text
+		</small>
+	</center>
+</footer>
+
 </body>
 
 </html>""")
