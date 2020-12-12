@@ -934,3 +934,77 @@ long_summary_md: |
   * &#x1f3b6;&nbsp;[Ego Dome - Lounge Track](https://egodome.bandcamp.com/track/lounge-track)
   * &#x1f3b6;&nbsp;[Paper Navy - Swan Song](https://freemusicarchive.org/music/Paper_Navy/All_Grown_Up/08_Swan_Song)
   * &#x1f3b6;&nbsp;[Freak Fandango Orchestra - The Gypsy Song](https://freakfandango.bandcamp.com/track/the-gypsy-song)
+  
+  
+---
+uuid:     nt-2020-12-14-Spezial
+title:    Nerdtalk-Spezial zum Thema Open Knowledge
+subtitle: Der Chaostreff im Freien Radio Potsdam
+summary:  >
+  In unserer ersten Spezialfolge mit Überlänge reden cyroxx und Hannes mit Stefan (stk) und Julia über Open Data, die Open Knowledge Foundation
+  und Hackathons.
+publicationDate: "2020-11-24T23:50:00+01:00"
+audio:
+  - url:      $media_base_url/2020-12-14-nerdtalk-spezial.mp3
+    mimeType: audio/mp3
+chapters:
+  - start: '00:00:00'
+    title: 'Intro'
+  - start: '00:12:18'
+    title: 'OpenData'
+  - start: '00:52:36'
+    title: 'Smart Cities'
+  - start: '01:01:05'
+    title: 'Jugend Hackt Hackathon (Julia)'
+  - start: '01:06:20'
+    title: 'Übergang zu Hackathons allgemein'
+  - start: '01:16:20'
+    title: 'Zwischenzusammenfassung (cyroxx)'
+  - start: '01:19:58'
+    title: 'Weiter Hackathon (stk)'
+  - start: '01:22:57'
+    title: 'Hackathon Leitfaden'
+  - start: '01:30:48'
+    title: 'Wann ist ein Hackathon ein guter Hackathon? (julia)'
+  - start: '01:36:51'
+    title: 'Nachhaltige Hackathons'
+  - start: '01:49:29'
+    title: 'Prototype Fund'
+  - start: '01:52:51'
+    title: 'Öffentliche Hand'
+  - start: '01:58:00'
+    title: 'cyroxx fasst zusammen'
+  - start: '02:06:25'
+    title: 'Teaser Onlinezugangsgesetz'
+  - start: '02:13:58'
+    title: 'Ende'
+long_summary_md: |
+  **Shownotes:**
+
+  * https://okfn.de
+  * https://jugendhackt.org/
+  * Listen der [Chaostreffs](https://www.ccc.de/de/club/chaostreffs) und [Erfas](https://www.ccc.de/de/club/erfas)
+  * Stefan ist mit dem Usenet [Usenet (wikipedia)](https://de.wikipedia.org/wiki/Usenet) groß geworden
+  * https://fragdenstaat.de/  
+  * https://okfn.de/projekte/codeforde/
+  * http://jedeschule.de/
+  * https://opendata.potsdam.de
+  * https://de.wikipedia.org/wiki/Gau%C3%9F-Kr%C3%BCger-Koordinatensystem
+  * https://de.wikipedia.org/wiki/World_Geodetic_System_1984
+  * https://www.bitkom.org/sites/default/files/2020-10/bitkom-charts-smart-city-index-2020-08-10-2020_final_0.pdf
+  * https://modelviewculture.com/pieces/engineering-to-death-in-covid-19
+  * https://www.nodeknockout.com/
+  * https://stefan.bloggt.es/2011/08/mein-erster-hackathon/
+  * https://stefan.bloggt.es/2012/09/wie-schwer-es-fallen-kann-fahrplaene-zu-oeffnen/
+  * https://stefan.bloggt.es/2018/01/paper-der-woche-hackathons/
+  * https://stefan.bloggt.es/2016/12/von-hackathons-und-communityfoerderung/
+  * https://stefan.bloggt.es/2020/03/verantwortung-internalisieren-als-verwaltung-software-verstehen/
+  * https://stefan.bloggt.es/2017/08/wasfehlt-gruendungsberatung-fuer-civic-tech-projekte/
+  * https://stefan.bloggt.es/2015/04/vier-wochenenden-voller-open-data/
+  * https://github.com/okfde/hackathon-leitfaden/
+  * https://prototypefund.de/
+  * https://netzpolitik.org/2020/diversitaet-von-hackathons-wer-ist-das-wir-in-wirvsvirus/
+
+  Build with, not for:
+  * https://medium.com/@elle_mccann/so-you-think-you-want-to-run-a-hackathon-think-again-f96cd7df246a
+  * https://civicpatterns.org/patterns/build-with-not-for/
