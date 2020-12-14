@@ -1,3 +1,4 @@
 pyyaml
 podgen
 markdown
+mp3chaps
