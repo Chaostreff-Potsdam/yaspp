@@ -937,13 +937,13 @@ long_summary_md: |
   
   
 ---
-uuid:     nt-2020-12-14-Spezial
+uuid:     nt-2020-12-14-spezial
 title:    Nerdtalk-Spezial zum Thema Open Knowledge
 subtitle: Der Chaostreff im Freien Radio Potsdam
 summary:  >
   In unserer ersten Spezialfolge mit Überlänge reden cyroxx und Hannes mit Stefan (stk) und Julia über Open Data, die Open Knowledge Foundation
   und Hackathons.
-publicationDate: "2020-11-24T23:50:00+01:00"
+publicationDate: "2020-12-14T17:55:00+01:00"
 audio:
   - url:      $media_base_url/2020-12-14-nerdtalk-spezial.mp3
     mimeType: audio/mp3
@@ -979,32 +979,39 @@ chapters:
   - start: '02:13:58'
     title: 'Ende'
 long_summary_md: |
+  **Gäste:**
+
+  * [Stefan (@_stk)](https://twitter.com/_stk)
+  * [Julia (@joliyea)](https://twitter.com/joliyea)
+
   **Shownotes:**
 
-  * https://okfn.de
-  * https://jugendhackt.org/
+  * [Open Knowledge Foundation Deutschland](https://okfn.de)
+  * [Jugend hackt](https://jugendhackt.org/)
   * Listen der [Chaostreffs](https://www.ccc.de/de/club/chaostreffs) und [Erfas](https://www.ccc.de/de/club/erfas)
   * Stefan ist mit dem Usenet [Usenet (wikipedia)](https://de.wikipedia.org/wiki/Usenet) groß geworden
-  * https://fragdenstaat.de/  
-  * https://okfn.de/projekte/codeforde/
-  * http://jedeschule.de/
-  * https://opendata.potsdam.de
-  * https://de.wikipedia.org/wiki/Gau%C3%9F-Kr%C3%BCger-Koordinatensystem
-  * https://de.wikipedia.org/wiki/World_Geodetic_System_1984
-  * https://www.bitkom.org/sites/default/files/2020-10/bitkom-charts-smart-city-index-2020-08-10-2020_final_0.pdf
-  * https://modelviewculture.com/pieces/engineering-to-death-in-covid-19
-  * https://www.nodeknockout.com/
-  * https://stefan.bloggt.es/2011/08/mein-erster-hackathon/
-  * https://stefan.bloggt.es/2012/09/wie-schwer-es-fallen-kann-fahrplaene-zu-oeffnen/
-  * https://stefan.bloggt.es/2018/01/paper-der-woche-hackathons/
-  * https://stefan.bloggt.es/2016/12/von-hackathons-und-communityfoerderung/
-  * https://stefan.bloggt.es/2020/03/verantwortung-internalisieren-als-verwaltung-software-verstehen/
-  * https://stefan.bloggt.es/2017/08/wasfehlt-gruendungsberatung-fuer-civic-tech-projekte/
-  * https://stefan.bloggt.es/2015/04/vier-wochenenden-voller-open-data/
-  * https://github.com/okfde/hackathon-leitfaden/
-  * https://prototypefund.de/
-  * https://netzpolitik.org/2020/diversitaet-von-hackathons-wer-ist-das-wir-in-wirvsvirus/
+  * [YouTube: Stefan Kaufmann aus Ulm vom Transportkollektiv](https://www.youtube.com/watch?v=YxhRyBWAT1M)
+  * [FragDenStaat – Portal für Informationsfreiheit](https://fragdenstaat.de/)
+  * [Code for Germany](https://okfn.de/projekte/codeforde/)
+  * [JedeSchule.de](http://jedeschule.de/)
+  * [Open Data-Portal der Landeshauptstadt Potsdam](https://opendata.potsdam.de)
+  * [Wikipedia: Gauß-Krüger-Koordinatensystem](https://de.wikipedia.org/wiki/Gau%C3%9F-Kr%C3%BCger-Koordinatensystem)
+  * [Wikipedia: WGS 84](https://de.wikipedia.org/wiki/World_Geodetic_System_1984)
+  * [Bitkom: Smart City Index 2020](https://www.bitkom.org/sites/default/files/2020-10/bitkom-charts-smart-city-index-2020-08-10-2020_final_0.pdf)
+  * [Model View Culture: Engineering To Death in COVID-19 ](https://modelviewculture.com/pieces/engineering-to-death-in-covid-19)
+  * [Node Knockout Competition](https://www.nodeknockout.com/)
+  * [stk: Mein erster Hackathon](https://stefan.bloggt.es/2011/08/mein-erster-hackathon/)
+  * [stk: Wie schwer es fallen kann Fahrpläne zu öffnen](https://stefan.bloggt.es/2012/09/wie-schwer-es-fallen-kann-fahrplaene-zu-oeffnen/)
+  * [stk: Paper der Woche - Hackathons](https://stefan.bloggt.es/2018/01/paper-der-woche-hackathons/)
+  * [stk: Hackathons und Communityförderung](https://stefan.bloggt.es/2016/12/von-hackathons-und-communityfoerderung/)
+  * [stk: Verantworung internalisieren - Als Verwaltung Software verstehen](https://stefan.bloggt.es/2020/03/verantwortung-internalisieren-als-verwaltung-software-verstehen/)
+  * [stk: Was fehlt - Gründungsberatung für Civi-Tech-Projekte](https://stefan.bloggt.es/2017/08/wasfehlt-gruendungsberatung-fuer-civic-tech-projekte/)
+  * [stk: Vier Wochenende voller OpenData](https://stefan.bloggt.es/2015/04/vier-wochenenden-voller-open-data/)
+  * [OKFDE: Hackathon Leitfaden (GitHub)](https://github.com/okfde/hackathon-leitfaden/)
+  * [Prototype Fund](https://prototypefund.de/)
+  * [Netpolitik.org: Wer ist das "Wir" in WirVsVirus?](https://netzpolitik.org/2020/diversitaet-von-hackathons-wer-ist-das-wir-in-wirvsvirus/)
 
   Build with, not for:
-  * https://medium.com/@elle_mccann/so-you-think-you-want-to-run-a-hackathon-think-again-f96cd7df246a
-  * https://civicpatterns.org/patterns/build-with-not-for/
+
+  * [L. McCann: So You Think You Want to Run a Hackathon? Think Again.](https://medium.com/@elle_mccann/so-you-think-you-want-to-run-a-hackathon-think-again-f96cd7df246a)
+  * [CivicPatterns.org: Build with, not for](https://civicpatterns.org/patterns/build-with-not-for/)
