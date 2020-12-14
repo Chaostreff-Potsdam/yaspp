@@ -58,7 +58,9 @@ def generate_html_entry(entryid: int, entry: dict):
 	clean_entry.pop("long_summary", None)
 	clean_entry.pop("long_summary_md", None)
 
-	podlove_player = "<script>podlovePlayer('#%s', %s);</script>" % \
+	clean_entry["theme"] = config.podlove_player_theme
+
+	podlove_player = "<script>podlovePlayer('#player_%s', %s);</script>" % \
 			(entrydivid, json.dumps(clean_entry))
 
 	if long_summary_md := entry.get("long_summary_md"):

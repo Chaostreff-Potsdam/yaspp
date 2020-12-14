@@ -1,14 +1,27 @@
-body {
-	background-color: #e9e1d9;
-}
-
 .introblock {
-    width: 75%;
-    float: left;
+	width: 75%;
+	float: left;
 }
 
 .buttonblock {
-    margin-left: 15%;
 	margin-right: 0px;
-    height: auto;
+	float: right;
+}
+
+.container {
+	max-width: 768px;
+}
+
+.introcontainer {
+	overflow: hidden;
+}
+
+.yaspp-entry {
+	border-bottom: 1px dashed #b5e853;
+	padding-bottom: 20px;
+	margin-bottom: 20px;
+}
+
+.yaspp-shownotes {
+	word-wrap: break-word;
 }

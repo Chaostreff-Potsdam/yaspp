@@ -20,3 +20,8 @@ feed_url = website + '/feed.xml'
 language = 'de-DE'
 author_name = 'ChaosTreff Potsdam'
 copyright = '2020 ' + author_name
+
+podlove_player_theme = {
+	'main': '#151515',
+	'highlight': '#b5e853'
+}

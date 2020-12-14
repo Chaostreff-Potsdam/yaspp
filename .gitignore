@@ -3,6 +3,7 @@
 
 # Generated Files
 output/
+staging/
 index.html
 feed.xml
 
