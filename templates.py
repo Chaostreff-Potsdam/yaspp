@@ -77,5 +77,5 @@ subscribe_button = string.Template(r"""
 		"cover": "$cover",
 		"feeds": [{"type":"audio","format":"mp3","url":"$feed_url"}]}
 	</script>
-	<script class="podlove-subscribe-button" src="https://cdn.podlove.org/subscribe-button/javascripts/app.js" data-language="en" data-size="medium" data-json-data="podcastData" data-color="#b5e853" data-format="cover" data-style="filled"></script><noscript><a href="$feed_url">Subscribe to feed</a></noscript>
+	<script class="podlove-subscribe-button" src="https://cdn.podlove.org/subscribe-button/javascripts/app.js" data-language="en" data-size="medium" data-json-data="podcastData" data-color="$datacolor" data-format="cover" data-style="filled"></script><noscript><a href="$feed_url">Subscribe to feed</a></noscript>
 """)

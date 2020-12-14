@@ -46,6 +46,7 @@ def generate_subscribe_button(content):
 			title=config.podcast_title,
 			description=repr(config.hello_text),
 			cover=config.small_cover_image,
+			datacolor=config.podlove_player_theme.get("main", "blue"),
 			feed_url=config.feed_url
 		)
 
