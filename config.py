@@ -22,6 +22,6 @@ author_name = 'ChaosTreff Potsdam'
 copyright = '2020 ' + author_name
 
 podlove_player_theme = {
-	'main': '#9cde1e',
+	'main': '#90db4b',
 	'highlight': '#151515'
 }
