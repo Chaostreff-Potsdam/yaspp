@@ -1015,3 +1015,78 @@ long_summary_md: |
 
   * [L. McCann: So You Think You Want to Run a Hackathon? Think Again.](https://medium.com/@elle_mccann/so-you-think-you-want-to-run-a-hackathon-think-again-f96cd7df246a)
   * [CivicPatterns.org: Build with, not for](https://civicpatterns.org/patterns/build-with-not-for/)
+  
+  
+---
+uuid:     nt-2020-12-14
+title:    Chaos im Radio am 14.12.2020
+subtitle: Der Chaostreff im Freien Radio Potsdam
+summary:  >
+  Die letzte Folge des Jahres 2020. Wir reden über Adventskalender, die technischen Hintergründe des rc3 und über CO2 Ampeln für Klassenzimmer und freuen uns auf den rc3.
+  Außerdem zeigen wir einen Ausschnitt aus dem Interview mit Stefan (stk) und Julia über Open Data, die Open Knowledge Foundation
+  und Hackathons.
+publicationDate: "2021-01-19T18:55:00+01:00"
+audio:
+  - url: $media_base_url/2020_12_14-chaos-im-radio.mp3
+    mimeType: audio/mp3
+chapters:
+  - start: '00:00:00'
+    title: 'Intro'
+  - start: '00:01:07'
+    title: 'Adventskalender'
+  - start: '00:02:15'
+    title: 'TryHackMe Adventskalender'
+  - start: '00:04:00'
+    title: 'Advent of Code Adventskalender'
+  - start: '00:09:03'
+    title: 'Rc3 (Remote Chaos Experience)'
+  - start: '00:11:29'
+    title: 'Kartenvorverkauf rc3'
+  - start: '00:12:50'
+    title: 'Aufbau der Kartenwelt - Tiled Editor'
+  - start: '00:14:40'
+    title: 'ChaosZone Karte'
+  - start: '00:15:45'
+    title: 'Aufbau der Kartenwelt - WorkAdventure'
+  - start: '00:15:45'
+    title: 'Haecksen Assembly'
+  - start: '00:18:50'
+    title: 'rc3 ohne Ticket'
+  - start: '00:19:47'
+    title: 'Apropos Lüften'
+  - start: '00:21:08'
+    title: 'CO2 Ampeln'
+  - start: '00:22:23'
+    title: 'Aufbau von CO2 Ampeln'
+  - start: '00:22:23'
+    title: 'CO2 Ampelprojekt in Potsdam'
+  - start: '00:27:30'
+    title: 'Fertigung einer CO2 Ampel'
+  - start: '00:30:05'
+    title: 'Netzwerke von anderen CO2 Ampeln Initiativen'
+  - start: '00:31:19'
+    title: 'Ankündigung Interview'
+  - start: '00:32:55'
+    title: 'Auszug von Nerdtalk-Spezial zum Thema Open Knowledge'
+  - start: '00:55:05'
+    title: 'Outro'
+  - start: '00:57:22'
+    title: 'Ego Dome - Lounge Track '
+
+long_summary_md: |
+  **Shownotes:**
+  
+  * [Tryhackme](https://tryhackme.com/room/adventofcyber2)
+  * [AdventofCode](https://adventofcode.com/2020)
+  * [CCC Events Blog](https://events.ccc.de/)
+  * [CCC Events Twitter](https://twitter.com/ccc)
+  * [Tiled Editor](https://www.mapeditor.org/)
+  * [WorkAdventure](https://workadventu.re/)
+  * [CCC Media](https://media.ccc.de/)
+  * [Haecksen](http://haecksen.de/)
+  * knurps erwähnt das Buch von Luisa Neubauer - Vom Ende der Klimakrise: Eine Geschichte unserer Zukunft
+  * [Machbar: CO2 Ampeln für Schulen](https://machbar-potsdam.de/co2-ampeln-fuer-potsdamer-schulen/)
+  * [Mdb: Verstehbahnhof, CO2 Ampeln in Fürstenberg](https://mdb.anke.domscheit-berg.de/2020/11/co2-ampeln-fuer-das-saldern-gymnasium/)
+  * [Mintnetz: Citylab CO2 Ampel](https://www.mintnetz.de/events/werkstatt-citylab-bau-einer-co2-ampel-online/)
+  * Die komplette Folge des Interviews am Ende findet ihr hier: [Nerdtalk: Nerdtalk-Spezial zum Thema Open Knowledge](https://radio.ccc-p.org/#nt-2020-12-14-spezial)
+  * &#x1f3b6;&nbsp;[Ego Dome - Lounge Track](https://egodome.bandcamp.com/track/lounge-track)
