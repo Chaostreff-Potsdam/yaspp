@@ -1015,3 +1015,127 @@ long_summary_md: |
 
   * [L. McCann: So You Think You Want to Run a Hackathon? Think Again.](https://medium.com/@elle_mccann/so-you-think-you-want-to-run-a-hackathon-think-again-f96cd7df246a)
   * [CivicPatterns.org: Build with, not for](https://civicpatterns.org/patterns/build-with-not-for/)
+  
+  
+---
+uuid:     nt-2021-01-11
+title:    Chaos im Radio am 11.01.2021
+subtitle: Der Chaostreff im Freien Radio Potsdam
+summary:  >
+  Die erste Folge des Jahres 2021. Wir reden über mobile Messenger, den (gefühlten) beinah-Zusammenbruch des europäischen Stromnetzes, 
+  den Congress und sind verwirrt wie immer.
+publicationDate: "2020-21-18T17:55:00+01:00"
+audio:
+  - url:      $media_base_url/2021-01-11-chaos-im-radio.mp3
+    mimeType: audio/mp3
+chapters:
+  - start: '00:00:00'
+    title: 'Intro'
+  - start: '00:00:28'
+    title: 'Neuigkeiten von WhatsApp'
+  - start: '00:04:38'
+    title: 'Messenger - Signal'
+  - start: '00:11:32'
+    title: 'Messenger - Threema'
+  - start: '00:13:44'
+    title: 'Messenger - Element/Matrix'
+  - start: '00:16:20'
+    title: 'Messenger - RocketChat'
+  - start: '00:16:50'
+    title: 'Messenger - Telegram'
+  - start: '00:23:12'
+    title: 'Messenger - Alle anderen'
+  - start: '00:25:51'
+    title: 'Netzprobleme in Osteuropa'
+  - start: '00:31:45'
+    title: 'Netzfrequenz und Uhren'
+  - start: '00:33:40'
+    title: 'Eric Skiff - Arpanauts'
+    href: 'https://freemusicarchive.org/music/Eric_Skiff/Resistor_Anthems/eric_skiff_-_10_-_arpanauts'
+  - start: '00:37:20'
+    title: 'Impfterminvergabe an der 116 117 - besetzt'
+  - start: '00:41:29'
+    title: 'Schulen und Homeschooling'
+  - start: '00:44:18'
+    title: 'Lernraum Berlin - Cyber4EDU  '
+  - start: '00:47:40'
+    title: 'Cryptowars n.0'
+  - start: '00:53:15'
+    title: 'Kleine Anfragen'
+  - start: '00:55:15'
+    title: 'Offene Daten in Politik und Verwaltung'
+  - start: '00:56:36'
+    title: 'Karaoke Mouse - Shanghai Reggae'
+    href: 'https://freemusicarchive.org/music/Karaoke_Mouse/Shanghai_Reggae/04-Shanghai_Reggae_DJ_Side_RMX'
+  - start: '00:59:50'
+    title: 'rC3 '
+  - start: '01:02:20'
+    title: '2D-Welt (Workadventure)'
+  - start: '01:07:00'
+    title: 'C3-Teleshop'
+  - start: '01:08:20'
+    title: 'Devops Desasters 3.1'
+  - start: '01:09:00'
+    title: 'This Is Not A Game'
+  - start: '01:09:55'
+    title: 'C3-PR'
+  - start: '01:10:16'
+    title: 'Fuzzing the Phone in the iPhone'
+  - start: '01:10:50'
+    title: 'Haecksen Goodies'
+  - start: '01:13:40'
+    title: 'C3WOC - Waffeln rund um die Uhr'
+  - start: '01:14:27'
+    title: 'Die Hacker-Genossenschaft: WTF e. G. (i. G.)'
+  - start: '01:14:45'
+    title: 'Uwe Lübbermann und Premium Cola'
+  - start: '01:15:45'
+    title: 'WTF e. G. (i. G.)'
+  - start: '01:16:10'
+    title: 'Engelgewerkschaft'
+  - start: '01:17:08'
+    title: 'Ausblick 2021'
+  - start: '01:18:16'
+    title: 'Outro'
+  - start: '01:19:57'
+    title: 'Fairy Bot Orchestra - I'm a Teapot'
+    href: 'https://fairybotorchestra.bandcamp.com/track/im-a-teapot-the-418-song'
+long_summary_md: |
+  **Shownotes:**
+
+  * [Golem: WhatsApp stellt Nutzern ein Ultimatum](https://www.golem.de/news/facebook-whatsapp-stellt-nutzern-ein-ultimatum-2101-153215.html)
+  * [Apple: Privacy Labels](https://developer.apple.com/news/?id=3wann9gh)
+  * [Forbes: Privacy Labels der Messenger im Vergleich](https://www.forbes.com/sites/zakdoffman/2021/01/03/whatsapp-beaten-by-apples-new-imessage-update-for-iphone-users/)
+  * WhatsApp Alternativen: [Signal](https://signal.org), [Threema](https://threema.ch/de), [Element](https://element.io/)/[Matrix](https://matrix.org/), 
+    [Rocketchat](https://rocket.chat/), [Telegram](https://telegram.org/)
+  * [Heise: Signal Messenger - Ansturm neuer Nutzer überlastet Signals Anmeldesystem](https://www.heise.de/news/Signal-Messenger-Ansturm-neuer-Nutzer-ueberlastet-Signals-Anmeldesystem-5018215.html)
+  * [Threema: jetzt OpenSource](https://threema.ch/de/open-source), [Threema: Code audits](https://threema.ch/es/faq/code_audit), [Threema: Multi-Device](https://threema.ch/de/blog/posts/md-architectural-overview-intro-de)
+  * [F-Droid, eine Google Play Store Alternative](https://f-droid.org/)
+  * [Chaos im Radio vom 9.11.2020 mit kurzem Teil über F-Droid](https://radio.ccc-p.org/#nt-2020-11-09)
+  * [Linksammlung](https://crypto.stackexchange.com/questions/31418/signal-vs-telegram-in-terms-of-protocols) zum Vergleich der kryptografischen Protokolle von Telegram und Signal
+  * Schmuddel-App Telegram: [Funk: die schlimmste App der Welt](https://www.funk.net/channel/walulis-1031/die-schlimmste-app-der-welt-walulis-1693617)
+  * [@HonkHase auf Twitter zum Netzfrequenz-Abfall](https://twitter.com/HonkHase/status/1347587723599732740)
+  * [@Schranke5 auf Twitter mit Frequenz-Diagram](https://twitter.com/Schranke5/status/1347617413576216580/photo/1)
+  * [Griradar: Diagramm](https://gridradar.net/unterfrequenz-49.75-Hz-Januar_2021)
+  * [Wikipedia: Unterfrequenz](https://de.wikipedia.org/wiki/Unterfrequenz)
+  * Kleinste Frequenz war bei 49,738 Hz .. bei 49,8 Hz wird Regelleistung eingesetzt - Speicherpumpkraftwerke schalten Pumpen ab und gehen in Turbinenbetrieb.
+  * [heise.de: Uhrenprobleme von 2018](https://www.heise.de/newsticker/meldung/Zeit-Synchronisation-per-Stromnetz-Energieknappheit-laesst-Uhren-nachgehen-3984126.html)
+  * [heise.de: Probleme von 2006](https://www.heise.de/newsticker/meldung/E-ON-fuehrt-Stromausfall-auf-menschliche-Fehleinschaetzungen-zurueck-118254.html)
+  * [32C3 - Wie man einen Blackout verursacht - und warum das gar nicht so einfach ist.](https://media.ccc.de/v/32c3-7323-wie_man_einen_blackout_verursacht)
+  * [Ärztlicher Notdienst: 116 117](https://www.116117.de)
+  * [PNN: Telefonische Terminvergabe auf der 116 117](https://www.pnn.de/brandenburg/corona-impfungen-in-brandenburg-telefonische-terminvereinbarung-startet/26758644.html)
+  * [PNN: Impfdebakel](https://www.pnn.de/brandenburg/coronakrise-das-brandenburger-impf-debakel/26774262.html)
+  * [@LernraumBerlin auf Twitter: Probleme](https://twitter.com/LernraumBerlin/status/1346052661204951040)
+  * [Cyber4Edu](https://cyber4edu.org/c4e/wiki/start)
+  * Hackerangriff oder mangelnde Skalierbarkeit? [MDR über Lernsax](https://www.mdr.de/sachsen/corona-schulen-lockdown-haeusliche-lernzeit-100.html)
+  * [Cryptowars 2020, ein Update vom CCC](https://www.ccc.de/de/updates/2020/cryptowars-2020)
+  * [Chaos im Radio zum Thema Open Knowledge](https://radio.ccc-p.org/#nt-2020-12-14-spezial)
+  * [KleineAnfragen.de stellt die Arbeit ein](https://kleineanfragen.de/info/stilllegung)
+  * [rc3](https://links.rc3.world/), [alle Vortragsaufzeichnungen](https://media.ccc.de/c/rc3)
+  * [die Haecksen](https://www.haecksen.org/)
+  * [C3 Waffel Operation Center](https://c3woc.de/)
+  * Uwe Lübbermann über Premium-Cola: [Wirtschaft hacken! beim 35C3](https://media.ccc.de/v/35c3chaoswest-61-wirtschaft-hacken-)
+  * [VEBIT e.V. - Gründungsverein der WTF eG](https://vebit.xyz/)
+  * &#x1f3b6;&nbsp;[Eric Skiff - Arpanauts](https://freemusicarchive.org/music/Eric_Skiff/Resistor_Anthems/eric_skiff_-_10_-_arpanauts)
+  * &#x1f3b6;&nbsp;[Karaoke Mouse - Shanghai Reggae](https://freemusicarchive.org/music/Karaoke_Mouse/Shanghai_Reggae/04-Shanghai_Reggae_DJ_Side_RMX)
+  * &#x1f3b6;&nbsp;[Fairy Bot Orchestra - I'm a Teapot](https://fairybotorchestra.bandcamp.com/track/im-a-teapot-the-418-song)
