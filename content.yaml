@@ -934,8 +934,6 @@ long_summary_md: |
   * &#x1f3b6;&nbsp;[Ego Dome - Lounge Track](https://egodome.bandcamp.com/track/lounge-track)
   * &#x1f3b6;&nbsp;[Paper Navy - Swan Song](https://freemusicarchive.org/music/Paper_Navy/All_Grown_Up/08_Swan_Song)
   * &#x1f3b6;&nbsp;[Freak Fandango Orchestra - The Gypsy Song](https://freakfandango.bandcamp.com/track/the-gypsy-song)
-  
-  
 ---
 uuid:     nt-2020-12-14-spezial
 title:    Nerdtalk-Spezial zum Thema Open Knowledge
@@ -1015,17 +1013,15 @@ long_summary_md: |
 
   * [L. McCann: So You Think You Want to Run a Hackathon? Think Again.](https://medium.com/@elle_mccann/so-you-think-you-want-to-run-a-hackathon-think-again-f96cd7df246a)
   * [CivicPatterns.org: Build with, not for](https://civicpatterns.org/patterns/build-with-not-for/)
-  
-  
 ---
 uuid:     nt-2020-12-14
 title:    Chaos im Radio am 14.12.2020
 subtitle: Der Chaostreff im Freien Radio Potsdam
 summary:  >
-  Die letzte Folge des Jahres 2020. Wir reden über Adventskalender, die technischen Hintergründe des rc3 und über CO2 Ampeln für Klassenzimmer und freuen uns auf den rc3.
+  Die letzte Folge des Jahres 2020. Gini, cyroxx und knurps reden über Adventskalender, die technischen Hintergründe des rc3 und über CO2 Ampeln für Klassenzimmer und freuen uns auf den rc3.
   Außerdem zeigen wir einen Ausschnitt aus dem Interview mit Stefan (stk) und Julia über Open Data, die Open Knowledge Foundation
   und Hackathons.
-publicationDate: "2021-01-19T18:55:00+01:00"
+publicationDate: "2021-01-19T00:00:00+01:00"
 audio:
   - url: $media_base_url/2020_12_14-chaos-im-radio.mp3
     mimeType: audio/mp3
@@ -1048,16 +1044,12 @@ chapters:
     title: 'ChaosZone Karte'
   - start: '00:15:45'
     title: 'Aufbau der Kartenwelt - WorkAdventure'
-  - start: '00:15:45'
-    title: 'Haecksen Assembly'
   - start: '00:18:50'
     title: 'rc3 ohne Ticket'
   - start: '00:19:47'
     title: 'Apropos Lüften'
   - start: '00:21:08'
     title: 'CO2 Ampeln'
-  - start: '00:22:23'
-    title: 'Aufbau von CO2 Ampeln'
   - start: '00:22:23'
     title: 'CO2 Ampelprojekt in Potsdam'
   - start: '00:27:30'
@@ -1071,8 +1063,8 @@ chapters:
   - start: '00:55:05'
     title: 'Outro'
   - start: '00:57:22'
-    title: 'Ego Dome - Lounge Track '
-
+    title: 'Ego Dome - Lounge Track'
+    href: 'https://egodome.bandcamp.com/track/lounge-track'
 long_summary_md: |
   **Shownotes:**
   
