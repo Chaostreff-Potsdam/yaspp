@@ -1020,11 +1020,11 @@ uuid:     nt-2021-01-11
 title:    Chaos im Radio am 11.01.2021
 subtitle: Der Chaostreff im Freien Radio Potsdam
 summary:  >
-  Die erste Folge des Jahres 2021. Wir reden über mobile Messenger, den (gefühlten) beinah-Zusammenbruch des europäischen Stromnetzes, 
+  Die erste Folge des Jahres 2021. Gini, Cyroxx, Knurps und Hannes reden über mobile Messenger, den (gefühlten) beinah-Zusammenbruch des europäischen Stromnetzes,
   den Congress und sind verwirrt wie immer.
 publicationDate: "2020-01-19T17:55:00+01:00"
 audio:
-  - url:      $media_base_url/2021-01-11-chaos-im-radio.mp3
+  - url:      $media_base_url/2021_01_11-chaos-im-radio.mp3
     mimeType: audio/mp3
 chapters:
   - start: '00:00:00'
@@ -1055,7 +1055,7 @@ chapters:
   - start: '00:41:29'
     title: 'Schulen und Homeschooling'
   - start: '00:44:18'
-    title: 'Lernraum Berlin - Cyber4EDU  '
+    title: 'Lernraum Berlin - Cyber4EDU'
   - start: '00:47:40'
     title: 'Cryptowars n.0'
   - start: '00:53:15'
@@ -1116,7 +1116,6 @@ long_summary_md: |
   * [@Schranke5 auf Twitter mit Frequenz-Diagram](https://twitter.com/Schranke5/status/1347617413576216580/photo/1)
   * [Griradar: Diagramm](https://gridradar.net/unterfrequenz-49.75-Hz-Januar_2021)
   * [Wikipedia: Unterfrequenz](https://de.wikipedia.org/wiki/Unterfrequenz)
-  * Kleinste Frequenz war bei 49,738 Hz .. bei 49,8 Hz wird Regelleistung eingesetzt - Speicherpumpkraftwerke schalten Pumpen ab und gehen in Turbinenbetrieb.
   * [heise.de: Uhrenprobleme von 2018](https://www.heise.de/newsticker/meldung/Zeit-Synchronisation-per-Stromnetz-Energieknappheit-laesst-Uhren-nachgehen-3984126.html)
   * [heise.de: Probleme von 2006](https://www.heise.de/newsticker/meldung/E-ON-fuehrt-Stromausfall-auf-menschliche-Fehleinschaetzungen-zurueck-118254.html)
   * [32C3 - Wie man einen Blackout verursacht - und warum das gar nicht so einfach ist.](https://media.ccc.de/v/32c3-7323-wie_man_einen_blackout_verursacht)
