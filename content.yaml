@@ -1015,8 +1015,6 @@ long_summary_md: |
 
   * [L. McCann: So You Think You Want to Run a Hackathon? Think Again.](https://medium.com/@elle_mccann/so-you-think-you-want-to-run-a-hackathon-think-again-f96cd7df246a)
   * [CivicPatterns.org: Build with, not for](https://civicpatterns.org/patterns/build-with-not-for/)
-  
-  
 ---
 uuid:     nt-2021-01-11
 title:    Chaos im Radio am 11.01.2021
@@ -1024,7 +1022,7 @@ subtitle: Der Chaostreff im Freien Radio Potsdam
 summary:  >
   Die erste Folge des Jahres 2021. Wir reden über mobile Messenger, den (gefühlten) beinah-Zusammenbruch des europäischen Stromnetzes, 
   den Congress und sind verwirrt wie immer.
-publicationDate: "2020-21-18T17:55:00+01:00"
+publicationDate: "2020-01-19T17:55:00+01:00"
 audio:
   - url:      $media_base_url/2021-01-11-chaos-im-radio.mp3
     mimeType: audio/mp3
@@ -1098,7 +1096,7 @@ chapters:
   - start: '01:18:16'
     title: 'Outro'
   - start: '01:19:57'
-    title: 'Fairy Bot Orchestra - I'm a Teapot'
+    title: "Fairy Bot Orchestra - I'm a Teapot"
     href: 'https://fairybotorchestra.bandcamp.com/track/im-a-teapot-the-418-song'
 long_summary_md: |
   **Shownotes:**
