@@ -1203,3 +1203,56 @@ long_summary_md: |
   * &#x1f3b6;&nbsp;[Eric Skiff - Arpanauts](https://freemusicarchive.org/music/Eric_Skiff/Resistor_Anthems/eric_skiff_-_10_-_arpanauts)
   * &#x1f3b6;&nbsp;[Karaoke Mouse - Shanghai Reggae](https://freemusicarchive.org/music/Karaoke_Mouse/Shanghai_Reggae/04-Shanghai_Reggae_DJ_Side_RMX)
   * &#x1f3b6;&nbsp;[Fairy Bot Orchestra - I'm a Teapot](https://fairybotorchestra.bandcamp.com/track/im-a-teapot-the-418-song)
+---
+uuid:     nt-2021-02-08
+title:    Chaos im Radio am 08.02.2021
+subtitle: Der Chaostreff im Freien Radio Potsdam
+summary:  >
+  Gini, Cyroxx, Knurps und Hannes interviewen kurz Isa von der Open Health HACKademy, geben Updates zu Themen des letzten Jahres und verlieren sich schon wieder in einer Diskussion über Soziale Netze. In der zweiten Hälfte der Folge rahmen Sea Shaties einen Ausschnitt aus dem kommenden Chaos Radio Spezial ein.
+publicationDate: "2021-02-09T00:03:00+01:00"
+audio:
+  - url:      $media_base_url/2021_02_08-chaos-im-radio.mp3
+    mimeType: audio/mp3
+chapters:
+  - start: '00:00:00'
+    title: 'Intro'
+  - start: '00:00:50'
+    title: 'OpenHealth HACKAdamey'
+  - start: '00:06:37'
+    title: 'Neuer Alter Name'
+  - start: '00:07:40'
+    title: 'Potsdamer Rathaus endlich wieder online'
+  - start: '00:10:05'
+    title: 'Stromnetzupdate'
+  - start: '00:11:30'
+    title: '100 Jahre Radio'
+  - start: '00:13:15'
+    title: 'Clubhouse'
+  - start: '00:28:50'
+    title: 'Nathan Evans - The Wellerman (Sea Shanty)'
+    href: 'https://www.youtube.com/watch?v=SLiNQhQr4G4'
+  - start: '00:29:47'
+    title: 'Auschnitt Chaos Spezial zu DIN SPEC 3105'
+  - start: '00:56:53'
+    title: 'ARGULES - The Wellerman TikTok BUMP HOUSE Remix'
+    href: 'https://www.youtube.com/watch?v=zDTaeqUEWNQ'
+long_summary_md: |
+  **Shownotes:**
+
+  * [Open Health HACKademy #4](https://matchmymaker.de/open-health-hackademy-4/)
+  * [YouTube: Video von der HACKademy#2 2019](https://www.youtube.com/watch?v=u4ULkaobmG0])
+  * Dokumentiert werden die Hilfsmittel der HACKademy auf [Careables](https://www.careables.org/)
+  * [Nerdtalk: der Podcast über Kinofilme](http://www.nerdtalk.de/)
+  * [Bericht über die Netztrennung bei entseo.eu](https://www.entsoe.eu/news/2021/01/26/system-separation-in-the-continental-europe-synchronous-area-on-8-january-2021-2nd-update/)
+  * [Amprion: Zusammenfassung des Berichts](https://www.amprion.net/Netzjournal/Beitr%C3%A4ge-2021/Systemauftrennung-im-europ%C3%A4ischen-Stromnetz-zweites-Update.html)
+  * [RBB24: 100 Jahre Radio (22.12.1920)](https://www.rbb24.de/kultur/beitrag/2020/12/100-jahre-radio-funkerberg-koenigswusterhausen-1920.html) 
+  * [Radio HSF aus Ilmenau](https://www.hsf.tu-ilmenau.de/)
+  * [Chaosradio 94 von 2004 über Internettelefonie und über die Villa](https://chaosradio.de/chaosradio_94)
+  * [Freakshow 256 unter anderem über die Villa](https://freakshow.fm/fs256-physisch-virtuell)
+  * [YouTube: Liste mit Villa-Beiträgen](https://youtube.com/playlist?list=PLasMPV1zn--5VQWKndBBwzP7z8Pycwb26)
+  * [Zerforschung: Gespräche aus dem Clubhouse](https://zerforschung.org/posts/gespraeche-aus-dem-clubhouse/)    
+  * [Signal.org: Private Contact Discovery](https://signal.org/blog/private-contact-discovery/)
+  
+  * &#x1f3b6;&nbsp;[YouTube: Nathan Evans - The Wellerman (Sea Shanty)]('https://www.youtube.com/watch?v=SLiNQhQr4G4'
+  * &#x1f3b6;&nbsp;[YouTube: The Wellerman (Sea Shanty) - From TikTok to Epic Remix](https://www.youtube.com/watch?v=UgsurPg9Ckw)
+ 
