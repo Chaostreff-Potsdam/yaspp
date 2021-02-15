@@ -1216,29 +1216,25 @@ audio:
 chapters:
   - start: '00:00:00'
     title: 'Intro'
-  - start: '00:00:39'
+  - start: '00:00:50'
     title: 'OpenHealth HACKAdamey'
-  - start: '00:04:38'
-    title: 'Messenger - Signal'
-  - start: '00:11:32'
-    title: 'Messenger - Threema'
-  - start: '00:13:44'
-    title: 'Messenger - Element/Matrix'
-  - start: '00:16:20'
-    title: 'Messenger - RocketChat'
-  - start: '00:16:50'
-    title: 'Messenger - Telegram'
-  - start: '00:23:12'
-    title: 'Messenger - Alle anderen'
-  - start: '00:25:51'
-    title: 'Netzprobleme in Osteuropa'
-  - start: '00:31:45'
-    title: 'Netzfrequenz und Uhren'
-  - start: '00:33:40'
-    title: 'The Wellerman (Sea Shanty) - From TikTok to Epic Remix'
-    href: 'https://www.youtube.com/watch?v=UgsurPg9Ckw'
-  - start: '00:33:40'
-    title: 'ARGULES - Wellerman TikTok BUMP HOUSE Remix'
+  - start: '00:06:37'
+    title: 'Neuer Alter Name'
+  - start: '00:07:40'
+    title: 'Potsdamer Rathaus endlich wieder online'
+  - start: '00:10:05'
+    title: 'Stromnetzupdate'
+  - start: '00:11:30'
+    title: '100 Jahre Radio'
+  - start: '00:13:15'
+    title: 'Clubhouse'
+  - start: '00:28:50'
+    title: 'Nathan Evans - The Wellerman (Sea Shanty)'
+    href: 'https://www.youtube.com/watch?v=SLiNQhQr4G4'
+  - start: '00:29:47'
+    title: 'Auschnitt Chaos Spezial zu DIN SPEC 3105'
+  - start: '00:56:53'
+    title: 'ARGULES - The Wellerman TikTok BUMP HOUSE Remix'
     href: 'https://www.youtube.com/watch?v=zDTaeqUEWNQ'
 long_summary_md: |
   **Shownotes:**
@@ -1246,16 +1242,15 @@ long_summary_md: |
   * [Open Health HACKademy #4](https://matchmymaker.de/open-health-hackademy-4/)
   * [YouTube: Video von der HACKademy#2 2019](https://www.youtube.com/watch?v=u4ULkaobmG0])
   * Dokumentiert werden die Hilfsmittel der HACKademy auf [Careables](https://www.careables.org/)
-* Stromnetz
-    * https://www.amprion.net/Netzjournal/Beitr%C3%A4ge-2021/Systemauftrennung-im-europ%C3%A4ischen-Stromnetz-zweites-Update.html
-    * https://www.entsoe.eu/news/2021/01/26/system-separation-in-the-continental-europe-synchronous-area-on-8-january-2021-2nd-update/
-
-* 100 Jahre Radio (22.12.1920) https://www.rbb24.de/kultur/beitrag/2020/12/100-jahre-radio-funkerberg-koenigswusterhausen-1920.html 
-* https://www.hsf.tu-ilmenau.de/
-* Clubhouse
-    * https://zerforschung.org/posts/gespraeche-aus-dem-clubhouse/    
-    * https://signal.org/blog/private-contact-discovery/
-
+  * [Nerdtalk: der Podcast über Kinofilme](http://www.nerdtalk.de/)
+  * [Bericht über die Netztrennung bei entseo.eu](https://www.entsoe.eu/news/2021/01/26/system-separation-in-the-continental-europe-synchronous-area-on-8-january-2021-2nd-update/)
+  * [Amprion: Zusammenfassung des Berichts](https://www.amprion.net/Netzjournal/Beitr%C3%A4ge-2021/Systemauftrennung-im-europ%C3%A4ischen-Stromnetz-zweites-Update.html)
+  * [RBB24: 100 Jahre Radio (22.12.1920)](https://www.rbb24.de/kultur/beitrag/2020/12/100-jahre-radio-funkerberg-koenigswusterhausen-1920.html) 
+  * [Radio HSF aus Ilmenau](https://www.hsf.tu-ilmenau.de/)
+  * [Chaosradio 94 von 2004 über Internettelefonie und über die Villa](https://chaosradio.de/chaosradio_94)
+  * [Zerforschung: Gespräche aus dem Clubhouse](https://zerforschung.org/posts/gespraeche-aus-dem-clubhouse/)    
+  * [Signal.org: Private Contact Discovery](https://signal.org/blog/private-contact-discovery/)
   
+  * &#x1f3b6;&nbsp;[YouTube: Nathan Evans - The Wellerman (Sea Shanty)]('https://www.youtube.com/watch?v=SLiNQhQr4G4'
   * &#x1f3b6;&nbsp;[YouTube: The Wellerman (Sea Shanty) - From TikTok to Epic Remix](https://www.youtube.com/watch?v=UgsurPg9Ckw)
-  * &#x1f3b6;&nbsp;[YouTube: ARGULES - Wellerman TikTok BUMP HOUSE Remix](https://www.youtube.com/watch?v=zDTaeqUEWNQ)
+ 
