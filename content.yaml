@@ -766,7 +766,7 @@ chapters:
   - start: '00:34:50'
     title: 'Datenschmutz, Sammelei und Unsinn und Corona-Listen'
   - start: '00:45:40'
-    title: 'China und die Gesichtserkennung'    
+    title: 'China und die Gesichtserkennung'
   - start: '00:47:11'
     title: 'Corona-Listen und Contact Tracing'
   - start: '00:52:20'
@@ -778,7 +778,7 @@ chapters:
     href:  'https://stimmgewalt-berlin.de/'
 long_summary_md: |
   **Shownotes:**
- 
+
   * [Wikipedia: YubiKey](https://de.wikipedia.org/wiki/YubiKey)
   * [tagesschau.de: Digitalisierung an Schulen - An Geld fehlt es nicht](https://www.tagesschau.de/inland/digitalisierung-schule-105.html)
   * [Wikipedia: Texterkennung](https://de.wikipedia.org/wiki/Texterkennung), englisch: Optical Character Recognition (OCR)
@@ -799,7 +799,7 @@ long_summary_md: |
   * &#x1f3b6;&nbsp;[Software Defined Music - Dreaming Orchestral](https://soundcloud.com/software-defined-music/dreaming-orchestral) (1:14)
   * &#x1f3b6;&nbsp;[My Pixels are Weapons](https://soundcloud.com/cube-5/my-pixels-are-weapons) von !Cube, a.k.a Toni Lönnberg (3:36, CC BY-NC 3.0)
   * &#x1f3b6;&nbsp;[Stimmgewalt - Hautlos](https://www.youtube.com/watch?v=CCY-LoBBpB0) (3:39); [Website der Band](https://stimmgewalt-berlin.de/)
-  
+
 ---
 uuid:     nt-2020-10-12
 title:    Nerdtalk vom 12.10.2020
@@ -841,7 +841,7 @@ chapters:
     href: 'https://freemusicarchive.org/music/Expendable_Friend/The_Tidy_Ship/Expendable_Friend_-_The_Tidy_Ship_-_08_Song_for_Riemann'
 long_summary_md: |
   **Shownotes:**
- 
+
   * Link zur Übersicht der Corona-Symptome fehlt :(
   * [MongoDB wechselte Lizenz Ende 2018](https://www.mongodb.com/licensing/server-side-public-license/faq), seit 2019 AWS Document DB [(Wikipedia)](https://en.wikipedia.org/wiki/Amazon_DocumentDB)
   * [Wikipedia: NLNet](https://en.wikipedia.org/wiki/NLnet)
@@ -857,7 +857,7 @@ uuid:     nt-2020-11-09
 title:    Nerdtalk vom 09.11.2020
 subtitle: Der Chaostreff im Freien Radio Potsdam
 summary:  >
-  Gemeinsam mit unseren Gästen Mario und Dominik von der uplug sprechen wir darüber, was man in einem Verein für Linux-Nutzer_innen macht. 
+  Gemeinsam mit unseren Gästen Mario und Dominik von der uplug sprechen wir darüber, was man in einem Verein für Linux-Nutzer_innen macht.
   Außerdem beleuchten wir die Vorteile von Linux und freier Software im Allgemeinen und stellen euch Online-Konferenzlösungen vor.
 publicationDate: "2020-11-23T23:50:00+01:00"
 audio:
@@ -902,7 +902,7 @@ long_summary_md: |
 
   * "uplug" spricht man deutsch aus, auch wenn Hannes das nicht immer hinbekommt
   * [Wikipedia: CryptoParty](https://de.wikipedia.org/wiki/CryptoParty)
-  * Eine freie Konfrenzsoftware (zum selber Hosten): [Jitsi](https://jitsi.org/) 
+  * Eine freie Konfrenzsoftware (zum selber Hosten): [Jitsi](https://jitsi.org/)
   * [Krypto-Party bei der Kritischen Einführungswoche](https://kritisch.stud.astaup.de/veranstaltungen/sichere-internetnutzung-allgemeines-linux-ama/)
   * [Linux Mint](https://linuxmint.com/)
   * [uplug](http://uplug.de/)
@@ -1067,7 +1067,7 @@ chapters:
     href: 'https://egodome.bandcamp.com/track/lounge-track'
 long_summary_md: |
   **Shownotes:**
-  
+
   * [Tryhackme](https://tryhackme.com/room/adventofcyber2)
   * [AdventofCode](https://adventofcode.com/2020)
   * [CCC Events Blog](https://events.ccc.de/)
@@ -1171,7 +1171,7 @@ long_summary_md: |
   * [Golem: WhatsApp stellt Nutzern ein Ultimatum](https://www.golem.de/news/facebook-whatsapp-stellt-nutzern-ein-ultimatum-2101-153215.html)
   * [Apple: Privacy Labels](https://developer.apple.com/news/?id=3wann9gh)
   * [Forbes: Privacy Labels der Messenger im Vergleich](https://www.forbes.com/sites/zakdoffman/2021/01/03/whatsapp-beaten-by-apples-new-imessage-update-for-iphone-users/)
-  * WhatsApp Alternativen: [Signal](https://signal.org), [Threema](https://threema.ch/de), [Element](https://element.io/)/[Matrix](https://matrix.org/), 
+  * WhatsApp Alternativen: [Signal](https://signal.org), [Threema](https://threema.ch/de), [Element](https://element.io/)/[Matrix](https://matrix.org/),
     [Rocketchat](https://rocket.chat/), [Telegram](https://telegram.org/)
   * [Heise: Signal Messenger - Ansturm neuer Nutzer überlastet Signals Anmeldesystem](https://www.heise.de/news/Signal-Messenger-Ansturm-neuer-Nutzer-ueberlastet-Signals-Anmeldesystem-5018215.html)
   * [Threema: jetzt OpenSource](https://threema.ch/de/open-source), [Threema: Code audits](https://threema.ch/es/faq/code_audit), [Threema: Multi-Device](https://threema.ch/de/blog/posts/md-architectural-overview-intro-de)
@@ -1245,14 +1245,75 @@ long_summary_md: |
   * [Nerdtalk: der Podcast über Kinofilme](http://www.nerdtalk.de/)
   * [Bericht über die Netztrennung bei entseo.eu](https://www.entsoe.eu/news/2021/01/26/system-separation-in-the-continental-europe-synchronous-area-on-8-january-2021-2nd-update/)
   * [Amprion: Zusammenfassung des Berichts](https://www.amprion.net/Netzjournal/Beitr%C3%A4ge-2021/Systemauftrennung-im-europ%C3%A4ischen-Stromnetz-zweites-Update.html)
-  * [RBB24: 100 Jahre Radio (22.12.1920)](https://www.rbb24.de/kultur/beitrag/2020/12/100-jahre-radio-funkerberg-koenigswusterhausen-1920.html) 
+  * [RBB24: 100 Jahre Radio (22.12.1920)](https://www.rbb24.de/kultur/beitrag/2020/12/100-jahre-radio-funkerberg-koenigswusterhausen-1920.html)
   * [Radio HSF aus Ilmenau](https://www.hsf.tu-ilmenau.de/)
   * [Chaosradio 94 von 2004 über Internettelefonie und über die Villa](https://chaosradio.de/chaosradio_94)
   * [Freakshow 256 unter anderem über die Villa](https://freakshow.fm/fs256-physisch-virtuell)
   * [YouTube: Liste mit Villa-Beiträgen](https://youtube.com/playlist?list=PLasMPV1zn--5VQWKndBBwzP7z8Pycwb26)
-  * [Zerforschung: Gespräche aus dem Clubhouse](https://zerforschung.org/posts/gespraeche-aus-dem-clubhouse/)    
+  * [Zerforschung: Gespräche aus dem Clubhouse](https://zerforschung.org/posts/gespraeche-aus-dem-clubhouse/)
   * [Signal.org: Private Contact Discovery](https://signal.org/blog/private-contact-discovery/)
-  
+
   * &#x1f3b6;&nbsp;[YouTube: Nathan Evans - The Wellerman (Sea Shanty)](https://www.youtube.com/watch?v=SLiNQhQr4G4)
   * &#x1f3b6;&nbsp;[YouTube: The Wellerman (Sea Shanty) - From TikTok to Epic Remix](https://www.youtube.com/watch?v=UgsurPg9Ckw)
- 
+---
+uuid:     nt-2021-03-08
+title:    Chaos im Radio am 08.03.2021
+subtitle: Der Chaostreff im Freien Radio Potsdam
+summary:  >
+  Gini, Cyroxx, Knurps und Hannes diskutieren gut gelaunt das papierlose Büro, schlecht gelaunt das IT Sicherheitsgesetz, und waren zum großen Teil noch nicht im Darknet, obwohl die Drogen da besser sind.
+publicationDate: "2021-03-08T00:03:00+01:00"
+audio:
+  - url:      $media_base_url/2021_03_08-chaos-im-radio.mp3
+    mimeType: audio/mp3
+chapters:
+  - start: '00:00:00'
+    title: 'Intro des Supercuts'
+  - start: '00:00:20'
+    title: 'Das papierlose Büro mit insaned und paperless'
+  - start: '00:06:37'
+    title: 'FOSDEM und streamlit'
+  - start: '00:09:50'
+    title: 'Konferenzen im Chaos'
+  - start: '00:12:40'
+    title: 'Tri-Tachyon - Little Lily Swing'
+    href: 'https://freemusicarchive.org/music/Tri-Tachyon/the-kleptotonic-ep/little-lily-swing'
+  - start: '00:16:00'
+    title: 'IT-Sicherheitsgesetz 2.0 - Stellungnahmen der Sachverständigen'
+  - start: '00:22:00'
+    title: 'Unser Senf zum IT-Sig 2.0'
+  - start: '00:36:47'
+    title: 'Wasserwerkshack'
+  - start: '00:39:53'
+    title: 'Chad Crouch - Algorithms (mit unserem Gelaber)'
+    href: 'https://freemusicarchive.org/music/Chad_Crouch/Arps/Algorithms'
+  - start: '00:42:30'
+    title: 'Hannes hat ne kaputte Sicherung'
+  - start: '00:46:00'
+    title: 'Blitzableiter im Sicherungskasten'
+  - start: '00:49:57'
+    title: 'Drogentaxis und das Darknet'
+  - start: '00:55:36'
+    title: 'Hackademy und FabAccess'
+long_summary_md: |
+  **Shownotes:**
+
+  * [GitHub: Hannes' Fork von insaned](https://github.com/hannesrauhe/insaned)
+  * [GitHub: Hannes' Scripte für insaned](https://github.com/hannesrauhe/hr-scan)
+  * [Github: Paperless NG](https://github.com/jonaswinkler/paperless-ng)
+  * [FOSDEM 2021](https://fosdem.org/2021/)
+  * [streamlit](https://streamlit.io/)
+  * [DiVOC reboot to respawn](https://di.c3voc.de/r2r:start)
+  * [Sammlung der Stellungnahmen zu IT-Sicherheitsgesetz bei Linus Neumann](https://linus-neumann.de/2021/03/stellungnahme-zum-it-sicherheitsgesetz-2-0/)
+  * [Wikipedia: WannaCry](https://de.wikipedia.org/wiki/WannaCry)
+  * [Golem zur Debatte um das Geheimhalten von Sicherheitslücken](https://www.golem.de/news/debatte-nach-wanna-cry-sicherheitsluecken-veroeffentlichen-oder-zurueckhacken-1705-128024.html)
+  * [Golem über den Wasserwerkshack](https://www.golem.de/news/usa-hacker-manipulieren-wasser-in-aufbereitungsanlage-2102-154024.html)
+  * [Wikipedia: USS Enterprise NCC-1701](https://de.wikipedia.org/wiki/Raumschiffe_und_Raumstationen_im_Star-Trek-Universum#Raumschiffe_mit_dem_Namensbestandteil_Enterprise)
+  * [Wikipedia: Schmelzsicherung](https://de.wikipedia.org/wiki/Schmelzsicherung#NEOZED)
+  * [MAZ: Kokain-Verkäufe per Lieferservice](https://www.maz-online.de/Nachrichten/Berlin/Berlin-2200-Kokain-Verkaeufe-per-Lieferservice-Dealer-Bande-Kokain-Taxis-gefasst)
+  * [Arte: Xenius über das Darknet](https://www.arte.tv/de/videos/092141-018-A/xenius-das-darknet/)
+  * [Das Tor Projekt](https://www.torproject.org/)
+  * [GalileoSats auf Twitter: Abdriften der Satelliten]https://twitter.com/GalileoSats/status/1338412792362123266
+  * [FabAccess](https://fab-access.org/de/projects/fabaccess/)
+
+  * &#x1f3b6;&nbsp;[FMA: Tri-Tachyon - Little Lily Swing](https://freemusicarchive.org/music/Tri-Tachyon/the-kleptotonic-ep/little-lily-swing)
+  * &#x1f3b6;&nbsp;[FMA: Chad Crouch - Algorithms](https://freemusicarchive.org/music/Chad_Crouch/Arps/Algorithms)
