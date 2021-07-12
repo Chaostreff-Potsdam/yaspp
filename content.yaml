@@ -1317,3 +1317,73 @@ long_summary_md: |
 
   * &#x1f3b6;&nbsp;[FMA: Tri-Tachyon - Little Lily Swing](https://freemusicarchive.org/music/Tri-Tachyon/the-kleptotonic-ep/little-lily-swing)
   * &#x1f3b6;&nbsp;[FMA: Chad Crouch - Algorithms](https://freemusicarchive.org/music/Chad_Crouch/Arps/Algorithms)
+---
+uuid:     nt-2021-04-12
+title:    CiR am 12.04.2021
+subtitle: Der Chaostreff im Freien Radio Potsdam
+summary:  >
+  Gini, Cyroxx, Knurps und Hannes korrigieren alte Fehler, klären über alten Schwurbel auf und entwickeln neuen. Außerdem geht's ums DiVoC und Daten bei Facebook
+publicationDate: "2021-07-08T00:03:00+01:00"
+audio:
+  - url:      $media_base_url/2021_04_12-chaos-im-radio.mp3
+    mimeType: audio/mp3
+chapters:
+  - start: '00:00:00'
+    title: 'Intro'
+  - start: '00:00:30'
+    title: 'Fehlende Wasserwerke'
+  - start: '00:03:20'
+    title: 'Wasservitalisierer und anderer Schwurbel'
+  - start: '00:11:20'
+    title: 'Machbar und Freiland-Geburtstag'
+  - start: '00:15:02'
+    title: 'sawsquarenoise - Boss Theme'
+    href: 'https://freemusicarchive.org/music/sawsquarenoise/dojokratos/boss-theme'
+  - start: '00:16:32'
+    title: 'Knurps Schenidekünste und Chaos Feedback'
+  - start: '00:18:00'
+    title: 'Software Pick of the Month'
+  - start: '00:30:00'
+    title: 'Rezo'
+  - start: '00:34:00'
+    title: 'DiVOC - Reboot to Respawn und Gleichberechtigung'
+  - start: '00:46:07'
+    title: 'Audiobinger - Letter to Summer'
+    href: 'https://freemusicarchive.org/music/Audiobinger/quarantine-beats-vol-2/letter-to-summer'
+  - start: '00:49:32'
+    title: 'Gefaelschte SMS von DHL'
+  - start: '01:00:00'
+    title: 'Derek Clegg - Since Seventeen'
+    href: 'https://freemusicarchive.org/music/Derek_Clegg/the-middler/since-seventeen'
+long_summary_md: |
+  **Shownotes:**
+
+  * Wasserwerk Statistiken bei Statista: https://de.statista.com/statistik/daten/studie/289703/umfrage/anzahl-der-wasserversorgungsunternehmen-in-deutschland-nach-anzahl-der-versorgten-einwohner/
+
+  * Wasservitalisierer: https://twitter.com/bnetza/status/1370316572993142795
+
+  * Vollbitverschlüsselung vom Kryptochef im Webarchiv: https://web.archive.org/web/20140517202802/http://kryptochef.net/
+
+  * Software Picks of the Month:
+    - Paperless NG: https://github.com/jonaswinkler/paperless-ng (schon wieder)
+    - Folge über Paperless: https://radio.ccc-p.org/#nt-2021-03-08
+    - Chaosflix: https://github.com/NiciDieNase/chaosflix
+    - Gadgetbridge: https://www.gadgetbridge.org/
+    - F-Droid: https://f-droid.org/
+    - OpenScale: https://f-droid.org/en/packages/com.health.openscale/
+
+  * Rezo - Zerstörung der CDU: https://www.youtube.com/watch?v=4Y1lZQsyuSQ
+
+  * Vorträge vom DiVOC: https://media.ccc.de/c/divoc_r2r
+
+  * Facebook Nutzerdaten veröffentlicht um gefälschte SMS zu verschicken: https://www.heise.de/news/Daten-hunderter-Millionen-Facebook-Nutzer-erneut-im-Netz-entdeckt-6005192.html
+
+  * Nachschauen, ob die eigene Telefonnummer oder E-Mail-Adresse in einem Datensatz auftauchen: https://haveibeenpwned.com/ oder https://sec.hpi.de/ilc/?lang=de
+
+  * Gefälschte SMS von DHL: https://twitter.com/DHLPaket/status/1379784299298369536
+
+  * Chaosradio zum Thema Hackathons: https://chaosradio.de/cr267-hackathons
+
+  * &#x1f3b6;&nbsp;[FMA: sawsquarenoise - Boos Theme](https://freemusicarchive.org/music/sawsquarenoise/dojokratos/boss-theme)
+  * &#x1f3b6;&nbsp;[FMA: Audiobinger - Letter to Summer](https://freemusicarchive.org/music/Audiobinger/quarantine-beats-vol-2/letter-to-summer)
+  * &#x1f3b6;&nbsp;[FMA: Derek Clegg - Since Seventeen](https://freemusicarchive.org/music/Derek_Clegg/the-middler/since-seventeen)
