@@ -1317,3 +1317,54 @@ long_summary_md: |
 
   * &#x1f3b6;&nbsp;[FMA: Tri-Tachyon - Little Lily Swing](https://freemusicarchive.org/music/Tri-Tachyon/the-kleptotonic-ep/little-lily-swing)
   * &#x1f3b6;&nbsp;[FMA: Chad Crouch - Algorithms](https://freemusicarchive.org/music/Chad_Crouch/Arps/Algorithms)
+---
+uuid:     nt-2021-07-12
+title:    CiR am 12.07.2021
+subtitle: Der Chaostreff im Freien Radio Potsdam
+summary:  >
+  Diesmal beleuchten wir den Ransomware-Angriff, der unter anderem in Schweden die Lebensmittelkette Coop außer Gefecht gesetzt hat.
+  Außerdem geht es kurz um den neuen WLAN-Funkstandard Wifi 6.
+  Am Ende erörtern wir ein paar Gedanken zu "Digital Literacy" und warum technischer Fortschritt auch nachteilig sein kann.
+publicationDate: "2021-07-14T00:03:00+01:00"
+audio:
+  - url:      $media_base_url/2021_07_12-chaos-im-radio.mp3
+    mimeType: audio/mp3
+chapters:
+  - start: '00:00:00'
+    title: 'Kaseya'
+  - start: '00:26:00'
+    title: 'Content Delivery Networks'
+  - start: '00:33:00'
+    title: 'Wahlen: Digitalisierung und Beeinflussung'
+  - start: '00:39:00'
+    title: 'Neuer WLAN-Standard: Wifi 6'
+  - start: '00:43:00'
+    title: 'Digital Literacy'
+long_summary_md: |
+  **Shownotes:**
+
+  * ZScaler: [Kaseya Supply Chain Ransomware Attack - Technical Analysis of the REvil Payload](https://www.zscaler.com/blogs/security-research/kaseya-supply-chain-ransomware-attack-technical-analysis-revil-payload)
+  * F-Secure: [The Kaseya ransomware case continues ransomware groups’ abuse of trust](https://blog.f-secure.com/the-kaseya-ransomware-case-continues-ransomware-groups-abuse-of-trust/)
+  * Heise: [Kaseya VSA: Wie die Lieferketten-Angriffe abliefen und was sie für uns bedeuten](https://www.heise.de/hintergrund/Kaseya-VSA-Wie-die-Lieferketten-Angriffe-abliefen-und-was-sie-fuer-uns-bedeuten-6129656.html?seite=all)
+  * Borncity: [Neues zum Kaseya VSA-Lieferkettenangriff und zum Coop-Schweden-Fall](https://www.borncity.com/blog/2021/07/05/neues-zum-kaseya-vsa-lieferkettenangriff-und-zum-coop-schweden-fall/)
+  * Heise: [Etliche US-Behörden und Firmen weltweit gehackt](https://www.golem.de/news/malware-etliche-us-behoerden-und-firmen-weltweit-gehackt-2012-152819.html)
+  * Heise: [US-Ermittler: Massiver Hackerangriff geht weit über SolarWinds hinaus](https://www.heise.de/news/US-Ermittler-Massiver-Hackerangriff-geht-weit-ueber-SolarWinds-hinaus-5041427.html)
+  * Hape Kerkeling in "Kein Pardon": ["Bitte werfen Sie eine Münze ein!"](https://www.youtube.com/watch?v=eXm1i5ED5ZQ)
+  * Wikipedia: [LOVEINT](https://de.wikipedia.org/wiki/LOVEINT)
+  * Slate: [How NSA Spies Abused Their Powers to Snoop on Girlfriends, Lovers, and First Dates](https://slate.com/technology/2013/09/loveint-how-nsa-spies-snooped-on-girlfriends-lovers-and-first-dates.html)
+  * The Verge: [Microsoft’s Blue Screen of Death is changing to black in Windows 11](https://www.theverge.com/2021/7/1/22559852/microsoft-windows-11-black-blue-screen-of-death-bsod-change)
+  * Youtube: [Bill Gates - Bluescreen in Win98 Presentation](https://www.youtube.com/watch?v=yeUyxjLhAxU)
+  * Wikipedia: [Content Delivery Network (CDN)](https://de.wikipedia.org/wiki/Content_Delivery_Network)
+  * Heise: [Das Internet ist kaputt – fastly-Probleme bremsen zahlreiche Websites aus](https://www.heise.de/news/Das-Internet-ist-kaputt-zahlreiche-Webseiten-down-6065217.html)
+  * T-Online: ["Jackpotting" - Hacker plündern Dutzende Geldautomaten](https://www.t-online.de/digital/sicherheit/id_86642006/-jackpotting-hacker-pluendern-dutzende-geldautomaten-mit-hilfe-von-schadsoftware.html)
+  * Golem: [Zulassung für 6-GHz-WLAN in der EU abgeschlossen](https://www.golem.de/news/wi-fi-6e-zulassung-fuer-6-ghz-wlan-in-der-eu-abgeschlossen-2107-157789.html) - Wifi 6E bzw. 802.11ax
+  * [Damals(tm) Podcast](https://damals-tm-podcast.de/)
+  * Digital Literacy - so gut bzw. schlecht wie nie?
+      * [Der Fall mit dem ausfüllbaren PDF](https://twitter.com/WombatHB/status/1366687340098449409)
+      * [E-Mails abrufen per App](https://twitter.com/ptroeger/status/1364146139482648577)
+      * [What is an Ethernet cable?](https://www.businessinsider.com/what-is-an-ethernet-cable)
+      * MDR: [Thüringen startet Förderprogramm gegen Wegwerf-Mentalität](https://www.mdr.de/nachrichten/thueringen/umweltministerium-foerderprogramm-reparieren-elektrogeraete-100.html)
+      * [Reparaturbonus Thüringen](https://www.reparaturbonus-thueringen.de/)
+  * [Do you need a blockchain?](http://doyouneedablockchain.com/)
+  * [Vintage Computer Festival Berlin](https://vcfb.de)
+  * [Timbuk 3 - Future's So Bright](https://www.youtube.com/watch?v=8qrriKcwvlY)
