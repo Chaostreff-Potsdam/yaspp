@@ -1317,3 +1317,55 @@ long_summary_md: |
 
   * &#x1f3b6;&nbsp;[FMA: Tri-Tachyon - Little Lily Swing](https://freemusicarchive.org/music/Tri-Tachyon/the-kleptotonic-ep/little-lily-swing)
   * &#x1f3b6;&nbsp;[FMA: Chad Crouch - Algorithms](https://freemusicarchive.org/music/Chad_Crouch/Arps/Algorithms)
+---
+uuid:     nt-2021-04-12
+title:    CiR am 12.04.2021
+subtitle: Der Chaostreff im Freien Radio Potsdam
+summary:  >
+  Gini, Cyroxx, Knurps und Hannes diskutieren gut gelaunt das papierlose Büro, schlecht gelaunt das IT Sicherheitsgesetz, und waren zum großen Teil noch nicht im Darknet.
+publicationDate: "2021-07-08T00:03:00+01:00"
+audio:
+  - url:      $media_base_url/2021_04_12-chaos-im-radio.mp3
+    mimeType: audio/mp3
+chapters:
+  - start: '00:00:00'
+    title: 'Intro'
+  - start: '00:00:30'
+    title: 'Fehlende Wasserwerke'
+  - start: '00:03:20'
+    title: 'Wasservitalisierer und anderer Schwurbel'
+  - start: '00:10:40'
+    title: 'Machbar und Freiland-Geburtstag'
+  - start: '00:14:20'
+    title: ' - Boss Theme'
+    href: 'https://freemusicarchive.org/music/'
+  - start: '00:16:00'
+    title: 'Knurps Schenidekünste und Chaos Feedback'
+  - start: '00:18:00'
+    title: 'Software Pick of the Month'
+  - start: '00:36:47'
+    title: 'Wasserwerkshack'
+  - start: '00:39:53'
+    title: 'Chad Crouch - Algorithms (mit unserem Gelaber)'
+    href: 'https://freemusicarchive.org/music/Chad_Crouch/Arps/Algorithms'
+  - start: '00:42:30'
+    title: 'Hannes hat ne kaputte Sicherung'
+  - start: '00:46:00'
+    title: 'Blitzableiter im Sicherungskasten'
+  - start: '00:49:57'
+    title: 'Drogentaxis und das Darknet'
+  - start: '00:55:36'
+    title: 'Hackademy und FabAccess'
+long_summary_md: |
+  **Shownotes:**
+
+  * Wasserwerk Statistiken
+
+  * Wasservitalisierer
+
+  * Vollbitverschlüsselung vom Cryptochef
+
+  * Software Pick of the Month: Paperless Ng
+
+  * &#x1f3b6;&nbsp;[FMA: - Boos Theme](https://freemusicarchive.org/music/)
+  * &#x1f3b6;&nbsp;[FMA: - ](https://freemusicarchive.org/music/)
