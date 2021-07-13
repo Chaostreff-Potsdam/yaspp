@@ -1317,3 +1317,62 @@ long_summary_md: |
 
   * &#x1f3b6;&nbsp;[FMA: Tri-Tachyon - Little Lily Swing](https://freemusicarchive.org/music/Tri-Tachyon/the-kleptotonic-ep/little-lily-swing)
   * &#x1f3b6;&nbsp;[FMA: Chad Crouch - Algorithms](https://freemusicarchive.org/music/Chad_Crouch/Arps/Algorithms)
+---
+uuid:     nt-2021-06-14
+title:    CiR am 14.06.2021
+subtitle: Der Chaostreff im Freien Radio Potsdam
+summary:  >
+  Gini, Cyroxx und Knurps quatschen über gute Laune, Failures in der IT und versprechen Shownotes.
+publicationDate: "2021-07-13T00:03:00+01:00"
+audio:
+  - url:      $media_base_url/2021_04_12-chaos-im-radio.mp3
+    mimeType: audio/mp3
+chapters:
+  - start: '00:00:00'
+    title: 'Creepy Cyber Intro, Corona Lockerungen und Impftermine'
+  - start: '00:15:10'
+    title: 'Ransomware an der TU Berlin'
+  - start: '00:19:55'
+    title: 'Melodysheep - Rebirth'
+    href: 'https://melodysheep.bandcamp.com/track/rebirth-3'
+  - start: '00:23:10'
+    title: 'Leere Versprechungen über Shownotes und mehr Themen'
+  - start: '00:25:30'
+    title: 'KI zum Bilder einfärben'
+  - start: '00:36:55'
+    title: 'Audiobinger - Letter to Summer'
+    href: 'https://freemusicarchive.org/music/Audiobinger/quarantine-beats-vol-2/letter-to-summer'
+  - start: '00:40:18'
+    title: 'Zahlensender'
+  - start: '00:45:00'
+    title: 'Random Failures mit Namen'
+  - start: '00:58:30'
+    title: 'Manuele Atzeni - Little Star'
+    href: 'https://freemusicarchive.org/music/Manuele_Atzeni/The_Miyazaki_Tour_EP/Little_Star'
+long_summary_md: |
+  **Shownotes:**
+  * Menschen, die denken, dass sie durch Impfungen magnetisch werde: https://youtu.be/qWI0YiSmTKs?t=76
+  * Google führt SAP Software ein: https://www.tagesschau.de/wirtschaft/unternehmen/sap-google-buchhaltungssoftware-101.html
+  * Cyberangriff auf die TU Berlin: https://www.heise.de/news/Cyberangriff-TU-Berlin-rechnet-mit-monatelangen-IT-Einschraenkungen-6061688.html
+
+  * KI färbt schwarz-weiße Bilder ein: https://twitter.com/gwenckatz/status/1381652071695351810?s=19
+  * zu den tristen Farben der KI: https://www.youtube.com/watch?v=9kqMUmIOrTU
+  * Wir hätten gern das aschgrau (Ödipussi) https://www.youtube.com/watch?v=9kqMUmIOrTU
+  * Nina Hagen - Du hast den Farbfilm vergessen (Subtitulado) https://www.youtube.com/watch?v=EKe9ybFDQ1A
+
+  * Damals(TM) Podcast über das Telegrafenamt: https://damals-tm-podcast.de/index.php/2021/04/09/dtm083_telegrafenamt/
+
+  * https://de.wikipedia.org/wiki/Zahlensender
+
+  * Frau True kann iCloud nicht benutzen: https://twitter.com/meltrue7/status/1368877761683677184 (+1)
+  * NULL ist kein gutes Kennzeichen: https://www.golem.de/news/wunschkennzeichen-warum-null-kein-gutes-nummernschild-ist-1908-143211.html
+  * https://de.wikipedia.org/wiki/YAML
+
+  * https://www.kalzumeus.com/2010/06/17/falsehoods-programmers-believe-about-names/
+  * https://github.com/kdeldycke/awesome-falsehood
+
+  * https://de.wikipedia.org/wiki/FMEA
+
+  * &#x1f3b6;&nbsp;[Melodysheep - Rebirth](https://melodysheep.bandcamp.com/track/rebirth-3)
+  * &#x1f3b6;&nbsp;[FMA: Audiobinger - Letter to Summer](https://freemusicarchive.org/music/Audiobinger/quarantine-beats-vol-2/letter-to-summer)
+  * &#x1f3b6;&nbsp;[FMA: Manuele Atzeni - Little Star](https://freemusicarchive.org/music/Manuele_Atzeni/The_Miyazaki_Tour_EP/Little_Star)
