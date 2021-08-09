@@ -26,5 +26,5 @@ How to do this with [ffmpeg](https://ffmpeg.org/) and [mp3chaps](https://pypi.or
 		-metadata artist="Chaostreff Potsdam" -metadata publisher="Chaostreff Potsdam" \
 		-metadata date=$NT_YEAR \
 		-metadata:s:v title="Album cover" -metadata:s:v comment="Cover (front)" <outputfile.mp3>
-	mp3chaps -i <outputfile.mp3>  # While having a <outputfile.chapters.mp3>
+	mp3chaps -i <outputfile.mp3>  # While having a <outputfile.chapters.txt>
 
