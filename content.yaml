@@ -1552,9 +1552,12 @@ long_summary_md: |
 
   *
 
-  * &#x1f3b6;&nbsp;[FMA: ](https://freemusicarchive.org/)
-  * &#x1f3b6;&nbsp;[FMA: ](https://freemusicarchive.org/)
-  * &#x1f3b6;&nbsp;[FMA: ](https://freemusicarchive.org/)
+
+
+
+  * &#x1f3b6;&nbsp;[FMA: Ketsa - Triple](https://freemusicarchive.org/music/Ketsa/as-above-so-below/triple)
+  * &#x1f3b6;&nbsp; Live vom Camp: Third Attempt - Things You Preach
+  * &#x1f3b6;&nbsp;[FMA: Springtide - Driving a Blue Car](https://freemusicarchive.org/music/springtide/remixed-and-reconstructed/driving-a-blue-car)
 ---
 uuid:     nt-2021-10-11
 title:    CiR am 11.10.2021
@@ -1570,11 +1573,18 @@ chapters:
     title: 'Intro'
   - start: '00:02:30'
     title: 'IDWallet'
+  - start: '00:48:02'
+    title: 'Facebook down'
+  - start: '00:57:02'
+    title: 'Facebook down'
 long_summary_md: |
   **Shownotes:**
 
   * https://lilithwittmann.medium.com/mit-der-id-wallet-kannst-du-alles-und-jeder-sein-au%C3%9Fer-du-musst-dich-ausweisen-829293739fa0
+  * http://doyouneedablockchain.com/
 
-  * &#x1f3b6;&nbsp;[FMA: ](https://freemusicarchive.org/)
-  * &#x1f3b6;&nbsp;[FMA: ](https://freemusicarchive.org/)
-  * &#x1f3b6;&nbsp;[FMA: ](https://freemusicarchive.org/)
+  * Facebook down:
+    * https://blog.cloudflare.com/october-2021-facebook-outage/
+    * https://krebsonsecurity.com/2021/10/what-happened-to-facebook-instagram-whatsapp/
+    * https://www.cloudflare.com/learning/security/glossary/what-is-bgp/
+    * BGP for Dummies: https://twitter.com/ErrataRob/status/1445129721168158726
