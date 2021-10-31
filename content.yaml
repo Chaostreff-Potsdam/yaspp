@@ -1495,11 +1495,13 @@ audio:
 chapters:
   - start: '00:00:00'
     title: 'Intro und Kaseya'
+  - start: '00:06:40'
+    title: 'WICCA SUMMERSchool'
 long_summary_md: |
   **Shownotes:**
 
   * Kaseya: ist mittlerweile an ein Entschlüsselungsprogramm gegen die Ransomware von REvil gekommen: https://twitter.com/kevincollier/status/1418231803429675008?s=19
-  * WICCA SUMMERSchool (Women in Cybersecurity community association) -> summerschool (https://womenofwicca.nl/ // https://www.eventbrite.com/e/wicca-summer-school-tickets-151664090377) https://www.meetup.com/de-DE/wiccaNL/events/278223280/
+  * WICCA SUMMERSchool (Women in Cybersecurity community association) -> summerschool: https://womenofwicca.nl/)
   * (Ent)Gendern nach Phettberg https://www.bedeutungonline.de/gendern-mit-y-wie-funktioniert-gendern-nach-phettberg-bedeutung-definition-erklaerung/
   * Potsdam
       * https://www.maz-online.de/Lokales/Potsdam/Neue-Wifi-Hotspots-in-Potsdam-Gratis-WLAN-fuer-Behoerden-statt-fuer-Buerger
@@ -1549,7 +1551,7 @@ uuid:     nt-2021-10-11
 title:    CiR am 11.10.2021
 subtitle: Der Chaostreff im Freien Radio Potsdam
 summary:  >
-  Gini, Cyroxx und Knurps haben Fluepke eingeladen um über IDWallet zu reden und haben auch sonst einen bunten Strauß an Themen.
+  Gini, Cyroxx und Knurps haben Fluepke eingeladen um über IDWallet zu reden und über alles was sonst noch so in der IT kaputt ist.
 publicationDate: "2021-31-10T08:05:00+02:00"
 audio:
   - url:      $media_base_url/2021_10_11-chaos-im-radio.mp3
