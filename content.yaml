@@ -1487,22 +1487,48 @@ uuid:     nt-2021-08-09
 title:    CiR am 9.8.2021
 subtitle: Der Chaostreff im Freien Radio Potsdam
 summary:  >
+  Knurps, Cyroxx, Gini und Hannes reden über Ransomware, (Ent/Ge-)genderte Sprache, Infrastruktur-Katastrophen und den Schutz vor all dem.
 publicationDate: "2021-31-10T08:05:00+02:00"
 audio:
   - url:      $media_base_url/2021_08_09-chaos-im-radio.mp3
     mimeType: audio/mp3
 chapters:
   - start: '00:00:00'
-    title: 'Intro'
+    title: 'Intro und Kaseya'
 long_summary_md: |
   **Shownotes:**
 
-  *
+  * Kaseya: ist mittlerweile an ein Entschlüsselungsprogramm gegen die Ransomware von REvil gekommen: https://twitter.com/kevincollier/status/1418231803429675008?s=19
+  * WICCA SUMMERSchool (Women in Cybersecurity community association) -> summerschool (https://womenofwicca.nl/ // https://www.eventbrite.com/e/wicca-summer-school-tickets-151664090377) https://www.meetup.com/de-DE/wiccaNL/events/278223280/
+  * (Ent)Gendern nach Phettberg https://www.bedeutungonline.de/gendern-mit-y-wie-funktioniert-gendern-nach-phettberg-bedeutung-definition-erklaerung/
+  * Potsdam
+      * https://www.maz-online.de/Lokales/Potsdam/Neue-Wifi-Hotspots-in-Potsdam-Gratis-WLAN-fuer-Behoerden-statt-fuer-Buerger
+      * https://www.maz-online.de/Lokales/Potsdam/WLAN-in-der-Tram-das-sagen-die-Potsdamer
+      * https://www.brandenburgwlan.de/#/
+  * Audacity
+      * https://www.heise.de/news/Muse-uebernimmt-Audio-Software-Audacity-6034340.html
+      * https://www.heise.de/news/Audacity-Entwickler-verunsichern-Anwender-mit-neuen-Lizenzplaenen-6060798.html
+  * Stromnetz-Trennung die 325.
+      * https://futurezone.at/digital-life/stromnetz-stoerung-europa-blackout/401455975
+  * Hochwasser im Juli
+      * Katastrophenschutz/Bevölkerungsschutz
+      * Warnmeldungen NINA
+      * Warnungen MoWaS/WDR vs Radio Wuppertal
+      * Cell Broadcast
+      * Verschiebung des Warntags um ein Jahr
+  * Amazon Will Pay You $10 in Credit for Your Palm Print Biometrics https://m.slashdot.org/story/388541
+  * Alles ist eins ausser der 0 - Dienstag, 14:30 im Thalia. https://allesisteins.film/
+  * https://soundcloud.com/dinyp/din-mska-s1-folge-1/s-ZjcOixJQsMK
+
+  * &#x1f3b6;&nbsp;[FMA: ](https://freemusicarchive.org/music/Lobo_Loco/aa-sea/some-good-guys-id-1316)
+  * &#x1f3b6;&nbsp;[FMA: ](https://freemusicarchive.org/)
+  * &#x1f3b6;&nbsp;[FMA: ](https://freemusicarchive.org/)
 ---
 uuid:     nt-2021-09-13
 title:    CiR am 13.9.2021
 subtitle: Der Chaostreff im Freien Radio Potsdam
 summary:  >
+  Nach Monaten des Pandemie-Home-Studios ein besonderes Live-Erlebnis mit den vier Radio-Chaoten Knurps, Cyroxx, Gini und Hannes im frrapo-Freiland-Studio. Technische Probleme ungefiltert, und eine Auswertung des Camps.
 publicationDate: "2021-31-10T08:05:00+02:00"
 audio:
   - url:      $media_base_url/2021_09_13-chaos-im-radio.mp3
@@ -1514,11 +1540,16 @@ long_summary_md: |
   **Shownotes:**
 
   *
+
+  * &#x1f3b6;&nbsp;[FMA: ](https://freemusicarchive.org/)
+  * &#x1f3b6;&nbsp;[FMA: ](https://freemusicarchive.org/)
+  * &#x1f3b6;&nbsp;[FMA: ](https://freemusicarchive.org/)
 ---
 uuid:     nt-2021-10-11
 title:    CiR am 11.10.2021
 subtitle: Der Chaostreff im Freien Radio Potsdam
 summary:  >
+  Gini, Cyroxx und Knurps haben Fluepke eingeladen um über IDWallet zu reden und haben auch sonst einen bunten Strauß an Themen.
 publicationDate: "2021-31-10T08:05:00+02:00"
 audio:
   - url:      $media_base_url/2021_10_11-chaos-im-radio.mp3
@@ -1526,7 +1557,13 @@ audio:
 chapters:
   - start: '00:00:00'
     title: 'Intro'
+  - start: '00:02:30'
+    title: 'IDWallet'
 long_summary_md: |
   **Shownotes:**
 
-  *
+  * https://lilithwittmann.medium.com/mit-der-id-wallet-kannst-du-alles-und-jeder-sein-au%C3%9Fer-du-musst-dich-ausweisen-829293739fa0
+
+  * &#x1f3b6;&nbsp;[FMA: ](https://freemusicarchive.org/)
+  * &#x1f3b6;&nbsp;[FMA: ](https://freemusicarchive.org/)
+  * &#x1f3b6;&nbsp;[FMA: ](https://freemusicarchive.org/)
