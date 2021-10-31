@@ -1546,14 +1546,19 @@ audio:
     mimeType: audio/mp3
 chapters:
   - start: '00:00:00'
-    title: 'Intro'
+    title: 'Intro und jede Menge Startschwiergikeiten'
+  - start: '00:12:50'
+    title: 'Ketsa - Triple'
+    href: 'https://freemusicarchive.org/music/Ketsa/as-above-so-below/triple'
+  - start: '00:16:30'
+    title: 'Das Camp'
 long_summary_md: |
   **Shownotes:**
 
-  *
+  * https://thereisno.camp/
 
-
-
+  * https://www.quad9.net/de/news/blog/quad9-legt-widerspruch-gegen-deutsches-gerichtsurteil-von-sony-music-ein
+  * https://freiheitsrechte.org/pm-quad9/
 
   * &#x1f3b6;&nbsp;[FMA: Ketsa - Triple](https://freemusicarchive.org/music/Ketsa/as-above-so-below/triple)
   * &#x1f3b6;&nbsp; Live vom Camp: Third Attempt - Things You Preach
@@ -1574,8 +1579,6 @@ chapters:
   - start: '00:02:30'
     title: 'IDWallet'
   - start: '00:48:02'
-    title: 'Facebook down'
-  - start: '00:57:02'
     title: 'Facebook down'
 long_summary_md: |
   **Shownotes:**
