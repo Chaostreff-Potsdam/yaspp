@@ -1495,36 +1495,45 @@ audio:
 chapters:
   - start: '00:00:00'
     title: 'Intro und Kaseya'
-  - start: '00:06:40'
+  - start: '00:07:05'
     title: 'WICCA SUMMERSchool'
+  - start: '00:11:13'
+    title: 'Entgendern nach Phettberg'
+  - start: '00:18:50'
+    title: 'WLAN in Potsdam'
+  - start: '00:27:40'
+    title: 'Audacity'
+  - start: '00:32:37'
+    title: 'Lobo Loco - Some Good Guys'
+    href: 'https://freemusicarchive.org/music/Lobo_Loco/aa-sea/some-good-guys-id-1316'
+  - start: '00:37:20'
+    title: 'Stromnetze und Hochwasserschutz'
+  - start: '00:51:50'
+    title: 'Biometrische Daten'
+  - start: '01:00:00'
+    title: 'Tri Tachyon - Little Lily Swing'
+    href: 'https://freemusicarchive.org/music/Tri-Tachyon/the-kleptotonic-ep/little-lily-swing'
 long_summary_md: |
   **Shownotes:**
 
   * Kaseya: ist mittlerweile an ein Entschlüsselungsprogramm gegen die Ransomware von REvil gekommen: https://twitter.com/kevincollier/status/1418231803429675008?s=19
   * WICCA SUMMERSchool (Women in Cybersecurity community association) -> summerschool: https://womenofwicca.nl/)
-  * (Ent)Gendern nach Phettberg https://www.bedeutungonline.de/gendern-mit-y-wie-funktioniert-gendern-nach-phettberg-bedeutung-definition-erklaerung/
+  * (Ent)Gendern nach Phettberg: https://www.bedeutungonline.de/gendern-mit-y-wie-funktioniert-gendern-nach-phettberg-bedeutung-definition-erklaerung/
   * Potsdam
       * https://www.maz-online.de/Lokales/Potsdam/Neue-Wifi-Hotspots-in-Potsdam-Gratis-WLAN-fuer-Behoerden-statt-fuer-Buerger
       * https://www.maz-online.de/Lokales/Potsdam/WLAN-in-der-Tram-das-sagen-die-Potsdamer
       * https://www.brandenburgwlan.de/#/
+  * Goodhart's Law: https://en.wikipedia.org/wiki/Goodhart%27s_law
   * Audacity
       * https://www.heise.de/news/Muse-uebernimmt-Audio-Software-Audacity-6034340.html
       * https://www.heise.de/news/Audacity-Entwickler-verunsichern-Anwender-mit-neuen-Lizenzplaenen-6060798.html
-  * Stromnetz-Trennung die 325.
-      * https://futurezone.at/digital-life/stromnetz-stoerung-europa-blackout/401455975
-  * Hochwasser im Juli
-      * Katastrophenschutz/Bevölkerungsschutz
-      * Warnmeldungen NINA
-      * Warnungen MoWaS/WDR vs Radio Wuppertal
-      * Cell Broadcast
-      * Verschiebung des Warntags um ein Jahr
+  * Stromnetz-Trennung die 325: https://futurezone.at/digital-life/stromnetz-stoerung-europa-blackout/401455975
   * Amazon Will Pay You $10 in Credit for Your Palm Print Biometrics https://m.slashdot.org/story/388541
   * Alles ist eins ausser der 0 - Dienstag, 14:30 im Thalia. https://allesisteins.film/
   * https://soundcloud.com/dinyp/din-mska-s1-folge-1/s-ZjcOixJQsMK
 
-  * &#x1f3b6;&nbsp;[FMA: ](https://freemusicarchive.org/music/Lobo_Loco/aa-sea/some-good-guys-id-1316)
-  * &#x1f3b6;&nbsp;[FMA: ](https://freemusicarchive.org/)
-  * &#x1f3b6;&nbsp;[FMA: ](https://freemusicarchive.org/)
+  * &#x1f3b6;&nbsp;[FMA: Lobo Loco - Some Good Guys](https://freemusicarchive.org/music/Lobo_Loco/aa-sea/some-good-guys-id-1316)
+  * &#x1f3b6;&nbsp;[FMA: Tri Tachyon - Little Lily Swing](https://freemusicarchive.org/music/Tri-Tachyon/the-kleptotonic-ep/little-lily-swing)
 ---
 uuid:     nt-2021-09-13
 title:    CiR am 13.9.2021
