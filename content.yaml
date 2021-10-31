@@ -1488,7 +1488,7 @@ title:    CiR am 9.8.2021
 subtitle: Der Chaostreff im Freien Radio Potsdam
 summary:  >
   Knurps, Cyroxx, Gini und Hannes reden über Ransomware, (Ent/Ge-)genderte Sprache, Infrastruktur-Katastrophen und den Schutz vor all dem.
-publicationDate: "2021-31-10T08:05:00+02:00"
+publicationDate: "2021-11-06T08:05:00+02:00"
 audio:
   - url:      $media_base_url/2021_08_09-chaos-im-radio.mp3
     mimeType: audio/mp3
@@ -1540,28 +1540,46 @@ title:    CiR am 13.9.2021
 subtitle: Der Chaostreff im Freien Radio Potsdam
 summary:  >
   Nach Monaten des Pandemie-Home-Studios ein besonderes Live-Erlebnis mit den vier Radio-Chaoten Knurps, Cyroxx, Gini und Hannes im frrapo-Freiland-Studio. Technische Probleme ungefiltert, und eine Auswertung des Camps.
-publicationDate: "2021-31-10T08:05:00+02:00"
+publicationDate: "2021-11-06T08:05:00+02:00"
 audio:
   - url:      $media_base_url/2021_09_13-chaos-im-radio.mp3
     mimeType: audio/mp3
 chapters:
   - start: '00:00:00'
-    title: 'Intro'
+    title: 'Intro und jede Menge Startschwiergikeiten'
+  - start: '00:12:50'
+    title: 'Ketsa - Triple'
+    href: 'https://freemusicarchive.org/music/Ketsa/as-above-so-below/triple'
+  - start: '00:16:30'
+    title: 'Das Camp'
+  - start: '00:44:11'
+    title: 'Third Attempt - Things You Preach'
+  - start: '00:48:18'
+    title: 'Sony verklagt Quad9'
+  - start: '00:53:50'
+    title: 'Springtide - Driving a Blue Car'
+    href: 'https://freemusicarchive.org/music/springtide/remixed-and-reconstructed/driving-a-blue-car'
 long_summary_md: |
   **Shownotes:**
 
-  *
+  * https://thereisno.camp/
+  * Die Band vom Camp: [Third Attempt auf Instagram](https://www.instagram.com/thirdattemptofficial/)
 
-  * &#x1f3b6;&nbsp;[FMA: ](https://freemusicarchive.org/)
-  * &#x1f3b6;&nbsp;[FMA: ](https://freemusicarchive.org/)
-  * &#x1f3b6;&nbsp;[FMA: ](https://freemusicarchive.org/)
+  * https://de.wikipedia.org/wiki/Gerichtsstand
+  * https://de.wikipedia.org/wiki/Landgericht_Hamburg
+  * https://www.quad9.net/de/news/blog/quad9-legt-widerspruch-gegen-deutsches-gerichtsurteil-von-sony-music-ein
+  * https://freiheitsrechte.org/pm-quad9/
+
+  * &#x1f3b6;&nbsp;[FMA: Ketsa - Triple](https://freemusicarchive.org/music/Ketsa/as-above-so-below/triple)
+  * &#x1f3b6;&nbsp; Live vom Camp: Third Attempt - Things You Preach
+  * &#x1f3b6;&nbsp;[FMA: Springtide - Driving a Blue Car](https://freemusicarchive.org/music/springtide/remixed-and-reconstructed/driving-a-blue-car)
 ---
 uuid:     nt-2021-10-11
 title:    CiR am 11.10.2021
 subtitle: Der Chaostreff im Freien Radio Potsdam
 summary:  >
   Gini, Cyroxx und Knurps haben Fluepke eingeladen um über IDWallet zu reden und über alles was sonst noch so in der IT kaputt ist.
-publicationDate: "2021-31-10T08:05:00+02:00"
+publicationDate: "2021-11-06T08:05:00+02:00"
 audio:
   - url:      $media_base_url/2021_10_11-chaos-im-radio.mp3
     mimeType: audio/mp3
@@ -1570,11 +1588,16 @@ chapters:
     title: 'Intro'
   - start: '00:02:30'
     title: 'IDWallet'
+  - start: '00:48:02'
+    title: 'Facebook down'
 long_summary_md: |
   **Shownotes:**
 
   * https://lilithwittmann.medium.com/mit-der-id-wallet-kannst-du-alles-und-jeder-sein-au%C3%9Fer-du-musst-dich-ausweisen-829293739fa0
+  * http://doyouneedablockchain.com/
 
-  * &#x1f3b6;&nbsp;[FMA: ](https://freemusicarchive.org/)
-  * &#x1f3b6;&nbsp;[FMA: ](https://freemusicarchive.org/)
-  * &#x1f3b6;&nbsp;[FMA: ](https://freemusicarchive.org/)
+  * Facebook down:
+    * https://blog.cloudflare.com/october-2021-facebook-outage/
+    * https://krebsonsecurity.com/2021/10/what-happened-to-facebook-instagram-whatsapp/
+    * https://www.cloudflare.com/learning/security/glossary/what-is-bgp/
+    * BGP for Dummies: https://twitter.com/ErrataRob/status/1445129721168158726
