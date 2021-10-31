@@ -1482,3 +1482,51 @@ long_summary_md: |
   * [Do you need a blockchain?](http://doyouneedablockchain.com/)
   * [Vintage Computer Festival Berlin](https://vcfb.de)
   * [Timbuk 3 - Future's So Bright](https://www.youtube.com/watch?v=8qrriKcwvlY)
+---
+uuid:     nt-2021-08-09
+title:    CiR am 9.8.2021
+subtitle: Der Chaostreff im Freien Radio Potsdam
+summary:  >
+publicationDate: "2021-31-10T08:05:00+02:00"
+audio:
+  - url:      $media_base_url/2021_08_09-chaos-im-radio.mp3
+    mimeType: audio/mp3
+chapters:
+  - start: '00:00:00'
+    title: 'Intro'
+long_summary_md: |
+  **Shownotes:**
+
+  *
+---
+uuid:     nt-2021-09-13
+title:    CiR am 13.9.2021
+subtitle: Der Chaostreff im Freien Radio Potsdam
+summary:  >
+publicationDate: "2021-31-10T08:05:00+02:00"
+audio:
+  - url:      $media_base_url/2021_09_13-chaos-im-radio.mp3
+    mimeType: audio/mp3
+chapters:
+  - start: '00:00:00'
+    title: 'Intro'
+long_summary_md: |
+  **Shownotes:**
+
+  *
+---
+uuid:     nt-2021-10-11
+title:    CiR am 11.10.2021
+subtitle: Der Chaostreff im Freien Radio Potsdam
+summary:  >
+publicationDate: "2021-31-10T08:05:00+02:00"
+audio:
+  - url:      $media_base_url/2021_10_11-chaos-im-radio.mp3
+    mimeType: audio/mp3
+chapters:
+  - start: '00:00:00'
+    title: 'Intro'
+long_summary_md: |
+  **Shownotes:**
+
+  *
