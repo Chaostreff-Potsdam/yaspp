@@ -1484,11 +1484,11 @@ long_summary_md: |
   * [Timbuk 3 - Future's So Bright](https://www.youtube.com/watch?v=8qrriKcwvlY)
 ---
 uuid:     nt-2021-08-09
-title:    CiR am 9.8.2021
+title:    CiR am 09.08.2021
 subtitle: Der Chaostreff im Freien Radio Potsdam
 summary:  >
   Knurps, Cyroxx, Gini und Hannes reden über Ransomware, (Ent/Ge-)genderte Sprache, Infrastruktur-Katastrophen und den Schutz vor all dem.
-publicationDate: "2021-11-06T08:05:00+02:00"
+publicationDate: "2021-11-06T21:51:00+01:00"
 audio:
   - url:      $media_base_url/2021_08_09-chaos-im-radio.mp3
     mimeType: audio/mp3
@@ -1516,31 +1516,30 @@ chapters:
 long_summary_md: |
   **Shownotes:**
 
-  * Kaseya: ist mittlerweile an ein Entschlüsselungsprogramm gegen die Ransomware von REvil gekommen: https://twitter.com/kevincollier/status/1418231803429675008?s=19
-  * WICCA SUMMERSchool (Women in Cybersecurity community association) -> summerschool: https://womenofwicca.nl/)
-  * (Ent)Gendern nach Phettberg: https://www.bedeutungonline.de/gendern-mit-y-wie-funktioniert-gendern-nach-phettberg-bedeutung-definition-erklaerung/
-  * Potsdam
-      * https://www.maz-online.de/Lokales/Potsdam/Neue-Wifi-Hotspots-in-Potsdam-Gratis-WLAN-fuer-Behoerden-statt-fuer-Buerger
-      * https://www.maz-online.de/Lokales/Potsdam/WLAN-in-der-Tram-das-sagen-die-Potsdamer
-      * https://www.brandenburgwlan.de/#/
-  * Goodhart's Law: https://en.wikipedia.org/wiki/Goodhart%27s_law
-  * Audacity
-      * https://www.heise.de/news/Muse-uebernimmt-Audio-Software-Audacity-6034340.html
-      * https://www.heise.de/news/Audacity-Entwickler-verunsichern-Anwender-mit-neuen-Lizenzplaenen-6060798.html
-  * Stromnetz-Trennung die 325: https://futurezone.at/digital-life/stromnetz-stoerung-europa-blackout/401455975
-  * Amazon Will Pay You $10 in Credit for Your Palm Print Biometrics https://m.slashdot.org/story/388541
-  * Alles ist eins ausser der 0 - Dienstag, 14:30 im Thalia. https://allesisteins.film/
-  * https://soundcloud.com/dinyp/din-mska-s1-folge-1/s-ZjcOixJQsMK
+  * Kaseya: ist mittlerweile an ein [Entschlüsselungsprogramm gegen die Ransomware von REvil gekommen](https://twitter.com/kevincollier/status/1418231803429675008?s=19)
+  * [WICCA SUMMERSchool](https://womenofwicca.nl/) (Women in Cybersecurity community association)
+  * [(Ent)Gendern nach Phettberg](https://www.bedeutungonline.de/gendern-mit-y-wie-funktioniert-gendern-nach-phettberg-bedeutung-definition-erklaerung/)
+  * Potsdam:
+      * MAZ: [Neue Wifi Hotspots](https://www.maz-online.de/Lokales/Potsdam/Neue-Wifi-Hotspots-in-Potsdam-Gratis-WLAN-fuer-Behoerden-statt-fuer-Buerger)
+      * MAZ: [WLAN in der Tram](https://www.maz-online.de/Lokales/Potsdam/WLAN-in-der-Tram-das-sagen-die-Potsdamer)
+      * [Brandenburg WLAN](https://www.brandenburgwlan.de/)
+  * Wikipedia: [Goodhart's Law](https://en.wikipedia.org/wiki/Goodhart%27s_law)
+  * Heise: [Muse übernimmt Audio Software Audacity](https://www.heise.de/news/Muse-uebernimmt-Audio-Software-Audacity-6034340.html)
+  * https://www.heise.de/news/Audacity-Entwickler-verunsichern-Anwender-mit-neuen-Lizenzplaenen-6060798.html
+  * FutureZone: [Stromnetz-Trennung die 325](https://futurezone.at/digital-life/stromnetz-stoerung-europa-blackout/401455975)
+  * Slashdot: [Amazon Will Pay You $10 in Credit for Your Palm Print Biometrics](https://m.slashdot.org/story/388541)
+  * [Alles ist eins ausser der 0](https://allesisteins.film/) - Dienstag, 14:30 im Thalia.
+  * [MskA S1/F1 – Warum sollte jede*r Normung kennen?](https://soundcloud.com/dinyp/din-mska-s1-folge-1/s-ZjcOixJQsMK)
 
   * &#x1f3b6;&nbsp;[FMA: Lobo Loco - Some Good Guys](https://freemusicarchive.org/music/Lobo_Loco/aa-sea/some-good-guys-id-1316)
   * &#x1f3b6;&nbsp;[FMA: Tri Tachyon - Little Lily Swing](https://freemusicarchive.org/music/Tri-Tachyon/the-kleptotonic-ep/little-lily-swing)
 ---
 uuid:     nt-2021-09-13
-title:    CiR am 13.9.2021
+title:    CiR am 13.09.2021
 subtitle: Der Chaostreff im Freien Radio Potsdam
 summary:  >
   Nach Monaten des Pandemie-Home-Studios ein besonderes Live-Erlebnis mit den vier Radio-Chaoten Knurps, Cyroxx, Gini und Hannes im frrapo-Freiland-Studio. Technische Probleme ungefiltert, und eine Auswertung des Camps.
-publicationDate: "2021-11-06T08:05:00+02:00"
+publicationDate: "2021-11-06T21:52:00+01:00"
 audio:
   - url:      $media_base_url/2021_09_13-chaos-im-radio.mp3
     mimeType: audio/mp3
@@ -1562,13 +1561,13 @@ chapters:
 long_summary_md: |
   **Shownotes:**
 
-  * https://thereisno.camp/
+  * [thereisno.camp](https://thereisno.camp/)
   * Die Band vom Camp: [Third Attempt auf Instagram](https://www.instagram.com/thirdattemptofficial/)
-
-  * https://de.wikipedia.org/wiki/Gerichtsstand
-  * https://de.wikipedia.org/wiki/Landgericht_Hamburg
-  * https://www.quad9.net/de/news/blog/quad9-legt-widerspruch-gegen-deutsches-gerichtsurteil-von-sony-music-ein
-  * https://freiheitsrechte.org/pm-quad9/
+ 
+  * Wikipedia: [Gerichtsstand](https://de.wikipedia.org/wiki/Gerichtsstand)
+  * Wikipedia: [Landgericht Hamburg](https://de.wikipedia.org/wiki/Landgericht_Hamburg)
+  * [Quad9 legt Widerspruch ein](https://www.quad9.net/de/news/blog/quad9-legt-widerspruch-gegen-deutsches-gerichtsurteil-von-sony-music-ein)
+  * [Freiheitsrechte.org zu Quad9](https://freiheitsrechte.org/pm-quad9/)
 
   * &#x1f3b6;&nbsp;[FMA: Ketsa - Triple](https://freemusicarchive.org/music/Ketsa/as-above-so-below/triple)
   * &#x1f3b6;&nbsp; Live vom Camp: Third Attempt - Things You Preach
@@ -1579,7 +1578,7 @@ title:    CiR am 11.10.2021
 subtitle: Der Chaostreff im Freien Radio Potsdam
 summary:  >
   Gini, Cyroxx und Knurps haben Fluepke eingeladen um über IDWallet zu reden und über alles was sonst noch so in der IT kaputt ist.
-publicationDate: "2021-11-06T08:05:00+02:00"
+publicationDate: "2021-11-06T21:53:00+01:00"
 audio:
   - url:      $media_base_url/2021_10_11-chaos-im-radio.mp3
     mimeType: audio/mp3
@@ -1593,11 +1592,12 @@ chapters:
 long_summary_md: |
   **Shownotes:**
 
-  * https://lilithwittmann.medium.com/mit-der-id-wallet-kannst-du-alles-und-jeder-sein-au%C3%9Fer-du-musst-dich-ausweisen-829293739fa0
-  * http://doyouneedablockchain.com/
+  * Unser Gast: [fluepke](https://twitter.com/fluepke)
+  * Lilith Wittmann: Mit der IDWallet [Mit der ID-Wallet kannst Du alles und jeder sein, außer Du musst Dich ausweisen.](https://lilithwittmann.medium.com/mit-der-id-wallet-kannst-du-alles-und-jeder-sein-au%C3%9Fer-du-musst-dich-ausweisen-829293739fa0)
+  * [Do you need a blockchain?](http://doyouneedablockchain.com/)
 
   * Facebook down:
-    * https://blog.cloudflare.com/october-2021-facebook-outage/
-    * https://krebsonsecurity.com/2021/10/what-happened-to-facebook-instagram-whatsapp/
-    * https://www.cloudflare.com/learning/security/glossary/what-is-bgp/
-    * BGP for Dummies: https://twitter.com/ErrataRob/status/1445129721168158726
+      * Cloudflare: [Facebook Outage](https://blog.cloudflare.com/october-2021-facebook-outage/)
+      * Krebs on Security: [What happened to Facebook, Instagram & Whatsapp](https://krebsonsecurity.com/2021/10/what-happened-to-facebook-instagram-whatsapp/)
+      * Cloudlare: [What is BGP](https://www.cloudflare.com/learning/security/glossary/what-is-bgp/)
+      * Twitter: [BGP for Dummies](https://twitter.com/ErrataRob/status/1445129721168158726)

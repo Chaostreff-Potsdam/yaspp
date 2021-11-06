@@ -17,7 +17,7 @@ For legacy clients, those should be embedded in the audio file, not only the fee
 
 How to do this with [ffmpeg](https://ffmpeg.org/) and [mp3chaps](https://pypi.org/project/mp3chaps/):
 
-	export NT_DATE=<yyyy-mm-ddd>
+	export NT_DATE=<yyyy-mm-dd>
 	export NT_YEAR=<yyyy>
 	export BITRATE=121k  # Up for discussion ;)
 
