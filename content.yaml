@@ -1563,7 +1563,7 @@ long_summary_md: |
 
   * [thereisno.camp](https://thereisno.camp/)
   * Die Band vom Camp: [Third Attempt auf Instagram](https://www.instagram.com/thirdattemptofficial/)
- 
+
   * Wikipedia: [Gerichtsstand](https://de.wikipedia.org/wiki/Gerichtsstand)
   * Wikipedia: [Landgericht Hamburg](https://de.wikipedia.org/wiki/Landgericht_Hamburg)
   * [Quad9 legt Widerspruch ein](https://www.quad9.net/de/news/blog/quad9-legt-widerspruch-gegen-deutsches-gerichtsurteil-von-sony-music-ein)
@@ -1601,3 +1601,50 @@ long_summary_md: |
       * Krebs on Security: [What happened to Facebook, Instagram & Whatsapp](https://krebsonsecurity.com/2021/10/what-happened-to-facebook-instagram-whatsapp/)
       * Cloudlare: [What is BGP](https://www.cloudflare.com/learning/security/glossary/what-is-bgp/)
       * Twitter: [BGP for Dummies](https://twitter.com/ErrataRob/status/1445129721168158726)
+---
+uuid:     nt-2021-11-08
+title:    CiR am 08.11.2021
+subtitle: Der Chaostreff im Freien Radio Potsdam
+summary:  >
+  Cyroxx, Hannes und Knurps erzählen, was im Choastreff Potsdam los ist und los sein wird. Im zweiten Teil geht es darum, was mit alten Smartphones, Tablets und ähnlicher Hardware passiert, wenn die Hersteller den Support einstellen.
+publicationDate: "2021-11-07T21:05:00+01:00"
+audio:
+  - url:      $media_base_url/2021_11_08-chaos-im-radio.mp3
+    mimeType: audio/mp3
+chapters:
+  - start: '00:00:00'
+    title: 'Intro, Facebook heißt Meta'
+  - start: '00:04:23'
+    title: 'Feedback letzte Sendung: Internetführerschein und RFC'
+  - start: '00:09:54'
+    title: 'Blockchain-Hype strikes again'
+  - start: '00:22:37'
+    title: 'Chaostreff Potsdam Update'
+  - start: '00:41:34'
+    title: 'Audiobinger - The Upside Down'
+    href: 'https://freemusicarchive.org/music/Audiobinger/quarantine-beats-vol-1/the-upside-down'
+  - start: '00:46:00'
+    title: 'Oculus Go wird frei'
+  - start: '01:05:00'
+    title: 'Scott Holmes Music - Digital Age'
+    href: 'https://freemusicarchive.org/music/Scott_Holmes/media-music-mix/digital-age'
+long_summary_md: |
+  **Shownotes:**
+
+  * fb.com: [Facebook heißt jetzt Meta](https://about.fb.com/news/2021/10/facebook-company-is-now-meta/)
+  * [meta.de](https://www.meta.de/de/) ist eine Firma für Toiletten-Trennwände
+  * bht-berlin.de: [Alles neu: Aus Beuth wird BHT](https://www.bht-berlin.de/3331/article/7868)
+  * Podcast-Empfehlung zur Erklärung von Begriffen:  [Request for Comments](https://requestforcomments.de/)
+  * Blockchain-Neuigkeiten:
+    *  Seltsame Blockchain-Konferenz: [digital-bb: blockchain in use](https://www.digital-bb.de/newsdetail/blockchain-in-use-conference)
+    *  [Netzpolitik über IDWallet](https://netzpolitik.org/2021/id-wallet-kopfsprung-mit-anlauf-ins-leere-becken/)
+    *  Frag den Staat: [IDWallet Anfrage](https://fragdenstaat.de/anfrage/id-wallet-unterlagen-zur-prufung-bzw-freigabe-der-apps/)
+  * Golem: [REvil Drahtzieher identifiziert](https://www.golem.de/news/revil-mutmasslicher-drahtzieher-via-bitcoin-zahlung-identifiziert-2110-160649.html)
+  * [RC3 2020](https://links.rc3.world/)
+  * ccc.de: [Congress Everywhere 2019](https://events.ccc.de/congress/2019/wiki/index.php/Congress_Everywhere)
+  * oculus.com: [Anleitung zum Oculus Go freischalten](https://developer.oculus.com/blog/unlocking-oculus-go/)
+  * [Fairphone](https://www.fairphone.com/de/)
+  * [TheThingsNetwork … Stack Migration zu v3](https://www.thethingsnetwork.org/docs/the-things-stack/index.html)
+
+  * &#x1f3b6;&nbsp;[FMA: Audiobinger - The Upside Down](https://freemusicarchive.org/music/Audiobinger/quarantine-beats-vol-1/the-upside-down)
+  * &#x1f3b6;&nbsp;[FMA: Scott Holmes - Digital Age](https://freemusicarchive.org/music/springtide/remixed-and-reconstructed/driving-a-blue-car)
