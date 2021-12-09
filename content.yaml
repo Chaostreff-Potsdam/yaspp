@@ -1648,3 +1648,37 @@ long_summary_md: |
 
   * &#x1f3b6;&nbsp;[FMA: Audiobinger - The Upside Down](https://freemusicarchive.org/music/Audiobinger/quarantine-beats-vol-1/the-upside-down)
   * &#x1f3b6;&nbsp;[FMA: Scott Holmes - Digital Age](https://freemusicarchive.org/music/springtide/remixed-and-reconstructed/driving-a-blue-car)
+---
+uuid:     nt-2021-12-13
+title:    CiR am 13.12.2021
+subtitle: Der Chaostreff im Freien Radio Potsdam
+summary:  >
+  Cyroxx, Knurps, Gini, Hannes
+publicationDate: "2021-12-12T21:05:00+01:00"
+audio:
+  - url:      $media_base_url/2021_12_13-chaos-im-radio.mp3
+    mimeType: audio/mp3
+chapters:
+  - start: '00:00:00'
+    title: 'Intro, Facebook heißt Meta'
+  - start: '00:04:23'
+    title: 'Feedback letzte Sendung: Internetführerschein und RFC'
+  - start: '00:09:54'
+    title: 'Blockchain-Hype strikes again'
+  - start: '00:22:37'
+    title: 'Chaostreff Potsdam Update'
+  - start: '00:41:34'
+    title: 'Audiobinger - The Upside Down'
+    href: 'https://freemusicarchive.org/music/Audiobinger/quarantine-beats-vol-1/the-upside-down'
+  - start: '00:46:00'
+    title: 'Oculus Go wird frei'
+  - start: '01:05:00'
+    title: 'Scott Holmes Music - Digital Age'
+    href: 'https://freemusicarchive.org/music/Scott_Holmes/media-music-mix/digital-age'
+long_summary_md: |
+  **Shownotes:**
+
+  *
+
+  * &#x1f3b6;&nbsp;[FMA: Audiobinger - The Upside Down](https://freemusicarchive.org/music/Audiobinger/quarantine-beats-vol-1/the-upside-down)
+  * &#x1f3b6;&nbsp;[FMA: Scott Holmes - Digital Age](https://freemusicarchive.org/music/springtide/remixed-and-reconstructed/driving-a-blue-car)
