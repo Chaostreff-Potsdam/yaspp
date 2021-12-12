@@ -1653,32 +1653,44 @@ uuid:     nt-2021-12-13
 title:    CiR am 13.12.2021
 subtitle: Der Chaostreff im Freien Radio Potsdam
 summary:  >
-  Cyroxx, Knurps, Gini, Hannes
+  Cyroxx, Knurps, Gini, Hannes reden über den Kongress, das Reparieren von Dingen und irgendwie auch Corona. Was'n Chaos.
 publicationDate: "2021-12-12T21:05:00+01:00"
 audio:
   - url:      $media_base_url/2021_12_13-chaos-im-radio.mp3
     mimeType: audio/mp3
 chapters:
   - start: '00:00:00'
-    title: 'Intro, Facebook heißt Meta'
-  - start: '00:04:23'
-    title: 'Feedback letzte Sendung: Internetführerschein und RFC'
-  - start: '00:09:54'
-    title: 'Blockchain-Hype strikes again'
-  - start: '00:22:37'
-    title: 'Chaostreff Potsdam Update'
-  - start: '00:41:34'
-    title: 'Audiobinger - The Upside Down'
-    href: 'https://freemusicarchive.org/music/Audiobinger/quarantine-beats-vol-1/the-upside-down'
-  - start: '00:46:00'
-    title: 'Oculus Go wird frei'
-  - start: '01:05:00'
-    title: 'Scott Holmes Music - Digital Age'
-    href: 'https://freemusicarchive.org/music/Scott_Holmes/media-music-mix/digital-age'
+    title: 'Intro und Nachtrag zur letzten Sendung'
+  - start: '00:05:05'
+    title: 'Congress und lokale Neuigkeiten'
+  - start: '00:17:30'
+    title: 'Corona in Potsdamer Schulen und lustige Masken'
+  - start: '00:29:30'
+    title: 'Cretayu - Elayun'
+    href: 'https://freemusicarchive.org/music/Pedro_Santiago/vol-1-1/elayun'
+  - start: '00:33:33'
+    title: 'Repair-Friday und was wir so reparieren'
+  - start: '00:59:00'
+    title: 'De-Mail war ganz schön teuer'
+  - start: '01:03:00'
+    title: 'Crowander - Humbug'
+    href: 'https://freemusicarchive.org/music/crowander/from-the-piano-solo-piano/humbug'
 long_summary_md: |
   **Shownotes:**
 
-  *
+  * heise.de: [Quad9 verliert vorm LG Hamburg](https://www.heise.de/news/Landgericht-Hamburg-entscheidet-gegen-Quad9-im-Streit-mit-Sony-6280566.html)
+  * quad9.net: [Widerspruch gegen Gerichtsurteil](https://www.quad9.net/de/news/blog/quad9-legt-widerspruch-gegen-deutsches-gerichtsurteil-von-sony-music-ein)
+  * events.ccc.de: [Tickets für RC3 2021](https://tickets.events.ccc.de/RC3-21/)
+  * kyodonews.net: [leuchtende Maseken detektieren Corona](https://english.kyodonews.net/news/2021/12/8a768ba9e395-scientists-develop-glowing-masks-to-detect-coronavirus.html)
+  * heise.de: [Repair-Friday statt BlackFriday](https://www.heise.de/meinung/Statt-Feiertag-fuer-den-Konsum-Zeit-fuer-den-Repair-Friday-6275198.html)
+  * heise.de: [Nokia Gutschein statt Update](https://www.heise.de/news/Nokia-9-Pureview-Gutschein-fuer-neues-Handy-statt-Android-11-6280844.html)
+  * Links zum Thema Android Custom ROMs: [Lineage OS](lineage.org), [F-Droid Store](f-droid.org), [Micro-G](microg.org)
+  * Github: [Senseo Wifi](https://github.com/ThomDietrich/SenseoWifi)
+  * iFixIt: [ifixit.com](ifixit.com)
+  * Machbar Potsdam: [Repair-Cafe](https://machbar-potsdam.de/repair-cafe/)
+  * Wikipedia: [SawStop](https://de.wikipedia.org/wiki/SawStop)
+  * Internet-Lachanfall von 2005, Große Haufen: [Haustechnikdialog.de - Forum](https://www.haustechnikdialog.de/Forum/t/19886/Grosse-Haufen)
+  * Golem.de: [De-Mail zu teuer](https://www.golem.de/news/ziele-gaenzlich-verfehlt-rechnungshof-haelt-de-mail-fuer-teuren-misserfolg-2112-161518.html)
 
-  * &#x1f3b6;&nbsp;[FMA: Audiobinger - The Upside Down](https://freemusicarchive.org/music/Audiobinger/quarantine-beats-vol-1/the-upside-down)
-  * &#x1f3b6;&nbsp;[FMA: Scott Holmes - Digital Age](https://freemusicarchive.org/music/springtide/remixed-and-reconstructed/driving-a-blue-car)
+  * &#x1f3b6;&nbsp;[FMA: Cretayu - Elayun](https://freemusicarchive.org/music/Pedro_Santiago/vol-1-1/elayun)
+  * &#x1f3b6;&nbsp;[FMA: Crowander - Humbug](https://freemusicarchive.org/music/crowander/from-the-piano-solo-piano/humbug)
