@@ -1694,3 +1694,50 @@ long_summary_md: |
 
   * &#x1f3b6;&nbsp;[FMA: Cretayu - Elayun](https://freemusicarchive.org/music/Pedro_Santiago/vol-1-1/elayun)
   * &#x1f3b6;&nbsp;[FMA: Crowander - Humbug](https://freemusicarchive.org/music/crowander/from-the-piano-solo-piano/humbug)
+---
+uuid:     nt-2022-01-10
+title:    CiR am 10.01.2022
+subtitle: Der Chaostreff im Freien Radio Potsdam
+summary:  >
+  Cyroxx, Knurps, Gini, Hannes reden über den Kosmos hinter der langen Brücke, das Telskop im Kosmos, zu wenig Bits, und die Potsdamer Bühne zum rc3.
+publicationDate: "2022-01-10T21:05:00+01:00"
+audio:
+  - url:      $media_base_url/2022_01_10-chaos-im-radio.mp3
+    mimeType: audio/mp3
+chapters:
+  - start: '00:00:00'
+    title: 'Intro, MMS und das CCCP Logo wird 50'
+  - start: '00:07:56'
+    title: 'James Webb Space Telescope'
+  - start: '00:10:45'
+    title: 'Komplizierte Jahreszahlen, MS Exchange und Datenverluste'
+  - start: '00:21:01'
+    title: 'Datenschutz bei Tesla und Dashcams'
+  - start: '00:29:05'
+    title: 'Eaters - Dead Seconds'
+    href: 'https://freemusicarchive.org/music/eaters/dead-seconds/dead-seconds'
+  - start: '00:32:20'
+    title: 'rc3 Bühne im Potsdamer Freiland'
+  - start: '00:33:33'
+    title: 'Radio bei Chaoszone TV - Chaos im Stream'
+  - start: '00:59:00'
+    title: 'Engeln beim Congress'
+  - start: '01:03:20'
+    title: 'Ken Hamm - Buckbreak'
+    href: 'https://freemusicarchive.org/music/Ken_Hamm/Hi_and_Ho_We_Plant_Trees/set2-08-Ken_Hamm-Buckbreak_1945'
+long_summary_md: |
+  **Shownotes:**
+
+  * Golem.de: [Das Ende der MMS](https://www.golem.de/news/veraltet-vodafone-kuendigt-ende-des-mms-dienstes-an-2112-161982.html)
+  * pnn.de [Jahresausblick 2022 - Fritz Eisels Mosaik wird 50](https://www.pnn.de/potsdam/pnn-jahresausblick-was-2022-in-potsdam-wichtig-wird/27936988.html)
+  * freiesradiopotsdam.de: [Salatschatten](https://freiesradiopotsdam.wordpress.com/sendungen/salatschatten/)
+  * Raumzeit-Podcast: [RZ093 Das James-Webb-Weltraumteleskop](https://raumzeit-podcast.de/2021/09/26/rz093-das-james-webb-weltraumteleskop/)
+  * nasa.gov: [Where is JWST](https://www.jwst.nasa.gov/content/webbLaunch/whereIsWebb.html)
+  * rnd.de: [Exchange Y22K bug](https://www.rnd.de/digital/microsoft-e-mail-stau-an-neujahr-problem-mit-exchange-software-geloest-4KTIDMGMC62J5CCAZGH2KOV7B4.html)
+  * Golem.de: [77 TB Forschungsdaten verloren](https://www.golem.de/news/hpe-patch-zerstoert-77-tbyte-an-forschungsdaten-an-kyoto-uni-2201-162121.html)
+  * zdf.de: [Tesla Dashcams und der Datenschutz](https://www.zdf.de/nachrichten/wirtschaft/tesla-videoueberwachung-dashcam-datenschutz-100.html)
+  * matemonkey.com: [Übersicht über Mate-Händler](https://matemonkey.com/map/dealer/)
+  * media.ccc.de: [Spontanes Zonen-Chaos: unkoordiniertes Chaos im Radio im Stream](https://media.ccc.de/v/rc3-2021-chaoszone-170-spontanes-zonen-c)
+
+  * &#x1f3b6;&nbsp;[FMA: Eaters - Dead Seconds](https://freemusicarchive.org/music/eaters/dead-seconds/dead-seconds)
+  * &#x1f3b6;&nbsp;[FMA: Ken Hamm - Buckbreak](https://freemusicarchive.org/music/Ken_Hamm/Hi_and_Ho_We_Plant_Trees/set2-08-Ken_Hamm-Buckbreak_1945)
