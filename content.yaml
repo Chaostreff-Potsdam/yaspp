@@ -1747,3 +1747,56 @@ long_summary_md: |
 
   * &#x1f3b6;&nbsp;[FMA: Eaters - Dead Seconds](https://freemusicarchive.org/music/eaters/dead-seconds/dead-seconds)
   * &#x1f3b6;&nbsp;[FMA: Ken Hamm - Buckbreak](https://freemusicarchive.org/music/Ken_Hamm/Hi_and_Ho_We_Plant_Trees/set2-08-Ken_Hamm-Buckbreak_1945)
+---
+uuid:     nt-2022-02-14
+title:    CiR am 14.02.2022
+subtitle: Der Chaostreff im Freien Radio Potsdam
+summary:  >
+  Cyroxx, Knurps, Gini, Hannes wundern sich über den Bundesservice der Telekomunikation, Spotify, Facebook und die Luca App und diskutieren, wer was löschen will und sollte. Ihr hört den Knurps-Cut mit weniger Chaos und mehr Sinn.
+publicationDate: "2022-01-14T21:05:00+01:00"
+audio:
+  - url:      $media_base_url/2022_02_14-chaos-im-radio.mp3
+    mimeType: audio/mp3
+chapters:
+  - start: '00:00:00'
+    title: 'Intro & Gebabbel'
+  - start: '00:08:05'
+    title: 'Bundesservice der Telekommunikation'
+  - start: '00:11:18'
+    title: 'Musikindustrie vs. Youtube-dl'
+  - start: '00:20:40'
+    title: 'Scott Holmes - Think Different'
+    href: 'https://freemusicarchive.org/music/Scott_Holmes/Corporate__Motivational_Music_2/think-different-1'
+  - start: '00:24:30'
+    title: 'Vulkanausbruch Tonga'
+  - start: '00:34:48'
+    title: 'Luca App - Jetzt aussteigen'
+  - start: '00:44:35'
+    title: 'Spotify und der Joe Rogan Podcast'
+  - start: '00:53:00'
+    title: 'Facebook plustert sich auf'
+  - start: '01:02:40'
+    title: 'Frau Holle - Under the Surface of Europa'
+    href: 'https://freemusicarchive.org/music/Frau_Holle/different-ways/under-the-surface-of-europa'
+long_summary_md: |
+  **Shownotes:**
+
+  * [Wikipedia: HAL 9000](https://de.wikipedia.org/wiki/HAL_9000)
+  * [Medium.com: Lilth Wittmann - Bundesservice der Telekomunikation](https://lilithwittmann.medium.com/bundesservice-telekommunikation-wie-ich-versehentlich-eine-tarnbeh%C3%B6rde-in-der-bundesverwaltung-a8823f308536)
+  * [Logbuch Netzpolitik: Folge 419](https://logbuch-netzpolitik.de/lnp419-und-aehnlich-verschworene-gemeinschaften)
+  * [Netzpolotik.org: Musikindustrie verklagt Uberspace](https://netzpolitik.org/2022/urheberrecht-musikindustrie-verklagt-hoster-von-youtube-dl/
+  * [Github: Takedown notice youtube-dl von 2020](https://github.com/github/dmca/blob/master/2020/10/2020-10-23-RIAA.md)
+  * [Opensensemap](https://opensensemap.org/)
+  * [CityLab Berlin: Projekt "Stadtpuls"](https://citylab-berlin.org/de/projects/stadtpuls/)
+  * [heise: Starlink für Tongas Internet? Zu wenig, zu spät](https://www.heise.de/news/Starlink-fuer-Tongas-Internet-Zu-wenig-zu-spaet-6355794.html)
+  * [The Guardian: Elon Musks ](https://www.theguardian.com/technology/2018/jul/15/elon-musk-british-diver-thai-cave-rescue-pedo-twitter)
+  * [luca.fail: Ausstiegshilfe für Luca](https://exit.luca.fail/)
+  * [heise.de: Strafverfolgungsbehörden nutzen Luca-Daten](https://www.heise.de/news/Mainzer-Polizei-ermittelte-rechtswidrig-mit-Daten-aus-der-Luca-App-6321054.html)
+  * [heise.de: Verträge laufen aus](https://www.heise.de/news/Drei-weitere-Bundeslaender-lassen-Vertraege-mit-Luca-auslaufen-6328041.html)
+  * [spiegel.de: Luca-App soll Personalausweise speichern und Bezahlen ermöglichen](https://www.spiegel.de/netzwelt/apps/luca-app-soll-personalausweise-speichern-und-bezahlen-ermoeglichen-neues-geschaeftsmodell-a-ede036e6-0ed0-4148-9456-112fb1368fac)
+  * [NFTs & TheThirdWeb (tante.cc)](https://tante.cc/2021/12/17/the-third-web/)
+  * [tagesschau.de: Neil Young verlässt Spotify](https://www.tagesschau.de/ausland/neil-young-spotify-101.html)
+  * [Meta aus Europa löschen?](https://www.heise.de/meinung/Kommentar-Facebook-und-Whatsapp-raus-aus-Europa-warum-nicht-6355713.html)
+  * [signal.org: the Instagram ads you will never see](https://www.signal.org/blog/the-instagram-ads-you-will-never-see/)
+  * [heise.de: Deadbolt greift Qnap NAS an](https://www.heise.de/news/Jetzt-handeln-Erpressungstrojaner-DeadBolt-hat-es-auf-Qnap-NAS-abgesehen-6340174.html)
+  * [Shodan.io](https://2000.shodan.io)
