@@ -1803,4 +1803,54 @@ long_summary_md: |
 
   * &#x1f3b6;&nbsp;[FMA: Scott Holmes - Think Different](https://freemusicarchive.org/music/Scott_Holmes/Corporate__Motivational_Music_2/think-different-1)
   * &#x1f3b6;&nbsp;[FMA: Frau Holle - Under the Surface of Europa](https://freemusicarchive.org/music/Frau_Holle/different-ways/under-the-surface-of-europa)
+---
+uuid:     nt-2022-03-14
+title:    CiR am 14.03.2022
+subtitle: Der Chaostreff im Freien Radio Potsdam
+summary:  >
+  Cyroxx, Knurps und Gini müssen ohne Hannes über Kriesen sprechen.
+publicationDate: "2022-03-14T21:35:00+01:00"
+audio:
+  - url:      $media_base_url/2022_03_14-chaos-im-radio.mp3
+    mimeType: audio/mp3
+chapters:
+  - start: '00:00:00'
+    title: 'Intro & Gebabbel'
+long_summary_md: |
+  **Shownotes:**
 
+  Shownotes entfallen aus Zeitgründen :-(
+---
+uuid:     nt-2022-04-11
+title:    CiR am 11.04.2022
+subtitle: Der Chaostreff im Freien Radio Potsdam
+summary:  >
+  Cyroxx, Knurps, Gini und Hannes reden über Chaos, die technische Infrastruktur in Notunterkünften und komisches aus dem Internet.
+publicationDate: "2022-04-11T21:35:00+01:00"
+audio:
+  - url:      $media_base_url/2022_04_11-chaos-im-radio.mp3
+    mimeType: audio/mp3
+chapters:
+  - start: '00:00:00'
+    title: 'Intro'
+  - start: '00:04:00'
+    title: 'Brücken bauen und sprengen'
+  - start: '00:07:22'
+    title: 'DiVOC: Bridging Bubbles'
+  - start: '00:15:30'
+    title: 'Digitale Organisation für freiwillige Helfer'
+  - start: '00:35:00'
+    title: 'Musik - Flowers dont say anything'
+  - start: '00:38:40'
+    title: 'Technische Infrastruktur für Notunterkünfte'
+  - start: '00:49:00'
+    title: 'Randnotizen aus dem Internetz'
+  - start: '00:58:10'
+    title: 'Musik - Mellow Lo-Fi by Scott Holmes Music'
+long_summary_md: |
+  **Shownotes:**
+
+  * [fragdenstaat.de: Mehrbedarf an Verkehsschildern](https://fragdenstaat.de/anfrage/mehrbedarf-an-verkehrsschildern/)
+  * [twitter.com: Status der Papierfabriken](https://twitter.com/Papierfabriken/status/1505894172619939847)
+  * [bundesregierung.de: Bundesministerium für Digitales und Verkehr](https://www.bundesregierung.de/breg-de/bundesregierung/bundesministerien/bundesministerium-fuer-digitales-und-verkehr)
+  * [twitter.com: LilithWittmann](https://twitter.com/LilithWittmann/status/1501106542329872385?s=20&t=_vdsw6mRF41VV3REPs3n5w)
