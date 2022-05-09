@@ -1808,8 +1808,8 @@ uuid:     nt-2022-03-14
 title:    CiR am 14.03.2022
 subtitle: Der Chaostreff im Freien Radio Potsdam
 summary:  >
-  Cyroxx, Knurps und Gini müssen ohne Hannes über Kriesen sprechen.
-publicationDate: "2022-03-14T21:35:00+01:00"
+  Cyroxx, Knurps und Gini müssen ohne Hannes über Krisen sprechen.
+publicationDate: "2022-05-09T21:05:00+02:00"
 audio:
   - url:      $media_base_url/2022_03_14-chaos-im-radio.mp3
     mimeType: audio/mp3
@@ -1820,13 +1820,16 @@ long_summary_md: |
   **Shownotes:**
 
   Shownotes entfallen aus Zeitgründen :-(
+
+  * &#x1f3b6;&nbsp;[FMA: Frau Holle - Under The Surface Of Europa](https://freemusicarchive.org/music/Frau_Holle/different-ways/under-the-surface-of-europa)
+  * &#x1f3b6;&nbsp;[FMA: Scott Holmes Music - Think Different](https://freemusicarchive.org/music/Scott_Holmes/corporate-motivational-music/think-different-1/)
 ---
 uuid:     nt-2022-04-11
 title:    CiR am 11.04.2022
 subtitle: Der Chaostreff im Freien Radio Potsdam
 summary:  >
   Cyroxx, Knurps, Gini und Hannes reden über Chaos, die technische Infrastruktur in Notunterkünften und komisches aus dem Internet.
-publicationDate: "2022-04-11T21:35:00+01:00"
+publicationDate: "2022-05-09T21:06:00+01:00"
 audio:
   - url:      $media_base_url/2022_04_11-chaos-im-radio.mp3
     mimeType: audio/mp3
@@ -1840,7 +1843,7 @@ chapters:
   - start: '00:15:30'
     title: 'Digitale Organisation für freiwillige Helfer'
   - start: '00:35:00'
-    title: 'One Man Book - Flowers Don't Say Anything, They Just Think'
+    title: "One Man Book - Flowers Don't Say Anything, They Just Think"
     href: 'https://freemusicarchive.org/music/one-man-book/potlatch/flowers-dont-say-anything-they-just-think'
   - start: '00:38:40'
     title: 'Technische Infrastruktur für Notunterkünfte'
@@ -1865,7 +1868,7 @@ title:    CiR am 09.05.2022
 subtitle: Der Chaostreff im Freien Radio Potsdam
 summary:  >
   Cyroxx, Knurps und Hannes reden über Termine im Bürgerservice, Bugs, Twitter und Mastodon. Knurps hat eine nette Timeline, Cyroxx möchte Mails aus dem Andromeda-Nebel und Hannes ist gut im kaputte Software programmieren, aber bestimmt nicht der Beste.
-publicationDate: "2022-05-09T21:35:00+01:00"
+publicationDate: "2022-05-09T21:07:00+02:00"
 audio:
   - url:      $media_base_url/2022_05_09-chaos-im-radio.mp3
     mimeType: audio/mp3
@@ -1902,10 +1905,10 @@ long_summary_md: |
   * [CityLAB Berlin](https://citylab-berlin.org)
   * [Twitter: Kritik bei Elon Musk unerwünscht?](https://twitter.com/JoshuaPotash/status/1519040404087320578)
   * [instances.social: Mastodon Instanzen](https://instances.social/)
-  * [heise.de: root Luecken in Linux](https://www.heise.de/news/Microsoft-findet-root-Luecken-in-Linux-7067100.html)
+  * [heise.de: root Lücken in Linux](https://www.heise.de/news/Microsoft-findet-root-Luecken-in-Linux-7067100.html)
   * [oracle.com: Security Alerts April 2022](https://www.oracle.com/security-alerts/cpuapr2022.html#AppendixMSQL)
   * [xkcd.com: Exploits of a Mum](https://xkcd.com/327/)
-  * [pretix.eu: ein Ticket-System](https://pretix.eu/about/en/)
+  * [pretix.eu: Ein Ticket-System](https://pretix.eu/about/en/)
   * [YouTube: Tomorrow's World: Satnav](https://www.youtube.com/watch?v=4qqnHtH1RAs)
   * [YouTube: 1989 thought houses would look like this by 2020 | Tomorrow's World | Past Predictions | BBC Archive](https://www.youtube.com/watch?v=xFTPoiXU_EI)
   * [The Music Arcade: Making Of des 80er-Jahre_Remixes des Dr.-Who-Themas](https://www.youtube.com/watch?v=RZuf0LIU-2A)
