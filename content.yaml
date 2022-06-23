@@ -1915,3 +1915,91 @@ long_summary_md: |
 
   * &#x1f3b6;&nbsp;[FMA: Dan Brasco - For the poor](https://freemusicarchive.org/music/Dan_Brasco/Two-Tier_Society/01_For_the_Poor/)
   * &#x1f3b6;&nbsp;[FMA: Makaih Beats - Time](https://freemusicarchive.org/music/Makaih_Beats/time/time-4/)
+---
+uuid:     nt-2022-06-13
+title:    CiR am 13.06.2022
+subtitle: Der Chaostreff im Freien Radio Potsdam
+summary:  >
+  Knurps war diesmal als rasender Reporter auf der re:publica unterwegs und hat neben zwei spannenden Interviews auch 
+  zwei Gäste für die Sendung angeworben. Mit diesen sprechen wir unter anderem über Schönes, wie die re:publica und die GPN, aber
+  auch über Schmerzhaftes wie die Chatkontrolle.
+publicationDate: "2022-06-23T19:00:00+02:00"
+audio:
+  - url:      $media_base_url/2022_06_13-chaos-im-radio.mp3
+    mimeType: audio/mp3
+chapters:
+  - start: '00:00:00'
+    title: 'Intro'
+  - start: '00:01:30'
+    title: 'GPN20 - Gulaschprogrammiernacht'
+  - start: '00:10:40'
+    title: 're:publica '
+  - start: '00:20:20'
+    title: 'O-Ton KInsekta'
+  - start: '00:28:10'
+    title: 'O-Ton City-Lab'
+  - start: '00:32:45'
+    title: 'Sara und Daniel zum City-Lab und zur re:publica'
+  - start: '00:35:40'
+    title: 'Onlinezugangsgesetz'
+  - start: '00:39:20'
+    title: 'Potsdamer Rathaus-Warteliste'
+  - start: '00:43:20'
+    title: 'Update zum Tempolimit'
+  - start: '00:45:30'
+    title: 'Informationsfreiheitsgesetz und FragDenStaat'
+  - start: '00:47:15'
+    title: 'Digitales Schulzeugnis'
+  - start: '00:49:20'
+    title: 'Depublikation'
+  - start: '00:52:40'
+    title: 'Chatkontrolle'
+  - start: '01:07:15'
+    title: 'Rausschmiss'
+long_summary_md: |
+  **Shownotes:**
+    
+  ### Unsere Gäste
+  
+    * sara (TU Berlin, [@Sarapedia1](https://twitter.com/Sarapedia1), [@Sarapedia1@chaos.social](https://chaos.social/@Sarapedia1))
+    * nielek/Daniel Wessolek (makerspace auf re:publica, Netzwerk offener Werkstätten, OKF, OpenNEXT!, [@wessolek](https://twitter.com/wessolek), [@nielek@chaos.social](https://chaos.social/@nielek))
+  
+  ### GPN20
+  
+  * [GPN20](https://entropia.de/GPN20) bzw. [Wikipedia zur GPN allgemein](https://de.wikipedia.org/wiki/Gulaschprogrammiernacht)
+  * [Tschunk](https://entropia.de/Tschunk)
+  * [Eindrücke von der GPN20](https://chaos.social/web/tags/GPN20)
+  * [Vorträge der GPN20 auf media.ccc.de](https://media.ccc.de/c/gpn20)
+  
+  ### re:publica 22
+  
+  * [Website der re:publica](https://re-publica.com)
+  * [Wikipedia: re:publica](https://de.wikipedia.org/wiki/Re%3Apublica)
+  * [KInsecta](https://kinsecta.org/)
+  * CityLab Berlin: [Öffentliches Gestalten - Handbuch für innovatives Arbeiten in der Verwaltung](https://citylab-berlin.org/de/projects/handbuch/)
+  * [Prototype Fund Hardware](https://hardware.prototypefund.de/)
+  
+  ### Kurzmeldungen
+  * Rathaus in Potsdam hat jetzt online Warteliste:
+      * [PNN: Warteliste für den Bürgerservice wird immer länger](https://www.pnn.de/potsdam/potsdamer-rathaus-in-der-kritik-warteliste-fuer-den-buergerservice-wird-immer-laenger/28389974.html) (01.06.2022)
+      * [PNN: Termine für Potsdams Bürgerservice jetzt leichter buchbar](https://www.pnn.de/potsdam/software-modernisiert-termine-fuer-potsdams-buergerservice-jetzt-leichter-buchbar/28410038.html) (09.06.2022)
+  
+  * Tempolimit: [Update IFG-Anfrage "Mehrbedarf an Verkehrsschildern"](https://fragdenstaat.de/dokumente/153168-untitled/)
+  * [MDR: Digitales Schulzeugnis ist vorerst gescheitert](https://www.mdr.de/nachrichten/sachsen-anhalt/digital-zeugnis-entwicklung-probleme-100.html)
+    * [O-Ton HonkHase zum Thema](https://www.mdr.de/nachrichten/sachsen-anhalt/audio-manuel-atug-digital-zeugnis-blockchain-verwaltung-politik-100.html ) (leider depubliziert)
+  * [MediathekViewWeb](https://mediathekviewweb.de/) - zum Ansehen und Herunterladen von Sendungen
+  
+  ### Chatkontrolle
+  * [CCC: EU-Kommission will alle Chatnachrichten durchleuchten](https://www.ccc.de/de/updates/2022/eu-kommission-will-alle-chatnachrichten-durchleuchten)
+  * [Tagesschau: Rüge durch EU-Ombudsfrau - Von der Leyen soll Pfizer-SMS offenlegen](https://www.tagesschau.de/ausland/vonderleyen-sms-101.html) (28.01.2022)
+  * [FragDenStaat: Eilantrag abgelehnt: Was passiert mit Merkels SMS? ](https://fragdenstaat.de/blog/2021/12/20/keine-sicherungsanordnung-was-passiert-mit-merkels-sms/) (20.12.2021)
+  * [UAPod Berlin - Podcast zum 1. Untersuchungsausschuss ](https://uapod.berlin/)
+  * [STRG_F: Pädokriminelle Foren: Warum löscht niemand die Aufnahmen?](https://www.youtube.com/watch?v=iItLpwkQMUQ) (02.12.2021)
+  * [Netzpolitik: Client-Side-Scanning: Berühmte IT-Sicherheitsforscher:innen warnen vor Wanzen in unserer Hosentasche](https://netzpolitik.org/2021/client-side-scanning-beruehmte-it-sicherheitsforscherinnen-warnen-vor-wanzen-in-unserer-hosentasche/) (16.10.2021)
+  * Wenn ihr ein iPhone habt, wollt ihr vielleicht das iCloud-Backup eurer Signal- und anderer Messenger-Nachrichten ausschalten, um in Zukunft zu verhindern, dass amerikanische Behörden mitlesen können: https://twitter.com/RayRedacted/status/1524962941044416512
+  
+  ### Veranstaltungshinweise
+  
+  * [Chaostreff Potsdam](https://www.ccc-p.org/), immer mittwochs ab 19:00 Uhr
+  * [Bits & Bäume](https://berlin.bits-und-baeume.org/)
+
