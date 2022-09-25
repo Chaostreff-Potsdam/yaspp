@@ -1920,7 +1920,7 @@ uuid:     nt-2022-06-13
 title:    CiR am 13.06.2022
 subtitle: Der Chaostreff im Freien Radio Potsdam
 summary:  >
-  Knurps war diesmal als rasender Reporter auf der re:publica unterwegs und hat neben zwei spannenden Interviews auch 
+  Knurps war diesmal als rasender Reporter auf der re:publica unterwegs und hat neben zwei spannenden Interviews auch
   zwei Gäste für die Sendung angeworben. Mit diesen sprechen wir unter anderem über Schönes, wie die re:publica und die GPN, aber
   auch über Schmerzhaftes wie die Chatkontrolle.
 publicationDate: "2022-06-23T19:00:00+02:00"
@@ -1958,37 +1958,37 @@ chapters:
     title: 'Rausschmiss'
 long_summary_md: |
   **Shownotes:**
-    
+
   ### Unsere Gäste
-  
+
     * sara (TU Berlin, [@Sarapedia1](https://twitter.com/Sarapedia1), [@Sarapedia1@chaos.social](https://chaos.social/@Sarapedia1))
     * nielek/Daniel Wessolek (makerspace auf re:publica, Netzwerk offener Werkstätten, OKF, OpenNEXT!, [@wessolek](https://twitter.com/wessolek), [@nielek@chaos.social](https://chaos.social/@nielek))
-  
+
   ### GPN20
-  
+
   * [GPN20](https://entropia.de/GPN20) bzw. [Wikipedia zur GPN allgemein](https://de.wikipedia.org/wiki/Gulaschprogrammiernacht)
   * [Tschunk](https://entropia.de/Tschunk)
   * [Eindrücke von der GPN20](https://chaos.social/web/tags/GPN20)
   * [Vorträge der GPN20 auf media.ccc.de](https://media.ccc.de/c/gpn20)
-  
+
   ### re:publica 22
-  
+
   * [Website der re:publica](https://re-publica.com)
   * [Wikipedia: re:publica](https://de.wikipedia.org/wiki/Re%3Apublica)
   * [KInsecta](https://kinsecta.org/)
   * CityLab Berlin: [Öffentliches Gestalten - Handbuch für innovatives Arbeiten in der Verwaltung](https://citylab-berlin.org/de/projects/handbuch/)
   * [Prototype Fund Hardware](https://hardware.prototypefund.de/)
-  
+
   ### Kurzmeldungen
   * Rathaus in Potsdam hat jetzt online Warteliste:
       * [PNN: Warteliste für den Bürgerservice wird immer länger](https://www.pnn.de/potsdam/potsdamer-rathaus-in-der-kritik-warteliste-fuer-den-buergerservice-wird-immer-laenger/28389974.html) (01.06.2022)
       * [PNN: Termine für Potsdams Bürgerservice jetzt leichter buchbar](https://www.pnn.de/potsdam/software-modernisiert-termine-fuer-potsdams-buergerservice-jetzt-leichter-buchbar/28410038.html) (09.06.2022)
-  
+
   * Tempolimit: [Update IFG-Anfrage "Mehrbedarf an Verkehrsschildern"](https://fragdenstaat.de/dokumente/153168-untitled/)
   * [MDR: Digitales Schulzeugnis ist vorerst gescheitert](https://www.mdr.de/nachrichten/sachsen-anhalt/digital-zeugnis-entwicklung-probleme-100.html)
     * [O-Ton HonkHase zum Thema](https://www.mdr.de/nachrichten/sachsen-anhalt/audio-manuel-atug-digital-zeugnis-blockchain-verwaltung-politik-100.html ) (leider depubliziert)
   * [MediathekViewWeb](https://mediathekviewweb.de/) - zum Ansehen und Herunterladen von Sendungen
-  
+
   ### Chatkontrolle
   * [CCC: EU-Kommission will alle Chatnachrichten durchleuchten](https://www.ccc.de/de/updates/2022/eu-kommission-will-alle-chatnachrichten-durchleuchten)
   * [Tagesschau: Rüge durch EU-Ombudsfrau - Von der Leyen soll Pfizer-SMS offenlegen](https://www.tagesschau.de/ausland/vonderleyen-sms-101.html) (28.01.2022)
@@ -1997,9 +1997,63 @@ long_summary_md: |
   * [STRG_F: Pädokriminelle Foren: Warum löscht niemand die Aufnahmen?](https://www.youtube.com/watch?v=iItLpwkQMUQ) (02.12.2021)
   * [Netzpolitik: Client-Side-Scanning: Berühmte IT-Sicherheitsforscher:innen warnen vor Wanzen in unserer Hosentasche](https://netzpolitik.org/2021/client-side-scanning-beruehmte-it-sicherheitsforscherinnen-warnen-vor-wanzen-in-unserer-hosentasche/) (16.10.2021)
   * Wenn ihr ein iPhone habt, wollt ihr vielleicht das iCloud-Backup eurer Signal- und anderer Messenger-Nachrichten ausschalten, um in Zukunft zu verhindern, dass amerikanische Behörden mitlesen können: https://twitter.com/RayRedacted/status/1524962941044416512
-  
+
   ### Veranstaltungshinweise
-  
+
   * [Chaostreff Potsdam](https://www.ccc-p.org/), immer mittwochs ab 19:00 Uhr
   * [Bits & Bäume](https://berlin.bits-und-baeume.org/)
+---
+uuid:     nt-2022-09-12
+title:    CiR am 12.09.2022
+subtitle: Der Chaostreff im Freien Radio Potsdam
+summary:  >
+  Cyroxx, Knurps, Gini und Hannes
+publicationDate: "2022-05-09T21:07:00+02:00"
+audio:
+  - url:      $media_base_url/2022_09_12-chaos-im-radio.mp3
+    mimeType: audio/mp3
+chapters:
+  - start: '00:00:00'
+    title: 'Intro und Gebabbel'
+  - start: '00:25:45'
+    title: 'Text to speech hate'
+  - start: '00:39:10'
+    title: 'Hypp Fractal - Fireflies'
+    href: 'https://freemusicarchive.org/music/Hypp_fractal/Time_and_Space/05_Fireflies/'
+  - start: '00:44:00'
+    title: 'Crypto'
+  - start: '01:00:04'
+    title: 'Prototype Fund'
+  - start: '01:14:00'
+    title: 'Termine'
+  - start: '01:05:40'
+    title: 'Viscid - Flux'
+    href: 'https://freemusicarchive.org/music/viscid/tocsin/flux-1/'
+long_summary_md: |
+  **Shownotes:**
+
+* Edit-Button https://twitter.com/Twitter/status/1565318587736285184
+* https://flipperzero.one/
+* https://en.wikipedia.org/wiki/UEFI#SECURE-BOOT
+* https://twitter.com/HonkHase/status/1565949799639224324
+* Hörer-Rätsel -> Guesses an radio@ccc-p.org
+* Transkribieren bei Logbuch Netzpolitik (Gini, welche Software)
+* lofi hip hop girl (Cyroxx)
+* Durchsagen der schottischen Bahn: https://www.matteason.co.uk/scotbeats/
+* https://linus-neumann.de/2022/07/blockchain-and-web-3-0-kicking-the-hornets-nest/
+* Der CCCPCC-ICO
+* Prototype Fund:  https://prototypefund.de/projects/round-11/
+* Termine:
+  * Datenspuren, 16.09. - 18.09.2022, Zentralwerk, Riesaer Str. 32, Dresden https://datenspuren.de/2022/
+  * Klimastreik am 23.09.2022 - Mit Fridays for Future auf die ... https://fridaysforfuture.de/klimastreik/
+  * Bits & Bäume 2022, 30. September bis 2. Oktober 2022 an der TU Berlin, https://bits-und-baeume.org/konferenz-2022/
+  * Code Week Germany (Knurps)
+* &#x1f3b6;&nbsp;[FMA: Hypp Fractal - Fireflies](https://freemusicarchive.org/music/Hypp_fractal/Time_and_Space/05_Fireflies/)
+* &#x1f3b6;&nbsp;[FMA: Viscid - Flux](https://freemusicarchive.org/music/viscid/tocsin/flux-1/)
+
+Crypto
+https://podcasts.apple.com/de/podcast/netzpolitik-podcast-netzpolitik-org/id1281525246
+https://tante.cc/2022/02/04/das-dritte-web/
+Münecat https://www.youtube.com/watch?v=u-sNSjS8cq0
+
 
