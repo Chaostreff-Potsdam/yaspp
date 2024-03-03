@@ -1,0 +1,21 @@
+name: Docker Build and Run
+
+on:
+  pull_request:
+    branches:
+      - main
+      - master
+
+jobs:
+  build_and_run:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Build Docker image
+        run: docker build -t chaostreff-potsdam/yaspp .
+
+      - name: Run Docker container
+        run: docker run -v./:/workdir chaostreff-potsdam/yaspp
