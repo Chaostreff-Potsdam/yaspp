@@ -7,4 +7,11 @@ staging/
 index.html
 feed.xml
 
+# Test and backup files
+*.backup
+comments.md
+
 venv/
+
+# Go build artifacts
+pad2gh/pad2gh
