@@ -105,45 +105,39 @@ type EntryWithOrder struct {
 
 // insertEntryToYAMLInOrder reads all existing entries, inserts the new entry in the correct position based on date, and rewrites the file
 func insertEntryToYAMLInOrder(entry *CiREntry, contentFilePath string) error {
+	return insertMultipleEntriesToYAMLInOrder([]*CiREntry{entry}, contentFilePath)
+}
+
+// insertMultipleEntriesToYAMLInOrder reads all existing entries, inserts multiple new entries in the correct positions based on date, and rewrites the file once
+func insertMultipleEntriesToYAMLInOrder(newEntries []*CiREntry, contentFilePath string) error {
 	// Read all existing entries
 	entries, err := readYAMLEntries(contentFilePath)
 	if err != nil {
 		return fmt.Errorf("failed to read existing entries: %v", err)
 	}
 
-	// Parse the new entry's date
-	newEntryDate, err := parseEntryDate(entry)
-	if err != nil {
-		return fmt.Errorf("failed to parse new entry date: %v", err)
-	}
-
-	// Create EntryWithOrder slice and find the correct position
+	// Create EntryWithOrder slice for existing entries
 	var orderedEntries []EntryWithOrder
-	inserted := false
-
 	for _, existingEntry := range entries {
 		existingDate, err := parseEntryDate(existingEntry)
 		if err != nil {
-			// If we can't parse the date, append at the end
+			// If we can't parse the date, append at the end with zero time
 			orderedEntries = append(orderedEntries, EntryWithOrder{Entry: existingEntry, Date: time.Time{}})
 			continue
 		}
-
-		// If we haven't inserted yet and the new entry should come before this existing entry
-		if !inserted && newEntryDate.Before(existingDate) {
-			orderedEntries = append(orderedEntries, EntryWithOrder{Entry: entry, Date: newEntryDate})
-			inserted = true
-		}
-
 		orderedEntries = append(orderedEntries, EntryWithOrder{Entry: existingEntry, Date: existingDate})
 	}
 
-	// If we haven't inserted yet (new entry has the latest date), append at the end
-	if !inserted {
-		orderedEntries = append(orderedEntries, EntryWithOrder{Entry: entry, Date: newEntryDate})
+	// Add all new entries to the slice
+	for _, newEntry := range newEntries {
+		newEntryDate, err := parseEntryDate(newEntry)
+		if err != nil {
+			return fmt.Errorf("failed to parse new entry date for %s: %v", newEntry.UUID, err)
+		}
+		orderedEntries = append(orderedEntries, EntryWithOrder{Entry: newEntry, Date: newEntryDate})
 	}
 
-	// Sort by date to ensure correct order
+	// Sort all entries by date to ensure correct order
 	sort.Slice(orderedEntries, func(i, j int) bool {
 		return orderedEntries[i].Date.Before(orderedEntries[j].Date)
 	})
@@ -219,10 +213,10 @@ func writeCommentsFile(entry *CiREntry, commentsFilePath string) error {
 		return fmt.Errorf("error writing %v: %v", commentsFilePath, err)
 	}
 
-	if len(entry.prComments) > 0 {
+	if len(entry.processingWarnings) > 0 {
 		commentsFile.WriteString("\n\n## Errors ")
 	}
-	for _, c := range entry.prComments {
+	for _, c := range entry.processingWarnings {
 		commentsFile.WriteString("\n* " + c)
 	}
 

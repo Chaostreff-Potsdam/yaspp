@@ -4,6 +4,7 @@ import (
 	"os"
 	"strings"
 	"testing"
+
 	"gopkg.in/yaml.v3"
 )
 
@@ -94,8 +95,8 @@ func TestWriteCommentsFile(t *testing.T) {
 
 	// Create a test entry
 	entry := &CiREntry{
-		Summary:    "Test summary content",
-		prComments: []string{"Error 1", "Error 2"},
+		Summary:            "Test summary content",
+		processingWarnings: []string{"Error 1", "Error 2"},
 	}
 
 	// Test writing comments
@@ -111,7 +112,7 @@ func TestWriteCommentsFile(t *testing.T) {
 	}
 
 	contentStr := string(content)
-	
+
 	// Check that summary is present
 	if !strings.Contains(contentStr, "Test summary content") {
 		t.Error("Expected summary content in comments file")
@@ -143,8 +144,8 @@ func TestWriteCommentsFileNoErrors(t *testing.T) {
 
 	// Create a test entry without errors
 	entry := &CiREntry{
-		Summary:    "Test summary content",
-		prComments: []string{}, // No errors
+		Summary:            "Test summary content",
+		processingWarnings: []string{}, // No errors
 	}
 
 	// Test writing comments
@@ -160,7 +161,7 @@ func TestWriteCommentsFileNoErrors(t *testing.T) {
 	}
 
 	contentStr := string(content)
-	
+
 	// Check that summary is present
 	if !strings.Contains(contentStr, "Test summary content") {
 		t.Error("Expected summary content in comments file")

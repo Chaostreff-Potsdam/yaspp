@@ -6,7 +6,7 @@ import (
 	"github.com/sirupsen/logrus"
 )
 
-func processBulkMode(logger *logrus.Logger, contentFilePath string, mapOnly bool, soundDir string) error {
+func processBulkMode(logger *logrus.Logger, contentFilePath string, mapOnly bool, soundDir string, continueOnError bool, strictMode bool) error {
 	logger.Info("Running in bulk mode - processing all pad entries")
 
 	// Get all pad URLs from the Radio page
@@ -41,26 +41,49 @@ func processBulkMode(logger *logrus.Logger, contentFilePath string, mapOnly bool
 	}
 
 	// Create entries for pads without YAML entries
-	newEntries := 0
+	var newEntriesToAdd []*CiREntry
+
+	// First, collect all new entries
 	for _, mapping := range mappings {
-		if !mapping.HasYAMLEntry {
-			logger.Infof("Creating entry for pad: %s (date: %s)", mapping.PadURL, mapping.Date)
-			entry, err := createEntryFromPad(mapping.PadURL)
-			if err != nil {
-				logger.Errorf("Failed to create entry for %s: %v", mapping.PadURL, err)
+		if !mapping.HasYAMLEntry && mapping.HasSoundFileLocal {
+			logger.Infof("Processing pad: %s (date: %s)", mapping.PadURL, mapping.Date)
+			entry, entryErr := createEntryFromPad(mapping.PadURL)
+			if entryErr == nil && len(entry.processingWarnings) > 0 {
+				logger.Warnf("Processing warnings for %s:", mapping.PadURL)
+				for _, warning := range entry.processingWarnings {
+					logger.Warnf("  - %s", warning)
+				}
+
+				// In strict mode, abort if there are warnings
+				if strictMode {
+					entryErr = fmt.Errorf("aborting due to warnings in strict mode for %s", mapping.PadURL)
+				}
+			}
+			if entryErr != nil {
+				logger.Errorf("Failed to create entry for %s: %v", mapping.PadURL, entryErr)
+				if !continueOnError {
+					return fmt.Errorf("failed to create entry for %s: %v", mapping.PadURL, entryErr)
+				}
 				continue
 			}
 
-			err = insertEntryToYAMLInOrder(entry, contentFilePath)
-			if err != nil {
-				logger.Errorf("Failed to insert entry to YAML: %v", err)
-				continue
-			}
-			newEntries++
+			newEntriesToAdd = append(newEntriesToAdd, entry)
 		}
 	}
 
-	logger.Infof("Created %d new entries", newEntries)
+	// Add all new entries to YAML at once
+	if len(newEntriesToAdd) > 0 {
+		logger.Infof("Adding %d new entries to YAML file", len(newEntriesToAdd))
+		err = insertMultipleEntriesToYAMLInOrder(newEntriesToAdd, contentFilePath)
+		if err != nil {
+			logger.Errorf("Failed to insert entries to YAML: %v", err)
+			if !continueOnError {
+				return fmt.Errorf("failed to insert entries to YAML: %v", err)
+			}
+		}
+	}
+
+	logger.Infof("Created %d new entries", len(newEntriesToAdd))
 	return nil
 }
 

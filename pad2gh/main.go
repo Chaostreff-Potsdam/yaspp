@@ -19,14 +19,16 @@ func main() {
 	bulkMode := flag.Bool("bulk", false, "process all pad entries found on the Radio page")
 	mapOnly := flag.Bool("map-only", false, "only create mapping report, don't add new entries")
 	soundDir := flag.String("sound-dir", "", "specify the local directory to check for sound files")
-	
+	continueOnError := flag.Bool("continue-on-error", false, "continue processing entries even if one fails (bulk mode only)")
+	strictMode := flag.Bool("strict", false, "only create entries if there are no errors in the pad for this episode")
+
 	if *verbose {
 		logger.SetLevel(logrus.DebugLevel)
 	}
 	flag.Parse()
 
 	if *bulkMode {
-		err := processBulkMode(logger, *contentFilePath, *mapOnly, *soundDir)
+		err := processBulkMode(logger, *contentFilePath, *mapOnly, *soundDir, *continueOnError, *strictMode)
 		if err != nil {
 			logger.Fatalf("Error in bulk mode: %v", err)
 		}
@@ -47,7 +49,7 @@ func main() {
 		}
 		entry.padURL = *padURLPtr
 	}
-	
+
 	err = processSingleEntry(logger, &entry, *contentFilePath, *commentsFilePath)
 	if err != nil {
 		logger.Fatalf("Error processing single entry: %v", err)

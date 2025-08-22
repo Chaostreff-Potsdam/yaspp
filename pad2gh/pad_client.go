@@ -31,7 +31,7 @@ func getTitleFromFMA(fmaURL string) (string, error) {
 		return "", err
 	}
 	if resp.StatusCode != 200 {
-		return "", fmt.Errorf("fma url must be accessible")
+		return "", fmt.Errorf("%s returned status code %d", fmaURL, resp.StatusCode)
 	}
 	defer resp.Body.Close()
 	// find the title tag in the html and return the content

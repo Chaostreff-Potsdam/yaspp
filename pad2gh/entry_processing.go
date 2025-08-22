@@ -32,6 +32,14 @@ func processSingleEntry(logger *logrus.Logger, entry *CiREntry, contentFilePath,
 		return err
 	}
 
+	// Print warnings if any
+	if len(entry.processingWarnings) > 0 {
+		logger.Warnf("Processing warnings for %s:", entry.padURL)
+		for _, warning := range entry.processingWarnings {
+			logger.Warnf("  - %s", warning)
+		}
+	}
+
 	b, _ := yaml.Marshal(entry)
 
 	if contentFilePath == "" {
@@ -45,7 +53,6 @@ func processSingleEntry(logger *logrus.Logger, entry *CiREntry, contentFilePath,
 	}
 
 	if commentsFilePath == "" {
-		logger.Warn(entry.prComments)
 		return nil
 	}
 
@@ -81,34 +88,59 @@ func populateEntryFromSections(entry *CiREntry, contentBySection map[string][]st
 	month := entryDate[5:7]
 	day := entryDate[8:10]
 
-	longSummary, exists := contentBySection["shownotes"]
-	if !exists {
-		longSummary, exists = contentBySection["long summary"]
-	}
-	if !exists {
-		return fmt.Errorf("no shownotes Section in Pad")
-	}
-
-	shortSummary, exists := contentBySection["summary"]
-	if !exists {
-		return fmt.Errorf("no Summary Section in Pad")
-	}
-
 	mukke, exists := contentBySection["mukke"]
 	if !exists {
-		return fmt.Errorf("no mukke Section in Pad")
+		return fmt.Errorf("no mukke Section in Pad - skipping entry to not risk licensing issues")
 	}
 
 	entry.UUID = fmt.Sprintf("nt-%s-%s-%s", year, month, day)
 	entry.Title = fmt.Sprintf("CiR am %s.%s.%s", day, month, year)
 	entry.Subtitle = "Der Chaostreff im Freien Radio Potsdam"
-	entry.Summary = strings.Join(shortSummary, "\n")
 	entry.PublicationDate = fmt.Sprintf("%s-%s-%sT00:00:00+00:00", year, month, day)
+
+	music := []string{}
+	for _, m := range mukke {
+		if strings.TrimSpace(m) == "" {
+			continue
+		}
+		link := findFirstLink(m)
+		if link == "" {
+			continue
+		}
+		title, err := getTitleFromFMA(link)
+		if err != nil {
+			entry.processingWarnings = append(entry.processingWarnings, fmt.Sprintf("error getting title from fma: %s", err.Error()))
+			title = link
+		}
+		music = append(music, fmt.Sprintf("[%s](%s)", title, link))
+		entry.LongSummaryMD = entry.LongSummaryMD + fmt.Sprintf("\n&#x1f3b6;&nbsp;[%s](%s)", title, link)
+	}
+	if len(music) == 0 {
+		entry.processingWarnings = append(entry.processingWarnings, "no music found in mukke Section")
+	}
+
+	shortSummary, exists := contentBySection["summary"]
+	if !exists {
+		entry.processingWarnings = append(entry.processingWarnings, "no summary Section in Pad")
+		shortSummary = []string{"Chaos im Radio am " + day + "." + month + "." + year}
+	}
+
+	longSummary, exists := contentBySection["shownotes"]
+	if !exists {
+		longSummary, exists = contentBySection["long summary"]
+	}
+	if !exists {
+		entry.processingWarnings = append(entry.processingWarnings, "no long summary Section in Pad, using short summary")
+		entry.LongSummaryMD = "**Shownotes:**\n" + strings.Join(shortSummary, "\n")
+	} else {
+		entry.LongSummaryMD = "**Shownotes:**\n" + strings.Join(longSummary, "\n")
+	}
+
+	entry.Summary = strings.Join(shortSummary, "\n")
 	entry.Audio = []CiRaudio{{
 		Url:      fmt.Sprintf("$media_base_url/%s_%s_%s-chaos-im-radio.mp3", year, month, day),
 		MimeType: "audio/mp3",
 	}}
-	entry.LongSummaryMD = "**Shownotes:**\n" + strings.Join(longSummary, "\n")
 
 	chapter, exists := contentBySection["chapters"]
 	if exists {
@@ -121,24 +153,7 @@ func populateEntryFromSections(entry *CiREntry, contentBySection map[string][]st
 			entry.Chapters = append(entry.Chapters, CiRChapter{Start: chapter[0], Title: strings.Join(chapter[1:], " ")})
 		}
 	} else {
-		entry.prComments = append(entry.prComments, "no chapters Section in Pad")
-	}
-
-	for _, m := range mukke {
-		if strings.TrimSpace(m) == "" {
-			continue
-		}
-		link := findFirstLink(m)
-		if link == "" {
-			entry.prComments = append(entry.prComments, fmt.Sprintf("no link found in mukke line: %s", m))
-			continue
-		}
-		title, err := getTitleFromFMA(link)
-		if err != nil {
-			entry.prComments = append(entry.prComments, fmt.Sprintf("error getting title from fma: %s", err.Error()))
-			title = link
-		}
-		entry.LongSummaryMD = entry.LongSummaryMD + fmt.Sprintf("\n&#x1f3b6;&nbsp;[%s](%s)", title, link)
+		entry.processingWarnings = append(entry.processingWarnings, "no chapters Section in Pad")
 	}
 
 	return nil

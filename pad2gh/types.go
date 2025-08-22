@@ -14,16 +14,16 @@ type CiRChapter struct {
 
 // CiREntry is the podcast episode information
 type CiREntry struct {
-	UUID            string       `yaml:"uuid"`
-	Title           string       `yaml:"title"`
-	Subtitle        string       `yaml:"subtitle"`
-	Summary         string       `yaml:"summary"`
-	PublicationDate string       `yaml:"publicationDate"`
-	Audio           []CiRaudio   `yaml:"audio"`
-	Chapters        []CiRChapter `yaml:"chapters"`
-	LongSummaryMD   string       `yaml:"long_summary_md"`
-	padURL          string
-	prComments      []string
+	UUID               string       `yaml:"uuid"`
+	Title              string       `yaml:"title"`
+	Subtitle           string       `yaml:"subtitle"`
+	Summary            string       `yaml:"summary"`
+	PublicationDate    string       `yaml:"publicationDate"`
+	Audio              []CiRaudio   `yaml:"audio"`
+	Chapters           []CiRChapter `yaml:"chapters"`
+	LongSummaryMD      string       `yaml:"long_summary_md"`
+	padURL             string
+	processingWarnings []string
 }
 
 // PadMapping represents the mapping between pads, YAML entries and sound files
