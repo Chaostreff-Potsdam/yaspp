@@ -9,6 +9,7 @@ import (
 	"regexp"
 	"strings"
 
+	"github.com/sirupsen/logrus"
 	"gopkg.in/yaml.v3"
 )
 
@@ -58,6 +59,8 @@ func readExistingYAMLEntries(filePath string) (map[string]*CiREntry, error) {
 
 		if dateKey != "" {
 			entries[dateKey] = &entry
+		} else {
+			logrus.Warnf("Entry without valid date found: %s", entry.UUID)
 		}
 	}
 
