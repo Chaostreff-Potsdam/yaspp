@@ -162,13 +162,23 @@ func createPadMapping(padURLs []string, existingEntries map[string]*CiREntry, so
 	return mappings, nil
 }
 
-func findFirstLink(line string) string {
+func findFirstLink(line string) (string, string) {
+	// Check for markdown links first [title](url)
+	re := regexp.MustCompile(`\[([^\]]*)\]\(([^)]+)\)`)
+	matches := re.FindStringSubmatch(line)
+	if len(matches) >= 3 {
+		title := matches[1]
+		url := matches[2]
+		return title, url
+	}
+
+	// Fall back to plain HTTP links
 	for _, linkCandidate := range strings.Split(line, " ") {
 		if strings.HasPrefix(linkCandidate, "http") {
-			return linkCandidate
+			return "", linkCandidate
 		}
 	}
-	return ""
+	return "", ""
 }
 
 func getMarkdownContentBySection(padURL string) (map[string][]string, error) {

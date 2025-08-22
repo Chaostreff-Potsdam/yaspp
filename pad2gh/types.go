@@ -10,6 +10,7 @@ type CiRaudio struct {
 type CiRChapter struct {
 	Start string // format: 00:00:00.000 `yaml:"start"`
 	Title string `yaml:"title"`
+	Href  string `yaml:"href,omitempty"` // optional link for the chapter
 }
 
 // CiREntry is the podcast episode information
@@ -20,8 +21,8 @@ type CiREntry struct {
 	Summary            string       `yaml:"summary"`
 	PublicationDate    string       `yaml:"publicationDate"`
 	Audio              []CiRaudio   `yaml:"audio"`
-	Chapters           []CiRChapter `yaml:"chapters"`
-	LongSummaryMD      string       `yaml:"long_summary_md"`
+	Chapters           []CiRChapter `yaml:"chapters,omitempty"`
+	LongSummaryMD      string       `yaml:"long_summary_md,omitempty"`
 	padURL             string
 	processingWarnings []string
 }

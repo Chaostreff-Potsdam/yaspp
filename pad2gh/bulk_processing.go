@@ -74,7 +74,8 @@ func processBulkMode(logger *logrus.Logger, contentFilePath string, mapOnly bool
 	// Add all new entries to YAML at once
 	if len(newEntriesToAdd) > 0 {
 		logger.Infof("Adding %d new entries to YAML file", len(newEntriesToAdd))
-		err = insertMultipleEntriesToYAMLInOrder(newEntriesToAdd, contentFilePath)
+		// err = insertMultipleEntriesToYAMLInOrder(newEntriesToAdd, contentFilePath)
+		err = appendMultipleEntriesToYAML(newEntriesToAdd, contentFilePath)
 		if err != nil {
 			logger.Errorf("Failed to insert entries to YAML: %v", err)
 			if !continueOnError {

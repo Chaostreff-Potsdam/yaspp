@@ -13,26 +13,112 @@ import (
 	"gopkg.in/yaml.v3"
 )
 
-func appendEntryToYAML(entry *CiREntry, contentFilePath string) error {
-	b, _ := yaml.Marshal(entry)
+// setSingleQuoteStyle recursively sets appropriate string nodes to use the correct YAML style
+// to match the existing content.yaml format
+func setSingleQuoteStyle(node *yaml.Node) {
+	if node.Kind == yaml.MappingNode {
+		// For mapping nodes, process key-value pairs
+		for i := 0; i < len(node.Content); i += 2 {
+			key := node.Content[i]
+			value := node.Content[i+1]
 
-	contentFile, err := os.OpenFile(contentFilePath, os.O_RDWR|os.O_APPEND|os.O_CREATE, 0666)
-	if err != nil {
-		return fmt.Errorf("error while opening %v: %v", contentFilePath, err)
+			// Apply specific styles based on the key name
+			if key.Kind == yaml.ScalarNode && value.Kind == yaml.ScalarNode && value.Tag == "!!str" {
+				switch key.Value {
+				case "summary":
+					// Use folded scalar style (>)
+					value.Style = yaml.FoldedStyle
+				case "long_summary_md":
+					// Use literal scalar style (|)
+					value.Style = yaml.LiteralStyle
+				case "publicationDate":
+					// Use double quotes for publicationDate
+					value.Style = yaml.DoubleQuotedStyle
+				case "uuid", "subtitle", "url", "mimeType":
+					// Use flow style for uuid, title, subtitle
+					value.Style = yaml.FlowStyle
+				default:
+					// Use single quotes for all other string values
+					value.Style = yaml.SingleQuotedStyle
+				}
+			}
+
+			// Recursively process nested structures
+			setSingleQuoteStyle(value)
+		}
+	} else if node.Kind == yaml.SequenceNode {
+		// For sequence nodes, process all elements
+		for _, child := range node.Content {
+			setSingleQuoteStyle(child)
+		}
 	}
-	defer contentFile.Close()
+}
 
-	// Add YAML document separator
-	if fileInfo, err := contentFile.Stat(); err == nil && fileInfo.Size() > 0 {
-		_, err = contentFile.WriteString("---\n")
+func appendEntryToYAML(entry *CiREntry, contentFilePath string) error {
+	return appendMultipleEntriesToYAML([]*CiREntry{entry}, contentFilePath)
+}
+
+func appendMultipleEntriesToYAML(entries []*CiREntry, contentFilePath string) error {
+	if len(entries) == 0 {
+		return nil // Nothing to append
+	}
+
+	// Create a temporary file to write the new entries
+	tmpFile, err := os.CreateTemp("", "temp_content_*.yaml")
+	if err != nil {
+		return fmt.Errorf("failed to create temp file: %v", err)
+	}
+	defer os.Remove(tmpFile.Name())
+
+	// Write existing content if the file already exists
+	if _, err := os.Stat(contentFilePath); err == nil {
+		content, err := os.ReadFile(contentFilePath)
 		if err != nil {
-			return fmt.Errorf("error writing separator to %v: %v", contentFilePath, err)
+			return fmt.Errorf("failed to read existing content file: %v", err)
+		}
+		if len(content) > 0 {
+			if _, err := tmpFile.Write(content); err != nil {
+				return fmt.Errorf("failed to write existing content to temp file: %v", err)
+			}
+			// Ensure there's a newline before adding new entries
+			if content[len(content)-2] != '-' {
+				if _, err := tmpFile.WriteString("---\n"); err != nil {
+					return fmt.Errorf("failed to write newline to temp file: %v", err)
+				}
+			}
 		}
 	}
 
-	_, err = contentFile.Write(b)
+	// Create a single encoder for all entries to ensure proper YAML document separators
+	encoder := yaml.NewEncoder(tmpFile)
+	encoder.SetIndent(2)
+
+	for _, entry := range entries {
+		node := &yaml.Node{}
+		err = node.Encode(entry)
+		if err != nil {
+			return fmt.Errorf("failed to encode entry to node: %v", err)
+		}
+		setSingleQuoteStyle(node)
+
+		err = encoder.Encode(node)
+		if err != nil {
+			_ = encoder.Close()
+			return fmt.Errorf("failed to marshal entry: %v", err)
+		}
+	}
+
+	err = encoder.Close()
 	if err != nil {
-		return fmt.Errorf("error writing %v: %v", contentFilePath, err)
+		return fmt.Errorf("failed to close encoder: %v", err)
+	}
+
+	tmpFile.Close()
+
+	// Move the temporary file to the original content file path
+	err = os.Rename(tmpFile.Name(), contentFilePath)
+	if err != nil {
+		return fmt.Errorf("failed to rename temp file to content file: %v", err)
 	}
 
 	return nil
@@ -177,25 +263,29 @@ func writeAllYAMLEntries(orderedEntries []EntryWithOrder, contentFilePath string
 	}
 	defer file.Close()
 
-	for i, entryWithOrder := range orderedEntries {
-		// Add document separator before each entry except the first
-		if i > 0 {
-			_, err = file.WriteString("---\n")
-			if err != nil {
-				return fmt.Errorf("failed to write separator: %v", err)
-			}
-		}
+	encoder := yaml.NewEncoder(file)
+	encoder.SetIndent(2)
 
-		// Marshal and write the entry
-		b, err := yaml.Marshal(entryWithOrder.Entry)
+	for _, entryWithOrder := range orderedEntries {
+		// First marshal to a node to apply single quote style
+		var node yaml.Node
+		err := node.Encode(entryWithOrder.Entry)
 		if err != nil {
+			_ = encoder.Close()
+			return fmt.Errorf("failed to encode entry to node: %v", err)
+		}
+		setSingleQuoteStyle(&node)
+
+		err = encoder.Encode(&node)
+		if err != nil {
+			_ = encoder.Close()
 			return fmt.Errorf("failed to marshal entry: %v", err)
 		}
+	}
 
-		_, err = file.Write(b)
-		if err != nil {
-			return fmt.Errorf("failed to write entry: %v", err)
-		}
+	err = encoder.Close()
+	if err != nil {
+		return fmt.Errorf("failed to close encoder: %v", err)
 	}
 
 	return nil

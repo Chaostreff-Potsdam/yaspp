@@ -98,27 +98,6 @@ func populateEntryFromSections(entry *CiREntry, contentBySection map[string][]st
 	entry.Subtitle = "Der Chaostreff im Freien Radio Potsdam"
 	entry.PublicationDate = fmt.Sprintf("%s-%s-%sT00:00:00+00:00", year, month, day)
 
-	music := []string{}
-	for _, m := range mukke {
-		if strings.TrimSpace(m) == "" {
-			continue
-		}
-		link := findFirstLink(m)
-		if link == "" {
-			continue
-		}
-		title, err := getTitleFromFMA(link)
-		if err != nil {
-			entry.processingWarnings = append(entry.processingWarnings, fmt.Sprintf("error getting title from fma: %s", err.Error()))
-			title = link
-		}
-		music = append(music, fmt.Sprintf("[%s](%s)", title, link))
-		entry.LongSummaryMD = entry.LongSummaryMD + fmt.Sprintf("\n&#x1f3b6;&nbsp;[%s](%s)", title, link)
-	}
-	if len(music) == 0 {
-		entry.processingWarnings = append(entry.processingWarnings, "no music found in mukke Section")
-	}
-
 	shortSummary, exists := contentBySection["summary"]
 	if !exists {
 		entry.processingWarnings = append(entry.processingWarnings, "no summary Section in Pad")
@@ -142,7 +121,34 @@ func populateEntryFromSections(entry *CiREntry, contentBySection map[string][]st
 		MimeType: "audio/mp3",
 	}}
 
+	music := []string{}
+	for _, m := range mukke {
+		if strings.TrimSpace(m) == "" {
+			continue
+		}
+		title, link := findFirstLink(m)
+		if link == "" {
+			continue
+		}
+		htmlTitle, err := getTitleFromFMA(link)
+		if err != nil {
+			entry.processingWarnings = append(entry.processingWarnings, fmt.Sprintf("error getting title from fma: %s", err.Error()))
+			title = link
+		}
+		if title == "" {
+			title = htmlTitle
+		}
+		music = append(music, fmt.Sprintf("[%s](%s)", title, link))
+		entry.LongSummaryMD = entry.LongSummaryMD + fmt.Sprintf("\n&#x1f3b6;&nbsp;[%s](%s)", title, link)
+	}
+	if len(music) == 0 {
+		entry.processingWarnings = append(entry.processingWarnings, "no music found in mukke Section")
+	}
+
 	chapter, exists := contentBySection["chapters"]
+	if !exists {
+		chapter, exists = contentBySection["kapitel"]
+	}
 	if exists {
 		entry.Chapters = []CiRChapter{}
 		for _, c := range chapter {
