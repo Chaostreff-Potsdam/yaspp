@@ -165,7 +165,7 @@ func TestCreatePadMapping(t *testing.T) {
 		}},
 	}
 	
-	mappings, err := createPadMapping(padURLs, existingEntries)
+	mappings, err := createPadMapping(padURLs, existingEntries, "")
 	if err != nil {
 		t.Errorf("createPadMapping() failed: %v", err)
 	}

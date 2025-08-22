@@ -86,8 +86,8 @@ func getAllPadLinks(padURL string) ([]string, error) {
 
 	defer padContent.Close()
 
-	// regex to find all pad URLs in the format https://pad.ccc-p.org/*_YYYY-MM-DD_*
-	re := regexp.MustCompile(`https://pad\.ccc-p\.org/[^)\s]*_\d{4}-\d{2}-\d{2}_[^)\s]*`)
+	// regex to find all pad URLs in the format https://pad.ccc-p.org/*_YYYY-MM-DD or https://pad.ccc-p.org/*_YYYY-MM-DD_*
+	re := regexp.MustCompile(`https://pad\.ccc-p\.org/[^\s\)]*_\d{4}-\d{2}-\d{2}[^\s\)]*`)
 	var links []string
 	linkSet := make(map[string]bool) // To avoid duplicates
 

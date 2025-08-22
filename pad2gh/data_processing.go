@@ -4,8 +4,8 @@ import (
 	"bufio"
 	"fmt"
 	"io"
-	"net/http"
 	"os"
+	"path/filepath"
 	"regexp"
 	"strings"
 
@@ -14,7 +14,7 @@ import (
 
 func extractDateFromPadURL(padURL string) (string, error) {
 	// Extract date in format YYYY-MM-DD from pad URL
-	re := regexp.MustCompile(`_(\d{4}-\d{2}-\d{2})_`)
+	re := regexp.MustCompile(`_(\d{4}-\d{2}-\d{2})`)
 	matches := re.FindStringSubmatch(padURL)
 	if len(matches) < 2 {
 		return "", fmt.Errorf("no date found in pad URL: %s", padURL)
@@ -24,7 +24,7 @@ func extractDateFromPadURL(padURL string) (string, error) {
 
 func readExistingYAMLEntries(filePath string) (map[string]*CiREntry, error) {
 	entries := make(map[string]*CiREntry)
-	
+
 	file, err := os.Open(filePath)
 	if err != nil {
 		if os.IsNotExist(err) {
@@ -44,7 +44,7 @@ func readExistingYAMLEntries(filePath string) (map[string]*CiREntry, error) {
 			}
 			return nil, err
 		}
-		
+
 		// Extract date from UUID or publication date to create key
 		var dateKey string
 		if strings.HasPrefix(entry.UUID, "nt-") {
@@ -55,67 +55,58 @@ func readExistingYAMLEntries(filePath string) (map[string]*CiREntry, error) {
 				dateKey = entry.PublicationDate[:10]
 			}
 		}
-		
+
 		if dateKey != "" {
 			entries[dateKey] = &entry
 		}
 	}
-	
+
 	return entries, nil
 }
 
-func checkSoundFileExists(soundFileURL string) bool {
-	// Replace template variable with actual base URL for checking
-	// For now, we'll assume a default structure
-	if strings.Contains(soundFileURL, "$media_base_url") {
-		// We can't check template URLs, so we assume they exist if properly formatted
-		return true
-	}
-	
-	resp, err := http.Head(soundFileURL)
-	if err != nil {
-		return false
-	}
-	defer resp.Body.Close()
-	
-	return resp.StatusCode == 200
+func checkSoundFileExistsLocally(soundFileDir, soundFileName string) bool {
+	filePath := filepath.Join(soundFileDir, soundFileName)
+	_, err := os.Stat(filePath)
+	return !os.IsNotExist(err)
 }
 
-func createPadMapping(padURLs []string, existingEntries map[string]*CiREntry) ([]PadMapping, error) {
+func createPadMapping(padURLs []string, existingEntries map[string]*CiREntry, soundDir string) ([]PadMapping, error) {
 	var mappings []PadMapping
-	
+
 	for _, padURL := range padURLs {
 		date, err := extractDateFromPadURL(padURL)
 		if err != nil {
 			continue // Skip URLs without valid dates
 		}
-		
+
 		mapping := PadMapping{
-			PadURL: padURL,
-			Date:   date,
+			PadURL:            padURL,
+			Date:              date,
+			HasSoundFileLocal: false,
+			HasYAMLEntry:      false,
 		}
-		
+
+		// Generate expected sound file name
+		parts := strings.Split(date, "-")
+		if len(parts) == 3 {
+			year, month, day := parts[0], parts[1], parts[2]
+			mapping.SoundFileName = fmt.Sprintf("%s_%s_%s-chaos-im-radio.mp3", year, month, day)
+
+			// Check local sound file if directory is provided
+			if soundDir != "" {
+				mapping.HasSoundFileLocal = checkSoundFileExistsLocally(soundDir, mapping.SoundFileName)
+			}
+		}
+
 		// Check if YAML entry exists
 		if entry, exists := existingEntries[date]; exists {
 			mapping.HasYAMLEntry = true
 			mapping.YAMLEntry = entry
-			if len(entry.Audio) > 0 {
-				mapping.SoundFileURL = entry.Audio[0].Url
-				mapping.HasSoundFile = checkSoundFileExists(entry.Audio[0].Url)
-			}
-		} else {
-			// Generate expected sound file URL
-			parts := strings.Split(date, "-")
-			if len(parts) == 3 {
-				year, month, day := parts[0], parts[1], parts[2]
-				mapping.SoundFileURL = fmt.Sprintf("$media_base_url/%s_%s_%s-chaos-im-radio.mp3", year, month, day)
-				mapping.HasSoundFile = checkSoundFileExists(mapping.SoundFileURL)
-			}
 		}
-		
+
 		mappings = append(mappings, mapping)
 	}
-	
+
 	return mappings, nil
 }
 

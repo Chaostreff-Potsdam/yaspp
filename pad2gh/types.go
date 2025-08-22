@@ -28,10 +28,10 @@ type CiREntry struct {
 
 // PadMapping represents the mapping between pads, YAML entries and sound files
 type PadMapping struct {
-	PadURL       string
-	Date         string
-	HasYAMLEntry bool
-	YAMLEntry    *CiREntry
-	HasSoundFile bool
-	SoundFileURL string
+	PadURL            string
+	Date              string
+	HasYAMLEntry      bool
+	YAMLEntry         *CiREntry
+	HasSoundFileLocal bool
+	SoundFileName     string
 }

@@ -15,3 +15,6 @@ venv/
 
 # Go build artifacts
 pad2gh/pad2gh
+
+# IDE files
+.vscode/

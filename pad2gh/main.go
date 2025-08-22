@@ -19,6 +19,7 @@ func main() {
 	bulkMode := flag.Bool("bulk", false, "process all pad entries found on the Radio page")
 	mapOnly := flag.Bool("map-only", false, "only create mapping report, don't add new entries")
 	testMode := flag.Bool("test", false, "run in test mode with mock data")
+	soundDir := flag.String("sound-dir", "", "specify the local directory to check for sound files")
 	
 	if *verbose {
 		logger.SetLevel(logrus.DebugLevel)
@@ -26,7 +27,7 @@ func main() {
 	flag.Parse()
 
 	if *bulkMode {
-		err := processBulkMode(logger, *contentFilePath, *mapOnly, *testMode)
+		err := processBulkMode(logger, *contentFilePath, *mapOnly, *testMode, *soundDir)
 		if err != nil {
 			logger.Fatalf("Error in bulk mode: %v", err)
 		}
