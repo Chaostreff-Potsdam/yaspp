@@ -18,7 +18,6 @@ func main() {
 	verbose := flag.Bool("v", false, "verbose output")
 	bulkMode := flag.Bool("bulk", false, "process all pad entries found on the Radio page")
 	mapOnly := flag.Bool("map-only", false, "only create mapping report, don't add new entries")
-	testMode := flag.Bool("test", false, "run in test mode with mock data")
 	soundDir := flag.String("sound-dir", "", "specify the local directory to check for sound files")
 	
 	if *verbose {
@@ -27,7 +26,7 @@ func main() {
 	flag.Parse()
 
 	if *bulkMode {
-		err := processBulkMode(logger, *contentFilePath, *mapOnly, *testMode, *soundDir)
+		err := processBulkMode(logger, *contentFilePath, *mapOnly, *soundDir)
 		if err != nil {
 			logger.Fatalf("Error in bulk mode: %v", err)
 		}
@@ -38,14 +37,9 @@ func main() {
 	var entry CiREntry
 	var err error
 	if padURLPtr == nil || *padURLPtr == "" {
-		if *testMode {
-			logger.Info("Test mode: using mock pad URL")
-			entry.padURL = "https://pad.ccc-p.org/test_2024-01-15_example"
-		} else {
-			entry.padURL, err = getFirstLink("https://pad.ccc-p.org/Radio")
-			if err != nil {
-				log.Fatal(err)
-			}
+		entry.padURL, err = getFirstLink("https://pad.ccc-p.org/Radio")
+		if err != nil {
+			log.Fatal(err)
 		}
 	} else {
 		if !strings.HasPrefix(*padURLPtr, "https://pad.ccc-p.org/") {
@@ -54,7 +48,7 @@ func main() {
 		entry.padURL = *padURLPtr
 	}
 	
-	err = processSingleEntry(logger, &entry, *contentFilePath, *commentsFilePath, *testMode)
+	err = processSingleEntry(logger, &entry, *contentFilePath, *commentsFilePath)
 	if err != nil {
 		logger.Fatalf("Error processing single entry: %v", err)
 	}

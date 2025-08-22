@@ -8,19 +8,12 @@ import (
 	"gopkg.in/yaml.v3"
 )
 
-func processSingleEntry(logger *logrus.Logger, entry *CiREntry, contentFilePath, commentsFilePath string, testMode bool) error {
+func processSingleEntry(logger *logrus.Logger, entry *CiREntry, contentFilePath, commentsFilePath string) error {
 	logger.Debugf("pad url: %s\n", entry.padURL)
 
-	var contentBySection map[string][]string
-	var err error
-	
-	if testMode {
-		contentBySection = getMockPadContent()
-	} else {
-		contentBySection, err = getMarkdownContentBySection(entry.padURL)
-		if err != nil {
-			return err
-		}
+	contentBySection, err := getMarkdownContentBySection(entry.padURL)
+	if err != nil {
+		return err
 	}
 
 	if len(strings.Split(entry.padURL, "_")) < 2 {
@@ -46,7 +39,7 @@ func processSingleEntry(logger *logrus.Logger, entry *CiREntry, contentFilePath,
 		return nil
 	}
 
-	err = appendEntryToYAML(entry, contentFilePath)
+	err = insertEntryToYAMLInOrder(entry, contentFilePath)
 	if err != nil {
 		return err
 	}
@@ -61,7 +54,7 @@ func processSingleEntry(logger *logrus.Logger, entry *CiREntry, contentFilePath,
 
 func createEntryFromPad(padURL string) (*CiREntry, error) {
 	entry := &CiREntry{padURL: padURL}
-	
+
 	contentBySection, err := getMarkdownContentBySection(padURL)
 	if err != nil {
 		return nil, err
@@ -79,7 +72,7 @@ func createEntryFromPad(padURL string) (*CiREntry, error) {
 	if err != nil {
 		return nil, err
 	}
-	
+
 	return entry, nil
 }
 
@@ -87,7 +80,7 @@ func populateEntryFromSections(entry *CiREntry, contentBySection map[string][]st
 	year := entryDate[0:4]
 	month := entryDate[5:7]
 	day := entryDate[8:10]
-	
+
 	longSummary, exists := contentBySection["shownotes"]
 	if !exists {
 		longSummary, exists = contentBySection["long summary"]
@@ -95,17 +88,22 @@ func populateEntryFromSections(entry *CiREntry, contentBySection map[string][]st
 	if !exists {
 		return fmt.Errorf("no shownotes Section in Pad")
 	}
-	
+
 	shortSummary, exists := contentBySection["summary"]
 	if !exists {
 		return fmt.Errorf("no Summary Section in Pad")
+	}
+
+	mukke, exists := contentBySection["mukke"]
+	if !exists {
+		return fmt.Errorf("no mukke Section in Pad")
 	}
 
 	entry.UUID = fmt.Sprintf("nt-%s-%s-%s", year, month, day)
 	entry.Title = fmt.Sprintf("CiR am %s.%s.%s", day, month, year)
 	entry.Subtitle = "Der Chaostreff im Freien Radio Potsdam"
 	entry.Summary = strings.Join(shortSummary, "\n")
-	entry.PublicationDate = fmt.Sprintf("%s-%s-%sT00:00:00+02:00", year, month, day)
+	entry.PublicationDate = fmt.Sprintf("%s-%s-%sT00:00:00+00:00", year, month, day)
 	entry.Audio = []CiRaudio{{
 		Url:      fmt.Sprintf("$media_base_url/%s_%s_%s-chaos-im-radio.mp3", year, month, day),
 		MimeType: "audio/mp3",
@@ -126,27 +124,22 @@ func populateEntryFromSections(entry *CiREntry, contentBySection map[string][]st
 		entry.prComments = append(entry.prComments, "no chapters Section in Pad")
 	}
 
-	mukke, exists := contentBySection["mukke"]
-	if exists {
-		for _, m := range mukke {
-			if strings.TrimSpace(m) == "" {
-				continue
-			}
-			link := findFirstLink(m)
-			if link == "" {
-				entry.prComments = append(entry.prComments, fmt.Sprintf("no link found in mukke line: %s", m))
-				continue
-			}
-			title, err := getTitleFromFMA(link)
-			if err != nil {
-				entry.prComments = append(entry.prComments, fmt.Sprintf("error getting title from fma: %s", err.Error()))
-				title = link
-			}
-			entry.LongSummaryMD = entry.LongSummaryMD + fmt.Sprintf("\n&#x1f3b6;&nbsp;[%s](%s)", title, link)
+	for _, m := range mukke {
+		if strings.TrimSpace(m) == "" {
+			continue
 		}
-	} else {
-		entry.prComments = append(entry.prComments, "no mukke Section in Pad")
+		link := findFirstLink(m)
+		if link == "" {
+			entry.prComments = append(entry.prComments, fmt.Sprintf("no link found in mukke line: %s", m))
+			continue
+		}
+		title, err := getTitleFromFMA(link)
+		if err != nil {
+			entry.prComments = append(entry.prComments, fmt.Sprintf("error getting title from fma: %s", err.Error()))
+			title = link
+		}
+		entry.LongSummaryMD = entry.LongSummaryMD + fmt.Sprintf("\n&#x1f3b6;&nbsp;[%s](%s)", title, link)
 	}
-	
+
 	return nil
 }

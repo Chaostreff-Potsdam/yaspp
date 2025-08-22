@@ -6,22 +6,14 @@ import (
 	"github.com/sirupsen/logrus"
 )
 
-func processBulkMode(logger *logrus.Logger, contentFilePath string, mapOnly bool, testMode bool, soundDir string) error {
+func processBulkMode(logger *logrus.Logger, contentFilePath string, mapOnly bool, soundDir string) error {
 	logger.Info("Running in bulk mode - processing all pad entries")
 
 	// Get all pad URLs from the Radio page
 	logger.Info("Fetching all pad URLs from Radio page...")
-	var padURLs []string
-	var err error
-
-	if testMode {
-		logger.Info("Test mode: using mock pad URLs")
-		padURLs = getMockPadURLs()
-	} else {
-		padURLs, err = getAllPadLinks("https://pad.ccc-p.org/Radio")
-		if err != nil {
-			return fmt.Errorf("failed to get pad URLs: %v", err)
-		}
+	padURLs, err := getAllPadLinks("https://pad.ccc-p.org/Radio")
+	if err != nil {
+		return fmt.Errorf("failed to get pad URLs: %v", err)
 	}
 	logger.Infof("Found %d pad URLs", len(padURLs))
 
@@ -53,20 +45,15 @@ func processBulkMode(logger *logrus.Logger, contentFilePath string, mapOnly bool
 	for _, mapping := range mappings {
 		if !mapping.HasYAMLEntry {
 			logger.Infof("Creating entry for pad: %s (date: %s)", mapping.PadURL, mapping.Date)
-			var entry *CiREntry
-			if testMode {
-				entry = createMockEntry(mapping.PadURL, mapping.Date)
-			} else {
-				entry, err = createEntryFromPad(mapping.PadURL)
-				if err != nil {
-					logger.Errorf("Failed to create entry for %s: %v", mapping.PadURL, err)
-					continue
-				}
+			entry, err := createEntryFromPad(mapping.PadURL)
+			if err != nil {
+				logger.Errorf("Failed to create entry for %s: %v", mapping.PadURL, err)
+				continue
 			}
 
-			err = appendEntryToYAML(entry, contentFilePath)
+			err = insertEntryToYAMLInOrder(entry, contentFilePath)
 			if err != nil {
-				logger.Errorf("Failed to append entry to YAML: %v", err)
+				logger.Errorf("Failed to insert entry to YAML: %v", err)
 				continue
 			}
 			newEntries++
