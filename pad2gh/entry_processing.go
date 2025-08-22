@@ -1,0 +1,152 @@
+package main
+
+import (
+	"fmt"
+	"strings"
+
+	"github.com/sirupsen/logrus"
+	"gopkg.in/yaml.v3"
+)
+
+func processSingleEntry(logger *logrus.Logger, entry *CiREntry, contentFilePath, commentsFilePath string, testMode bool) error {
+	logger.Debugf("pad url: %s\n", entry.padURL)
+
+	var contentBySection map[string][]string
+	var err error
+	
+	if testMode {
+		contentBySection = getMockPadContent()
+	} else {
+		contentBySection, err = getMarkdownContentBySection(entry.padURL)
+		if err != nil {
+			return err
+		}
+	}
+
+	if len(strings.Split(entry.padURL, "_")) < 2 {
+		return fmt.Errorf("pad url must contain a date in the format YYYY-MM-DD_")
+	}
+	entryDate := strings.Split(entry.padURL, "_")[1]
+	if len(entryDate) < 10 {
+		return fmt.Errorf("pad url must contain a date in the format YYYY-MM-DD_")
+	}
+
+	// for the GitHub Action:
+	fmt.Printf("entrydate=%s\n", entryDate)
+
+	err = populateEntryFromSections(entry, contentBySection, entryDate)
+	if err != nil {
+		return err
+	}
+
+	b, _ := yaml.Marshal(entry)
+
+	if contentFilePath == "" {
+		fmt.Printf("%s", b)
+		return nil
+	}
+
+	err = appendEntryToYAML(entry, contentFilePath)
+	if err != nil {
+		return err
+	}
+
+	if commentsFilePath == "" {
+		logger.Warn(entry.prComments)
+		return nil
+	}
+
+	return writeCommentsFile(entry, commentsFilePath)
+}
+
+func createEntryFromPad(padURL string) (*CiREntry, error) {
+	entry := &CiREntry{padURL: padURL}
+	
+	contentBySection, err := getMarkdownContentBySection(padURL)
+	if err != nil {
+		return nil, err
+	}
+
+	if len(strings.Split(padURL, "_")) < 2 {
+		return nil, fmt.Errorf("pad url must contain a date in the format YYYY-MM-DD_")
+	}
+	entryDate := strings.Split(padURL, "_")[1]
+	if len(entryDate) < 10 {
+		return nil, fmt.Errorf("pad url must contain a date in the format YYYY-MM-DD_")
+	}
+
+	err = populateEntryFromSections(entry, contentBySection, entryDate)
+	if err != nil {
+		return nil, err
+	}
+	
+	return entry, nil
+}
+
+func populateEntryFromSections(entry *CiREntry, contentBySection map[string][]string, entryDate string) error {
+	year := entryDate[0:4]
+	month := entryDate[5:7]
+	day := entryDate[8:10]
+	
+	longSummary, exists := contentBySection["shownotes"]
+	if !exists {
+		longSummary, exists = contentBySection["long summary"]
+	}
+	if !exists {
+		return fmt.Errorf("no shownotes Section in Pad")
+	}
+	
+	shortSummary, exists := contentBySection["summary"]
+	if !exists {
+		return fmt.Errorf("no Summary Section in Pad")
+	}
+
+	entry.UUID = fmt.Sprintf("nt-%s-%s-%s", year, month, day)
+	entry.Title = fmt.Sprintf("CiR am %s.%s.%s", day, month, year)
+	entry.Subtitle = "Der Chaostreff im Freien Radio Potsdam"
+	entry.Summary = strings.Join(shortSummary, "\n")
+	entry.PublicationDate = fmt.Sprintf("%s-%s-%sT00:00:00+02:00", year, month, day)
+	entry.Audio = []CiRaudio{{
+		Url:      fmt.Sprintf("$media_base_url/%s_%s_%s-chaos-im-radio.mp3", year, month, day),
+		MimeType: "audio/mp3",
+	}}
+	entry.LongSummaryMD = "**Shownotes:**\n" + strings.Join(longSummary, "\n")
+
+	chapter, exists := contentBySection["chapters"]
+	if exists {
+		entry.Chapters = []CiRChapter{}
+		for _, c := range chapter {
+			chapter := strings.Split(c, " ")
+			if len(chapter) < 2 {
+				continue
+			}
+			entry.Chapters = append(entry.Chapters, CiRChapter{Start: chapter[0], Title: strings.Join(chapter[1:], " ")})
+		}
+	} else {
+		entry.prComments = append(entry.prComments, "no chapters Section in Pad")
+	}
+
+	mukke, exists := contentBySection["mukke"]
+	if exists {
+		for _, m := range mukke {
+			if strings.TrimSpace(m) == "" {
+				continue
+			}
+			link := findFirstLink(m)
+			if link == "" {
+				entry.prComments = append(entry.prComments, fmt.Sprintf("no link found in mukke line: %s", m))
+				continue
+			}
+			title, err := getTitleFromFMA(link)
+			if err != nil {
+				entry.prComments = append(entry.prComments, fmt.Sprintf("error getting title from fma: %s", err.Error()))
+				title = link
+			}
+			entry.LongSummaryMD = entry.LongSummaryMD + fmt.Sprintf("\n&#x1f3b6;&nbsp;[%s](%s)", title, link)
+		}
+	} else {
+		entry.prComments = append(entry.prComments, "no mukke Section in Pad")
+	}
+	
+	return nil
+}
