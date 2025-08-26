@@ -56,7 +56,7 @@ func processSingleEntry(logger *logrus.Logger, entry *CiREntry, contentFilePath,
 		return nil
 	}
 
-	return writeCommentsFile(entry, commentsFilePath)
+	return writeCommentsFile([]*CiREntry{entry}, commentsFilePath)
 }
 
 func createEntryFromPad(padURL string) (*CiREntry, error) {

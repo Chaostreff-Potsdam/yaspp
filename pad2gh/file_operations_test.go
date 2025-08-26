@@ -100,7 +100,7 @@ func TestWriteCommentsFile(t *testing.T) {
 	}
 
 	// Test writing comments
-	err = writeCommentsFile(entry, tmpFile.Name())
+	err = writeCommentsFile([]*CiREntry{entry}, tmpFile.Name())
 	if err != nil {
 		t.Errorf("writeCommentsFile() failed: %v", err)
 	}
@@ -149,7 +149,7 @@ func TestWriteCommentsFileNoErrors(t *testing.T) {
 	}
 
 	// Test writing comments
-	err = writeCommentsFile(entry, tmpFile.Name())
+	err = writeCommentsFile([]*CiREntry{entry}, tmpFile.Name())
 	if err != nil {
 		t.Errorf("writeCommentsFile() failed: %v", err)
 	}

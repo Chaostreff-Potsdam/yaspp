@@ -19,7 +19,7 @@ jobs:
       - name: Parse Pad Entry and append to content.yaml
         id: go-run
         working-directory: ./pad2gh
-        run: go run main.go -c ../comments.md -o ../content.yaml >> $GITHUB_OUTPUT # only prints the entry date and collects it in the output
+        run: go run main.go -c ../pr-comments.md -o ../content.yaml -bulk -max-new-entries=1 -file-online >> $GITHUB_OUTPUT # only prints the entry date and collects it in the output
 
       - name: Create Pull Request
         uses: peter-evans/create-pull-request@main
@@ -27,7 +27,7 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
           commit-message: 'Add episode ${{ steps.go-run.outputs.entrydate }} from Pad'
           title: 'Add episode ${{ steps.go-run.outputs.entrydate }} from Pad'
-          body-path: comments.md
+          body-path: pr-comments.md
           add-paths: content.yaml
           branch: "content-${{ steps.go-run.outputs.entrydate }} "
           base: main

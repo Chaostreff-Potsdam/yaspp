@@ -291,23 +291,37 @@ func writeAllYAMLEntries(orderedEntries []EntryWithOrder, contentFilePath string
 	return nil
 }
 
-func writeCommentsFile(entry *CiREntry, commentsFilePath string) error {
+func writeCommentsFile(entries []*CiREntry, commentsFilePath string) error {
 	commentsFile, err := os.Create(commentsFilePath)
 	if err != nil {
 		return err
 	}
-	defer commentsFile.Close()
+	defer commentsFile.Close() //nolint:errcheck
 
-	_, err = commentsFile.WriteString(entry.Summary)
-	if err != nil {
-		return fmt.Errorf("error writing %v: %v", commentsFilePath, err)
-	}
+	for i, entry := range entries {
+		if i > 0 {
+			_, err = commentsFile.WriteString("\n\n---\n\n")
+			if err != nil {
+				return fmt.Errorf("error writing separator to %v: %v", commentsFilePath, err)
+			}
+		}
 
-	if len(entry.processingWarnings) > 0 {
-		commentsFile.WriteString("\n\n## Errors ")
-	}
-	for _, c := range entry.processingWarnings {
-		commentsFile.WriteString("\n* " + c)
+		_, err = commentsFile.WriteString(fmt.Sprintf("## Entry Date: %s\n\n", entry.PublicationDate))
+		if err != nil {
+			return fmt.Errorf("error writing date header to %v: %v", commentsFilePath, err)
+		}
+
+		_, err = commentsFile.WriteString(entry.Summary)
+		if err != nil {
+			return fmt.Errorf("error writing %v: %v", commentsFilePath, err)
+		}
+
+		if len(entry.processingWarnings) > 0 {
+			commentsFile.WriteString("\n\n### Errors ") //nolint:errcheck
+		}
+		for _, c := range entry.processingWarnings {
+			commentsFile.WriteString("\n* " + c) //nolint:errcheck
+		}
 	}
 
 	return nil

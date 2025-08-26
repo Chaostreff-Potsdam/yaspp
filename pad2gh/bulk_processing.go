@@ -7,7 +7,7 @@ import (
 	"github.com/sirupsen/logrus"
 )
 
-func processBulkMode(logger *logrus.Logger, contentFilePath string, mapOnly bool, soundDir string, continueOnError bool, strictMode bool, checkFileOnline bool, maxNewEntries int) error {
+func processBulkMode(logger *logrus.Logger, contentFilePath string, mapOnly bool, soundDir string, continueOnError bool, strictMode bool, checkFileOnline bool, maxNewEntries int, commentsFilePath string) error {
 	logger.Info("Running in bulk mode - processing all pad entries")
 
 	// Get all pad URLs from the Radio page
@@ -43,6 +43,7 @@ func processBulkMode(logger *logrus.Logger, contentFilePath string, mapOnly bool
 
 	// Create entries for pads without YAML entries
 	var newEntriesToAdd []*CiREntry
+	var entryDate string
 
 	// First, collect all new entries (respecting maxNewEntries if > 0)
 	for _, mapping := range mappings {
@@ -80,6 +81,7 @@ func processBulkMode(logger *logrus.Logger, contentFilePath string, mapOnly bool
 
 		// If maxNewEntries is set (>0) and we've reached the limit, stop collecting more
 		if maxNewEntries > 0 && len(newEntriesToAdd) >= maxNewEntries {
+			entryDate = mapping.Date
 			logger.Infof("Reached max-new-entries limit (%d); stopping collection of new entries", maxNewEntries)
 			break
 		}
@@ -100,7 +102,15 @@ func processBulkMode(logger *logrus.Logger, contentFilePath string, mapOnly bool
 	}
 
 	logger.Infof("Created %d new entries", len(newEntriesToAdd))
-	return nil
+
+	// For the GitHub Action, we only return the date of the last processed entry (if any) - will be used in the PR title and commit message
+	fmt.Printf("entrydate=%s\n", entryDate)
+
+	if commentsFilePath == "" {
+		return nil
+	}
+
+	return writeCommentsFile(newEntriesToAdd, commentsFilePath)
 }
 
 func printMappingReport(logger *logrus.Logger, mappings []PadMapping, checkFileOnline bool) {

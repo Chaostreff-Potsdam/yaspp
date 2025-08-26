@@ -14,7 +14,7 @@ import (
 func main() {
 	logger := logrus.StandardLogger()
 	contentFilePath := flag.String("o", "../content.yaml", "specify the yaml file to write to")
-	commentsFilePath := flag.String("c", "../comments.md", "specify the md file to write PR comments to")
+	commentsFilePath := flag.String("c", "../pr-comments.md", "specify the md file to write PR comments to")
 	padURLPtr := flag.String("l", "", "specify the link to the pad entry you want to parse")
 	verbose := flag.Bool("v", false, "verbose output")
 	bulkMode := flag.Bool("bulk", false, "process all pad entries found on the Radio page")
@@ -31,7 +31,7 @@ func main() {
 	flag.Parse()
 
 	if *bulkMode {
-		err := processBulkMode(logger, *contentFilePath, *mapOnly, *soundDir, *continueOnError, *strictMode, *fileOnline, *maxNewEntries)
+		err := processBulkMode(logger, *contentFilePath, *mapOnly, *soundDir, *continueOnError, *strictMode, *fileOnline, *maxNewEntries, *commentsFilePath)
 		if err != nil {
 			logger.Fatalf("Error in bulk mode: %v", err)
 		}

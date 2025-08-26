@@ -6,6 +6,7 @@ output/
 staging/
 index.html
 feed.xml
+pr-comments.md
 
 # Test and backup files
 *.backup
