@@ -18,7 +18,7 @@ Processes a single pad entry and adds it to the YAML file:
 ### Bulk Mode (New)
 Processes all pad entries found on the Radio page and creates a mapping between:
 - All pad entries online
-- Existing entries in the YAML file  
+- Existing entries in the YAML file
 - Actual sound files
 
 ```bash
@@ -28,52 +28,38 @@ Processes all pad entries found on the Radio page and creates a mapping between:
 # Create new YAML entries for all missing pads
 ./pad2gh -bulk -o content.yaml
 
-# Test mode with mock data
-./pad2gh -bulk -test -map-only
+# Process with sound file checking via HTTP
+./pad2gh -bulk -file-online -o content.yaml
+
+# Process only 5 new entries maximum
+./pad2gh -bulk -max-new-entries=5 -o content.yaml
+
+# Continue processing even if some entries fail
+./pad2gh -bulk -continue-on-error -o content.yaml
+
+# Only create entries with no pad errors (strict mode)
+./pad2gh -bulk -strict -o content.yaml
 ```
 
 ## Command Line Options
 
 - `-bulk`: Process all pad entries found on the Radio page
 - `-map-only`: Only create mapping report, don't add new entries
-- `-test`: Run in test mode with mock data
 - `-o <file>`: Specify the YAML file to write to (default: "../content.yaml")
-- `-c <file>`: Specify the comments file to write to (default: "../comments.md")
+- `-c <file>`: Specify the comments file to write to (default: "../pr-comments.md")
 - `-l <url>`: Specify a specific pad URL to parse
 - `-v`: Verbose output
+- `-sound-dir <dir>`: Specify the local directory to check for sound files
+- `-file-online`: Check sound files via HTTP instead of checking local directory
+- `-continue-on-error`: Continue processing entries even if one fails (bulk mode only)
+- `-strict`: Only create entries if there are no errors in the pad for this episode
+- `-max-new-entries <n>`: Limit number of new entries to create in bulk mode (0 = unlimited)
 
-## Output
-
-### Mapping Report
-The bulk mode provides a detailed report showing:
-- Total pads found
-- Which pads have YAML entries
-- Which pads have sound files
-- Complete entries (both YAML and sound file)
-- Missing YAML entries
-
-### YAML Format
-Generated entries follow the standard podcast YAML format:
-```yaml
-uuid: nt-2024-01-15
-title: CiR am 15.01.2024
-subtitle: Der Chaostreff im Freien Radio Potsdam
-summary: Episode summary text
-publicationDate: "2024-01-15T00:00:00+02:00"
-audio:
-  - url: $media_base_url/2024_01_15-chaos-im-radio.mp3
-    mimeType: audio/mp3
-chapters:
-  - start: "00:00:00"
-    title: Introduction
-long_summary_md: |
-  **Shownotes:**
-  * Show note items
-```
 
 ## Examples
 
 1. **Check what's missing**: `./pad2gh -bulk -map-only -v`
-2. **Add all missing entries**: `./pad2gh -bulk -v`  
-3. **Test with mock data**: `./pad2gh -bulk -test -map-only`
-4. **Process single entry**: `./pad2gh -l "https://pad.ccc-p.org/Radio_2024-01-15_episode"`
+2. **Add all missing entries**: `./pad2gh -bulk -v`
+3. **Add limited entries with online file checking**: `./pad2gh -bulk -file-online -max-new-entries=3`
+4. **Process safely with error handling**: `./pad2gh -bulk -continue-on-error -strict`
+5. **Process single entry**: `./pad2gh -l "https://pad.ccc-p.org/Radio_2024-01-15_episode"`
