@@ -114,7 +114,7 @@ func processBulkMode(logger *logrus.Logger, contentFilePath string, mapOnly bool
 }
 
 func printMappingReport(logger *logrus.Logger, mappings []PadMapping, checkFileOnline bool) {
-	fmt.Println("=== PAD MAPPING REPORT ===")
+	logger.Info("=== PAD MAPPING REPORT ===")
 
 	totalPads := len(mappings)
 	withYAML := 0
@@ -146,14 +146,14 @@ func printMappingReport(logger *logrus.Logger, mappings []PadMapping, checkFileO
 		}
 
 		if !mapping.HasYAMLEntry || (checkFileOnline && !mapping.HasSoundFileOnline) {
-			fmt.Printf("Date: %s | Pad: %s | Status: %s\n", mapping.Date, mapping.PadURL, status)
+			logger.Infof("Date: %s | Pad: %s | Status: %s\n", mapping.Date, mapping.PadURL, status)
 		}
 	}
 
-	fmt.Println("=== SUMMARY ===")
-	fmt.Printf("Total pads found: %d\n", totalPads)
-	fmt.Printf("With YAML entries: %d\n", withYAML)
-	fmt.Printf("With sound files: %d\n", withSoundFile)
-	fmt.Printf("Complete (both): %d\n", complete)
-	fmt.Printf("Missing YAML entries: %d\n", totalPads-withYAML)
+	logger.Info("=== SUMMARY ===")
+	logger.Infof("Total pads found: %d\n", totalPads)
+	logger.Infof("With YAML entries: %d\n", withYAML)
+	logger.Infof("With sound files: %d\n", withSoundFile)
+	logger.Infof("Complete (both): %d\n", complete)
+	logger.Infof("Missing YAML entries: %d\n", totalPads-withYAML)
 }
