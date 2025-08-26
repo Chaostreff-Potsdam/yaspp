@@ -170,6 +170,10 @@ func populateEntryFromSections(entry *CiREntry, contentBySection map[string][]st
 			}
 			entry.Chapters = append(entry.Chapters, CiRChapter{Start: chapter[0], Title: title, Href: href})
 		}
+		if len(entry.Chapters) == 1 {
+			entry.Chapters = nil
+			entry.processingWarnings = append(entry.processingWarnings, "only one chapter found in chapters Section, ignoring")
+		}
 	} else {
 		entry.processingWarnings = append(entry.processingWarnings, "no chapters Section in Pad")
 	}
