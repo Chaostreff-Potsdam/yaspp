@@ -30,4 +30,4 @@ jobs:
           body-path: pr-comments.md
           add-paths: content.yaml
           branch: "content-${{ steps.go-run.outputs.entrydate }} "
-          base: main
+          base: ${{ github.ref_name }}
