@@ -6,5 +6,16 @@ output/
 staging/
 index.html
 feed.xml
+pr-comments.md
+
+# Test and backup files
+*.backup
+comments.md
 
 venv/
+
+# Go build artifacts
+pad2gh/pad2gh
+
+# IDE files
+.vscode/
