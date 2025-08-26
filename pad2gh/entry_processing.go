@@ -130,7 +130,7 @@ func populateEntryFromSections(entry *CiREntry, contentBySection map[string][]st
 		if link == "" {
 			continue
 		}
-		htmlTitle, err := getTitleFromFMA(link)
+		htmlTitle, err := getTitleFromLink(link)
 		if err != nil {
 			entry.processingWarnings = append(entry.processingWarnings, fmt.Sprintf("error getting title from fma: %s", err.Error()))
 			title = link
@@ -156,7 +156,19 @@ func populateEntryFromSections(entry *CiREntry, contentBySection map[string][]st
 			if len(chapter) < 2 {
 				continue
 			}
-			entry.Chapters = append(entry.Chapters, CiRChapter{Start: chapter[0], Title: strings.Join(chapter[1:], " ")})
+			title := strings.Join(chapter[1:], " ")
+			href := ""
+			if strings.HasPrefix(title, "http") {
+				var err error
+				href = title
+				title, err = getTitleFromLink(href)
+				if err != nil {
+					title = href
+					href = ""
+				}
+
+			}
+			entry.Chapters = append(entry.Chapters, CiRChapter{Start: chapter[0], Title: title, Href: href})
 		}
 	} else {
 		entry.processingWarnings = append(entry.processingWarnings, "no chapters Section in Pad")

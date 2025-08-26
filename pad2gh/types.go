@@ -34,5 +34,6 @@ type PadMapping struct {
 	HasYAMLEntry      bool
 	YAMLEntry         *CiREntry
 	HasSoundFileLocal bool
+	HasSoundFileOnline bool
 	SoundFileName     string
 }

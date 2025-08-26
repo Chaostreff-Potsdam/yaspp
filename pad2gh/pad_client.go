@@ -5,6 +5,7 @@ import (
 	"fmt"
 	"io"
 	"net/http"
+	"net/url"
 	"regexp"
 	"sort"
 	"strings"
@@ -24,8 +25,7 @@ func getPadContent(padURL string) (io.ReadCloser, error) {
 	return resp.Body, nil
 }
 
-func getTitleFromFMA(fmaURL string) (string, error) {
-	// append the HedgeDoc API path to get the raw pad content
+func getTitleFromLink(fmaURL string) (string, error) {
 	resp, err := http.Get(fmaURL)
 	if err != nil {
 		return "", err
@@ -33,11 +33,11 @@ func getTitleFromFMA(fmaURL string) (string, error) {
 	if resp.StatusCode != 200 {
 		return "", fmt.Errorf("%s returned status code %d", fmaURL, resp.StatusCode)
 	}
-	defer resp.Body.Close()
+	defer resp.Body.Close() //nolint:errcheck
 	// find the title tag in the html and return the content
 	scanner := bufio.NewScanner(resp.Body)
 	for scanner.Scan() {
-		line := scanner.Text()
+		line := strings.TrimSpace(scanner.Text())
 		if strings.HasPrefix(line, "<title>") {
 			return strings.TrimSuffix(strings.TrimPrefix(line, "<title>"), "</title>"), nil
 		}
@@ -61,7 +61,7 @@ func getFirstLink(padURL string) (string, error) {
 	for scanner.Scan() {
 		line := scanner.Text()
 		for _, linkCandidate := range strings.Split(line, "(") {
-			if strings.HasPrefix(linkCandidate, "https://pad.ccc-p.org/") {
+			if strings.HasPrefix(linkCandidate, padBaseURL) {
 				if strings.HasSuffix(linkCandidate, ")") {
 					link := strings.Split(linkCandidate, ")")
 					if len(link) > 1 {
@@ -122,7 +122,7 @@ func extractDateFromPadURL(padURL string) (string, error) {
 	return matches[1], nil
 }
 
-func createPadMapping(padURLs []string, existingEntries map[string]*CiREntry, soundDir string) ([]PadMapping, error) {
+func createPadMapping(padURLs []string, existingEntries map[string]*CiREntry, soundDir string, checkFileOnline bool) ([]PadMapping, error) {
 	var mappings []PadMapping
 
 	for _, padURL := range padURLs {
@@ -132,10 +132,11 @@ func createPadMapping(padURLs []string, existingEntries map[string]*CiREntry, so
 		}
 
 		mapping := PadMapping{
-			PadURL:            padURL,
-			Date:              date,
-			HasSoundFileLocal: false,
-			HasYAMLEntry:      false,
+			PadURL:             padURL,
+			Date:               date,
+			HasSoundFileLocal:  false,
+			HasSoundFileOnline: false,
+			HasYAMLEntry:       false,
 		}
 
 		// Generate expected sound file name
@@ -148,9 +149,22 @@ func createPadMapping(padURLs []string, existingEntries map[string]*CiREntry, so
 			if soundDir != "" {
 				mapping.HasSoundFileLocal = checkSoundFileExistsLocally(soundDir, mapping.SoundFileName)
 			}
+
+			if checkFileOnline {
+				fileURL, err := url.JoinPath(fileBaseURL, mapping.SoundFileName)
+				if err != nil {
+					return nil, fmt.Errorf("failed to construct file URL: %v", err)
+				}
+				resp, err := http.Head(fileURL)
+				if err == nil {
+					if resp.StatusCode == http.StatusOK {
+						mapping.HasSoundFileOnline = true
+					}
+					resp.Body.Close() //nolint:errcheck
+				}
+			}
 		}
 
-		// Check if YAML entry exists
 		if entry, exists := existingEntries[date]; exists {
 			mapping.HasYAMLEntry = true
 			mapping.YAMLEntry = entry
@@ -186,13 +200,14 @@ func getMarkdownContentBySection(padURL string) (map[string][]string, error) {
 	if err != nil {
 		return nil, err
 	}
-	defer padContent.Close()
+	defer padContent.Close() //nolint:errcheck
 
 	// parse the content to find the first link
 	scanner := bufio.NewScanner(padContent)
 	currentSection := "pre-section"
 	currentSectionContent := []string{}
 	contentBySection := make(map[string][]string)
+	previousLineEmpty := false
 	for scanner.Scan() {
 		line := scanner.Text()
 
@@ -206,7 +221,16 @@ func getMarkdownContentBySection(padURL string) (map[string][]string, error) {
 		} else if strings.HasPrefix(line, "#") {
 			continue
 		}
-		currentSectionContent = append(currentSectionContent, strings.Trim(line, " "))
+		line = strings.TrimRight(line, " ")
+		if line == "" {
+			if previousLineEmpty {
+				continue
+			}
+			previousLineEmpty = true
+		} else {
+			previousLineEmpty = false
+		}
+		currentSectionContent = append(currentSectionContent, line)
 	}
 	contentBySection[currentSection] = currentSectionContent
 	if err := scanner.Err(); err != nil {

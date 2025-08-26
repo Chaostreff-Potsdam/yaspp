@@ -5,6 +5,7 @@ package main
 import (
 	"flag"
 	"log"
+	"net/url"
 	"strings"
 
 	"github.com/sirupsen/logrus"
@@ -13,14 +14,16 @@ import (
 func main() {
 	logger := logrus.StandardLogger()
 	contentFilePath := flag.String("o", "../content.yaml", "specify the yaml file to write to")
-	commentsFilePath := flag.String("c", "../comments.md", "specify the yaml file to write to")
+	commentsFilePath := flag.String("c", "../comments.md", "specify the md file to write PR comments to")
 	padURLPtr := flag.String("l", "", "specify the link to the pad entry you want to parse")
 	verbose := flag.Bool("v", false, "verbose output")
 	bulkMode := flag.Bool("bulk", false, "process all pad entries found on the Radio page")
 	mapOnly := flag.Bool("map-only", false, "only create mapping report, don't add new entries")
 	soundDir := flag.String("sound-dir", "", "specify the local directory to check for sound files")
+	fileOnline := flag.Bool("file-online", false, "check sound files via HTTP instead of checking local directory")
 	continueOnError := flag.Bool("continue-on-error", false, "continue processing entries even if one fails (bulk mode only)")
 	strictMode := flag.Bool("strict", false, "only create entries if there are no errors in the pad for this episode")
+	maxNewEntries := flag.Int("max-new-entries", 0, "limit number of new entries to create in bulk mode (0 = unlimited)")
 
 	if *verbose {
 		logger.SetLevel(logrus.DebugLevel)
@@ -28,7 +31,7 @@ func main() {
 	flag.Parse()
 
 	if *bulkMode {
-		err := processBulkMode(logger, *contentFilePath, *mapOnly, *soundDir, *continueOnError, *strictMode)
+		err := processBulkMode(logger, *contentFilePath, *mapOnly, *soundDir, *continueOnError, *strictMode, *fileOnline, *maxNewEntries)
 		if err != nil {
 			logger.Fatalf("Error in bulk mode: %v", err)
 		}
@@ -39,13 +42,14 @@ func main() {
 	var entry CiREntry
 	var err error
 	if padURLPtr == nil || *padURLPtr == "" {
-		entry.padURL, err = getFirstLink("https://pad.ccc-p.org/Radio")
+		u, _ := url.JoinPath(padBaseURL, "Radio")
+		entry.padURL, err = getFirstLink(u)
 		if err != nil {
 			log.Fatal(err)
 		}
 	} else {
-		if !strings.HasPrefix(*padURLPtr, "https://pad.ccc-p.org/") {
-			log.Fatal("pad url must start with https://pad.ccc-p.org/")
+		if !strings.HasPrefix(*padURLPtr, padBaseURL) {
+			log.Fatal("pad url must start with " + padBaseURL)
 		}
 		entry.padURL = *padURLPtr
 	}
