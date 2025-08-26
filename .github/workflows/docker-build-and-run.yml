@@ -18,4 +18,21 @@ jobs:
         run: docker build -t chaostreff-potsdam/yaspp .
 
       - name: Run Docker container
-        run: docker run -v./:/workdir chaostreff-potsdam/yaspp
+        run: docker run --rm -v ${{ github.workspace }}:/workdir chaostreff-potsdam/yaspp
+
+      - name: List generated files
+        run: |
+          echo "Generated files:"
+          ls -la *.html *.xml 2>/dev/null || echo "No output files found"
+          echo "File sizes:"
+          du -h *.html *.xml 2>/dev/null || echo "No files to measure"
+
+      - name: Upload generated files as artifacts
+        uses: actions/upload-artifact@v4
+        with:
+          name: generated-website-${{ github.run_number }}
+          path: |
+            index.html
+            feed.xml
+            cccp.css
+          retention-days: 30
