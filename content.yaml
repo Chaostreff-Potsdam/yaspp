@@ -2003,3 +2003,41 @@ long_summary_md: |
   * [Chaostreff Potsdam](https://www.ccc-p.org/), immer mittwochs ab 19:00 Uhr
   * [Bits & Bäume](https://berlin.bits-und-baeume.org/)
 
+---
+uuid: nt-2022-07-02
+title: 'CiR am 02.07.2022'
+subtitle: Der Chaostreff im Freien Radio Potsdam
+summary: >
+  Knurps, Cyroxx, Ajuvo, Gini und Kirstin senden vom CCCP-Camp irgendwo aus der digitalen Wüste Brandenburgs...
+
+publicationDate: "2022-07-02T00:00:00+00:00"
+audio:
+  - url: $media_base_url/2022_07_02-chaos-im-radio.mp3
+    mimeType: audio/mp3
+chapters:
+  - start: '00:00:00'
+    title: 'Intro & Grüße vom CCCPCamp22'
+  - start: '00:08:30'
+    title: 'Cyberhotline der Digitalagentur Berlin'
+  - start: '00:11:15'
+    title: 'Internet im Knast'
+  - start: '00:15:55'
+    title: 'Buchtipp'
+long_summary_md: |-
+  **Shownotes:**
+  * [Tagesspiegel:  Für Firmen als Hacker-Opfer: Berlins „Cyberhotline“ bleibt dauerhaft geschaltet](https://www.tagesspiegel.de/berlin/berliner-wirtschaft/fur-firmen-als-hacker-opfer-berlins-cyberhotline-bleibt-dauerhaft-geschaltet-8651947.html)
+  * [netzpolitik.org: 21 Anrufe im Jahr: Berliner „Cyberhotline“ ist teuer und wird kaum genutzt](https://netzpolitik.org/2023/21-anrufe-im-jahr-berliner-cyberhotline-ist-teuer-und-wird-kaum-genutzt/)
+  * [Digitalagentur Berlin: Cyberhotline für die Berliner Wirtschaft](https://www.digitalagentur.berlin/neuigkeiten/cyberhotline-fuer-berliner-unternehm---36-.html)
+  * https://www.itsbb.net/projekte/projektseite-2-cyberholine/
+
+  CERT
+
+  * [Internet im Knast: Eingeschränkter Zugang zur Außenwelt](https://netzpolitik.org/2022/internet-im-knast-eingeschraenkter-zugang-zur-aussenwelt/)
+
+  * [camp im vogtland](https://thereisno.camp/)
+  * [Electromagnetic Fields Camp](https://www.emfcamp.org/)
+  * podstock
+  * [Chaostreff Potsdam](https://www.ccc-p.org/), immer mittwochs ab 19:00 Uhr
+  * [Bits & Bäume](https://berlin.bits-und-baeume.org/)
+
+  &#x1f3b6;&nbsp;[Systemabsturz - Verdächtig](https://systemabsturz.band/)
