@@ -13,8 +13,8 @@ import (
 
 // Config holds all command line options for the application
 type Config struct {
-	ContentFilePath   string
-	CommentsFilePath  string
+	ContentFilePath  string
+	CommentsFilePath string
 	PadURL           string
 	Verbose          bool
 	BulkMode         bool
@@ -30,10 +30,10 @@ type Config struct {
 
 func main() {
 	logger := logrus.StandardLogger()
-	
+
 	// Parse command line flags into config struct
 	config := parseFlags()
-	
+
 	if config.Verbose {
 		logger.SetLevel(logrus.DebugLevel)
 	}
@@ -70,11 +70,8 @@ func main() {
 
 // parseFlags parses command line flags and returns a Config struct
 func parseFlags() *Config {
-	config := &Config{
-		PadBaseURL:  "https://pad.ccc-p.org/",
-		FileBaseURL: "https://radio.ccc-p.org/files/",
-	}
-	
+	config := &Config{}
+
 	flag.StringVar(&config.ContentFilePath, "o", "../content.yaml", "specify the yaml file to write to")
 	flag.StringVar(&config.CommentsFilePath, "c", "../pr-comments.md", "specify the md file to write PR comments to")
 	flag.StringVar(&config.PadURL, "l", "", "specify the link to the pad entry you want to parse")
@@ -88,7 +85,7 @@ func parseFlags() *Config {
 	flag.IntVar(&config.MaxNewEntries, "max-new-entries", 0, "limit number of new entries to create in bulk mode (0 = unlimited)")
 	flag.StringVar(&config.PadBaseURL, "pad-base-url", "https://pad.ccc-p.org/", "base URL for pad entries")
 	flag.StringVar(&config.FileBaseURL, "file-base-url", "https://radio.ccc-p.org/files/", "base URL for sound files")
-	
+
 	flag.Parse()
 	return config
 }

@@ -2,6 +2,17 @@ name: Create PR from Pad Entry
 
 on:
   workflow_dispatch: # This event triggers the workflow manually
+    inputs:
+      max_new_entries:
+        description: 'Maximum number of new entries to process'
+        required: false
+        default: '1'
+        type: string
+      file_base_url:
+        description: 'Base URL for sound files'
+        required: false
+        default: 'https://radio.ccc-p.org/files'
+        type: string
 
 jobs:
   parse_pad_and_create_pr:
@@ -19,7 +30,7 @@ jobs:
       - name: Parse Pad Entry and append to content.yaml
         id: go-run
         working-directory: ./pad2gh
-        run: go run ./ -c ../pr-comments.md -o ../content.yaml -bulk -max-new-entries=1 -file-online >> $GITHUB_OUTPUT # only prints the entry date and collects it in the output
+        run: go run ./ -c ../pr-comments.md -o ../content.yaml -bulk -max-new-entries=${{ inputs.max_new_entries }} -file-online -file-base-url=${{ inputs.file_base_url }} >> $GITHUB_OUTPUT # only prints the entry date and collects it in the output
 
       - name: Generate GitHub App token
         id: app-token
