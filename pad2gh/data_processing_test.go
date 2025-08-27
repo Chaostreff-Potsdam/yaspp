@@ -165,7 +165,12 @@ func TestCreatePadMapping(t *testing.T) {
 		}},
 	}
 
-	mappings, err := createPadMapping(padURLs, existingEntries, "", false)
+	config := &Config{
+		SoundDir:   "",
+		FileOnline: false,
+	}
+
+	mappings, err := createPadMapping(padURLs, existingEntries, config)
 	if err != nil {
 		t.Errorf("createPadMapping() failed: %v", err)
 	}
