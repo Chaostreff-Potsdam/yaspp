@@ -36,5 +36,5 @@ jobs:
           title: 'Add episode ${{ steps.go-run.outputs.entrydate }} from Pad'
           body-path: pr-comments.md
           add-paths: content.yaml
-          branch: "content-${{ steps.go-run.outputs.entrydate }} "
+          branch: "cir-bot/content-${{ steps.go-run.outputs.entrydate }} "
           base: ${{ github.ref_name }}
