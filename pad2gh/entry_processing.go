@@ -110,9 +110,13 @@ func populateEntryFromSections(entry *CiREntry, contentBySection map[string][]st
 	}
 	if !exists {
 		entry.processingWarnings = append(entry.processingWarnings, "no long summary Section in Pad, using short summary")
-		entry.LongSummaryMD = "**Shownotes:**\n" + strings.Join(shortSummary, "\n")
+		entry.LongSummaryMD = "**Shownotes:**\n\n" + strings.Join(shortSummary, "\n")
 	} else {
-		entry.LongSummaryMD = "**Shownotes:**\n" + strings.Join(longSummary, "\n")
+		// Convert plain URLs in long summary to markdown links
+		for i, line := range longSummary {
+			longSummary[i] = markdownifyLinks(line)
+		}
+		entry.LongSummaryMD = "**Shownotes:**\n\n" + strings.Join(longSummary, "\n")
 	}
 
 	entry.Summary = strings.Join(shortSummary, "\n")
@@ -122,6 +126,7 @@ func populateEntryFromSections(entry *CiREntry, contentBySection map[string][]st
 	}}
 
 	music := []string{}
+	entry.LongSummaryMD = entry.LongSummaryMD + "\n\n**Musik:**\n\n"
 	for _, m := range mukke {
 		if strings.TrimSpace(m) == "" {
 			continue
@@ -158,7 +163,7 @@ func populateEntryFromSections(entry *CiREntry, contentBySection map[string][]st
 			}
 			title := strings.Join(chapter[1:], " ")
 			href := ""
-			if strings.HasPrefix(title, "http") {
+			if strings.HasPrefix(title, "http://") || strings.HasPrefix(title, "https://") {
 				var err error
 				href = title
 				title, err = getTitleFromLink(href)
@@ -179,4 +184,14 @@ func populateEntryFromSections(entry *CiREntry, contentBySection map[string][]st
 	}
 
 	return nil
+}
+
+func markdownifyLinks(text string) string {
+	words := strings.Split(text, " ")
+	for i, word := range words {
+		if strings.HasPrefix(word, "http://") || strings.HasPrefix(word, "https://") {
+			words[i] = fmt.Sprintf("[%s](%s)", word, word)
+		}
+	}
+	return strings.Join(words, " ")
 }

@@ -218,10 +218,8 @@ func getMarkdownContentBySection(padURL string) (map[string][]string, error) {
 			currentSection = strings.ToLower(currentSection)
 			currentSection = strings.Trim(currentSection, " ")
 			continue
-		} else if strings.HasPrefix(line, "#") {
-			continue
 		}
-		line = strings.TrimRight(line, " ")
+		line = strings.TrimSpace(line)
 		if line == "" {
 			if previousLineEmpty {
 				continue
