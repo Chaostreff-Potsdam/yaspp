@@ -25,15 +25,16 @@ type CiREntry struct {
 	LongSummaryMD      string       `yaml:"long_summary_md,omitempty"`
 	padURL             string
 	processingWarnings []string
+	tags               map[string]bool
 }
 
 // PadMapping represents the mapping between pads, YAML entries and sound files
 type PadMapping struct {
-	PadURL            string
-	Date              string
-	HasYAMLEntry      bool
-	YAMLEntry         *CiREntry
-	HasSoundFileLocal bool
+	PadURL             string
+	Date               string
+	HasYAMLEntry       bool
+	YAMLEntry          *CiREntry
+	HasSoundFileLocal  bool
 	HasSoundFileOnline bool
-	SoundFileName     string
+	SoundFileName      string
 }
