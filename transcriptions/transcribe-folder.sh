@@ -73,7 +73,6 @@ ask_confirmation() {
 # Function to transcribe a single file
 transcribe_file() {
     local input_file="$1"
-    local wav_file="${input_file%.mp3}.wav"
     local output_file="$2"
     local working_dir=$(mktemp -d)
     local start_time=$(date +%s)
