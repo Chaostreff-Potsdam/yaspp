@@ -7,12 +7,12 @@ import (
 	"github.com/sirupsen/logrus"
 )
 
-func processBulkMode(logger *logrus.Logger, contentFilePath string, mapOnly bool, soundDir string, continueOnError bool, strictMode bool, checkFileOnline bool, maxNewEntries int, commentsFilePath string) error {
+func processBulkMode(logger *logrus.Logger, config *Config) error {
 	logger.Info("Running in bulk mode - processing all pad entries")
 
 	// Get all pad URLs from the Radio page
 	logger.Info("Fetching all pad URLs from Radio page...")
-	u, _ := url.JoinPath(padBaseURL, "Radio")
+	u, _ := url.JoinPath(config.PadBaseURL, "Radio")
 	padURLs, err := getAllPadLinks(u)
 	if err != nil {
 		return fmt.Errorf("failed to get pad URLs from %s: %v", u, err)
@@ -21,7 +21,7 @@ func processBulkMode(logger *logrus.Logger, contentFilePath string, mapOnly bool
 
 	// Read existing YAML entries
 	logger.Info("Reading existing YAML entries...")
-	existingEntries, err := readExistingYAMLEntries(contentFilePath)
+	existingEntries, err := readExistingYAMLEntries(config.ContentFilePath)
 	if err != nil {
 		return fmt.Errorf("failed to read existing YAML entries: %v", err)
 	}
@@ -29,14 +29,14 @@ func processBulkMode(logger *logrus.Logger, contentFilePath string, mapOnly bool
 
 	// Create mapping
 	logger.Info("Creating mapping between pads, YAML entries, and sound files...")
-	mappings, err := createPadMapping(padURLs, existingEntries, soundDir, checkFileOnline)
+	mappings, err := createPadMapping(padURLs, existingEntries, config)
 	if err != nil {
 		return fmt.Errorf("failed to create mapping: %v", err)
 	}
 
-	printMappingReport(logger, mappings, checkFileOnline)
+	printMappingReport(logger, mappings, config.FileOnline)
 
-	if mapOnly {
+	if config.MapOnly {
 		logger.Info("Map-only mode: skipping creation of new entries")
 		return nil
 	}
@@ -50,10 +50,10 @@ func processBulkMode(logger *logrus.Logger, contentFilePath string, mapOnly bool
 		if mapping.HasYAMLEntry {
 			continue
 		}
-		if checkFileOnline && !mapping.HasSoundFileOnline {
+		if config.FileOnline && !mapping.HasSoundFileOnline {
 			continue
 		}
-		if !checkFileOnline && !mapping.HasSoundFileLocal {
+		if !config.FileOnline && !mapping.HasSoundFileLocal {
 			continue
 		}
 		logger.Infof("Processing pad: %s (date: %s)", mapping.PadURL, mapping.Date)
@@ -65,13 +65,13 @@ func processBulkMode(logger *logrus.Logger, contentFilePath string, mapOnly bool
 			}
 
 			// In strict mode, abort if there are warnings
-			if strictMode {
+			if config.StrictMode {
 				entryErr = fmt.Errorf("aborting due to warnings in strict mode for %s", mapping.PadURL)
 			}
 		}
 		if entryErr != nil {
 			logger.Errorf("Failed to create entry for %s: %v", mapping.PadURL, entryErr)
-			if !continueOnError {
+			if !config.ContinueOnError {
 				return fmt.Errorf("failed to create entry for %s: %v", mapping.PadURL, entryErr)
 			}
 			continue
@@ -80,9 +80,9 @@ func processBulkMode(logger *logrus.Logger, contentFilePath string, mapOnly bool
 		newEntriesToAdd = append(newEntriesToAdd, entry)
 
 		// If maxNewEntries is set (>0) and we've reached the limit, stop collecting more
-		if maxNewEntries > 0 && len(newEntriesToAdd) >= maxNewEntries {
+		if config.MaxNewEntries > 0 && len(newEntriesToAdd) >= config.MaxNewEntries {
 			entryDate = mapping.Date
-			logger.Infof("Reached max-new-entries limit (%d); stopping collection of new entries", maxNewEntries)
+			logger.Infof("Reached max-new-entries limit (%d); stopping collection of new entries", config.MaxNewEntries)
 			break
 		}
 
@@ -91,11 +91,11 @@ func processBulkMode(logger *logrus.Logger, contentFilePath string, mapOnly bool
 	// Add all new entries to YAML at once
 	if len(newEntriesToAdd) > 0 {
 		logger.Infof("Adding %d new entries to YAML file", len(newEntriesToAdd))
-		// err = insertMultipleEntriesToYAMLInOrder(newEntriesToAdd, contentFilePath)
-		err = appendMultipleEntriesToYAML(newEntriesToAdd, contentFilePath)
+		// err = insertMultipleEntriesToYAMLInOrder(newEntriesToAdd, config.ContentFilePath)
+		err = appendMultipleEntriesToYAML(newEntriesToAdd, config.ContentFilePath)
 		if err != nil {
 			logger.Errorf("Failed to insert entries to YAML: %v", err)
-			if !continueOnError {
+			if !config.ContinueOnError {
 				return fmt.Errorf("failed to insert entries to YAML: %v", err)
 			}
 		}
@@ -106,11 +106,11 @@ func processBulkMode(logger *logrus.Logger, contentFilePath string, mapOnly bool
 	// For the GitHub Action, we only return the date of the last processed entry (if any) - will be used in the PR title and commit message
 	fmt.Printf("entrydate=%s\n", entryDate)
 
-	if commentsFilePath == "" {
+	if config.CommentsFilePath == "" {
 		return nil
 	}
 
-	return writeCommentsFile(newEntriesToAdd, commentsFilePath)
+	return writeCommentsFile(newEntriesToAdd, config.CommentsFilePath)
 }
 
 func printMappingReport(logger *logrus.Logger, mappings []PadMapping, checkFileOnline bool) {

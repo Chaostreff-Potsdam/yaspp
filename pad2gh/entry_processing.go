@@ -8,7 +8,7 @@ import (
 	"gopkg.in/yaml.v3"
 )
 
-func processSingleEntry(logger *logrus.Logger, entry *CiREntry, contentFilePath, commentsFilePath string) error {
+func processSingleEntry(logger *logrus.Logger, entry *CiREntry, config *Config) error {
 	logger.Debugf("pad url: %s\n", entry.padURL)
 
 	contentBySection, err := getMarkdownContentBySection(entry.padURL)
@@ -42,21 +42,21 @@ func processSingleEntry(logger *logrus.Logger, entry *CiREntry, contentFilePath,
 
 	b, _ := yaml.Marshal(entry)
 
-	if contentFilePath == "" {
+	if config.ContentFilePath == "" {
 		fmt.Printf("%s", b)
 		return nil
 	}
 
-	err = insertEntryToYAMLInOrder(entry, contentFilePath)
+	err = insertEntryToYAMLInOrder(entry, config.ContentFilePath)
 	if err != nil {
 		return err
 	}
 
-	if commentsFilePath == "" {
+	if config.CommentsFilePath == "" {
 		return nil
 	}
 
-	return writeCommentsFile([]*CiREntry{entry}, commentsFilePath)
+	return writeCommentsFile([]*CiREntry{entry}, config.CommentsFilePath)
 }
 
 func createEntryFromPad(padURL string) (*CiREntry, error) {

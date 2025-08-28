@@ -48,7 +48,7 @@ func getTitleFromLink(fmaURL string) (string, error) {
 	return fmaURL, nil
 }
 
-func getFirstLink(padURL string) (string, error) {
+func getFirstLink(padURL string, padBaseURL string) (string, error) {
 	padContent, err := getPadContent(padURL)
 	if err != nil {
 		return "", err
@@ -122,7 +122,7 @@ func extractDateFromPadURL(padURL string) (string, error) {
 	return matches[1], nil
 }
 
-func createPadMapping(padURLs []string, existingEntries map[string]*CiREntry, soundDir string, checkFileOnline bool) ([]PadMapping, error) {
+func createPadMapping(padURLs []string, existingEntries map[string]*CiREntry, config *Config) ([]PadMapping, error) {
 	var mappings []PadMapping
 
 	for _, padURL := range padURLs {
@@ -146,12 +146,12 @@ func createPadMapping(padURLs []string, existingEntries map[string]*CiREntry, so
 			mapping.SoundFileName = fmt.Sprintf("%s_%s_%s-chaos-im-radio.mp3", year, month, day)
 
 			// Check local sound file if directory is provided
-			if soundDir != "" {
-				mapping.HasSoundFileLocal = checkSoundFileExistsLocally(soundDir, mapping.SoundFileName)
+			if config.SoundDir != "" {
+				mapping.HasSoundFileLocal = checkSoundFileExistsLocally(config.SoundDir, mapping.SoundFileName)
 			}
 
-			if checkFileOnline {
-				fileURL, err := url.JoinPath(fileBaseURL, mapping.SoundFileName)
+			if config.FileOnline {
+				fileURL, err := url.JoinPath(config.FileBaseURL, mapping.SoundFileName)
 				if err != nil {
 					return nil, fmt.Errorf("failed to construct file URL: %v", err)
 				}
