@@ -126,7 +126,7 @@ func populateEntryFromSections(entry *CiREntry, contentBySection map[string][]st
 	}}
 
 	music := []string{}
-	entry.LongSummaryMD = entry.LongSummaryMD + "\n\n**Musik:**\n\n"
+	entry.LongSummaryMD = entry.LongSummaryMD + "\n\n**Musik:**\n"
 	for _, m := range mukke {
 		if strings.TrimSpace(m) == "" {
 			continue
@@ -180,7 +180,19 @@ func populateEntryFromSections(entry *CiREntry, contentBySection map[string][]st
 			entry.processingWarnings = append(entry.processingWarnings, "only one chapter found in chapters Section, ignoring")
 		}
 	} else {
-		entry.processingWarnings = append(entry.processingWarnings, "no chapters Section in Pad")
+		logrus.Infof("no chapters Section in Pad %s", entry.padURL)
+	}
+
+	entry.tags = map[string]bool{}
+	if contentBySection["tags"] != nil {
+		for _, tag := range contentBySection["tags"] {
+			entry.tags[tag] = true
+		}
+		if !entry.tags["shownotes_complete"] {
+			entry.processingWarnings = append(entry.processingWarnings, "tag 'shownotes_complete' not found in tags Section")
+		}
+	} else {
+		entry.processingWarnings = append(entry.processingWarnings, "no tags found in pad entry")
 	}
 
 	return nil

@@ -211,6 +211,21 @@ func getMarkdownContentBySection(padURL string) (map[string][]string, error) {
 	for scanner.Scan() {
 		line := scanner.Text()
 
+		if strings.HasPrefix(line, "###### tags:") {
+			// example line: ###### tags: `cccp` `radio` `nerdtalk` `shownotes_complete`
+			// split by comma and store as tags: []string in contentBySection
+			tagLine := strings.TrimSpace(strings.TrimPrefix(line, "###### tags:"))
+			tagParts := strings.Fields(tagLine)
+			var cleanedTags []string
+			for _, tag := range tagParts {
+				tag = strings.Trim(tag, "`")
+				if tag != "" {
+					cleanedTags = append(cleanedTags, tag)
+				}
+			}
+			contentBySection["tags"] = cleanedTags
+			continue
+		}
 		if strings.HasPrefix(line, "## ") {
 			contentBySection[currentSection] = currentSectionContent
 			currentSectionContent = []string{}

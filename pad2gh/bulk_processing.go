@@ -72,7 +72,7 @@ func processBulkMode(logger *logrus.Logger, config *Config) error {
 		if entryErr != nil {
 			logger.Errorf("Failed to create entry for %s: %v", mapping.PadURL, entryErr)
 			if !config.ContinueOnError {
-				return fmt.Errorf("failed to create entry for %s: %v", mapping.PadURL, entryErr)
+				break
 			}
 			continue
 		}
