@@ -137,29 +137,32 @@ func populateEntryFromSections(entry *CiREntry, contentBySection map[string][]st
 		MimeType: "audio/mp3",
 	}}
 
-	music := []string{}
-	entry.LongSummaryMD = entry.LongSummaryMD + "\n\n**Musik:**\n"
-	for _, m := range mukke {
-		if strings.TrimSpace(m) == "" {
-			continue
+	if !entry.tags["no_music"] {
+		entry.LongSummaryMD = entry.LongSummaryMD + "\n\n**Musik:**\n"
+		
+		music := []string{}	
+		for _, m := range mukke {
+			if strings.TrimSpace(m) == "" {
+				continue
+			}
+			title, link := findFirstLink(m)
+			if link == "" {
+				continue
+			}
+			htmlTitle, err := getTitleFromLink(link)
+			if err != nil {
+				entry.processingWarnings = append(entry.processingWarnings, fmt.Sprintf("error getting title from fma: %s", err.Error()))
+				title = link
+			}
+			if title == "" {
+				title = htmlTitle
+			}
+			music = append(music, fmt.Sprintf("[%s](%s)", title, link))
+			entry.LongSummaryMD = entry.LongSummaryMD + fmt.Sprintf("\n&#x1f3b6;&nbsp;[%s](%s)", title, link)
 		}
-		title, link := findFirstLink(m)
-		if link == "" {
-			continue
+		if len(music) == 0 {
+			entry.processingWarnings = append(entry.processingWarnings, "no music found in mukke Section")
 		}
-		htmlTitle, err := getTitleFromLink(link)
-		if err != nil {
-			entry.processingWarnings = append(entry.processingWarnings, fmt.Sprintf("error getting title from fma: %s", err.Error()))
-			title = link
-		}
-		if title == "" {
-			title = htmlTitle
-		}
-		music = append(music, fmt.Sprintf("[%s](%s)", title, link))
-		entry.LongSummaryMD = entry.LongSummaryMD + fmt.Sprintf("\n&#x1f3b6;&nbsp;[%s](%s)", title, link)
-	}
-	if len(music) == 0 && !entry.tags["no_music"] {
-		entry.processingWarnings = append(entry.processingWarnings, "no music found in mukke Section")
 	}
 
 	chapter, exists := contentBySection["chapters"]
