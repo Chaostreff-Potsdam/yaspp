@@ -2392,3 +2392,66 @@ long_summary_md: |-
   **Musik:**
 
   &#x1f3b6;&nbsp;[Gunnar Olsen - Tremsz](https://soundcloud.com/royaltyfreemusic-nocopyrightmusic/tremsz-gunnar-olsen-free-download)
+---
+uuid: nt-2023-10-09
+title: 'CiR am 09.10.2023'
+subtitle: Der Chaostreff im Freien Radio Potsdam
+summary: >
+  Knurps, Cyroxx und Hannes reden über Bluesky, AVM, Ransomware und Chaos Veranstaltungen.
+
+publicationDate: "2023-10-09T00:00:00+00:00"
+audio:
+  - url: $media_base_url/2023_10_09-chaos-im-radio.mp3
+    mimeType: audio/mp3
+chapters:
+  - start: '00:00:00'
+    title: 'Intro'
+  - start: '00:02:00'
+    title: 'NFT foo'
+  - start: '00:09:00'
+    title: 'Bluesky'
+  - start: '00:20:00'
+    title: 'AVM, Zigbee und Wireguard'
+  - start: '00:24:30'
+    title: 'Beat Mekanik - Addiction - Free Music Archive'
+    href: 'https://freemusicarchive.org/music/beat-mekanik/single/addiction/'
+  - start: '00:29:00'
+    title: 'Ransomware'
+  - start: '00:42:00'
+    title: 'AudioCoffee Band - Positive - Free Music Archive'
+    href: 'https://freemusicarchive.org/music/audiocoffee-band/relaxing-dance-waves/positive-1/'
+  - start: '00:45:00'
+    title: 'Veranstaltung'
+  - start: '00:56:00'
+    title: 'https://freemusicarchive.org/music/maarten-schellekens/single/still-wondering-1/'
+long_summary_md: |-
+  **Shownotes:**
+
+  * [https://www.deutschepost.de/de/k/kryptomarke.html](https://www.deutschepost.de/de/k/kryptomarke.html)
+  * bluesky wikipedia
+  * [https://www.golem.de/news/avm-fritzbox-schwachstelle-wohl-ohne-fernzugriff-ausnutzbar-2310-178153.html](https://www.golem.de/news/avm-fritzbox-schwachstelle-wohl-ohne-fernzugriff-ausnutzbar-2310-178153.html)
+  * [https://www.tagesschau.de/wirtschaft/unternehmen/motel-one-hackerangriff-100.html](https://www.tagesschau.de/wirtschaft/unternehmen/motel-one-hackerangriff-100.html)
+  * [https://www.deutschlandfunk.de/it-sicherheit-in-krankenhaeusern-wenn-hacker-kliniken-100.html](https://www.deutschlandfunk.de/it-sicherheit-in-krankenhaeusern-wenn-hacker-kliniken-100.html)
+  * [https://www.heise.de/news/Casino-Hacker-kosten-MGM-Resorts-rund-100-Millionen-US-Dollar-9326420.html](https://www.heise.de/news/Casino-Hacker-kosten-MGM-Resorts-rund-100-Millionen-US-Dollar-9326420.html)
+  * [https://www.golem.de/news/credential-stuffing-hacker-bieten-nutzerdaten-von-23andme-zum-verkauf-an-2310-178295.html](https://www.golem.de/news/credential-stuffing-hacker-bieten-nutzerdaten-von-23andme-zum-verkauf-an-2310-178295.html)
+  * [https://interestingengineering.com/culture/google-search-indexed-bard-conversations](https://interestingengineering.com/culture/google-search-indexed-bard-conversations)
+  * [https://mashable.com/article/google-ai-chatbot-warning-to-employees](https://mashable.com/article/google-ai-chatbot-warning-to-employees)
+
+  * [https://dezentrale.space/posts/2023/09/programm-6-jahre-dezentrale/](https://dezentrale.space/posts/2023/09/programm-6-jahre-dezentrale/)
+  * [https://spaceapi.io](https://spaceapi.io)
+  * [https://spaceapi.ccc-p.org](https://spaceapi.ccc-p.org)
+  * Termine:
+  * [CoderDojo Potsdam HPI, 14.10.23](https://zen.coderdojo.com/dojos/de/brandenburg/potsdam/potsdam-hpi)
+  * [Vintage Computing Festival (VCFB) 2023](https://vcfb.de/2023/)  14.-15.10.
+  * [Geekend Hamburg #jetzt3](https://chaos.jetzt/), Fr. 20.-22.10.
+  * Krisenmanagement - BHT, 02.11.23
+  * Geekend mit eInk-Displays 17. bis 19.11.
+  * Jugend hackt in Potsdam (bald)
+  * [37c3](https://www.ccc.de/de/updates/2023/37C3) 27.-30.12.2023, Hamburg
+
+
+  **Musik:**
+
+  &#x1f3b6;&nbsp;[Beat Mekanik - Addiction - Free Music Archive](https://freemusicarchive.org/music/beat-mekanik/single/addiction/)
+  &#x1f3b6;&nbsp;[AudioCoffee Band - Positive - Free Music Archive](https://freemusicarchive.org/music/audiocoffee-band/relaxing-dance-waves/positive-1/)
+  &#x1f3b6;&nbsp;[Marten Schellekens - Still Wondering](https://freemusicarchive.org/music/maarten-schellekens/single/still-wondering-1/)
