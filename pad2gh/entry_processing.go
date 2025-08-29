@@ -88,8 +88,20 @@ func populateEntryFromSections(entry *CiREntry, contentBySection map[string][]st
 	month := entryDate[5:7]
 	day := entryDate[8:10]
 
+	entry.tags = map[string]bool{}
+	if contentBySection["tags"] != nil {
+		for _, tag := range contentBySection["tags"] {
+			entry.tags[tag] = true
+		}
+		if !entry.tags["shownotes_complete"] {
+			entry.processingWarnings = append(entry.processingWarnings, "tag 'shownotes_complete' not found in tags Section")
+		}
+	} else {
+		entry.processingWarnings = append(entry.processingWarnings, "no tags found in pad entry")
+	}
+
 	mukke, exists := contentBySection["mukke"]
-	if !exists {
+	if !exists && !entry.tags["no_music"] {
 		return fmt.Errorf("no mukke Section in Pad - skipping entry to not risk licensing issues")
 	}
 
@@ -146,7 +158,7 @@ func populateEntryFromSections(entry *CiREntry, contentBySection map[string][]st
 		music = append(music, fmt.Sprintf("[%s](%s)", title, link))
 		entry.LongSummaryMD = entry.LongSummaryMD + fmt.Sprintf("\n&#x1f3b6;&nbsp;[%s](%s)", title, link)
 	}
-	if len(music) == 0 {
+	if len(music) == 0 && !entry.tags["no_music"] {
 		entry.processingWarnings = append(entry.processingWarnings, "no music found in mukke Section")
 	}
 
@@ -181,18 +193,6 @@ func populateEntryFromSections(entry *CiREntry, contentBySection map[string][]st
 		}
 	} else {
 		logrus.Infof("no chapters Section in Pad %s", entry.padURL)
-	}
-
-	entry.tags = map[string]bool{}
-	if contentBySection["tags"] != nil {
-		for _, tag := range contentBySection["tags"] {
-			entry.tags[tag] = true
-		}
-		if !entry.tags["shownotes_complete"] {
-			entry.processingWarnings = append(entry.processingWarnings, "tag 'shownotes_complete' not found in tags Section")
-		}
-	} else {
-		entry.processingWarnings = append(entry.processingWarnings, "no tags found in pad entry")
 	}
 
 	return nil
