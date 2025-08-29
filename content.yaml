@@ -2489,3 +2489,94 @@ long_summary_md: |-
   &#x1f3b6;&nbsp;[The Day Before Boxing Day Eve - Free Music Archive](https://freemusicarchive.org/music/Various_Artists_Rushcoil/XMAS_Compilation_2010/J_Arthur_Keenes_-_XMAS_Compilation_2010_-_04_The_Day_Before_Boxing_Day_Eve/)
   &#x1f3b6;&nbsp;[HoliznaCC0 - Oh Holy Night ( Lo-Fi ) - Free Music Archive](https://freemusicarchive.org/music/holiznacc0/a-lo-fi-christmas-special/oh-holy-night-lo-fi/)
   &#x1f3b6;&nbsp;[AudioCoffee - Winter Fun - Free Music Archive](https://freemusicarchive.org/music/audiocoffee/christmas-time/winter-fun/)
+---
+uuid: nt-2024-03-11
+title: 'CiR am 11.03.2024'
+subtitle: Der Chaostreff im Freien Radio Potsdam
+summary: >
+  Hannes, Gini, Knurps und Cyroxx reden über Programmierung, Netzpolitik, deutsche Digitalisierung und schiefgegangene Experimente.
+
+publicationDate: "2024-03-11T00:00:00+00:00"
+audio:
+  - url: $media_base_url/2024_03_11-chaos-im-radio.mp3
+    mimeType: audio/mp3
+chapters:
+  - start: '00:00'
+    title: 'Tag des offenen Hackspaces'
+  - start: '00:04'
+    title: 'Go(lang)'
+  - start: '00:16'
+    title: 'DMR Hotspots'
+  - start: '00:19'
+    title: 'Masteredit - Clash - Free Music Archive'
+    href: 'https://freemusicarchive.org/music/masteredit/synesthesia-1/clash/'
+  - start: '00:24'
+    title: 'RAF und Gesichtserkennung'
+  - start: '00:37'
+    title: 'Deutschlandticket und E-Rezept'
+  - start: '00:52'
+    title: 'Willy Chocolate Experience'
+  - start: '00:58'
+    title: 'Beat Mekanik - Electron (Free Stems) - Free Music Archive'
+    href: 'https://freemusicarchive.org/music/beat-mekanik/single/electron-free-stems/'
+long_summary_md: |-
+  **Shownotes:**
+
+  * [https://go.dev/](https://go.dev/)
+  * Legion Podcast: [https://www.rbb-online.de/legion/](https://www.rbb-online.de/legion/)
+  * [https://netzpolitik.org/2024/gesichtserkennung-in-welcher-welt-wollen-wir-leben/](https://netzpolitik.org/2024/gesichtserkennung-in-welcher-welt-wollen-wir-leben/)
+  * [https://verimi.de/](https://verimi.de/)
+  * Datengarten Podcast zum E-Rezept: [https://media.ccc.de/v/dg-109](https://media.ccc.de/v/dg-109)
+  * [https://www.theguardian.com/uk-news/2024/feb/27/glasgow-willy-wonka-experience-slammed-as-farce-as-tickets-refunded](https://www.theguardian.com/uk-news/2024/feb/27/glasgow-willy-wonka-experience-slammed-as-farce-as-tickets-refunded)
+  * [https://de.wikipedia.org/wiki/Fyre_Festival](https://de.wikipedia.org/wiki/Fyre_Festival)
+
+
+  **Musik:**
+
+  &#x1f3b6;&nbsp;[Masteredit - Clash - Free Music Archive](https://freemusicarchive.org/music/masteredit/synesthesia-1/clash/)
+  &#x1f3b6;&nbsp;[Beat Mekanik - Electron (Free Stems) - Free Music Archive](https://freemusicarchive.org/music/beat-mekanik/single/electron-free-stems/)
+---
+uuid: nt-2024-04-08
+title: 'CiR am 08.04.2024'
+subtitle: Der Chaostreff im Freien Radio Potsdam
+summary: >
+  Knurps, Cyroxx und Hannes reden in der Machbar über's Menschen, die an OpenSource arbeiten
+
+publicationDate: "2024-04-08T00:00:00+00:00"
+audio:
+  - url: $media_base_url/2024_04_08-chaos-im-radio.mp3
+    mimeType: audio/mp3
+chapters:
+  - start: '00:00'
+    title: 'Neues aus der Machbar'
+  - start: '00:10'
+    title: 'Fairphone 4 und 5'
+  - start: '00:20'
+    title: 'neuer Laptop'
+  - start: '00:26'
+    title: 'neue FritzBox'
+  - start: '00:34'
+    title: 'Nerds'
+  - start: '00:36'
+    title: 'Jon Shuemaker - Free Flow - Free Music Archive'
+    href: 'https://freemusicarchive.org/music/jon-shuemaker/free-flow/free-flow/'
+  - start: '00:39'
+    title: 'Digitaler Frühjarhsputz'
+  - start: '00:50'
+    title: 'XZ Backdoor'
+long_summary_md: |-
+  **Shownotes:**
+
+  * [https://denog.de](https://denog.de)
+  * [https://www.der-postillon.com/2014/04/sicherstes-passwort.html](https://www.der-postillon.com/2014/04/sicherstes-passwort.html)
+  * [https://xkcd.com/2347/](https://xkcd.com/2347/)
+  * [https://www.heise.de/hintergrund/Pflichtfach-Informatik-Zweite-Fremdsprache-ade-9622293.html](https://www.heise.de/hintergrund/Pflichtfach-Informatik-Zweite-Fremdsprache-ade-9622293.html)
+  * [https://www.netzwelt.de/anleitung/202220-luca-app-so-loescht-konto.html](https://www.netzwelt.de/anleitung/202220-luca-app-so-loescht-konto.html)
+  * [https://twitter.com/fr0gger_/status/1774342248437813525/photo/1](https://twitter.com/fr0gger_/status/1774342248437813525/photo/1)
+  * [https://www.bsi.bund.de/SharedDocs/Cybersicherheitswarnungen/DE/2024/2024-223608-1032.pdf](https://www.bsi.bund.de/SharedDocs/Cybersicherheitswarnungen/DE/2024/2024-223608-1032.pdf)
+  * [https://tukaani.org/xz-backdoor/](https://tukaani.org/xz-backdoor/)
+
+
+  **Musik:**
+
+  &#x1f3b6;&nbsp;[Jon Shuemaker - Free Flow - Free Music Archive](https://freemusicarchive.org/music/jon-shuemaker/free-flow/free-flow/)
