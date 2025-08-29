@@ -2180,3 +2180,29 @@ long_summary_md: |
 
 
   **Musik:**
+---
+uuid: nt-2023-02-13
+title: 'CiR am 13.02.2023'
+subtitle: Der Chaostreff im Freien Radio Potsdam
+summary: >
+  Gini, Cyroxx und Hannes reden über Heimautomatisierung und spielen Musik.
+
+publicationDate: "2023-02-13T00:00:00+00:00"
+audio:
+  - url: $media_base_url/2023_02_13-chaos-im-radio.mp3
+    mimeType: audio/mp3
+long_summary_md: |-
+  **Shownotes:**
+
+  * [https://www.home-assistant.io/](https://www.home-assistant.io/)
+  * [https://de.wikipedia.org/wiki/Zeroconf#Multicast_DNS](https://de.wikipedia.org/wiki/Zeroconf#Multicast_DNS)
+  * [https://www.shelly.cloud/en-de](https://www.shelly.cloud/en-de) (Shelly kommt offenbar aus Bulgarien)
+  * [https://go.dev](https://go.dev)
+
+
+  **Musik:**
+
+  &#x1f3b6;&nbsp;[Double-F the King - Outlandish - Free Music Archive](https://freemusicarchive.org/music/double-f-the-king/xpedition/outlandish/)
+  &#x1f3b6;&nbsp;[First Breath Of A New Sun - Free Music Archive](https://freemusicarchive.org/music/The_Vanhalia_Project__The_Sundog_Project/The_Vanhalia_Project__The_Sundog_Project/01_the_vanhalia_project_-_first_breath_of_a_new_sun/)
+  &#x1f3b6;&nbsp;[Distant 294 - agrav - Free Music Archive](https://freemusicarchive.org/music/Distant_294/constantfunction/04_distant_294_-_agrav/)
+  &#x1f3b6;&nbsp;[Line Noise - Magenta Moon (Part II) - Free Music Archive](https://freemusicarchive.org/music/Linenoise/Magenta_Moon/01_line_noise_-_magenta_moon_part_ii/)
