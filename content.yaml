@@ -2728,3 +2728,118 @@ long_summary_md: |-
 
   &#x1f3b6;&nbsp;[Small Colin - Mutations - Free Music Archive](https://freemusicarchive.org/music/Small_Colin/Tape_Productions/03_-_Small_Colin_-_Mutations_-_Tape_Productions/)
   &#x1f3b6;&nbsp;[legacyAlli - Interrogation Bond-Style - Free Music Archive](https://freemusicarchive.org/music/legacyalli/legacyalli-2025/interrogation-bond-style/)
+---
+uuid: nt-2025-03-10
+title: 'CiR am 10.03.2025'
+subtitle: Der Chaostreff im Freien Radio Potsdam
+summary: >
+  Digitales und Netzpolitik in und um Potsdam von den Chaoten Knurps, Cyroxx und Hannes.
+
+publicationDate: "2025-03-10T00:00:00+00:00"
+audio:
+  - url: $media_base_url/2025_03_10-chaos-im-radio.mp3
+    mimeType: audio/mp3
+long_summary_md: |-
+  **Shownotes:**
+
+  * [https://archlinux.org/news/cleaning-up-old-repositories/](https://archlinux.org/news/cleaning-up-old-repositories/)
+  * [https://www.t-online.de/nachrichten/ausland/usa/id_100626884/-enola-gay-us-pentagon-loescht-fotos-des-atom-bombers-aus-dem-weltkrieg.html](https://www.t-online.de/nachrichten/ausland/usa/id_100626884/-enola-gay-us-pentagon-loescht-fotos-des-atom-bombers-aus-dem-weltkrieg.html)
+  * [https://www.golem.de/news/usa-neue-ntia-chefin-lehnt-zu-viel-glasfaser-als-woke-ab-2502-193828.html](https://www.golem.de/news/usa-neue-ntia-chefin-lehnt-zu-viel-glasfaser-als-woke-ab-2502-193828.html)
+  * [https://www.golem.de/news/kuenstliche-intelligenz-doge-fuehrt-ki-chatbot-fuer-us-verwaltungsamt-ein-2503-194103.html](https://www.golem.de/news/kuenstliche-intelligenz-doge-fuehrt-ki-chatbot-fuer-us-verwaltungsamt-ein-2503-194103.html)
+  * [https://www.wired.com/story/doge-autorif-mass-firing-government-workers/](https://www.wired.com/story/doge-autorif-mass-firing-government-workers/)
+  * [https://www.youtube.com/shorts/oacnaX1Syqc](https://www.youtube.com/shorts/oacnaX1Syqc)
+
+  * Konversationen transkribieren mit Whisper & Co: [https://github.com/pyannote/pyannote-audio](https://github.com/pyannote/pyannote-audio)
+  * Einschlagwahrscheinlichkeit nochmal korrigiert: Nasa nennt aktuelle Infos für Asteroid 2024 YR4
+  * [https://www.fr.de/wissen/einschlagwahrscheinlichkeit-nochmal-korrigiert-nasa-nennt-aktuelle-infos-fuer-asteroid-2024-yr4-zr-93580814.html](https://www.fr.de/wissen/einschlagwahrscheinlichkeit-nochmal-korrigiert-nasa-nennt-aktuelle-infos-fuer-asteroid-2024-yr4-zr-93580814.html)
+  * ePA: Kassenärzte rechnen mit weiterer Verzögerung [https://www.golem.de/news/elektronische-patientenakte-kassenaerzte-rechnen-mit-weiterer-verzoegerung-2503-194105.html](https://www.golem.de/news/elektronische-patientenakte-kassenaerzte-rechnen-mit-weiterer-verzoegerung-2503-194105.html)
+
+  * [https://smartcity.potsdam.de/de/urbane-datenplattform](https://smartcity.potsdam.de/de/urbane-datenplattform)
+  * [https://urbanedatenplattform-potsdam.de/](https://urbanedatenplattform-potsdam.de/)
+  * [https://smartcity.potsdam.de/de/veranstaltung/udp-startet-pilotbetrieb](https://smartcity.potsdam.de/de/veranstaltung/udp-startet-pilotbetrieb)
+  * [https://www.heise.de/hintergrund/Missing-Link-Homebrew-Computer-Club-Keimzelle-der-digitalen-Revolution-10308909.html](https://www.heise.de/hintergrund/Missing-Link-Homebrew-Computer-Club-Keimzelle-der-digitalen-Revolution-10308909.html)
+
+
+  **Musik:**
+
+  &#x1f3b6;&nbsp;[Dirk Dehler - Impulsion - Free Music Archive](https://freemusicarchive.org/music/dirk-dehler/melange/impulsion/)
+  &#x1f3b6;&nbsp;[Broke For Free - Night Owl - Free Music Archive](https://freemusicarchive.org/music/Broke_For_Free/Directionless_EP/Broke_For_Free_-_Directionless_EP_-_01_Night_Owl/)
+---
+uuid: nt-2025-05-12
+title: 'CiR am 12.05.2025'
+subtitle: Der Chaostreff im Freien Radio Potsdam
+summary: >
+  Hannes und Cyroxx reden über Vibe Coding und das Fediverse.
+
+publicationDate: "2025-05-12T00:00:00+00:00"
+audio:
+  - url: $media_base_url/2025_05_12-chaos-im-radio.mp3
+    mimeType: audio/mp3
+chapters:
+  - start: '00:00'
+    title: 'Intro & Vibe coding'
+  - start: '27:00'
+    title: 'Beat Mekanik - Night City - Free Music Archive'
+    href: 'https://freemusicarchive.org/music/beat-mekanik/single/night-city/'
+  - start: '31:00'
+    title: 'NFC Visitenkarten'
+  - start: '44:00'
+    title: 'mastodon und bluesky'
+  - start: '53:00'
+    title: 'Peertube'
+  - start: '59:00'
+    title: 'HoliznaCC0 - Mutant Club - Free Music Archive'
+    href: 'https://freemusicarchive.org/music/holiznacc0/power-pop/mutant-club/'
+long_summary_md: |-
+  **Shownotes:**
+
+  * [https://fed.brid.gy/](https://fed.brid.gy/)
+  * Threads im Fediverse: [https://help.instagram.com/760878905943039](https://help.instagram.com/760878905943039)
+  * [https://peertube.tv/](https://peertube.tv/)
+  * [https://www.heise.de/news/Signal-meldet-sich-zu-TeleMessage-Affaere-zu-Wort-10373137.html](https://www.heise.de/news/Signal-meldet-sich-zu-TeleMessage-Affaere-zu-Wort-10373137.html)
+  * [https://www.t-online.de/digital/aktuelles/id_100708344/signal-klon-tm-sgnl-stellt-betrieb-wegen-hackerangriff-vorerst-ein.html](https://www.t-online.de/digital/aktuelles/id_100708344/signal-klon-tm-sgnl-stellt-betrieb-wegen-hackerangriff-vorerst-ein.html)
+  * Wenn du KI-generierte Forschung in eine subreddit machst, ohne Wissen und Zustimmung der Reddit-User...
+  [https://bsky.app/profile/cfiesler.bsky.social/post/3lnqrpz3qas2r](https://bsky.app/profile/cfiesler.bsky.social/post/3lnqrpz3qas2r)
+  * Klarna ergänzt KI wieder mit Menschen [https://www.golem.de/news/wende-beim-kundensupport-klarna-hat-jetzt-ki-kater-2505-196076.html](https://www.golem.de/news/wende-beim-kundensupport-klarna-hat-jetzt-ki-kater-2505-196076.html)
+  * [https://www.golem.de/news/keine-zugriffsrechte-bremer-online-meldeportal-war-jahrelang-kaputt-2505-196082.html](https://www.golem.de/news/keine-zugriffsrechte-bremer-online-meldeportal-war-jahrelang-kaputt-2505-196082.html)
+  * ePA: [https://www.heise.de/hintergrund/Elektronische-Patientenakte-Welche-Unklarheiten-es-noch-gibt-10377344.html](https://www.heise.de/hintergrund/Elektronische-Patientenakte-Welche-Unklarheiten-es-noch-gibt-10377344.html)
+
+
+  **Musik:**
+
+  &#x1f3b6;&nbsp;[Beat Mekanik - Night City - Free Music Archive](https://freemusicarchive.org/music/beat-mekanik/single/night-city/)
+  &#x1f3b6;&nbsp;[HoliznaCC0 - Mutant Club - Free Music Archive](https://freemusicarchive.org/music/holiznacc0/power-pop/mutant-club/)
+---
+uuid: nt-2025-07-14
+title: 'CiR am 14.07.2025'
+subtitle: Der Chaostreff im Freien Radio Potsdam
+summary: >
+  Cyroxx und Hannes reden über den Fleischraum, schnelle Züge und generelle Neuigkeiten aus dem Nicht-Meatspace.
+
+publicationDate: "2025-07-14T00:00:00+00:00"
+audio:
+  - url: $media_base_url/2025_07_14-chaos-im-radio.mp3
+    mimeType: audio/mp3
+long_summary_md: |-
+  **Shownotes:**
+
+  * ASDF Movie - I like trains: [https://asdfmovie.fandom.com/wiki/I_Like_Trains](https://asdfmovie.fandom.com/wiki/I_Like_Trains)
+  * Bahn-Content: ICE fährt 405 km/h: [https://www.youtube.com/watch?v=2K2SRhgmcSc](https://www.youtube.com/watch?v=2K2SRhgmcSc) [https://www.heise.de/news/Testzug-faehrt-Tempo-405-zwischen-Erfurt-und-Leipzig-10463766.html](https://www.heise.de/news/Testzug-faehrt-Tempo-405-zwischen-Erfurt-und-Leipzig-10463766.html)
+  * [https://www.radioeins.de/archiv/podcast/teurer_fahren.html](https://www.radioeins.de/archiv/podcast/teurer_fahren.html)
+  * Commodore von YouTuber gekauft: [https://www.heise.de/news/Youtuber-erweckt-Commodore-mit-neuem-Team-zum-Leben-10464305.html](https://www.heise.de/news/Youtuber-erweckt-Commodore-mit-neuem-Team-zum-Leben-10464305.html)
+  [https://www.escapistmagazine.com/news-commodore-64-ultimate-hardware-reveal-2025/](https://www.escapistmagazine.com/news-commodore-64-ultimate-hardware-reveal-2025/)
+  * Bitcoin: [https://www.heise.de/news/Transaktion-von-80-000-Bitcoin-sorgt-fuer-Spekulationen-im-Netz-10476106.html](https://www.heise.de/news/Transaktion-von-80-000-Bitcoin-sorgt-fuer-Spekulationen-im-Netz-10476106.html)
+  * Lösegeldverhandler soll von Hackern Provision kassiert haben: [https://www.golem.de/news/ransomware-loesegeldverhandler-soll-von-hackern-provision-kassiert-haben-2507-197715.html](https://www.golem.de/news/ransomware-loesegeldverhandler-soll-von-hackern-provision-kassiert-haben-2507-197715.html)
+  * Schlechte Protokolle, eigentlich nicht, Bluetooth: [https://www.heise.de/news/Zero-Day-Bluetooth-Luecke-macht-Millionen-Kopfhoerer-zu-Abhoerstationen-10457857.html](https://www.heise.de/news/Zero-Day-Bluetooth-Luecke-macht-Millionen-Kopfhoerer-zu-Abhoerstationen-10457857.html)
+  * Telemessage ist nicht Signal: [https://www.independent.co.uk/news/world/americas/us-politics/telemessage-signal-app-hacked-government-b2755435.html](https://www.independent.co.uk/news/world/americas/us-politics/telemessage-signal-app-hacked-government-b2755435.html)
+  *  Lordes viertes Album Virgin spinnt: Transparente Audio-CD lässt sich vielfach nicht abspielen [https://www.golem.de/news/lordes-viertes-album-virgin-spinnt-transparente-audio-cd-laesst-sich-vielfach-nicht-abspielen-2507-197711.html](https://www.golem.de/news/lordes-viertes-album-virgin-spinnt-transparente-audio-cd-laesst-sich-vielfach-nicht-abspielen-2507-197711.html)
+  * E-Mail-Irrsinn bei Gmail: Google verdreht Worte [https://www.t-online.de/digital/aktuelles/id_100811852/gmail-fantasiert-googles-mail-programm-verfaelscht-fremde-inhalte.html](https://www.t-online.de/digital/aktuelles/id_100811852/gmail-fantasiert-googles-mail-programm-verfaelscht-fremde-inhalte.html)
+  * Stop Destroying Video Games: [https://www.heise.de/news/EU-Buergerinitiative-Stop-Destroying-Videogames-erreicht-noetige-Unterschriften-10474510.html](https://www.heise.de/news/EU-Buergerinitiative-Stop-Destroying-Videogames-erreicht-noetige-Unterschriften-10474510.html)
+  * Neues Fairphone: [https://www.heise.de/news/Fairphone-6-iFixit-vergibt-eine-10-10-fuer-die-Reparierbarkeit-10478316.html](https://www.heise.de/news/Fairphone-6-iFixit-vergibt-eine-10-10-fuer-die-Reparierbarkeit-10478316.html)
+
+
+  **Musik:**
+
+  &#x1f3b6;&nbsp;[Amarent - Dance Away - Free Music Archive](https://freemusicarchive.org/music/amarent/free-soft-pop/dance-away-1/)
+  &#x1f3b6;&nbsp;[Beat Mekanik - Dance the Night Away II - Free Music Archive](https://freemusicarchive.org/music/beat-mekanik/single/dance-the-night-away-ii/)
+  &#x1f3b6;&nbsp;[Ketsa - Night Jazz - Free Music Archive](https://freemusicarchive.org/music/Ketsa/cc-by-free-to-use-for-anything/night-jazz/)
