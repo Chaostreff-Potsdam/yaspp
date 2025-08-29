@@ -152,7 +152,9 @@ func populateEntryFromSections(entry *CiREntry, contentBySection map[string][]st
 			htmlTitle, err := getTitleFromLink(link)
 			if err != nil {
 				entry.processingWarnings = append(entry.processingWarnings, fmt.Sprintf("error getting title from fma: %s", err.Error()))
-				title = link
+				if title == "" {
+					title = link
+				}
 			}
 			if title == "" {
 				title = htmlTitle
