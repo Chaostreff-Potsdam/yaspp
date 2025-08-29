@@ -13,20 +13,13 @@ Dieses Verzeichnis enthält die automatisierten Transkriptionen aller Podcast-Ep
 
 ## Verfügbare Skripte
 
+### `transcribe-folder.sh`
+Skript zur automatischen Transkription neuer Audio-Dateien mit whisper.cpp
+
 ### `fix-mistakes.sh`
 Ein Bash-Skript zur automatischen Korrektur häufiger Spracherkennungsfehler:
 - Korrigiert falsch erkannte Namen der Moderator:innen (z.B. "Syrux" → "Cyroxx")
-- Behebt typische Erkennungsfehler bei deutschen Wörtern
-- Kann auf einzelne Dateien oder das gesamte Verzeichnis angewendet werden
-
-**Verwendung:**
-```bash
-./fix-mistakes.sh                    # Verarbeitet alle Dateien im aktuellen Verzeichnis
-./fix-mistakes.sh /pfad/zum/ordner   # Verarbeitet Dateien im angegebenen Ordner
-```
-
-### `transcribe-folder.sh`
-Skript zur automatischen Transkription neuer Audio-Dateien mit whisper.cpp
+- Behebt typische Erkennungsfehler bei häufig verwendeten Wörtern
 
 ## Dateiformat
 
