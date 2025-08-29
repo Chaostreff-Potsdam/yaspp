@@ -2304,3 +2304,36 @@ long_summary_md: |-
   &#x1f3b6;&nbsp;[Shalbora - This Rhythm](https://freemusicarchive.org/music/shalbora/dance-planet/this-rhythm/)
   &#x1f3b6;&nbsp;[Fignomo - Quiet Motion](https://freemusicarchive.org/music/fignomo/next-heaven/quiet-motion/)
   &#x1f3b6;&nbsp;[Line Noise - Magenta Moon (Part II) - Free Music Archive](https://freemusicarchive.org/music/Line_Noise/Magenta_Moon/01_line_noise_-_magenta_moon_part_ii/)
+---
+uuid: nt-2023-07-10
+title: 'CiR am 10.07.2023'
+subtitle: Der Chaostreff im Freien Radio Potsdam
+summary: >
+  Knurps, Gini, Hannes und Cyroxx reden über Social Networks, KI, Dürren und Balkonkraftwerke-Fails.
+
+publicationDate: "2023-07-10T00:00:00+00:00"
+audio:
+  - url: $media_base_url/2023_07_10-chaos-im-radio.mp3
+    mimeType: audio/mp3
+chapters:
+  - start: '00:00:00'
+    title: 'KIs und Social Networks'
+  - start: '00:25:00'
+    title: 'Viscid - Wrecked - Free Music Archive'
+    href: 'https://freemusicarchive.org/music/viscid/replica/wrecked/'
+  - start: '00:30:00'
+    title: 'Balkonkraftwerke - fehlende Relais'
+  - start: '00:50:00'
+    title: 'fehlendes Wasser'
+long_summary_md: |-
+  **Shownotes:**
+
+  * AI - Password Challenge: [https://gandalf.lakera.ai/](https://gandalf.lakera.ai/)
+  * [https://www.heise.de/news/Wechselrichter-von-Deye-NA-Schutz-Relais-fehlt-9209401.html](https://www.heise.de/news/Wechselrichter-von-Deye-NA-Schutz-Relais-fehlt-9209401.html)
+  * Dürremonitor Deutschland: [https://www.ufz.de/index.php?de=37937](https://www.ufz.de/index.php?de=37937)
+  * [https://arstechnica.com/gadgets/2023/07/fairphone-is-coming-to-america/](https://arstechnica.com/gadgets/2023/07/fairphone-is-coming-to-america/)
+
+
+  **Musik:**
+
+  &#x1f3b6;&nbsp;[Viscid - Wrecked - Free Music Archive](https://freemusicarchive.org/music/viscid/replica/wrecked/)
