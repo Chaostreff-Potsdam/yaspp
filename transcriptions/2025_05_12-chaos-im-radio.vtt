@@ -1,0 +1,1610 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:10.040
+ Herzlich willkommen zu Chaos im Radio in der Mai-Ausgabe 2025, wie ihr hört, wie
+
+00:00:10.040 --> 00:00:19.560
+ immer, das Beste aus den digitalen Räumen und darüber hinaus und ich bin Syrox und ihr
+
+00:00:19.560 --> 00:00:27.880
+ hört mit mir außerdem noch den Hannes heute. Hallo. Syrox hat extra seine Radiosstimme aufgelegt.
+
+00:00:27.880 --> 00:00:35.920
+ Meine Radiosstimme? Eben klangst du noch ganz anders. Das ist ja immer ganz spannend, wie schnell
+
+00:00:35.920 --> 00:00:39.880
+ man in andere Personen ungewohnt auch schlüpfen kann. Fast so ähnlich wie wenn du in einer
+
+00:00:39.880 --> 00:00:44.640
+ anderen Sprache sprichst, in einer Fremdsprache, dann hat man teilweise auch andere Personen von daher.
+
+00:00:44.640 --> 00:00:54.640
+ Ja, definitiv, genau. Das Radio ist unsere Fremdsprache. Nein. Computer und digitales
+
+00:00:54.640 --> 00:01:00.480
+ und Netzpolitik sind unsere Fremdsprache, die wir aber gerne für euch Hörende hier übersetzen.
+
+00:01:00.480 --> 00:01:06.880
+ Und das einmal im Monat, genau. Und heute ist es wieder soweit. Ja, wir haben ein paar Themen wieder
+
+00:01:06.880 --> 00:01:12.840
+ mitgebracht und auch ein bisschen Musik habe ich gehört. Deswegen... Stimmt. Ja, lasst uns da gerne mal
+
+00:01:12.840 --> 00:01:21.440
+ rein starten in unseren bunten Themenstrauß. Das geht eigentlich nur um Kai. Ach, Quatsch. Ach,
+
+00:01:21.440 --> 00:01:28.840
+ hör auf. Ach komm. Nee, wir haben auch noch andere Sachen mitgebracht. Also, ja, genau. Hier steht
+
+00:01:28.840 --> 00:01:37.920
+ als erstes, da hast du, glaube ich, was mitgebracht. Ja, es geht um Kai. Ach so, ja, stimmt. Stimmt.
+
+00:01:37.920 --> 00:01:47.440
+ Leg mal auf. Ich wollte von dir wissen, ob du den Term Vibe Coding schon gehört hast. Ja, der ist mir...
+
+00:01:47.440 --> 00:01:57.760
+ Es gibt da einen YouTuberin, Content Creatorin auf YouTube, Alberta. Die macht da sehr viel zum
+
+00:01:57.760 --> 00:02:04.840
+ Thema KI und Programmierung, also wie viele Leute ja mittlerweile irgendwie KI, künstliche
+
+00:02:04.840 --> 00:02:11.280
+ Intelligenz, irgendwie benutzen, um als Hilfe oder Teilbeisatz, kompletten Ersatz, um Software zu
+
+00:02:11.280 --> 00:02:18.240
+ entwickeln. Und ich glaube, das hat was damit zu tun, dass genau diese Art und Weise Software zu
+
+00:02:18.240 --> 00:02:26.240
+ entwickeln, einfach sehr, sehr basierend auf künstlicher Intelligenz Fragezeichen. Ja,
+
+00:02:26.240 --> 00:02:31.440
+ ja, stimmt. Also würde ich auch so verstehen. Ich... Hier full disclaimer. Ich habe dieses Thema
+
+00:02:31.440 --> 00:02:38.280
+ nicht tiefgründig recherchiert. Wir labern jetzt hier einfach mal aus dem Nähkästchen, weil ich mich
+
+00:02:38.280 --> 00:02:43.040
+ auch frage, wo der Begriff herkommt. Also ja, Coding ist klar, das Programmieren im Englischen.
+
+00:02:43.040 --> 00:02:48.200
+ Das mit dem Vibe kann ich dir glaube ich ein bisschen erklären. Oh, das wäre schon mal gut. Aber ich
+
+00:02:48.200 --> 00:02:55.280
+ kann dir ja mal erzählen, was ich darunter verstehe, weil es mich durchaus auch betrifft. Also die
+
+00:02:55.280 --> 00:03:02.400
+ Programmierer unter uns haben über Jahre lang eigentlich so gearbeitet, dass man so tagtäglich
+
+00:03:02.400 --> 00:03:10.200
+ da sitzt und seine Zeilencode runter produziert. Häufig gibt es schon sehr viele Helferprogramme,
+
+00:03:10.200 --> 00:03:15.680
+ die dann zum Beispiel rausfinden. Wenn du eine Funktion aufrufen willst, dann ist die irgendwie
+
+00:03:15.680 --> 00:03:21.400
+ schon hinterlegt. Das heißt, da gibt es eine Autovervollstellung, wenn du die ersten 3, 4 Buchstaben
+
+00:03:21.400 --> 00:03:26.080
+ der Funktionen, das Funktionsnamen, tippst. Oder es gibt schon so wie bei der Rechtschreibkontrolle
+
+00:03:26.080 --> 00:03:32.640
+ in Schreibprogrammen, gibt es da auch schon irgendwie so Sonntags-Checken, während man schreibt,
+
+00:03:32.640 --> 00:03:38.240
+ während man Code schreibt. Und manchmal gibt es auch so kleine Helfer-Tools, wenn man zum Beispiel
+
+00:03:38.240 --> 00:03:43.200
+ so eine Variable umbenennen will, dass die dann auch überall umbenannt wird. Und so lief das ja
+
+00:03:43.200 --> 00:03:52.760
+ Jahre lang und seit sogar ein bisschen vor ChatGPT, aber schon im Zuge von GPT, kamen die ersten
+
+00:03:52.760 --> 00:03:58.280
+ Tools auf, die eben KI-basiert erraten, was man denn jetzt vielleicht gleich programmieren möchte.
+
+00:03:58.280 --> 00:04:05.120
+ So fing das mal an. Also hat man so seinen Code getippt und wenn man nicht weiter getippt hat,
+
+00:04:05.120 --> 00:04:09.840
+ hat die KI irgendwie geraten, was für ein nächstes kommt. Das war manchmal sehr nützlich,
+
+00:04:09.840 --> 00:04:14.160
+ manchmal verwirrend und manchmal einfach übertrieben lustig. Also was man ja oft hat,
+
+00:04:14.160 --> 00:04:19.480
+ irgendwie man fängt ein neues Programm an und damit man das laufen lassen kann,
+
+00:04:19.480 --> 00:04:24.400
+ braucht man irgendwie so eine Hauptmethode, die heißt dann heimentsprechend auch Main. Und die
+
+00:04:24.400 --> 00:04:32.800
+ hat meistens irgendwie immer ein gewisses Format bzw. gibt immer einen gewissen Standard,
+
+00:04:32.800 --> 00:04:38.320
+ nach dem man die schreibt in den verschiedenen Programmiersprachen, sei es Python, sei es C
+
+00:04:38.320 --> 00:04:45.680
+ oder die C abgeleiteten Sprachen. Und dann hilft das schon mal, dass man nicht zum 50. Mal dass
+
+00:04:45.680 --> 00:04:50.040
+ selbe irgendwie tippen muss oder man vielleicht auch nicht so ganz genau weiß, wann das jetzt
+
+00:04:50.040 --> 00:04:57.880
+ zwei oder drei Unterstriche um meine Main-Methode in Python dazu schreiben, so war es halt.
+
+00:04:57.880 --> 00:05:03.720
+ Ja, genau. Und dann halt noch ein bisschen KI-Magic mit dazwischen. Also ich stelle mir gerade vor,
+
+00:05:03.720 --> 00:05:07.160
+ wenn ich so eine HTML-Seite zum Beispiel runter schreibe und dann fängt mir auf,
+
+00:05:07.160 --> 00:05:11.640
+ oh ich will ja hier noch ein Titel-Tag oben reinschreiben, dann macht die KI vielleicht
+
+00:05:11.640 --> 00:05:18.840
+ sogar schon eine halbwegs in volle Zusammenfassung, was könnte jetzt der Titel der Webseite sein oder
+
+00:05:18.840 --> 00:05:23.880
+ so was wie ja, wenn meine Datei "hello.c" heißt, dann schlägt es mir vielleicht gleich eine
+
+00:05:23.880 --> 00:05:30.440
+ Main-Funktion vor, die "hello world" schreibt. Solche Dinge, so fing das ja an. So und das
+
+00:05:30.440 --> 00:05:38.240
+ hatte ich ja schon gesagt, das war zu ChatGPT-Zeiten, da gab es von GitHub eine Offering, den Co-Pilot,
+
+00:05:38.240 --> 00:05:46.920
+ die jetzt auch heute noch und das war zunächst kostenlos wie so vieles in der KI-Welt und da
+
+00:05:46.920 --> 00:05:52.520
+ war eben diese Outfall-Stellung mit drin. Später hat sich das noch erweitert, da konnte man dann
+
+00:05:52.520 --> 00:05:57.280
+ Fragen stellen, so in den letzten Jahren, also so, dann hat sich das angefühlt wie so ein
+
+00:05:57.280 --> 00:06:01.320
+ richtiger Assistent, so was wie "Hey, was bedeutet denn diese Fehlermeldung in dieser Code-Seile?"
+
+00:06:01.320 --> 00:06:07.880
+ Oder du konntest Code markieren und konntest sagen, kannst du mal deine Meinung dazu abgeben
+
+00:06:07.880 --> 00:06:16.240
+ und dann kam da auch wieder mal sinnvolle, mal weniger sinnvolle Dinge. Das war schon ganz,
+
+00:06:16.240 --> 00:06:24.320
+ ganz gut, aber jetzt so der letzte Schritt kam mit den Agenten auf. Also Agenten in der KI-Welt
+
+00:06:24.320 --> 00:06:32.520
+ heißt eigentlich, dass mehrere verschiedene Komponenten der KI unabhängig voneinander arbeiten
+
+00:06:32.520 --> 00:06:38.520
+ und jeweils ihre Ergebnisse weitergeben an den nächsten Agenten, der halt ein bisschen anderes
+
+00:06:38.520 --> 00:06:46.720
+ Spezialwissen hat. Also im Bereich der Software wäre das dann halt ein erster Agent, der vielleicht
+
+00:06:46.720 --> 00:06:51.320
+ sehr gut versteht, wie man eine Architektur, eine Softwarearchitektur aufbaut und der nächste
+
+00:06:51.320 --> 00:06:57.640
+ Agent weiß halt viel besser, wie man Tests schreibt oder so. Und so rufen die sich gegenseitig
+
+00:06:57.640 --> 00:07:04.320
+ auf und verbrennen dabei sehr viel Strom, um kurz zu generieren. Das wird ihr auch immer gern
+
+00:07:04.320 --> 00:07:13.240
+ vergessen? Stimmt und daraus kam dann diese neue Art zu programmieren, die, und da kommen wir jetzt
+
+00:07:13.240 --> 00:07:20.520
+ zum Vibecoding, wo man unter Umständen gar nicht mehr so viel vom Programmieren verstehen muss,
+
+00:07:20.520 --> 00:07:25.080
+ sondern man sagt der KI eigentlich nur noch, "Hey, ich möchte gerne ein Programm haben,
+
+00:07:25.080 --> 00:07:35.240
+ was mir das Wetter in eine HTML-Seite reinschreibt." Und dann fängt der Rechner an rumzurödeln und
+
+00:07:35.240 --> 00:07:39.720
+ du siehst so, du siehst diese Agenten sich miteinander unterhalten. Also ich habe jetzt
+
+00:07:39.720 --> 00:07:46.840
+ das Problem analysiert und ich habe festgestellt, ich will eine HTML-Seite und dann weiß ich nicht,
+
+00:07:46.840 --> 00:07:54.160
+ dauert das mal 30 Sekunden, mal fünf Minuten und dann ist eine App oder eine Webseite oder
+
+00:07:54.160 --> 00:08:00.520
+ ein Programm fertig, was in etwa das macht, was man wollte. Du meinst, du meinst so mit den fünf
+
+00:08:00.520 --> 00:08:04.640
+ Minuten so ein bisschen so, dass man dann nochmal ein bisschen nachfragt und ich hätte noch das da,
+
+00:08:04.640 --> 00:08:13.000
+ also diesen ganzen Prozess. Also es kommt ein bisschen drauf an. Ich mache das jetzt eben auch zum
+
+00:08:13.000 --> 00:08:21.320
+ Teil, sodass ich halt sage, hey, entwicke mal diese Komponente, die das tut in meinem etwas
+
+00:08:21.320 --> 00:08:26.280
+ komplexeren Programm und schreibe Tests und führe die Tests aus und fixe gleich alle Fehler.
+
+00:08:26.280 --> 00:08:34.600
+ Also das wäre so der, der maximal prompt an die KI sozusagen, also die maximale Aufgabe. Und da ist
+
+00:08:34.600 --> 00:08:41.680
+ dann schon so, dass die KI so oder die KI-Agenten doch schon drei, vier Minuten miteinander reden
+
+00:08:41.680 --> 00:08:48.000
+ und dann eben auch die Tests ausführen. Und also im Co-Pilot, den ich benutze, wobei das,
+
+00:08:48.000 --> 00:08:52.200
+ da können wir auch noch mal dazukommen, warum eigentlich und ob es da nicht auch was anderes gibt.
+
+00:08:52.200 --> 00:08:57.000
+ Da ist es so, dass du dem auch sagen kannst, okay, du darfst jetzt hier einfach ausführen,
+
+00:08:57.000 --> 00:09:00.720
+ was du magst. Wer entweder das machst, also dann darf der halt die Tests starten oder darf das
+
+00:09:00.720 --> 00:09:06.640
+ Programm starten. Und wenn er dann fertig ist und die Tests laufen, dann sagt er halt so,
+
+00:09:06.640 --> 00:09:10.880
+ ja, das habe ich jetzt gemacht und gibt dir noch mal eine Zusammenfassung. Und dann wie gesagt,
+
+00:09:10.880 --> 00:09:17.360
+ in häufig, also ich würde sagen, etwas mehr als der Hälfte der Fälle ist dann tatsächlich das
+
+00:09:17.360 --> 00:09:26.840
+ rausgekommen, was man wollte. Und hier kommt jetzt eigentlich der spannende Aspekt dieser Geschichte.
+
+00:09:26.840 --> 00:09:34.560
+ In dem Prozess wird natürlich so viel Code generiert, dass es schon fast schon schwierig
+
+00:09:34.560 --> 00:09:41.720
+ ist, das alles gut zu überprüfen. Und wie immer, Menschen sind faul. Das heißt, wenn man sich dran
+
+00:09:41.720 --> 00:09:46.120
+ gewöhnt hat, hört man vielleicht auch auf, genau hinzugucken und dann passieren, gibt es auf
+
+00:09:46.120 --> 00:09:52.480
+ einmal ganz neue Einfallstore. Ist vielleicht das wohl über mir dann gegen Ende des Themen Blocks
+
+00:09:52.480 --> 00:09:56.880
+ nochmal reden können. Aber so, ja, das Vibecoding heißt also in erster Linie, man schreibt den
+
+00:09:56.880 --> 00:10:01.240
+ Code gar nicht mehr selber, sondern man lässt nur noch Code generieren und schaut drauf und sagt
+
+00:10:01.240 --> 00:10:06.040
+ dann, ob das das war, was man dachte. Und wenn nicht, geht man halt mit dem mit der KI in den Gespräch,
+
+00:10:06.040 --> 00:10:11.000
+ genauso wie man mit Chatchi PT eben auch immer weiter darüber reden kann, was man eigentlich
+
+00:10:11.000 --> 00:10:17.360
+ wissen wollte und das nochmal verfeinern und so. Genau, und für mich ist das sehr spannend. Ich
+
+00:10:17.360 --> 00:10:22.080
+ bin jetzt in dem Team, in dem ich neuerdings gelandet bin, einer der der wenigen Programmierer,
+
+00:10:22.080 --> 00:10:31.400
+ die anderen machen andere Dinge. Das heißt, für mich ist die KI häufig ein Kollege, um so ein
+
+00:10:31.400 --> 00:10:38.840
+ bisschen Ideen auszuprobieren und sich das so zuzuwerfen. Was denkt jetzt die KI? Wie würde
+
+00:10:38.840 --> 00:10:42.760
+ man das lösen? Wie würde ich das lösen und einen so einen Dialog zu treten? Das ist schon ganz
+
+00:10:42.760 --> 00:10:47.920
+ spannend. Also der eine Aspekt und der andere Aspekt ist tatsächlich, dass ich an manchen Tagen
+
+00:10:47.920 --> 00:10:53.800
+ fühle, ich mich halt ein bisschen faul und dann programmier ich eher so und an anderen Tagen
+
+00:10:53.800 --> 00:10:58.120
+ programmier ich wieder so, wie ich weiß ich nicht vor fünf Jahren programmiert habe und schreibe
+
+00:10:58.120 --> 00:11:03.080
+ halt alles selber. Und es ist spannend, es ist ein spannendes hin und her, es ist eine spannende
+
+00:11:03.080 --> 00:11:07.480
+ Abwechslung auf einmal geworden. Dafür, dass ich jetzt alleine im Keller sitze sozusagen und
+
+00:11:07.480 --> 00:11:11.800
+ programmiere, finde ich das spannend auf einmal eine KI als Kollegen zu haben. Also so fühlt
+
+00:11:11.800 --> 00:11:16.960
+ sich es nämlich an. Also statt wie es früher den "I'm feeling lucky today" Button bei Google
+
+00:11:16.960 --> 00:11:24.880
+ gab. Manche erinnern sich vielleicht, drückst du dann quasi so den "I'm feeling lazy today" Button
+
+00:11:24.880 --> 00:11:31.760
+ und lässt dich mehr als an anderen sagen, unterstützen von der künstlichen Intelligenz von
+
+00:11:31.760 --> 00:11:39.400
+ deinem Sprachmodell. So ist es ja. Ja. Also letztendlich, was du ja gesagt hast gerade
+
+00:11:39.400 --> 00:11:45.880
+ an dieser Wandbreite, die es da halt gibt im Sinne von so, okay, ich lass mir irgendwie helfen von,
+
+00:11:45.880 --> 00:11:53.080
+ also früher vielleicht einfach ein Algorithmen und Heuristiken, wo halt Dinge schon vielleicht
+
+00:11:53.080 --> 00:11:58.080
+ auch vorprogrammiert waren zu, okay, jetzt gibt es da irgendwie ein Riesensprachmodell und ich
+
+00:11:58.080 --> 00:12:04.920
+ kann mich da auf viel verschiedenste Arten unterstützen lassen oder größere Teile meines
+
+00:12:04.920 --> 00:12:10.960
+ Codes davon schreiben lassen oder, okay, ich versuche möglichst alles durch die KI lösen
+
+00:12:10.960 --> 00:12:16.920
+ zu lassen vom der Anforderungsanalyse über die Implementierung bis hin zu den Tests. Das ist
+
+00:12:16.920 --> 00:12:24.680
+ ja eine große Bandbreite letztendlich, die man da machen kann und ob man die jetzt immer bis ins
+
+00:12:24.680 --> 00:12:33.960
+ Extrem machen sollte, ist dann halt so ein bisschen so die Frage, weil also so ein Problem daran ist
+
+00:12:33.960 --> 00:12:41.440
+ natürlich, dass, also oder erst mal vielleicht der Vorteil daran ist, man muss nicht immer direkt
+
+00:12:41.440 --> 00:12:48.560
+ alles sofort wissen, wie was geht oder erstundenlang durch sich durch irgendwelche Foren und Stack
+
+00:12:48.560 --> 00:12:58.440
+ Overflow und andere Internetquellen recherchieren. Wie kriege ich das, was ich eigentlich umsetzen
+
+00:12:58.440 --> 00:13:05.120
+ will, umgesetzt, gerade in der Programmiersprache, die man noch nicht so gut kennt. Das ist, das ist
+
+00:13:05.120 --> 00:13:14.000
+ oder mit irgendeinem Framework, das ist dann schon teilweise gut, aber ich glaube, was ich denke,
+
+00:13:14.000 --> 00:13:19.160
+ was wichtig ist, dass man grundsätzlich aber schon auch den Willen hat, sich zu verbessern,
+
+00:13:19.160 --> 00:13:23.440
+ auch in dem Sinne von sich auch weiterzuentwickeln. Okay, jetzt habe ich das so gemacht und jetzt,
+
+00:13:23.440 --> 00:13:28.560
+ was steht da eigentlich? Also wirklich dieses Verstehen wollen von dem Code und warum das jetzt
+
+00:13:28.560 --> 00:13:36.120
+ so geschrieben ist und nicht anders, weil, ja, ich meine, du weißt es, ich weißt es auch. So eine
+
+00:13:36.120 --> 00:13:41.040
+ Software, die lebt halt auch einfach, die lebt meistens auch ein bisschen länger, als man das
+
+00:13:41.040 --> 00:13:47.080
+ manchmal haben will. Und gerade, wenn du, also was weiß ich, so eine kleine Website, die mal
+
+00:13:47.080 --> 00:13:51.600
+ irgendwas machen können soll, wo du vielleicht dir ein bisschen helfen lässt bei dem Ja-was-Crypt-Code,
+
+00:13:51.600 --> 00:13:59.840
+ ist so das eine. Aber wenn du irgendwie größere Code-Teile machst, die auch irgendwelche, also
+
+00:13:59.840 --> 00:14:07.080
+ ich habe zum Beispiel sehr viel mit so Datenpipelines, Datenversorgungsstrecken zu tun, wo dann
+
+00:14:07.080 --> 00:14:15.600
+ ja irgendwelche Berichte rauskommen oder einfach man operativ steuert, sprich, irgendwelche Leute
+
+00:14:15.600 --> 00:14:19.560
+ gucken sich Zahlen an oder irgendwelche Systeme gucken sich dann Zahlen an und machen darauf
+
+00:14:19.560 --> 00:14:25.160
+ basierend Entscheidungen, dann wäre es schon auch gut, dass man das auch in Zukunft noch irgendwie
+
+00:14:25.160 --> 00:14:31.720
+ warten kann, selbst wenn ich selber aus dem Projekt dann mal ausgeschieden bin. Und wenn ich
+
+00:14:31.720 --> 00:14:36.480
+ dann irgendwie Code produziere, den ich noch nicht mal selber verstehen würde, wäre das halt
+
+00:14:36.480 --> 00:14:42.000
+ blöd. Zumal es ja auch gewisse Sachen gibt, wie strukturiere ich das Ganze, damit es möglichst
+
+00:14:42.000 --> 00:14:49.280
+ verständlich ist, damit es möglichst testbar ist. Das sind ja dann diese ganzen software-technischen
+
+00:14:49.280 --> 00:14:57.600
+ Geschichten, die eigentlich unseren, unseren Job oder unsere Profession dazu macht, dass du schon
+
+00:14:57.600 --> 00:15:05.520
+ auch ein gewisses Wissen brauchst, um das gut zu machen. Also spannend auch die, dieser ganze Aspekt,
+
+00:15:05.520 --> 00:15:11.000
+ dass du halt, also wenn ich mit einem Kollegen das Gleiche mache, so sagen wir mal, ich kriege
+
+00:15:11.000 --> 00:15:16.440
+ einen jungen Kollegen, vielleicht sogar einen Praktikanten, dem würde ich ja Aufgaben ähnlich
+
+00:15:16.440 --> 00:15:23.040
+ zuweisen, wie ich das der KI zuweise. Ich habe aber relativ schnell dann ein Gefühl,
+
+00:15:23.040 --> 00:15:27.000
+ bei dem Kollegen weiß der, was er tut oder weiß das nicht. Und je nachdem kann ich auch meine
+
+00:15:27.000 --> 00:15:34.440
+ Unterstützung und meine, sagen wir mal, meine Review-Tätigkeit anpassen. Bei der KI funktioniert
+
+00:15:34.440 --> 00:15:40.360
+ das aber nicht, weil die KI halt manchmal genialen Code geradezu produziert und manchmal
+
+00:15:40.360 --> 00:15:48.000
+ halt absoluten Anfängercode. Also das finde ich sehr, sehr spannend. Also man muss, man kann viel
+
+00:15:48.000 --> 00:15:54.040
+ lernen dabei, wenn man oft zack bleibt sozusagen und nicht faul wird. Das ist vielleicht auch
+
+00:15:54.040 --> 00:16:02.960
+ genau nicht das Vibecoding ist, weiß ich nicht. Aber also es kann eben passieren, weiß ich nicht,
+
+00:16:02.960 --> 00:16:10.760
+ das komisches Beispiel oder Beispiel, was ich kürzlich erst hatte ist, ich wollte mir irgendwelche
+
+00:16:10.760 --> 00:16:16.240
+ Daten auf einer Webseite anzeigen, die wiederum von einem anderen Service kommen und da kamen
+
+00:16:16.240 --> 00:16:21.960
+ halt unter Umständen sehr viele Daten zurück. Also ich weiß nicht, ich kann, ich habe eigentlich da,
+
+00:16:21.960 --> 00:16:29.520
+ wo ich bin, nur Platz um 15 Datensätze anzuzeigen, es kommen 15 Millionen zurück. So und die API,
+
+00:16:29.520 --> 00:16:36.160
+ die ich benutzt habe, um die Daten von dem anderen Service zu holen, die hat durchaus die
+
+00:16:36.160 --> 00:16:40.800
+ Möglichkeit, das zu brenzen und zu sagen, hey, holen wir mal nur 15 Ergebnisse zurück und nicht alle
+
+00:16:40.800 --> 00:16:48.240
+ 15 Millionen. Also dann habe ich das, der KI übergeben das Problem und die KI hat das gemacht,
+
+00:16:48.240 --> 00:16:53.360
+ was halt, ich weiß nicht, ob das dann überhaupt noch irgendwer tun würde, hat halt diese 15
+
+00:16:53.360 --> 00:16:58.640
+ Millionen Datensätze abgeholt und dann nur die ersten 15 angezeigt. Aber du hast doch gesagt,
+
+00:16:58.640 --> 00:17:05.680
+ dass du nur die ersten 15 angezeigt haben willst. Ja, exakt. So, das kann halt passieren, muss nicht
+
+00:17:05.680 --> 00:17:10.160
+ immer passieren, passiert aber manchmal. Und das andere, was mir auch sehr oft über den Weg
+
+00:17:10.160 --> 00:17:15.880
+ läuft, ist, dass man versehnlich im Promt sozusagen der KI irgendwelche Einschränkungen mitgibt. Also
+
+00:17:15.880 --> 00:17:22.320
+ zum Beispiel, wenn ich der KI sage, teste mal den Code hier und die schreibt ein Test und ich habe
+
+00:17:22.320 --> 00:17:26.240
+ schon gesagt, in diesem Agenten-Modus, den ich häufig benutze, da wird dann der Test gleich
+
+00:17:26.240 --> 00:17:31.400
+ ausgeführt und dann sind ich, oh, der Test schlägt aber viel. Und jetzt würde ein Mensch,
+
+00:17:31.400 --> 00:17:34.520
+ hoffentlich, vielleicht nicht immer, aber hoffentlich tut man nachdenken, wenn der Test
+
+00:17:34.520 --> 00:17:39.080
+ viel schlägt, da könnte jetzt halt entweder der Test falsch sein oder der Code, der getestet wird.
+
+00:17:39.080 --> 00:17:46.120
+ So, und die KI, was die dann entscheidet, ist häufig sehr zufällig oder halt durch den
+
+00:17:46.120 --> 00:17:52.480
+ Promt bestimmt. Also ich habe der KI ja gesagt, sie soll den Code testen und daraus schließt
+
+00:17:52.480 --> 00:17:56.120
+ die KI offensichtlich an vielen Stellen, sie soll den Code aber nicht anfassen, sie soll aber
+
+00:17:56.120 --> 00:18:02.840
+ ein Test machen, der funktioniert. Also passiert mir ganz, ganz oft, dass die KI eben den Test
+
+00:18:02.840 --> 00:18:09.680
+ anpasst und darauf testet, dass das Programm ein falsches Ergebnis liefert, weil die KI das so
+
+00:18:09.680 --> 00:18:16.760
+ verstanden hat. Das sind also immer so Sachen, auf die muss man aufpassen, wenn das direkt
+
+00:18:16.760 --> 00:18:22.360
+ passiert und wenn das bei einem kleinen Kotschnipsel passiert, irgendwas weiß ich nicht, weniger als
+
+00:18:22.360 --> 00:18:27.240
+ 100 Zeilen oder so, dann fällt es auf, aber wenn man eben gerade eine größte Komponente
+
+00:18:27.240 --> 00:18:31.000
+ übergeben hat und die KI ist fähig, größte Komponenten zu schreiben und da keine Ahnung,
+
+00:18:31.000 --> 00:18:37.160
+ 1000 Zeilen Code zu produzieren oder mehr und dann halt zu sehen, oh, hier ist aber Quatsch,
+
+00:18:37.160 --> 00:18:43.240
+ also hier ist der Test Quatsch und der Code, der getestet wird, ist auch Quatsch. Das dann
+
+00:18:43.240 --> 00:18:49.240
+ noch zu finden in 1000 Zeilen Code ist schon gar nicht mehr so trivial und da kommen dann auf einmal
+
+00:18:49.240 --> 00:18:59.400
+ die Probleme auf, die von einfach nur schlechter Software zu Security-Problemen weitreichen
+
+00:18:59.400 --> 00:19:04.240
+ können. Das finde ich spannend. Und dann ist es nämlich auch, wenn man das so ein bisschen
+
+00:19:04.240 --> 00:19:10.360
+ außer Acht lässt, ist nämlich auch ganz schnell diese vermeintliche Zeit ersparen ist,
+
+00:19:10.360 --> 00:19:18.120
+ dann auch so ein bisschen dahin, wenn du erst mal dann doch wieder dich sehr eingehend mit dem Code
+
+00:19:18.120 --> 00:19:23.480
+ beschäftigen musst, um halt zu gucken, steht denn da das Richtige beziehungsweise warum funktioniert
+
+00:19:23.480 --> 00:19:27.960
+ es anders als sich eigentlich will, dass es funktioniert, obwohl ganz am Anfang ich doch ganz
+
+00:19:27.960 --> 00:19:37.000
+ klar die Anforderung ihm gegeben habe. Vermeintlich klar. Oder wenn den Kollege das mit Vibecoding
+
+00:19:37.000 --> 00:19:47.320
+ erstellt hat und du kriegst dann einen sehr viele Zeilen umfassenden Pool-Request, also irgendwie
+
+00:19:47.320 --> 00:19:52.120
+ so eine Code-Änderung oder Vorschlag auf eine Code-Änderung und du das dann erst mal sichten
+
+00:19:52.120 --> 00:19:59.200
+ musst, das ist ja dieser Code-Review von dem du sprachst, den wir ja oft machen und du dann da
+
+00:19:59.200 --> 00:20:03.040
+ dich auch erst mal reinfuchsen musst. Also deswegen da die richtige Trennung zu finden,
+
+00:20:03.040 --> 00:20:10.280
+ zwischen wie weit ist das noch hilfreich oder welche Prompts muss man dann diesem Sprachmodell
+
+00:20:10.280 --> 00:20:14.680
+ irgendwie vorher gegeben haben, wenn es darum geht, hey, schreib bitte mal einen Testfall,
+
+00:20:14.680 --> 00:20:20.720
+ dass man das in die richtigen Bahnen lenkt, damit es auch noch hilfreich ist und nicht wie du
+
+00:20:20.720 --> 00:20:28.320
+ sagst, ja, er schreibt dann den Testfall so, dass er auf jeden Fall durchgehen wird. Ja, auf der
+
+00:20:28.320 --> 00:20:33.280
+ anderen Seite muss ich auch sagen, gerade in großen Firmen, in denen ich ja vorher war, ist es
+
+00:20:33.280 --> 00:20:37.320
+ durchaus auch so, dass die ähnliche Dinge auch einfach mit den Kollegen passieren können. Also
+
+00:20:37.320 --> 00:20:45.240
+ gerade in anderen Kulturkreisen, wenn man sich da nicht auskennt, kann es durchaus auch passieren,
+
+00:20:45.240 --> 00:20:51.360
+ dass man als vielleicht Kollege mit mehr Erfahrung einem anderen sagt, hey, der Test
+
+00:20:51.360 --> 00:20:55.440
+ funktioniert so nicht und dann kann es durchaus auch sein, dass durch kulturelle Differenzen der
+
+00:20:55.440 --> 00:21:01.560
+ Kollege das nicht hinterfragt, sondern einfach das macht, was man vermeintlich jetzt gerade gesagt
+
+00:21:01.560 --> 00:21:08.280
+ hat und den Test fixt. Also ich sehe da tatsächlich viele Sachen, die ich vor eben auch schon als
+
+00:21:08.280 --> 00:21:14.440
+ Problem hatte. Es ist nur jetzt noch ein bisschen verstärkt, weil es einfach noch, weil noch viel
+
+00:21:14.440 --> 00:21:22.720
+ mehr Kot produziert wird als vorher und man auch natürlich selber so ein bisschen, man wird ja
+
+00:21:22.720 --> 00:21:26.680
+ auch selber mal wieder dann von der KI gespiegelt. Also die KI lernt ja auch aus dem, was man da
+
+00:21:26.680 --> 00:21:33.120
+ selber verbricht an Kot und dann kann es eben sein, dass das nicht mal Feedback zurückkommt,
+
+00:21:33.120 --> 00:21:38.840
+ hey, ein anderer Kollege würde dann vielleicht sagen oder ein Kollegin, hey, das ist hier kein
+
+00:21:38.840 --> 00:21:43.440
+ guter Stil oder wusstest du, dass man das auch anders machen kann? Wusstest du, dass in dem
+
+00:21:43.440 --> 00:21:47.400
+ Framework oder in der Plattform, in der du gerade versuchst, das umzusetzen, dass es da eine ganz
+
+00:21:47.400 --> 00:21:54.760
+ einfache Methode für gibt? Exakt. Du musst das nicht in, du kannst da schon was Existenz verwenden
+
+00:21:54.760 --> 00:21:58.880
+ und du musst das nicht rein mit innerhalb der Programmiensprache selber noch mal entwickeln.
+
+00:21:58.880 --> 00:22:06.440
+ Ja, wobei man auch sagen muss, dass wenn man eben nicht faul ist und das noch genug hinterfragt,
+
+00:22:06.440 --> 00:22:12.960
+ dass das auch alles aus der KI rausputzeln kann. Man muss da eben, man muss dann das einfach wissen.
+
+00:22:12.960 --> 00:22:17.120
+ Es kommt darauf an. Also dazu muss natürlich das Sprachmodell irgendwann mal irgendwo
+
+00:22:17.120 --> 00:22:26.360
+ Informationen dazu bekommen haben. Das stimmt. Bei mir ist es im Moment halt so, ich arbeite
+
+00:22:26.360 --> 00:22:33.600
+ mit einer Technologie oder mit einer Plattform, zu der es zwar öffentlich verfügbare Dokumentationen
+
+00:22:33.600 --> 00:22:39.800
+ gibt, die ist aber tendenziell eher natürlich sprachlich und nicht, also es gibt zwar auch
+
+00:22:39.800 --> 00:22:52.880
+ Codebeispiel, aber nicht allzu viele. Also ansonsten sind da die Informationen, was die dort verwendeten
+
+00:22:52.880 --> 00:22:58.880
+ Frameworks so können oder nicht können. Es hat einfach nicht ganz so ausgeprägt. So dass du dann
+
+00:22:58.880 --> 00:23:05.680
+ immer mal wieder, ja, man kann die KI fragen, aber die kann halt einfach nicht wissen, was
+
+00:23:05.680 --> 00:23:11.680
+ dieses Softwareprodukte kann oder nicht kann. An der Stelle ist es ja auch schlimm, weil da die KI
+
+00:23:11.680 --> 00:23:17.920
+ dann wieder dazu tendiert zu hallucinieren und dann so tut, als müsste es eigentlich diese
+
+00:23:17.920 --> 00:23:24.880
+ völlig sinnvolle Funktionen in der API geben und die einfach hinschreibt, obwohl sie gar nicht
+
+00:23:24.880 --> 00:23:31.240
+ gibt. Das ist mir ja auch schon oft genug passiert. Auf der anderen Seite habe ich kürzlich mit einer
+
+00:23:31.240 --> 00:23:37.120
+ API gearbeitet, die sehr grottig dokumentiert war, wo ich zwar irgendwie so einen PDF hatte,
+
+00:23:37.120 --> 00:23:42.920
+ wie du sagst, sehr natürlich sprachig, wenig Beispiele, häufig, also auch mit Flüchtigkeitsfehlern
+
+00:23:42.920 --> 00:23:49.800
+ in der Dokumentation. Und beim Programmieren mit der KI ist mir aufgefallen, die KI weiß mehr
+
+00:23:49.800 --> 00:23:57.080
+ als ich. Also irgendwo im Internet gibt es, wurde diese KI wohl mal mit Kotschnitzeln trainiert auf
+
+00:23:57.080 --> 00:24:03.160
+ dieser API. Ich habe natürlich nicht herausgefunden, woher die KI das weiß, aber die wusste eben Dinge
+
+00:24:03.160 --> 00:24:07.560
+ über die API, die ich aus der Dokumentation nicht rauslesen konnte. Das war also auch mal spannend.
+
+00:24:07.560 --> 00:24:14.680
+ So rum kann es auch gehen. Vielleicht wurde die ja auch von den Schöpfern, vom Hersteller,
+
+00:24:14.680 --> 00:24:17.960
+ brauchten die das vielleicht auch mal und deswegen gibt es ja vielleicht auch andere Quellen. Also
+
+00:24:17.960 --> 00:24:24.040
+ sind ja jetzt auch nicht nur öffentlich verfügbare Sachen, die da eingeflossen sind, muss man ja
+
+00:24:24.040 --> 00:24:30.360
+ auch sagen, ehrlicherweise. Aber viel kommt halt natürlich auch aus öffentlich verfügbaren Quellen.
+
+00:24:30.360 --> 00:24:37.720
+ Ja. Ist mir übrigens deshalb aufgefallen, weil ich der KI gesagt habe, hier mal diese,
+
+00:24:37.720 --> 00:24:44.040
+ diese API und dann habe ich den Schnipsel aus der Dokumentation reinkopiert und dann schrieb mir
+
+00:24:44.040 --> 00:24:51.160
+ die KI drüber, wie die API heißt. Und dann habe ich das nochmal überprüft und habe gesehen,
+
+00:24:51.160 --> 00:24:55.240
+ es steht da nirgends in der Dokumentation, die ich hier reinkopiert habe mit dem Kot Schnipsel.
+
+00:24:55.240 --> 00:25:03.720
+ Also die KI wusste worum, worüber ich rede. Ich weiß, welche KI du letzten Sommer verwendet hast.
+
+00:25:03.720 --> 00:25:09.880
+ So, du meintest, du weißt eventuell, woher der Begriff kommt. Das würde mich jetzt noch interessieren.
+
+00:25:09.880 --> 00:25:19.640
+ Ja, also so Vibes oder Vibe-Based, sofern mir das in letzter Zeit entgegengekommen ist,
+
+00:25:19.640 --> 00:25:27.240
+ ist halt so, kommt im Moment, wo in der Jugendsprache durchaus häufiger mal vor, so, dass du, dass dein
+
+00:25:27.240 --> 00:25:36.440
+ Dating so mehr so Vibe-Based ist, so im Sinne von so, naja, schweben wir auf derselben Wellen,
+
+00:25:36.440 --> 00:25:44.840
+ Länge oder Pastzeit vielleicht einfach nicht, aber aus meiner Boomer-Rezeption heraus,
+
+00:25:44.840 --> 00:25:49.800
+ dann mehr so ein, so, naja, im Zweifel dann Pastzeit nicht, aber dass man vielleicht auch ein bisschen
+
+00:25:49.800 --> 00:25:56.920
+ unverbindlich ja vielleicht auch einfach ist, im Zweifel. So, es ist halt mehr so ein Vibe.
+
+00:25:56.920 --> 00:26:00.920
+ Du bist doch gar kein Boomer, du bist doch ein Aging-Millennier.
+
+00:26:00.920 --> 00:26:12.360
+ Aging-Millennier ist es so, ich alterne nicht. Stimmt, Boomer wünsche ich. Ich habe das auch nur aus
+
+00:26:12.360 --> 00:26:17.320
+ Social Media daher mitbekommen und denke, dass das halt daher so ein bisschen kommt mit diesen Vibes.
+
+00:26:17.320 --> 00:26:23.480
+ Kann gut sein. Also ich folge ja wiederum auf YouTube Menschen, die sich sehr lustig machen
+
+00:26:23.480 --> 00:26:28.200
+ über Themen, über aktuelle Themen und häufig kriege ich halt aktuelle Themen im Programmieren
+
+00:26:28.200 --> 00:26:33.720
+ nur mit, weil sich jemand schon darüber lustig macht. Da war das, das Vibe-Coding und das war halt
+
+00:26:33.720 --> 00:26:40.440
+ auch so ein sehr, ja genau, es war so kodenbasierend aufgefühlend, wie sich das jetzt hier gerade anfühlt,
+
+00:26:40.440 --> 00:26:48.280
+ dieser Kot. Das kann schon sein. Es fühlt sich dann manchmal an, als hätte das eine KI programmiert
+
+00:26:48.280 --> 00:26:55.480
+ und das erkennt man dann manchmal anhand der vielen Code-Kommentare. Oh ja, nutzlosen Code-Kommentare
+
+00:26:55.480 --> 00:27:02.200
+ möchte ich noch dazu sagen. Ja, sehr schön. Lass uns doch mal ein bisschen Musik einspielen.
+
+00:27:02.200 --> 00:27:10.440
+ Ja, hoffentlich, hoffentlich von Menschen gemacht. Kann gut sein. Auf jeden Fall freie, freie Musik,
+
+00:27:10.440 --> 00:27:14.280
+ wie immer. Danach reden wir auch versprochen über was anderes, auch über Technik, aber nicht über KI.
+
+00:27:14.280 --> 00:27:20.040
+ Ich habe noch was Tolles. Aber bis dahin hören wir von einem Künstler, den wir ja schon öfter hatten,
+
+00:27:20.040 --> 00:27:26.680
+ nämlich Beat Mechanic, den Titel Night City aus dem Freemusic Archive und damit in einer,
+
+00:27:26.680 --> 00:27:30.440
+ unter einer Creative Commons Lizenz. Bis gleich. Bis gleich.
+
+00:27:50.360 --> 00:27:56.360
+ [Musik]
+
+00:28:20.360 --> 00:28:30.360
+ [Musik]
+
+00:28:50.360 --> 00:29:00.360
+ [Musik]
+
+00:29:20.040 --> 00:29:30.360
+ [Musik]
+
+00:29:50.360 --> 00:30:04.360
+ [Musik]
+
+00:30:04.360 --> 00:30:11.000
+ Night City von Beat Mechanic. Und da sind wir schon wieder zurück. Im Freien Radio Potsam zu Chaos im
+
+00:30:11.000 --> 00:30:19.000
+ Radio auf 90,7 MHz in Potsam und 88,4 MHz in Berlin oder auf DAB+ und der FRBB und 24/3.
+
+00:30:19.880 --> 00:30:26.680
+ Wenn ihr Feedback an uns habt, schreibt doch gerne eine E-Mail an radio@ccc-p.org oder schreibt
+
+00:30:26.680 --> 00:30:35.640
+ uns auf den Mastodon cccp@caus.social. Saaroks, bist du noch da?
+
+00:30:35.640 --> 00:30:40.520
+ Ich bin noch da. Ja, ja. Schön. Wir sehen uns heute gar nicht. Das ist mal was Neues.
+
+00:30:40.520 --> 00:30:44.520
+ Normalerweise immer schön in Präsenz, aber heute machen wir Home Office.
+
+00:30:45.560 --> 00:30:54.920
+ Genau. Ich wollte dir noch was anderes erzählen, was ich gebastelt habe. Ganz ohne AKI. Und zwar ist
+
+00:30:54.920 --> 00:31:03.240
+ mir aufgefallen. Ich bin gerade wieder im Vereinskontext. Treffe ich viele neue Menschen. Das ist
+
+00:31:03.240 --> 00:31:10.120
+ schön und dann will ich mal Telefonnummern austauschen. Das ist nervig. Zumal mein Vereinskontext
+
+00:31:10.120 --> 00:31:14.280
+ findet auf dem Wasser statt. Da hat man manchmal gar kein Telefon dabei oder
+
+00:31:15.160 --> 00:31:21.240
+ die Sonne scheint. Man sieht das Display nicht so gut. Verschiedene Geschichten,
+
+00:31:21.240 --> 00:31:27.400
+ die da so passieren. Da habe ich mich gefragt, was gibt es eigentlich so in der moderne
+
+00:31:27.400 --> 00:31:33.320
+ Vermögligkeiten, um dem oder der gegenüber die Nummer und vielleicht sogar noch den Namen
+
+00:31:33.320 --> 00:31:41.720
+ gleich mit, damit man nicht mal Buch stabilen muss, rüberzugeben. Dabei bin ich drauf gestoßen,
+
+00:31:41.720 --> 00:31:48.760
+ dass Apple ein Feature implementiert hat bei den iPhones. Das heißt, glaube ich, Name Drop in
+
+00:31:48.760 --> 00:31:54.840
+ in Referenz auf das Air Drop, wo man sich irgendwelche Dateien, also meistens Bilder,
+
+00:31:54.840 --> 00:32:00.600
+ irgendwie hin und her schieben kann, wenn man einfach nur in der Nähe voneinander ist.
+
+00:32:00.600 --> 00:32:03.880
+ Und Name Dropping im Sinne von "Ich lass mal meinen Namen fallen".
+
+00:32:03.880 --> 00:32:12.200
+ Ja, genau. Und die Implementierung davon ist schön, sehr gut. Also man bumpt einfach
+
+00:32:12.200 --> 00:32:20.280
+ die beiden Eifhöhner mit dem Rücken aneinander und dann fragen die eben oder dann tauschen die
+
+00:32:20.280 --> 00:32:25.640
+ die Nummern aus. Und ich glaube, deswegen ist das auch so, dass man die wirklich, also man muss
+
+00:32:25.640 --> 00:32:29.160
+ die vorher entsperren und beide entsperren und dann gegeneinander halten, dass man sozusagen,
+
+00:32:29.160 --> 00:32:35.880
+ ich versehentlich die eigene Telefonnummer weitergibt. Nachteil, Apple typisch, funktioniert
+
+00:32:35.880 --> 00:32:42.360
+ natürlich nur zwischen zwei iPhones und ist auch kein, also zumindest habe ich nichts gefunden,
+
+00:32:42.360 --> 00:32:46.200
+ dass das jetzt irgendein Standard wäre, so dass auch ein Android-Telefon das verstehen könnte.
+
+00:32:46.200 --> 00:32:52.280
+ Und Android-Telefone können das von Natur aus auch nicht, obwohl ich meine,
+
+00:32:52.280 --> 00:32:59.720
+ die konnten das mal vor vielen, vielen Jahren. Ja, also zwar eine schöne Lösung,
+
+00:32:59.720 --> 00:33:03.320
+ gefällt mir gut, aber es ist total nutzlos, wenn ich das nur mit Menschen machen kann,
+
+00:33:03.320 --> 00:33:11.160
+ die ein iPhone haben, zwar nicht selber, ganz aber. Aber der ist mir aufgefallen, dass es vor
+
+00:33:11.160 --> 00:33:19.320
+ Jahren schon eine standardisierte Lösung über NFC gab. Sagt der NFC was? Ja,
+
+00:33:21.880 --> 00:33:29.560
+ in welchem Kontext kennst du das? Na ja, also so RFID-Text, wo du halt irgendwelche Text hast
+
+00:33:29.560 --> 00:33:35.080
+ und da Informationen auslesen oder darauf schreiben kannst, bzw. NFC wird ja, also ich glaube,
+
+00:33:35.080 --> 00:33:40.840
+ die meisten Leute, die NFC benutzen vielleicht oder ohne teilweise zu wissen, dass das NFC ist,
+
+00:33:40.840 --> 00:33:48.600
+ ist ja mit mobiler Bezahlung per Smartwatch oder Smartphone. Stimmt. Da wird ja NFC verwendet.
+
+00:33:49.720 --> 00:33:59.000
+ Genau und das andere sind, also das ist so billig mittlerweile, dass die, so Klamottenindustrie
+
+00:33:59.000 --> 00:34:06.680
+ und so einfach diese Chips einnäht irgendwo und dann beim Bezahlen kann man das nur über die
+
+00:34:06.680 --> 00:34:12.840
+ Kasse ziehen oder als Diebstahlschutz oder was auch immer oder teilweise auch nur für die Logistik.
+
+00:34:12.840 --> 00:34:18.600
+ Man sieht das auch ab und zu jetzt auf Paketen. Da klebt jetzt nicht nur ein Sticker drauf mit
+
+00:34:18.600 --> 00:34:24.360
+ so einem Barcode, sondern da ist auch so ein bisschen Draht gefühlt eingewoben und dann
+
+00:34:24.360 --> 00:34:30.360
+ kann man das auch scannen. Da kann man schauen, was da jetzt draufsteht. Da ist dann meistens nichts,
+
+00:34:30.360 --> 00:34:35.480
+ was nützlich ist für den Privatkunden, aber halt, das ist bei der Logistik, wird das Paket
+
+00:34:35.480 --> 00:34:40.760
+ einfach irgendwo drüber gezogen und dann weiß. Ja, mit den so Klamotten oder Ausrüstungsgegenständen,
+
+00:34:40.760 --> 00:34:47.080
+ deswegen gibt es ja durchaus verschiedenste, zum Beispiel auch so Campingausstatter, wenn man da
+
+00:34:47.080 --> 00:34:52.600
+ einkaufen war, dann sollte man da mal das Etikett sich anschauen oder an der richtigen Stelle
+
+00:34:52.600 --> 00:34:58.200
+ abschneiden, um das RFID-Tech einfach mal zu entfernen. Gab ja auch schon Leute, die sind mal
+
+00:34:58.200 --> 00:35:04.520
+ über den Festivalgelände oder in einem Reisebus, das zu einem Festival gefahren ist, haben mal ihren
+
+00:35:04.520 --> 00:35:12.600
+ NFC-Scanner aufgemacht und mal geguckt, okay, wie viel Campingausrüstung von diesem Campingausrüster,
+
+00:35:12.600 --> 00:35:17.880
+ der bundesweit unterwegs ist, finde ich denn eigentlich so in meiner näheren Umgebung,
+
+00:35:17.880 --> 00:35:21.800
+ weil die auch entsprechende, ich glaube die haben ja auch entsprechende Nummernkreise,
+
+00:35:21.800 --> 00:35:24.440
+ dass du das dann sehen kannst, okay, von welchem Hersteller kommt das denn jetzt?
+
+00:35:24.440 --> 00:35:30.040
+ Spannend, ja, ja, ja, alles klar. Genau, üblicherweise denkt man sich da nichts bei, weil diese,
+
+00:35:30.040 --> 00:35:37.480
+ die RFID oder NFC-Chips eigentlich nur aus äußerster Nähe gehen, also kennt man ja auch
+
+00:35:37.480 --> 00:35:41.800
+ vom Bezahlen, man muss das Telefon wirklich sehr nah ran halten, aber ich nehme an, dass man mit
+
+00:35:41.800 --> 00:35:46.200
+ entsprechenden Verstärkern wahrscheinlich auch ein paar Meter überbrücken kann.
+
+00:35:46.200 --> 00:35:50.600
+ Ja, aber du warst ja jetzt gerade bei dem Thema mit, du willst deine Kontaktdaten jemandem geben
+
+00:35:50.600 --> 00:35:57.480
+ oder dir geben? Name-Jobben, genau. Also ich habe vor vielen Jahren eben als das aufkam und als
+
+00:35:57.480 --> 00:36:03.880
+ die Dinger schon billig waren, so ein NFC-Sticker gekauft, die gibt es bei jeder Plattform so Preis
+
+00:36:03.880 --> 00:36:07.960
+ zwischen 50 Cent und einem Euro, wenn man die einzeln kauft und noch billiger, wenn man die in
+
+00:36:07.960 --> 00:36:17.880
+ großen Mengen kauft, das ist so ein zwei Euro Stück ungefähr, weiß in der Regel und kann man da was
+
+00:36:17.880 --> 00:36:22.360
+ draufschreiben oder drauf drucken lassen sogar und klebt die irgendwo hin. Ich habe die hier in der
+
+00:36:22.360 --> 00:36:28.840
+ Wohnung verteilt, da wenn man ein Telefon dagegen hält, dann verbindet sich das mit dem WLAN. Manche
+
+00:36:28.840 --> 00:36:34.680
+ anerkennt es auch so Bluetooth-Verbindungen, kann man damit auch initiieren, also kann es halt sagen,
+
+00:36:34.680 --> 00:36:40.840
+ hier ist jetzt bei so manchen Lautsprecher, die haben das, hältste das Telefon drauf und dann
+
+00:36:40.840 --> 00:36:46.360
+ verbindet sich das Telefon per Bluetooth. Auch hier werden die wenigsten wissen, dass der NFC dann
+
+00:36:46.360 --> 00:36:51.240
+ noch dazwischen ist, dass das halt nicht so anfühlt oder weil da auch sehr wenig Daten einfach
+
+00:36:51.240 --> 00:36:56.040
+ nur darüber gehen. Genau und eine Möglichkeit, was man mit den Dingern auch machen kann, also
+
+00:36:56.040 --> 00:37:01.240
+ vielleicht soll ich noch dazu sagen, die meisten kann man diese Sticker frei beschreiben. Da gibt es
+
+00:37:01.240 --> 00:37:06.680
+ dann einfach Apps für auf dem Telefon, damit kann man die auslesen, aber auch beschreiben,
+
+00:37:06.680 --> 00:37:13.360
+ wenn die Sticker das zulassen und diese 70 Cent Sticker lassen das halt zu. Und eine Sache,
+
+00:37:13.360 --> 00:37:19.680
+ die man darauf speichern kann neben URLs und weiterem sind eben auch so Addressbuch-Dateien.
+
+00:37:19.680 --> 00:37:26.080
+ Da gibt es so ein Format, das benutzen eigentlich alle Addressbücher, ICS, ist das gerade richtig,
+
+00:37:26.080 --> 00:37:32.880
+ verwechselt ist mal die ICAL und ICARD, ich glaube ICS sind die, ICS ist ja mehr so Kalender-Geschichten.
+
+00:37:32.880 --> 00:37:39.720
+ Ah, dann war es zwar die Endung für den ICAL, aber es gibt ja dieses andere, meinst du die
+
+00:37:39.720 --> 00:37:47.680
+ V-Card? V-Card heißt es genau. Also V-Card, wie sieht ein Karte? Punkt V-Card, genau. Genau und dann
+
+00:37:47.680 --> 00:37:53.320
+ kann man auf den Sticker einfach drauf schreiben, also man kann es natürlich auch nochmal mit dem
+
+00:37:53.320 --> 00:37:57.280
+ Stift drauf schreiben, aber mit dem Telefon kann man drauf schreiben lassen, okay das ist jetzt
+
+00:37:57.280 --> 00:38:03.600
+ hier Name, Telefonnummer, vielleicht noch Adresse und URL. Begrenzt, dann viel mehr passt tatsächlich
+
+00:38:03.600 --> 00:38:09.120
+ auch nicht drauf, dann sind die meisten Sticker schon voll mit Daten. So und wenn man dann ein
+
+00:38:09.120 --> 00:38:13.640
+ Telefon draufhält und also es ist völlig egal welcher Typ, weil das eben standardisiert ist,
+
+00:38:13.640 --> 00:38:20.560
+ dann bietet einem das Telefon an, das ins Adressbuch aufzunehmen. So und was ich jetzt
+
+00:38:20.560 --> 00:38:24.360
+ gemacht habe, ich habe dann später gesehen, man kann das auch kaufen, aber es war halt viel zu
+
+00:38:24.360 --> 00:38:28.840
+ einfach, ich bin ja auch so ein Aging Millennial und habe deswegen noch Visitenkarten, ganz normale
+
+00:38:28.840 --> 00:38:35.960
+ und jetzt habe ich mir auf eine Visitenkarte ein NFC Sticker geklebt, da das mit dem Telefon digital
+
+00:38:35.960 --> 00:38:39.760
+ drauf geschrieben, was auf der Visitenkarte steht und dann habe ich eine zweite Visitenkarte oben
+
+00:38:39.760 --> 00:38:45.680
+ drüber geklebt und jetzt kann ich halt die Visitenkarte an das Telefon von jemandem dranhalten
+
+00:38:45.680 --> 00:38:53.080
+ und dann hat der oder die direkt mein Nummer und irgendwie fühlt sich das, obwohl es so einfach
+
+00:38:53.080 --> 00:38:56.640
+ ist, fühlt sich das immer noch sehr magisch an, fand ich, habe das jetzt zweimal probiert und die
+
+00:38:56.640 --> 00:39:06.560
+ Leute reagieren darauf auch, als wäre ich ein Mega-Hacker, aber es ist wirklich eine angenehme
+
+00:39:06.560 --> 00:39:13.160
+ Lösung, natürlich will ich hier gleich disclaimer, also das kann jeder, das ist wirklich kein Problem,
+
+00:39:13.160 --> 00:39:20.520
+ diese NFC Sticker kann man ohne Problem beschreiben und man sollte aber im Hintergrund im Hinterkopf
+
+00:39:20.520 --> 00:39:26.480
+ behalten, dass das nicht gesichert ist, also wenn die Karte irgendwo rumliegt oder vielleicht sogar
+
+00:39:26.480 --> 00:39:31.920
+ in der Tasche steckt, kann es halt sein, dass jemand die Telefonnummer und den Namen da ausliest,
+
+00:39:31.920 --> 00:39:36.320
+ aber bei so einer Visitenkarte ist das ja irgendwie auch Sinn der Sache, dass wenn man die liegen
+
+00:39:36.320 --> 00:39:44.000
+ lässt, dann ist das halt so. Ja genau, das heißt, wenn du sie aber in der Tasche hast und durch
+
+00:39:44.000 --> 00:39:48.080
+ den Bahnhof läufst und vielleicht jetzt nicht jedem zeigen willst, ist das dann schon wieder was
+
+00:39:48.080 --> 00:39:57.640
+ anderes, aber ja, sollte man einfach wissen und ich meine letztendlich ist das ja ein schönes
+
+00:39:57.640 --> 00:40:06.240
+ Beispiel für, weswegen wir immer so auch auf offene Standards irgendwie pochen, damit das halt
+
+00:40:06.240 --> 00:40:10.920
+ kompatibel ist mit Geräten von egal welchem Hersteller. Letztendlich ist das ja so ein bisschen
+
+00:40:10.920 --> 00:40:19.160
+ eine Fortführung von, du kannst es selber auch mit QR-Codes machen, da kannst du ja auch, du kannst
+
+00:40:19.160 --> 00:40:24.880
+ ja auch einen QR-Code machen, wo du zum Beispiel angibst, übrigens da sind die Zugangsarten für
+
+00:40:24.880 --> 00:40:28.000
+ mein WLAN hier, das können jetzt zum Beispiel die Fritzbox mittlerweile schon seit einer
+
+00:40:28.000 --> 00:40:33.000
+ ganzen Zeit, dass du dir da was ausdrucken kannst und jeder, der zu dir nach Hause kommt, dem du
+
+00:40:33.000 --> 00:40:39.480
+ das geben willst, kann dann mit seiner Kameradis einfach als QR-Code scanen und oder halt auch,
+
+00:40:39.480 --> 00:40:44.560
+ man kann auch seine Kontaktdaten, wie du es gerade schon gesagt hast, für NFC kannst du auch als
+
+00:40:44.560 --> 00:40:49.840
+ QR-Code packen und letztendlich geht es immer nur darum, wie werden die Sachen da reinkodiert
+
+00:40:49.840 --> 00:40:56.760
+ und aber natürlich ist das Benutzungserlebnis mit NFC dann natürlich noch mal ein bisschen
+
+00:40:56.760 --> 00:41:01.040
+ ein anderes als mit einem QR-Code, wo du irgendwie so im richtigen Abstand und fokussieren und
+
+00:41:01.040 --> 00:41:05.760
+ Licht muss stimmen, bei NFC ist das einfach ein bisschen egal, solange es halt irgendwie nah genug
+
+00:41:05.760 --> 00:41:14.960
+ dran ist und du deinen NFC aktiviert hast. Genau, also ein lustiger Nebeneffekt, ich habe das Ding
+
+00:41:14.960 --> 00:41:20.600
+ ja in meiner, ich habe so eine Handytasche und da hängt jetzt auch diese Visitenkarte drin,
+
+00:41:20.600 --> 00:41:26.520
+ also jeder, der sein Handy auf meiner Handytasche legt, kriegt direkt meinen Kontakt zu gespielt,
+
+00:41:26.520 --> 00:41:31.000
+ also es fühlt sich dann eben auch immer so ein bisschen so an, als würde das von meinem Handy
+
+00:41:31.000 --> 00:41:37.720
+ ausgehen, kommt aber in Wirklichkeit von der von der Karte, die da drin steckt und das andere
+
+00:41:37.720 --> 00:41:41.200
+ ist natürlich, dass ich dann immer, ich muss immer selber NFC ausmachen, weil ich sonst ständig
+
+00:41:41.200 --> 00:41:50.800
+ meinen eigenen Kontakt bekomme. Aber ansonsten gefällt mir das sehr gut und wie gesagt, ich habe
+
+00:41:50.800 --> 00:41:55.320
+ davon nur eine, ich werde dir jetzt, das ist auch die Visitenkarte, die ich dann eben nicht rausgebe,
+
+00:41:55.320 --> 00:42:00.440
+ falls ich das nochmal mache. Aber ganz ehrlich, also mal ganz ehrlich gefragt, wie viel Visitenkarten
+
+00:42:00.440 --> 00:42:07.160
+ brauchst du tatsächlich, weil meine Erfahrung, gut in meinem aktuellen Kontext brauche ich die
+
+00:42:07.160 --> 00:42:14.520
+ eh nicht so wirklich viel, aber in meinem anderen Job davor war ich mal auf einem Event, auf einer
+
+00:42:14.520 --> 00:42:20.880
+ Konferenz oder was das war, wo man klassischerweise irgendwie Visitenkarten verteilen würde, aber
+
+00:42:20.880 --> 00:42:26.040
+ da war dann meistens halt so dieses, ja ich brauche die Visitenkarte nicht, ich speichere mir entweder
+
+00:42:26.040 --> 00:42:31.800
+ eh gleich die Kontaktdaten ein oder mache mir einen Foto davon und das heißt, ich bin da gar nicht mehr
+
+00:42:31.800 --> 00:42:38.400
+ so viele Visitenkarten überhaupt los geworden. Ja, Dito, also es ist, ich glaube Visitenkarten
+
+00:42:38.400 --> 00:42:42.840
+ sind auch nur dann nützlich, wenn man sie tatsächlich immer dabei hat, weil das war so
+
+00:42:42.840 --> 00:42:48.880
+ mein Problem, ich halt aus dem Arbeitskontext habe ich immer welche bekommen, aber die lagen dann halt
+
+00:42:48.880 --> 00:42:54.600
+ zu Hause rum und genau halt auf so typischen Konferenzen und so, das ist halt ein sehr nützliches Tool,
+
+00:42:54.600 --> 00:43:02.480
+ finde ich, aber dann braucht es halt ein halbes Jahr wieder keine und ja, ich habe immer ein paar
+
+00:43:02.480 --> 00:43:08.220
+ dabei und ab und an, es bin ich glücklich drüber, dass ich die dabei habe und ansonsten
+
+00:43:08.220 --> 00:43:13.680
+ komischerweise haben viele Kleidungsstücke auch so Taschen, wo exakt Visitenkarten reinpassen
+
+00:43:13.680 --> 00:43:22.720
+ und sonst auch irgendwie nix und da habe ich die dann so versteckt drin und ja, genau. Ja, also
+
+00:43:22.720 --> 00:43:28.960
+ hier pro Tipp, ich habe das übrigens auch auf meinem Mastodonkanal nochmal beschrieben,
+
+00:43:28.960 --> 00:43:36.040
+ wie ich das gemacht habe, aber wie gesagt jetzt keine Magie, kann man ja können wir ja mal mit
+
+00:43:36.040 --> 00:43:46.240
+ unserem CCCP-Account verboosten oder wie das da heißt. Ja, gut, genau und da wollte ich dich
+
+00:43:46.240 --> 00:43:53.600
+ auch fragen, du bist glaube ich ein bisschen mehr noch im Social Media unterwegs als ich. Ich habe
+
+00:43:53.600 --> 00:43:57.880
+ so ein Mastodon-Account, aber heutzutage passiert der tatsächlich auch recht viel über Blue Sky,
+
+00:43:57.880 --> 00:44:04.720
+ ich glaube, hast du ein Blue Sky-Account? Ja. Hast du Mastodon und Blue Sky irgendwie miteinander
+
+00:44:04.720 --> 00:44:15.520
+ verbandelt? Jetzt nicht für den Account, aber ja, es gibt Accounts, die ich verbandelt habe,
+
+00:44:15.520 --> 00:44:27.120
+ wo das Initial auf im Fediverse Dinge gepostet werden und die dann nach Blue Sky rüber gespiegelt
+
+00:44:27.120 --> 00:44:36.800
+ werden. Genau, also das gibt es, das kann man sich halt, wenn man das will, selber einrichten,
+
+00:44:36.800 --> 00:44:48.960
+ weil ich suche, wie das heißt. Ja, ja, ich such gerade, wie das heißt tatsächlich. Aber es gibt
+
+00:44:48.960 --> 00:44:59.360
+ auch zum Beispiel einen Dienst, den man mal beispielhaft nennen kann, das ist fett.bridge.g,
+
+00:44:59.360 --> 00:45:10.560
+ also fed.brid.gy geschrieben, packen wir am besten mal, wenn dann hier in die Kommentare, in die
+
+00:45:10.560 --> 00:45:17.440
+ Show Notes mit rein, ja, weil das ist, also da kann man, da gibt es verschiedenste Varianten
+
+00:45:17.440 --> 00:45:24.320
+ vom Fediverse nach Blue Sky, ich glaube, es geht auch andersrum, ich glaube, es gibt auch noch ein
+
+00:45:24.320 --> 00:45:32.160
+ paar andere Netzwerke, in die man seinen Inhalte dann spielen kann und man, es gibt, glaube ich,
+
+00:45:32.160 --> 00:45:37.800
+ auch Möglichkeiten, dass man nicht, also was, man kriegt dann standardmäßig, kriegt man in Blue
+
+00:45:37.800 --> 00:45:47.720
+ Sky so einen relativ langen Username oder Händel. Ich glaube, es gibt auch noch Möglichkeiten,
+
+00:45:47.720 --> 00:45:53.720
+ einen eigenen Händel, eine eigene Domain zu verwenden in dann in Blue Sky, aber damit habe
+
+00:45:53.720 --> 00:45:57.040
+ ich mich jetzt noch nicht beschäftigt. Mein Anwendungsfall war jetzt erstmals okay, ich habe
+
+00:45:57.040 --> 00:46:05.960
+ einen Bot auf im Fediverse und möchte einfach auch Leute, die nicht auf Mosto dann unterwegs sind,
+
+00:46:05.960 --> 00:46:14.440
+ sondern auch nur auf Blue Sky, auch damit versorgen. Genau, gab es mal irgendwie eine
+
+00:46:14.440 --> 00:46:18.280
+ Bestrebung, dass das Nativ miteinander sprechen kann? Ich dachte mal, ich hätte jetzt sowas mal
+
+00:46:18.280 --> 00:46:26.640
+ gelesen, aber vielleicht war das, vielleicht war das auch Threads von Facebook? Naja, nativ,
+
+00:46:26.640 --> 00:46:35.080
+ naja, es sind ja zwei unterschiedliche Protokolle grundsätzlich, also Blue Sky ist ja basierend
+
+00:46:35.080 --> 00:46:44.760
+ auf AT-Proto und Fediverse ist ja auf diesem Activity-Pub und deswegen, also jetzt, jetzt nur
+
+00:46:44.760 --> 00:46:51.520
+ rein von den Standard-Schnittstellen und Standard-Protokollen, die das miteinander hat, würde
+
+00:46:51.520 --> 00:46:57.600
+ das nicht gehen. Ich habe aber auch was in der Richtung gelesen, das ist da irgendwie, ja,
+
+00:46:57.600 --> 00:47:04.400
+ aber das ist jetzt wirklich ganz schlechtes Halbwissen. Okay, aber das ist von Blue Sky
+
+00:47:04.400 --> 00:47:07.920
+ vielleicht irgendwie noch ein bisschen besser unterstützt wird, diese Integration in das
+
+00:47:07.920 --> 00:47:13.200
+ Fediverse. Aber war das bei, war das Facebook Threads, was dann irgendwie auch Activity-Pub
+
+00:47:13.200 --> 00:47:19.560
+ benutzt? Das kann sein, ja, das kann sein, aber ich habe keine Ahnung von Threads, deswegen
+
+00:47:19.560 --> 00:47:29.280
+ bin ich da, keine Ahnung. Na gut, aber da muss man ja vielleicht auch so ein bisschen dazu sagen,
+
+00:47:29.280 --> 00:47:41.440
+ Facebook bzw. Meta hat ja durchaus, hat ja durchaus auch eine Geschichte von sie starten, damit offene
+
+00:47:41.440 --> 00:47:49.200
+ Protokolle zu verwenden, um den Dienst aber auch irgendwann einfach abzuschalten. Ja, okay. Also,
+
+00:47:49.200 --> 00:47:56.160
+ ich meine, das war ja, es gab ja auch mal die Möglichkeit, dass du deine Facebook-Chats im
+
+00:47:56.160 --> 00:48:04.520
+ Facebook Messenger, dass du die auch per IRC meinig, die, oder XMP, nee, XMPP war es, also das war es,
+
+00:48:04.520 --> 00:48:14.320
+ also es gab mal eine Zeit von Instant Messenger, bevor wir diese ganze Sache mit den, mit diesen
+
+00:48:14.320 --> 00:48:26.800
+ Apps hatten, ja, und da sowas wie ICQ und Co. Und ein recht beliebtes Protokoll, das auch frei war,
+
+00:48:26.800 --> 00:48:34.000
+ war dann halt so XMPP. Und Facebook hat ja dann diese Chats auch als XMPP zur Verfügung gestellt,
+
+00:48:34.000 --> 00:48:39.680
+ sodass man halt auch andere Apps als ich muss auf die Facebook-Webseite gehen nutzen konnte,
+
+00:48:39.680 --> 00:48:44.960
+ um diese Chats zu benutzen. Und irgendwann hat Facebook das dann aber eingestellt und das ist
+
+00:48:44.960 --> 00:48:50.480
+ dann irgendwie so, das ist halt einfach schlecht, ja. Führt das die Leute erst mal damit an,
+
+00:48:50.480 --> 00:48:57.360
+ auch die vielleicht etwas eher skeptischen, die nicht so in so ein World Garden wollen mit, hey,
+
+00:48:57.360 --> 00:49:01.600
+ ja, aber das ist ja Facebook und die bestimmen ja alles, aber hey, wir haben eine offene Schnittstelle,
+
+00:49:01.600 --> 00:49:06.320
+ wir haben, du kannst dich anbinden und dann machen sie es halt irgendwann zu, das ist dann halt,
+
+00:49:06.320 --> 00:49:13.560
+ ja. Also hier nur der vollständige Halber in den FAQs steht, man kann das tatsächlich
+
+00:49:13.560 --> 00:49:17.680
+ irgendwie anschalten, das ist nicht standardmäßig an, aber man kann irgendwie Sachen aus seinem
+
+00:49:17.680 --> 00:49:28.000
+ Threads-Account ins Fediverse hineinscheren, aber ja, keine Ahnung wie das dann in der Praxis
+
+00:49:28.000 --> 00:49:31.920
+ aussieht. Es ist auch nicht so wichtig, mir war nur so, als hätte irgendeiner von diesen
+
+00:49:31.920 --> 00:49:37.560
+ Plattformen hätte auch Activity-Pap benutzt. Ja, also ich meine, wenn Sie es nativ unterstützen,
+
+00:49:37.560 --> 00:49:42.560
+ okay, ja, dann ist das so. Aber das ist dann halt immer die Frage von und irgendwann schalten Sie es
+
+00:49:42.560 --> 00:49:47.200
+ vielleicht ab, wenn Sie es nicht, wenn Sie keinen Bock mehr haben, das zu warten oder das zu bezahlen
+
+00:49:47.200 --> 00:49:52.160
+ oder jetzt so viele Leute jetzt Feds verwenden, dass sie sagen so, okay, warum sollen wir unseren
+
+00:49:52.160 --> 00:49:59.040
+ Marktanteil mit anderen teilen? Ja, das ist halt immer das Problem mit Tech-Monopolen oder zu
+
+00:49:59.040 --> 00:50:05.160
+ großen Plattformen. Solange wir nicht, solange es jetzt keine Pflicht gibt, dass sie ein bestimmtes
+
+00:50:05.160 --> 00:50:12.040
+ Protokoll sprechen müssen, ist das dann halt auch wieder schwierig und hat aber gleichzeitig dann
+
+00:50:12.040 --> 00:50:19.240
+ auch wieder das Problem mit, wie wir es ja auch schon mal besprochen hatten, wenn du aber Plattform
+
+00:50:19.240 --> 00:50:23.480
+ dazu zwingst, dass sie ein bestimmtes Protokoll unterstützen müssen, kann das halt im Zweifel
+
+00:50:23.480 --> 00:50:30.640
+ auch bedeuten, dass du weniger Sicherheit hast. Ja, ja, ja, das hat immer mehrere, ja, da muss
+
+00:50:30.640 --> 00:50:34.520
+ man technisch schon ein bisschen versiert sein, um zu verstehen, was das bedeutet, wenn man jetzt
+
+00:50:34.520 --> 00:50:40.120
+ von Signal fordert, dass das auch mit WhatsApp kommunizieren soll und was das bedeutet,
+
+00:50:40.120 --> 00:50:46.520
+ wenn man Feds auffordert, mit Fedyverse zu reden oder so, ja, das stimmt. Gut, du hast
+
+00:50:46.520 --> 00:50:52.720
+ noch PeerTube in unserer Liste geschrieben. Ja, weil wir ja eher so bei, zumindest so Fedyverse und
+
+00:50:52.720 --> 00:50:59.680
+ Mustodown ist ja eher so freie Software. Das brachte mich dazu mal darauf hinzuweisen,
+
+00:50:59.680 --> 00:51:05.560
+ dass es ja auch Alternativen zu Videoplattformen wie YouTube gibt, gibt ja noch sich andere
+
+00:51:05.560 --> 00:51:13.000
+ Videoplattformen, wo man so on-demandt sich Sachen angucken kann, aber mittlerweile ist ja irgendwie
+
+00:51:13.000 --> 00:51:18.680
+ YouTube schon seit geraumer Zeit so quasi die Hauptplattform. Nein, aber es gibt ja auch noch
+
+00:51:18.680 --> 00:51:25.480
+ andere freie Plattformen und freie Software dazu, unter anderem eben PeerTube, was man sich mal
+
+00:51:25.480 --> 00:51:33.240
+ angucken kann, wo es auch verschiedenste Instanzen gibt mit sicherlich nicht so ganz verkehrten
+
+00:51:33.240 --> 00:51:40.480
+ Videokontent und man kann sich natürlich auch selber mal so eine Plattform auch aufsetzen, wenn
+
+00:51:40.480 --> 00:51:46.800
+ man da den Bedarf dazu hat. Also man muss nicht immer alles auf YouTube hochladen oder
+
+00:51:46.800 --> 00:51:51.960
+ irgendeinen anderen Dienst, sondern man kann auch selber eine Videoplattform hosten, kann da auch
+
+00:51:51.960 --> 00:52:00.880
+ Dinge einstellen. Ich bin nämlich neulich mal da drüber gestolpert und hab mal zumindest überlegt,
+
+00:52:00.880 --> 00:52:11.040
+ selber was irgendwo zu installieren. Manchmal ist es ja so, du willst eine Sicherung, also
+
+00:52:11.040 --> 00:52:16.520
+ wirklich ein ernst gemeint eine Sicherungskopie von dem Video haben, muss ja gar nicht unbedingt
+
+00:52:16.520 --> 00:52:22.520
+ öffentlich sein, aber wenn du irgendwie dir Videos runterlädst auf dein Smartphone oder auf dein
+
+00:52:22.520 --> 00:52:27.880
+ Computer und das dann da irgendwie verrottet, ist da das eine. Aber vielleicht, wenn man so eine
+
+00:52:27.880 --> 00:52:33.240
+ private Instanz einfach hat, um sich so eine dort eine Sicherungskopie anzulegen, um später
+
+00:52:33.240 --> 00:52:37.960
+ darauf zurückgreifen zu können, ist das schon durchaus hilfreich. Da habe ich auf jeden Fall
+
+00:52:37.960 --> 00:52:42.480
+ in letzter Zeit mal drüber nachgedacht. Das müsste eigentlich mit PeerTube und vielleicht noch links
+
+00:52:42.480 --> 00:52:47.640
+ und rechts ein paar Skripten oder Ad-Ons müsste das eigentlich ganz gut gehen. Also ich denke, wenn
+
+00:52:47.640 --> 00:52:52.800
+ man da, das ist ja was, was auch die öffentlich-rechtlichen in Deutschland so ein bisschen, also manchmal
+
+00:52:52.800 --> 00:53:00.240
+ machen sie es sehr gut, manchmal gar nicht gut, aber man könnte damit halt auch gewisse Anforderungen
+
+00:53:00.240 --> 00:53:07.520
+ sozusagen umsetzen und trotzdem nutzerfreundlich sein. Also mittlerweile haben sie es glaube ich
+
+00:53:07.520 --> 00:53:11.560
+ ein bisschen vereinheitlich, aber es ist ja immer noch so, dass irgendwie ZDF eine eigene
+
+00:53:11.560 --> 00:53:16.200
+ Mediathek hat, die ARID hat eine eigene Mediathek und ARTE zum Beispiel hat auch eine Mediathek und
+
+00:53:16.200 --> 00:53:20.040
+ dann installierst du dir deine drei Apps und mittlerweile gibt es auch noch Audio-Täken und
+
+00:53:20.040 --> 00:53:24.680
+ eigentlich ist das alles sehr nervig, weil ich will ja eigentlich gar keine drei Apps, ich
+
+00:53:24.680 --> 00:53:28.840
+ will ja nur eine. Deswegen gehen ja auch viele Leute dann lieber wieder zu YouTube und gucken
+
+00:53:28.840 --> 00:53:37.280
+ sich den Content dann halt auf YouTube an. Aber hier ist eben der große Vorteil von solchen dezentralen
+
+00:53:37.280 --> 00:53:42.360
+ Systemen wie im Fediverse oder in dem Fall eben PeerTube. Jetzt könnte halt die ARID ihre eigene
+
+00:53:42.360 --> 00:53:48.480
+ ARID Mediathek auf PeerTube aufsetzen und ZDF könnte das auch, aber mir als Nutzer ist das
+
+00:53:48.480 --> 00:53:54.520
+ komplett buggy, weil ich eben über das selbe Protokoll beide empfangen kann und dann ist mir
+
+00:53:54.520 --> 00:53:59.080
+ das zwar, dann sehe ich das zwar, dass es unter Umständen von unterschiedlichen Plattformen kommt,
+
+00:53:59.080 --> 00:54:06.400
+ aber ich benutze halt eine und die selbe App dafür und da gebe es eigentlich viel zu holen, würde
+
+00:54:06.400 --> 00:54:10.160
+ mir wünschen, dass es umgesetzt wird. Wahrscheinlich war PeerTube auch vielleicht ein bisschen zu
+
+00:54:10.160 --> 00:54:17.040
+ spät oder nicht gut genug abgehangen für die öffentlich-rechtlichen, denn so Mastodon-Instanzen
+
+00:54:17.040 --> 00:54:24.040
+ betreiben die Jahre. Hat auch eine ganze Zeit lang gedauert, aber ja, mittlerweile gibt es das.
+
+00:54:24.040 --> 00:54:31.920
+ Finde ich auf jeden Fall alles besser als ständig diesen Kram auf bei großen amerikanischen Anbietern
+
+00:54:31.920 --> 00:54:38.480
+ abzuladen. Also gerade Instagram finde ich ja furchtbar, weil man sich viele Dinge ja dann nur
+
+00:54:38.480 --> 00:54:45.480
+ sehr begrenzt anschauen kann, wenn man keinen Instagram-Account hat. Das halt so populär ist
+
+00:54:45.480 --> 00:54:50.760
+ mittlerweile, dass das öffentlich-rechtliche Programm eben auf ihren Instagram-Account
+
+00:54:50.760 --> 00:54:55.760
+ verlinken und da irgendwie inhalte teilen und ich denke also ja, ich kann mir das aber hier gerade
+
+00:54:55.760 --> 00:55:01.220
+ nicht angucken, wenn ich mich nicht anmelde und ich will mich da halt nicht anmelden. Da gibt es
+
+00:55:01.220 --> 00:55:07.520
+ natürlich auch dann wieder Dienste, wo man dann irgendwie die Link da eintippern kann, um dann
+
+00:55:07.520 --> 00:55:13.520
+ irgendwie das Profil zu sehen, aber die sind ohne Werbeblocker, sind die so verseucht mit Werbung,
+
+00:55:13.520 --> 00:55:18.960
+ weil die natürlich auch irgendwie mindestens mal ihre Betriebskosten halt irgendwie decken wollen.
+
+00:55:18.960 --> 00:55:25.120
+ Also insofern, ich kann es ein Stück weit verstehen, aber das hilft also gefährdet einen dann
+
+00:55:25.120 --> 00:55:33.080
+ auch irgendwie. Und es ist halt auch einfach ein Nerv, der einfach gerade so von öffentlich-rechtlichen
+
+00:55:33.080 --> 00:55:39.040
+ diese Informationen einfach frei sein und möglichst auch länger als ein Jahr dann teilweise verfügbar.
+
+00:55:39.040 --> 00:55:44.520
+ Das ist ja dann auch noch so ein Thema, diese ganze rechtliche Geschichte, aber das würde ganz
+
+00:55:44.520 --> 00:55:48.560
+ anderes Spielfeld nochmal aufmachen. Aber ja, aber ich wollte eigentlich darauf hinweisen,
+
+00:55:48.560 --> 00:55:54.800
+ technisch gäbe es da schon Lösungen, das angenehm und richtig zu machen. Also es gab ja
+
+00:55:54.800 --> 00:56:01.760
+ durchaus auch Vorstöße oder Ideen genau in die Richtung in den vergangenen Jahren,
+
+00:56:01.760 --> 00:56:08.160
+ als es dann darum ging, hey, lasst uns mal die Mediathek neu aufsetzen oder vielleicht sogar
+
+00:56:08.160 --> 00:56:14.040
+ eine verbundene Mediathek für AID und ZDF machen, gab es ja glaube ich auch Ideen. Und da gab es ja
+
+00:56:14.040 --> 00:56:22.240
+ schon einige digital bewanderte Akteure, glaube ich auch aus den Fernsehrad beispielsweise,
+
+00:56:22.240 --> 00:56:29.840
+ Leonid Dobusch hatte das glaube ich schon durchaus mal offen diskutiert. Inwiefern man das zum
+
+00:56:29.840 --> 00:56:38.400
+ Beispiel auch auf freier Software aufsetzen lassen kann. Aber ist ja dann immer, das entscheidet ja
+
+00:56:38.400 --> 00:56:43.960
+ keine Person einzeln, sondern da sind ja ganz verschiedene Akteure und Prozesse da involviert.
+
+00:56:43.960 --> 00:56:53.080
+ Ja, genau. Aber sinnvoll wäre es, mehr klar. Genau. Schön wäre es. Genau, jetzt ist unsere
+
+00:56:53.080 --> 00:56:58.520
+ Stunde auch schon fast rum. Ja. Gibt es denn irgendwelche Termine, die noch anstehen? Haben
+
+00:56:58.520 --> 00:57:05.400
+ wir heute gar nicht aufgeschrieben. Das ist wichtig. Man kann immer darauf hinweisen, dass wir uns
+
+00:57:05.400 --> 00:57:12.240
+ weiter im Chaos-Computer-Trenn, im Chaos-Treff in Potsdam im Freiland, aus fünf Treffen,
+
+00:57:12.240 --> 00:57:18.640
+ jeden Mittwoch um 19 Uhr geht es los, das weiß ich nicht, so gegen zehn. Gerade findet viel vor
+
+00:57:18.640 --> 00:57:24.360
+ der Machbar statt, weil das Wetter häufig schön ist. Genau. Und nebenan gibt es auch immer Getränke,
+
+00:57:24.360 --> 00:57:32.320
+ weil zufällig das Haus zwei am gleichen Tag über Dresen hat. Kommt gerne vorbei. Und da auf
+
+00:57:32.320 --> 00:57:39.600
+ unserer Homepage gibt es bestimmt auch andere Termine, weiß ich nicht. Genau. Und hört uns dann
+
+00:57:39.600 --> 00:57:48.080
+ wieder im Juni am zweiten Montag hier im Freien Radio Potsdam. Genau. Wenn es bis dahin noch Feedback
+
+00:57:48.080 --> 00:57:57.760
+ gibt, radio@ccc-p.org oder eben im Feediverse auf mastodon@cccp@chaos.social. Saaroks hast du
+
+00:57:57.760 --> 00:58:01.840
+ noch abschließende Worte? Ja, genau. Ja, und da auf Mastodon findet ihr natürlich auch die
+
+00:58:01.840 --> 00:58:07.560
+ Ankündigungen, wenn dann wieder die Machbar, also ja, wenn da im Chaos-Treff Dinge stattfinden,
+
+00:58:07.560 --> 00:58:15.160
+ zum Beispiel. Genau. Ich habe dir Saaroks noch versprochen, ein bisschen, wie ich es ist,
+
+00:58:15.160 --> 00:58:22.800
+ Powerpop abzuspielen. Ich bin gespannt. Was ist dieses Genre? Was ist dieses Genre? Powerpop.
+
+00:58:22.800 --> 00:58:30.240
+ Genau. Geht es vorwärts da herum zum Abschluss. Wir hatten den Künstler oder die Künstlerin schon
+
+00:58:30.240 --> 00:58:37.320
+ mal hier, nämlich Holzi Nack CZ0. Ich habe keine Ahnung, wir schreiben es rein. Der Titel heißt
+
+00:58:37.320 --> 00:58:42.480
+ jedenfalls Mutant Club und ist wie immer aus dem Freien Music Archive. Deswegen unter Creative
+
+00:58:42.480 --> 00:58:47.680
+ Commons hörbar. Deswegen hört ihr das bei uns. Vielleicht spricht man das auch Holisen Nat Show
+
+00:58:47.680 --> 00:58:54.680
+ auf? Holisen Nat Show. Stimmt, da ist gar nicht das E steht voll im C. Holisen Nat Show. Na gut,
+
+00:58:54.680 --> 00:59:03.240
+ das nehme ich mal so hin. Auf jeden Fall geht es vorwärts. Wir hören das und wir hören uns
+
+00:59:03.240 --> 00:59:16.560
+ wieder im Juni. Bis dahin. Tschüss. Ciao.
+
+00:59:33.240 --> 00:59:58.560
+.
+

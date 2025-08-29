@@ -1,0 +1,3218 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:08.760
+ Hallo und herzlich willkommen zu Chaos im Radio, eure freundlichen Neuzendungen aus der Nachbarschaft.
+
+00:00:08.760 --> 00:00:18.320
+ Wir sind in der Machbar und wir, das sind der Syrox, der Knurps und ich, der Hannes.
+
+00:00:18.320 --> 00:00:29.120
+ Hallo Hannes. Und die Genie ist im Urlaub. Hat sie, glaube ich, gesagt oder so? Also es ist ein guter Grund.
+
+00:00:29.120 --> 00:00:33.760
+ Es ist gegönnt und viel Spaß dabei. Genau, liebe Grüße an Genie.
+
+00:00:33.760 --> 00:00:43.840
+ Ja ihr hört uns hier wie immer montags, es ist wahrscheinlich gerade um neun und das war die Reuspartaste.
+
+00:00:43.840 --> 00:00:54.000
+ Sehr gut, wir reden über Chaos im Internet und in der Machbar. Für uns eine Premiere. Wir sitzen in der Machbar B.
+
+00:00:54.000 --> 00:01:03.560
+ Im ersten Stock. Im ersten Stock über der Machbar. Heute wird nämlich gefräst und gebohrt und Menschen sind aktiv in der Machbar.
+
+00:01:03.560 --> 00:01:12.560
+ Haben sie uns versprochen? Und das zu so einer frühen Stunde, also so darf man ja im Radio nicht sagen, weil wir später ausgeschnitten haben.
+
+00:01:12.560 --> 00:01:18.720
+ Zeitsovereines aufnehmen und zeitsovereines hören, ihr kennt das. Ich glaube, du darfst es sagen.
+
+00:01:18.720 --> 00:01:26.000
+ Du könntest für Verwirrung sorgen, aber ist okay. Ja, ich sag mal so, seit der Zeitumstellung vor kurzem ist eh wieder alles egal, oder?
+
+00:01:26.000 --> 00:01:36.240
+ Ja, stimmt. Also ich bin jetzt viertel vor zwölf die ganze Zeit oder so.
+
+00:01:36.240 --> 00:01:49.440
+ Ja, ich habe so einen Bereitschaftsdienst bei meinem Arbeitgeber, der geht von elf bis sieben, an Werktagen ist das egal, an Wochenenden ist es blond.
+
+00:01:49.440 --> 00:01:51.520
+ Und wie war es am Tag der Zeitumstellung?
+
+00:01:51.520 --> 00:02:00.960
+ Sehr interessant war es, weil nämlich das ist eine Bereitschaftsdienst-Tabelle, die weltweit gilt, das ganze Team.
+
+00:02:00.960 --> 00:02:17.440
+ Und sie ist aber, und das hat der Macher dieser Software dieser Bereitschafts-Tabelle quasi mitgedacht, die Bereitschafts-Tabelle ist in Indien also angelegt und in Indien gibt es keine Zeitumstellung.
+
+00:02:17.440 --> 00:02:26.880
+ Deswegen habe ich weiterhin zum selben Sonnenstand meinen Bereitschaftsdienst, nur es ist halt jetzt von zwölf bis acht.
+
+00:02:26.880 --> 00:02:31.680
+ Was macht die Zeit-Tabelle in 2038?
+
+00:02:31.680 --> 00:02:34.080
+ Ich habe es noch nicht ausprobiert.
+
+00:02:34.080 --> 00:02:34.800
+ 3,14?
+
+00:02:34.800 --> 00:02:36.000
+ Ich habe es noch nicht ausprobiert.
+
+00:02:36.000 --> 00:02:38.160
+ Ich will es misswissen.
+
+00:02:38.160 --> 00:02:45.280
+ 3,14 tatsächlich, das ist ja großartig, also für die Menschen, die Pi mögen.
+
+00:02:45.280 --> 00:02:51.280
+ Stimmt, aber danach geht es von Kuchen aus und sieben Sekunden.
+
+00:02:51.280 --> 00:02:59.520
+ Falls euch 2038 nichts sagt, google mal, oder Ecosiat, das Jahr 2038 Problem.
+
+00:02:59.520 --> 00:03:02.320
+ Wir haben ja auch schon, glaube ich, das ein oder andere mal drüber gesprochen.
+
+00:03:02.320 --> 00:03:03.520
+ Oder Unix-Zeit?
+
+00:03:03.520 --> 00:03:05.200
+ Genau, Unix-Zeit.
+
+00:03:05.200 --> 00:03:07.920
+ Genau, in 32.
+
+00:03:07.920 --> 00:03:10.160
+ Google doch mal irgendwas.
+
+00:03:10.160 --> 00:03:14.160
+ Ecosiat mal was.
+
+00:03:14.160 --> 00:03:20.000
+ Oder fragt ChatGPT, auch vielleicht eine haluzinierte Antwort zu kriegen.
+
+00:03:20.000 --> 00:03:21.840
+ Ah, er hat es schon wieder gesagt.
+
+00:03:21.840 --> 00:03:24.720
+ Ach so, war das jetzt irgendwie...
+
+00:03:24.720 --> 00:03:27.840
+ Also, soll er langsam leben, ist das ein bisschen überhand.
+
+00:03:27.840 --> 00:03:32.320
+ Ich mache ja viel mit, also ich rede ja viel mit der KI.
+
+00:03:32.320 --> 00:03:33.600
+ Das redet sie auch mit dir?
+
+00:03:33.600 --> 00:03:40.720
+ Ist nett, also ich fühle mich teilweise schon im Her angekommen, so ist ja der Film.
+
+00:03:40.720 --> 00:03:43.680
+ Ist diese KI jetzt mit uns hier im Raum?
+
+00:03:43.680 --> 00:03:46.000
+ Sie hört mit.
+
+00:03:46.000 --> 00:03:48.400
+ Nein, guck mal, kein Strom drin.
+
+00:03:48.400 --> 00:03:55.760
+ Knurps präsentierte gerade seinen Smartphone, dass offenbar gerade stromlos ist.
+
+00:03:55.760 --> 00:03:56.960
+ Ja, es ist...
+
+00:03:56.960 --> 00:03:59.120
+ Quasi Energiesparmodus Deluxe.
+
+00:03:59.120 --> 00:04:03.120
+ Das ist, wie ich heute Morgen schon in einem anderen Radio hörte, Death Metal.
+
+00:04:03.120 --> 00:04:08.000
+ Die Kommunikationsqualität eines Zielständs.
+
+00:04:08.000 --> 00:04:12.960
+ Aber keine Bugs drin, ne?
+
+00:04:12.960 --> 00:04:15.120
+ Zumindest keine Aktiven.
+
+00:04:15.120 --> 00:04:16.960
+ Genau, heute gibt es Themen.
+
+00:04:16.960 --> 00:04:18.000
+ Max nochmal später noch.
+
+00:04:18.000 --> 00:04:23.600
+ Also es wird Themen geben, was genau wissen wir noch nicht, zum Entteilen.
+
+00:04:23.600 --> 00:04:26.240
+ Also wir haben keine Ideen.
+
+00:04:26.240 --> 00:04:33.680
+ Aber hier steht als erstes Thema, was das klingt wie Eierlikör auf Englisch, Ecknock?
+
+00:04:33.680 --> 00:04:40.640
+ Ecknock, aber ich glaube, es steht anders drin und es ist auch was anderes gemeint als Eierlikör.
+
+00:04:40.640 --> 00:04:42.880
+ Ja, Denock, stimmt.
+
+00:04:42.880 --> 00:04:46.400
+ Alles großgeschrieben, jemand auf der Feststelltaste eingeschlafen.
+
+00:04:46.400 --> 00:04:48.240
+ Eine Aku, eine Abkürzung.
+
+00:04:48.240 --> 00:04:57.840
+ Das heißt, ich möge mal kurz erzählen, was ich die letzten zwei Tage verbracht habe.
+
+00:04:57.840 --> 00:04:59.840
+ Klobs, was hast du denn in den letzten zwei Tagen?
+
+00:04:59.840 --> 00:05:03.040
+ Ich erzähle mal, ich fange mal vom Anfang an.
+
+00:05:03.040 --> 00:05:06.880
+ Die Denock ist die Deutsche Network Operators Group.
+
+00:05:06.880 --> 00:05:13.120
+ Es ist so ein Verein und eigentlich hauptsächlich eine Konferenz, die von diesem Verein ausgerichtet wird.
+
+00:05:13.120 --> 00:05:19.600
+ Und Menschen, die Dinge mit Netzwerken tun, sollten das kennen.
+
+00:05:19.600 --> 00:05:21.520
+ Und wenn nicht?
+
+00:05:21.520 --> 00:05:24.000
+ Wenn nicht, das kommt darauf an.
+
+00:05:24.000 --> 00:05:27.280
+ Wenn Sie sich für Netzwerke interessieren, dann sollten Sie es wiederum kennen.
+
+00:05:27.280 --> 00:05:34.800
+ Einfach mal denock.de in einem Endgerät der Wahl eingeben.
+
+00:05:34.800 --> 00:05:40.880
+ Es ist halt einfach eine lustige Haufen von Menschen, die Dinge mit Netzwerken tun.
+
+00:05:40.880 --> 00:05:43.440
+ Also Netzwerk, Administratoren.
+
+00:05:43.440 --> 00:05:46.080
+ Ja, also wirklich so die ganze Bandbreite.
+
+00:05:46.080 --> 00:05:51.280
+ Ich bin der Neue, also ich habe hier keine Ahnung, ich habe einen neuen Job.
+
+00:05:51.280 --> 00:05:54.800
+ Und ich schnuffle da jetzt gerade mal rein, was es da so alles gibt.
+
+00:05:54.800 --> 00:05:56.800
+ Das macht tatsächlich eine Geschäftsreise?
+
+00:05:56.800 --> 00:06:01.520
+ Nee, das ist nicht, wir sind ein Verein.
+
+00:06:01.520 --> 00:06:07.120
+ Und das ist weit genug vom Beruf weg, das ist keine Geschäftsreise.
+
+00:06:07.120 --> 00:06:09.120
+ Das war völlig okay.
+
+00:06:09.120 --> 00:06:14.400
+ Also halt wirklich eine volle Bandbreite.
+
+00:06:14.400 --> 00:06:24.720
+ So von ISPs, die Internet verkaufen zu Menschen, die mit dem Taschenmesser unten in den Switches rumkrauchen und das Internet bauen.
+
+00:06:24.720 --> 00:06:34.320
+ Welchen Teil des Taschenmessers haben Sie da parat, der dir so kleine Blitze schießt und Glasfasern verschweißt?
+
+00:06:34.320 --> 00:06:38.960
+ Okay, ich habe Internet im Taschenmesser.
+
+00:06:38.960 --> 00:06:48.880
+ Nee, also es ist tatsächlich ein bisschen schon der Welt für sich, aber eine super Spannende, in die ich gerade ausgründen eintauch.
+
+00:06:48.880 --> 00:06:59.440
+ Und deswegen auch dort gewesen, so ein Member-Days, so eine eigentlich eine ganz nette, schöne, spannende Veranstaltung,
+
+00:06:59.440 --> 00:07:11.600
+ wo mal so in Ruhe Bord-Member und Vorstand mit dem, ich sage mal, dem neuen Fußvölk und dem eingesessenen Fußvölk und so kruzieren
+
+00:07:11.600 --> 00:07:22.160
+ und in Ruhe sich austauschen, was durchaus Sinn macht, um so diese Lücke zwischen dem, was die einen tun und die anderen möchten, ein bisschen zu schließen.
+
+00:07:22.160 --> 00:07:24.160
+ Und das, ich finde es gut.
+
+00:07:24.160 --> 00:07:32.960
+ So ein typisches Motto im Chaos, dieses Bildet-Banden trifft ja auch auf die nicht der Welt zu.
+
+00:07:32.960 --> 00:07:35.120
+ Macht doch mal was, macht doch mal was.
+
+00:07:35.120 --> 00:07:37.120
+ Gabs nicht Fernsehen.
+
+00:07:37.120 --> 00:07:44.160
+ Gabs 102 Themen im Speziellen, die ihr da behandelt habt, die du besonders interessant fandest?
+
+00:07:44.160 --> 00:07:53.760
+ Es gab Themen slot und wir haben wirklich so, wir kamen an und haben überlegt, welche Themen gibt es denn im Raum?
+
+00:07:53.760 --> 00:08:02.560
+ Was sind so die größten rose, roten Elefanten und ins Detail würde ich jetzt nicht gehen, weil es waren halt Member-Days und es war so.
+
+00:08:02.560 --> 00:08:04.560
+ Alles klar, gut.
+
+00:08:04.560 --> 00:08:09.360
+ Es war jetzt keine Geheimnisse, keine Magie, aber ja.
+
+00:08:09.360 --> 00:08:11.360
+ Es ist doch in Ordnung.
+
+00:08:11.360 --> 00:08:16.720
+ Also wenn ihr Dinge mit Netzwerken macht, dann schaut euch mal die Denok an.
+
+00:08:16.720 --> 00:08:19.360
+ Man kann sie auch anschauen, ohne ein Member zu werden.
+
+00:08:19.360 --> 00:08:21.360
+ Das ist völlig okay und legitim.
+
+00:08:21.360 --> 00:08:29.760
+ Wenn man dann selber mitgestalten möchte, dann macht es halt irgendwann Sinn, auch mal die Unterschrift zu leisten, eine Seele zu verkaufen.
+
+00:08:29.760 --> 00:08:31.760
+ So wie in vielen Vereinen.
+
+00:08:31.760 --> 00:08:36.160
+ Auch in der Machbar kann man ja vorbeischauen, ohne Mitglied zu sein.
+
+00:08:36.160 --> 00:08:38.160
+ Vor uns aber trotzdem auch über Mitglieder.
+
+00:08:38.160 --> 00:08:40.160
+ Genau, in den Akutenvereinen.
+
+00:08:40.160 --> 00:08:42.160
+ Man kann man uns dann sehen.
+
+00:08:42.160 --> 00:08:46.160
+ Warte mal, es steht hier, ich muss rollen.
+
+00:08:46.160 --> 00:08:48.160
+ Man kann uns sehen.
+
+00:08:48.160 --> 00:08:50.160
+ Du weißt es doch auch so.
+
+00:08:50.160 --> 00:08:52.960
+ Natürlich sehen, wenn wir aufnehmen hier.
+
+00:08:52.960 --> 00:08:55.960
+ Aber vor allem kann man uns sehen zum Chaos-Treff.
+
+00:08:55.960 --> 00:08:58.960
+ Also den Chaos-Teil der Machbar kann man da sehen.
+
+00:08:58.960 --> 00:09:00.960
+ Und zwar jeden Mittwoch um 19 Uhr.
+
+00:09:00.960 --> 00:09:04.960
+ Da gibt es meistens irgendwie was zu schnappulieren, was zu essen.
+
+00:09:04.960 --> 00:09:09.960
+ Und dann ganz viele Menschen, die uns in Chaos und Sinnvolles machen.
+
+00:09:09.960 --> 00:09:11.960
+ Immer mit einem Fug.
+
+00:09:11.960 --> 00:09:13.960
+ Und manche existieren auch einfach nur da.
+
+00:09:13.960 --> 00:09:15.960
+ Das ist auch gut.
+
+00:09:15.960 --> 00:09:19.960
+ Immer Mittwochs ab 19 Uhr in der Machbar im Haus 5 im Freiland.
+
+00:09:19.960 --> 00:09:21.960
+ Genau, im Freiland.
+
+00:09:21.960 --> 00:09:24.960
+ Und auch an anderen Tagen sind Dinge los in der Machbar.
+
+00:09:24.960 --> 00:09:26.960
+ Da einfach mal unter machbar.de.
+
+00:09:26.960 --> 00:09:29.960
+ Einfach mal schauen, was da im Kalender steht.
+
+00:09:29.960 --> 00:09:31.960
+ Ja.
+
+00:09:31.960 --> 00:09:33.960
+ Neue Technik.
+
+00:09:33.960 --> 00:09:35.960
+ Steht da.
+
+00:09:35.960 --> 00:09:37.960
+ Neue Technik.
+
+00:09:37.960 --> 00:09:43.960
+ Ja, ich habe mir ein bisschen neue Technik gegönnt.
+
+00:09:43.960 --> 00:09:45.960
+ Das ist ein Staubchen.
+
+00:09:45.960 --> 00:09:47.960
+ Ach so, das ist alte Technik.
+
+00:09:47.960 --> 00:09:50.960
+ Das ist doch Staubchen.
+
+00:09:50.960 --> 00:09:53.960
+ Ach na, ach so, ein ganz schön fester Staubchen.
+
+00:09:53.960 --> 00:09:57.960
+ Schon eingetreten, schon festgetreten.
+
+00:09:57.960 --> 00:09:59.960
+ Jetzt holt hier jeder seine neue Technik los.
+
+00:09:59.960 --> 00:10:01.960
+ Nein, diese alte ist gebraucht.
+
+00:10:01.960 --> 00:10:03.960
+ Habe ich auch irgendwas Neues dabei?
+
+00:10:03.960 --> 00:10:05.960
+ Ein Schlüssel?
+
+00:10:05.960 --> 00:10:07.960
+ Neue Technik.
+
+00:10:07.960 --> 00:10:12.960
+ Neue Technik deswegen, weil ich habe es schon seit Längerem.
+
+00:10:12.960 --> 00:10:15.960
+ Ein bisschen Hardware-Probleme gehabt.
+
+00:10:15.960 --> 00:10:18.960
+ Und da musste einfach jetzt dann doch mal endlich was Neues her.
+
+00:10:18.960 --> 00:10:23.960
+ Ich habe so lange gegen die, nein nicht obsoleszenz,
+
+00:10:23.960 --> 00:10:26.960
+ aber so lange mit der alten Technik zu tun gehabt,
+
+00:10:26.960 --> 00:10:29.960
+ dass ich jetzt mal tatsächlich neue brauchte.
+
+00:10:29.960 --> 00:10:31.960
+ Protokasse geblündert.
+
+00:10:31.960 --> 00:10:35.960
+ Genau, und zum einen halt irgendwie ein neues Telefon,
+
+00:10:35.960 --> 00:10:38.960
+ damit ich endlich meine Phantom-Touches los werde.
+
+00:10:38.960 --> 00:10:40.960
+ Die sind echt nervig.
+
+00:10:40.960 --> 00:10:44.960
+ Hat es nicht, dass die Physik für dich drückt?
+
+00:10:44.960 --> 00:10:48.960
+ Ja, dass da irgendwelche Strömlinge, komische Dinge tun.
+
+00:10:48.960 --> 00:10:51.960
+ Ja, genau.
+
+00:10:51.960 --> 00:10:54.960
+ Deswegen...
+
+00:10:54.960 --> 00:10:57.960
+ Ich teste nur die Kamera.
+
+00:10:57.960 --> 00:10:59.960
+ Sieht man so gut im Radio.
+
+00:10:59.960 --> 00:11:01.960
+ Ja, genau.
+
+00:11:01.960 --> 00:11:05.960
+ Es ist dann tatsächlich diesmal ein Fairphone geworden.
+
+00:11:05.960 --> 00:11:11.960
+ Ja, weil es gibt ja seit dem vergangenen Herbst,
+
+00:11:11.960 --> 00:11:14.960
+ gibt es ja ein, das Fairphone 5.
+
+00:11:14.960 --> 00:11:18.960
+ Und ich dachte mir, es ist nur gut und richtig,
+
+00:11:18.960 --> 00:11:23.960
+ tatsächlich mal das Fairphone zu benutzen.
+
+00:11:23.960 --> 00:11:26.960
+ Nur ist ja jetzt eine Weile kein neues Telefon mehr kaufen,
+
+00:11:26.960 --> 00:11:28.960
+ so die nicht 10 Jahre oder so.
+
+00:11:28.960 --> 00:11:32.960
+ Es ist auch tatsächlich, also schon allein direkt nach dem Auspacken,
+
+00:11:32.960 --> 00:11:38.960
+ einfach dieses Gefühl, hey, wenn ich da tatsächlich mal...
+
+00:11:38.960 --> 00:11:40.960
+ Du solltest es nicht kaputt machen.
+
+00:11:40.960 --> 00:11:43.960
+ Ja, das ist ja das Schöne.
+
+00:11:43.960 --> 00:11:45.960
+ Das ist so gedacht.
+
+00:11:45.960 --> 00:11:48.960
+ Was ich gerade tue, ist, ich nehme mir die Rückwand gerade ab
+
+00:11:48.960 --> 00:11:51.960
+ und kann quasi direkt sofort, ohne dass ich irgendwie schrauben muss,
+
+00:11:51.960 --> 00:11:53.960
+ könnte ich jetzt den Akku wechseln,
+
+00:11:53.960 --> 00:11:57.960
+ bzw. komme halt dran an die SIM-Karte rein zu tun.
+
+00:11:57.960 --> 00:12:00.960
+ Das ist ja fast viel früher bei Nokia.
+
+00:12:00.960 --> 00:12:04.960
+ Und mit einem einfachen, kleinen Kreuzschlitzschraubenzieher
+
+00:12:04.960 --> 00:12:07.960
+ lassen sich jetzt hier alle Komponenten relativ schnell entfernen.
+
+00:12:07.960 --> 00:12:11.960
+ Man sieht auch, so was mal, auch bei dem Fairphone 4,
+
+00:12:11.960 --> 00:12:14.960
+ was ich daneben gelegt habe, jetzt mal ganz demonstrativ,
+
+00:12:14.960 --> 00:12:18.960
+ man sieht neben jeder Schrauber ein klein Hinweis,
+
+00:12:18.960 --> 00:12:23.960
+ was man denn jetzt los schraubt, wenn man da den Schraubenzieher ansetzt.
+
+00:12:23.960 --> 00:12:25.960
+ Das war jetzt einfach so los schraubt.
+
+00:12:25.960 --> 00:12:28.960
+ Ja, also es ist tatsächlich, ich glaube, das machen auch die meisten,
+
+00:12:28.960 --> 00:12:31.960
+ die einen Fairphone kaufen, einmal das Ding auseinandernehmen,
+
+00:12:31.960 --> 00:12:34.960
+ um sich darüber zu freuen, dass man das auseinandernehmen kann.
+
+00:12:34.960 --> 00:12:37.960
+ Dann höre ich nicht zu den meisten, aber das bin ich gewohnt.
+
+00:12:37.960 --> 00:12:39.960
+ Du bist ja auch noch nicht so weit.
+
+00:12:39.960 --> 00:12:44.960
+ Du freust dich ja immer noch über das abnehmendes Deckels.
+
+00:12:44.960 --> 00:12:47.960
+ Du meinst, es ist eine Phase.
+
+00:12:47.960 --> 00:12:52.960
+ Die fünf Phasen, was das Fairphone besitzt.
+
+00:12:52.960 --> 00:12:57.960
+ Genau, und ich weiß nicht, ob wir das hier schon öfter schon mal angesprochen hatten,
+
+00:12:57.960 --> 00:13:00.960
+ dass wir ja genau, du hast es gerade gesagt, das ist eine fünfte Iteration.
+
+00:13:00.960 --> 00:13:03.960
+ Das Schöne ist also, Sie haben mittlerweile bewiesen,
+
+00:13:03.960 --> 00:13:07.960
+ dass es Sie länger geben wird und dass Sie das ernst meinen, was Sie da machen.
+
+00:13:07.960 --> 00:13:10.960
+ Denn das eine Versprechen ist ja, dass du es reparieren kannst
+
+00:13:10.960 --> 00:13:18.960
+ und dass es in irgendeiner Form fair und umweltverträglich, wie es geht, gebaut wird.
+
+00:13:18.960 --> 00:13:23.960
+ Das andere große Versprechen, also fair, auch im Sinne von wirklich nachhaltig,
+
+00:13:23.960 --> 00:13:26.960
+ produziert und unter ordentlichen Arbeitsbedingungen.
+
+00:13:26.960 --> 00:13:31.960
+ Genau, wenn man so den Report liest und so, sie geben sich sehr, sehr viel Mühe,
+
+00:13:31.960 --> 00:13:33.960
+ das auch wirklich nachzuvollziehen.
+
+00:13:33.960 --> 00:13:39.960
+ Da fließt auch sehr viel Geld rein, was man dann wiederum als Consumer auch bezahlt.
+
+00:13:39.960 --> 00:13:44.960
+ Allerdings verkaufen Sie mittlerweile genug davon, dass es nicht mehr so exorbitant ist.
+
+00:13:44.960 --> 00:13:50.960
+ Der Preis ist jetzt nicht mehr so weit entfernt von einem vergleichbaren Gerät.
+
+00:13:50.960 --> 00:13:56.960
+ Genau, dafür hat man aber eben einerseits das vielleicht gute Gewissen,
+
+00:13:56.960 --> 00:14:00.960
+ aber andererseits durchaus ab einem bestimmten Alter, wo man auch keinen Lust mehr hat,
+
+00:14:00.960 --> 00:14:03.960
+ sich alle anderthalb Jahre ein neues Telefon zu kaufen,
+
+00:14:03.960 --> 00:14:08.960
+ ist es eben auch so, dass Sie versprechen, dieses Gerät sehr, sehr lange mit Updates zu versorgen
+
+00:14:08.960 --> 00:14:12.960
+ und auch das erste Fairphone bekommt noch Updates.
+
+00:14:12.960 --> 00:14:15.960
+ Das gibt es sehr lange in Zahlen.
+
+00:14:15.960 --> 00:14:20.960
+ Also Sie versprechen, und Sie werden das vermutlich auch halten,
+
+00:14:20.960 --> 00:14:24.960
+ zehn Jahre Updates für, also Sicherheitsupdates für das Gerät.
+
+00:14:24.960 --> 00:14:28.960
+ Und ich glaube, Sie versprechen so etwas wie, da ist jetzt Lügen so etwas wie die nächsten drei
+
+00:14:28.960 --> 00:14:32.960
+ oder vier Android-Versionen, die Sie den noch mitgeben.
+
+00:14:32.960 --> 00:14:36.960
+ Genau, das längste Update versprechen der Android-Welt.
+
+00:14:36.960 --> 00:14:43.960
+ Und Sie sind auch nicht spät dran, so wie andere Hersteller.
+
+00:14:43.960 --> 00:14:51.960
+ Also ein paar Hersteller gibt es ja noch, die sich da so ein bisschen mit reinigen sagen,
+
+00:14:51.960 --> 00:14:54.960
+ okay, wir geben euch das nächste Android-Update.
+
+00:14:54.960 --> 00:14:57.960
+ Sie sind immer so ungefähr eine Version hinterher.
+
+00:14:57.960 --> 00:15:00.960
+ Also wenn Google, weiß ich nicht, das Android 15 bekannt gibt,
+
+00:15:00.960 --> 00:15:05.960
+ dann kriegt man meistens auf dem Fairphone gerade das Android 14 ausgeliefert und so.
+
+00:15:05.960 --> 00:15:09.960
+ Und das ist schon okay, da sind andere deutlich langsamer.
+
+00:15:09.960 --> 00:15:18.960
+ Also jetzt für das Fairphone 5 verspricht der Hersteller mindestens acht Jahre lang Software-Support.
+
+00:15:18.960 --> 00:15:25.960
+ Wobei da ist, also ich glaube Apple gar nicht so weit weg, sie versprechen zwar nicht,
+
+00:15:25.960 --> 00:15:32.960
+ sie versprechen glaube ich zwei Jahre, aber faktisch meine diversen Schwiegereltern
+
+00:15:32.960 --> 00:15:38.960
+ und sonstigen fahren eigentlich alle mit den iPhones, die ich vor acht bis zehn Jahren hatte.
+
+00:15:38.960 --> 00:15:43.960
+ Stimmt, dass der große Unterschied ist natürlich in der Hinsicht.
+
+00:15:43.960 --> 00:15:45.960
+ Also natürlich von all den anderen Unterschieden mal abgesehen.
+
+00:15:45.960 --> 00:15:49.960
+ Wenn das dann aus dem Support raus ist, ist es auch wirklich ein Backstein.
+
+00:15:49.960 --> 00:15:56.960
+ Also ich sage mal ein altes iPad Mini, was eigentlich ein wunderschönes Gerät ist.
+
+00:15:56.960 --> 00:16:02.960
+ Akku ist in Ordnung, Bildschirm ist in Ordnung, aber die Software ist halt mittlerweile so weit out of date.
+
+00:16:02.960 --> 00:16:04.960
+ Das kann es ja nicht mal die Zertifik harte drauf erneuern.
+
+00:16:04.960 --> 00:16:07.960
+ So dass es halt einfach ein Backstein ist, obwohl die Hardware völlig okay ist.
+
+00:16:07.960 --> 00:16:09.960
+ So viel meins jetzt gerade ohne Strom.
+
+00:16:09.960 --> 00:16:17.960
+ Genau, und das Fairphone ist ja von Haus aus frei und du kannst da auch deine eigene Software drauf bügeln,
+
+00:16:17.960 --> 00:16:20.960
+ wenn du nur genug Lust drauf hast, dich damit zu beschäftigen.
+
+00:16:20.960 --> 00:16:24.960
+ Kann ich Teile von der Version 4 in die Version 5 und umgekehrt einbauen oder so ein Quatsch?
+
+00:16:24.960 --> 00:16:28.960
+ Teile ja, also zum Beispiel gab es für das Fairphone 4.
+
+00:16:28.960 --> 00:16:33.960
+ Die Kamera, die jetzt im Fairphone 5 drin ist, die gibt es glaube ich auch für das Fairphone 4.
+
+00:16:33.960 --> 00:16:38.960
+ Man sieht auch, das ist die gleiche Form, die haben sie behalten.
+
+00:16:38.960 --> 00:16:40.960
+ Die Radiohöhre in Sehns, wie immer.
+
+00:16:40.960 --> 00:16:42.960
+ Die Radiohöhre in Sehns, wie immer.
+
+00:16:42.960 --> 00:16:45.960
+ Ihr müsst es euch einfach gerade kurz vorstellen.
+
+00:16:45.960 --> 00:16:50.960
+ Aber ich sehe es von hier aus, es sieht völlig gleich aus.
+
+00:16:50.960 --> 00:16:54.960
+ Ja, das Fairphone ist wohl ein bisschen dünner, aber ansonsten sind die...
+
+00:16:54.960 --> 00:16:59.960
+ Aber es gibt hier irgendwie 1 versus 2 Blitze oder Lichter oder so was, das ist so der einzige offensichtige...
+
+00:16:59.960 --> 00:17:01.960
+ Blitze und Lichter, ja.
+
+00:17:01.960 --> 00:17:08.960
+ Genau, und ansonsten eben so die anderen Module, die drin sind, wie weit das dann austauschbar ist.
+
+00:17:08.960 --> 00:17:11.960
+ Ich weiß nicht, das Display wird sicherlich nicht austauschbar sein.
+
+00:17:11.960 --> 00:17:14.960
+ Ich glaube, da gab es ein großes Update, das ist jetzt irgendwie so ein OLED.
+
+00:17:14.960 --> 00:17:22.960
+ Ich habe jetzt nach dem Kauf quasi sofort alle möglichen Sachen, die ich mir angeschaut habe,
+
+00:17:22.960 --> 00:17:23.960
+ quasi sofort vergessen.
+
+00:17:23.960 --> 00:17:25.960
+ Sofort, wie das so ist.
+
+00:17:25.960 --> 00:17:26.960
+ Wie das so ist.
+
+00:17:26.960 --> 00:17:32.960
+ Und dann funktioniert es. Also wo ich immer ganz angetan bin, es kommt bei den besten vor,
+
+00:17:32.960 --> 00:17:34.960
+ dass du mal ein Back-Im-System hast.
+
+00:17:34.960 --> 00:17:42.960
+ Im Fairphone 4 war das für ein paar Wochen das Problem, dass es bei vielen Nutzern
+
+00:17:42.960 --> 00:17:50.960
+ in einem der deutschen Mobilfunknetze, wenn man 5G an hatte, zufällig rebootete.
+
+00:17:50.960 --> 00:17:56.960
+ Da war irgendwie ein Back in der Firmware und das ließ sich recht einfach beheben,
+
+00:17:56.960 --> 00:18:01.960
+ indem man dann halt irgendwie 5G ausgemacht hat und auf LTE gewechselt ist.
+
+00:18:01.960 --> 00:18:06.960
+ Und ich freue mich dann aber immer, wenn dann halt irgendwann das Update,
+
+00:18:06.960 --> 00:18:09.960
+ ohne dass ich mich da irgendwie drum bemühe, das Update kommt und da steht dann drin,
+
+00:18:09.960 --> 00:18:13.960
+ ja, wir haben diesen Back mit 5G-Behoben und dann geht das auch.
+
+00:18:13.960 --> 00:18:16.960
+ Also man kann sich darauf verlassen, dass er irgendwie einmal im Monat kommt hier ein Update rein.
+
+00:18:16.960 --> 00:18:18.960
+ Das sind meistens Kleinigkeiten.
+
+00:18:18.960 --> 00:18:23.960
+ Und wie gesagt, so einmal im Jahr kommt das große neue Android und das fluppt alles.
+
+00:18:23.960 --> 00:18:26.960
+ Also das funktioniert so, wie man sich das vorstellt.
+
+00:18:26.960 --> 00:18:30.960
+ Wie gesagt, die sind ja mittlerweile auch quasi ein gutes Mittel zwischen hey,
+
+00:18:30.960 --> 00:18:35.960
+ wir sind immer noch irgendwie, wir verfolgen unsere Mission weiter, die Welt zu verbessern
+
+00:18:35.960 --> 00:18:39.960
+ und gleichzeitig haben wir aber auch mittlerweile genug Unterstützer und Leute,
+
+00:18:39.960 --> 00:18:45.960
+ die Geld bezahlen dafür, dass man da auch einen professionellen Service anbieten kann.
+
+00:18:45.960 --> 00:18:47.960
+ Also ich bin da echt sehr zufrieden mit.
+
+00:18:47.960 --> 00:18:53.960
+ Dann muss ich sagen, auf meinem anderen Telefon waren halt relativ viele Apps und Core
+
+00:18:53.960 --> 00:19:02.960
+ und der Umzug gestaltet sich erstaunlich einfach.
+
+00:19:02.960 --> 00:19:08.960
+ Also ich glaube beim letzten Gerätewechsel habe ich noch irgendwie alle Apps händisch irgendwie,
+
+00:19:08.960 --> 00:19:15.960
+ eine nach der anderen irgendwie installiert und dann irgendwie wieder neu eingerichtet.
+
+00:19:15.960 --> 00:19:19.960
+ Es gibt ja jetzt irgendwie so ein Gefühl zu einem Standard,
+
+00:19:19.960 --> 00:19:24.960
+ dass du entweder Kabel oder du legst sie per Bluetooth nebeneinander,
+
+00:19:24.960 --> 00:19:27.960
+ dass du das dann migrieren kannst, das war recht angenehm.
+
+00:19:27.960 --> 00:19:31.960
+ Es funktioniert noch nicht alles wieder hundertprozentig.
+
+00:19:31.960 --> 00:19:35.960
+ Also so ein paar Sachen muss man dann doch noch irgendwie noch mal wieder händisch einrichten
+
+00:19:35.960 --> 00:19:40.960
+ bzw. ich habe auch irgendwie Probleme mit Next Cloud, mit der Next Cloud App.
+
+00:19:40.960 --> 00:19:45.960
+ Das funktioniert noch nicht so ganz wie es soll.
+
+00:19:45.960 --> 00:19:51.960
+ Aber so im Großen und Ganzen ist das schon soweit funktionabel.
+
+00:19:51.960 --> 00:19:58.960
+ Und wo wir auch noch bei anderer neue Technik waren, ich habe mir außerdem auch weil mein Laptop
+
+00:19:58.960 --> 00:20:05.960
+ mittlerweile sehr in die Jahre gekommen ist und mittlerweile auch echt ein Hardwareproblem hat.
+
+00:20:05.960 --> 00:20:10.960
+ Irgendein Speicherbereich ist oder irgendeine Leiterbahn,
+
+00:20:10.960 --> 00:20:14.960
+ die einen bestimmten Speicherbereich des Arbeitsspeichers ansteuert,
+
+00:20:14.960 --> 00:20:16.960
+ scheint irgendwie defekt zu sein.
+
+00:20:16.960 --> 00:20:21.960
+ Deswegen immer wenn ich eine bestimmte Anzahl von Speicher gefühlt habe,
+
+00:20:21.960 --> 00:20:25.960
+ der nächste Tapp oder so stürzt dann regelmäßig ab.
+
+00:20:25.960 --> 00:20:28.960
+ Und deswegen musste da auch mal ein neues Gerät her.
+
+00:20:28.960 --> 00:20:32.960
+ Und da habe ich tatsächlich zum ersten Mal auch was anderes gemacht.
+
+00:20:32.960 --> 00:20:38.960
+ Und zwar nämlich tatsächlich ein Refurbished Gerät, also ein wiederaufbereitetes Gerät immer besorgt.
+
+00:20:38.960 --> 00:20:42.960
+ Mit Antrassen hinten, das sieht man ja an Laptops sehr selten mittlerweile.
+
+00:20:42.960 --> 00:20:50.960
+ Das ist aber bei dem Hersteller durchaus fanden.
+
+00:20:50.960 --> 00:20:59.960
+ Genau, deswegen bei einem Refurbished Gerät und das ist jetzt auch nur drei Jahre alt, glaube ich.
+
+00:20:59.960 --> 00:21:09.960
+ Und das ist super, also es gibt ja bei so größeren Unternehmen,
+
+00:21:09.960 --> 00:21:21.960
+ geben ja durchaus ihre Laptops mal in die, wenn man bei einer Firma ist,
+
+00:21:21.960 --> 00:21:27.960
+ kriegt man auf genug ein Dienstgerät und das wird dann irgendwie drei Jahre lang abgeschrieben
+
+00:21:27.960 --> 00:21:31.960
+ und danach läuft es auch meistens aus dem Support halt raus.
+
+00:21:31.960 --> 00:21:34.960
+ Es gibt dann keine Supportverträge mehr, es sei denn man würde das dann verlängern,
+
+00:21:34.960 --> 00:21:37.960
+ aber das machen die meistens dann doch eher nicht.
+
+00:21:37.960 --> 00:21:43.960
+ Und deswegen werden nach drei Jahren, wenn die dann zweit verwertet,
+
+00:21:43.960 --> 00:21:49.960
+ gehen dann teilweise an Schulen oder gehen halt überhaupt erstmal zu einem Aufbereiter.
+
+00:21:49.960 --> 00:21:51.960
+ Zur Computer-Truhe.
+
+00:21:51.960 --> 00:22:00.960
+ Ja, das ist dann quasi für gemeinnützige Zwecke an der Stelle als Spende.
+
+00:22:00.960 --> 00:22:04.960
+ Oder entsprechend gehen quasi dann in den Zweitmarkt über solche Aufbereiter,
+
+00:22:04.960 --> 00:22:08.960
+ wo man die sich dann wieder entsprechend kaufen kann.
+
+00:22:08.960 --> 00:22:13.960
+ Es gibt verschiedene Anbiete und ich habe da einmal genommen.
+
+00:22:13.960 --> 00:22:18.960
+ Genau, da kann man sich dann auch teilweise, wie man das bei anderen Laptops auch macht,
+
+00:22:18.960 --> 00:22:22.960
+ kann man sich dann teilweise eben auch, also ich hätte jetzt gern den Prozessor
+
+00:22:22.960 --> 00:22:29.960
+ und so und so viel Speicher und das hat für mich ganz gut funktioniert.
+
+00:22:29.960 --> 00:22:32.960
+ Bei dem Hersteller-Listik hat tatsächlich der Speicher auch noch rein und rausklippsen
+
+00:22:32.960 --> 00:22:36.960
+ und dann, wenn es nicht reicht, nimmt man Modulation und klippst es rein.
+
+00:22:36.960 --> 00:22:41.960
+ Das ist ja tatsächlich häufig bei den Geräten, die von Firmen benutzt werden.
+
+00:22:41.960 --> 00:22:49.960
+ Ja, genau. Dadurch, dass die schon so austauschbar bestellen, am Anfang ist das eben auch darauf gebaut,
+
+00:22:49.960 --> 00:22:51.960
+ dass man es austauschen kann.
+
+00:22:51.960 --> 00:22:57.960
+ Also ich erwähne das, weil bei meinem geht es halt nicht, Speicher fest eingelötet,
+
+00:22:57.960 --> 00:23:02.960
+ kaufst du mit einem gewissen Menge an Speicher und das war es dann.
+
+00:23:02.960 --> 00:23:05.960
+ Aber also hier jetzt Dell, man kann ja den Namen auch sagen,
+
+00:23:05.960 --> 00:23:10.960
+ das ist ja keine Werbung oder so, bei Dell ist das ja durchaus häufiger meiner Fall.
+
+00:23:10.960 --> 00:23:14.960
+ Also, gut, da zeig ich jetzt, mein Marker auch ist in Lenovo.
+
+00:23:14.960 --> 00:23:21.960
+ Genau, wobei du halt so ein dünnes hast, diese T-Reihe oder was auch immer,
+
+00:23:21.960 --> 00:23:26.960
+ die sind ja auch sehr, ach so, ja, X, genau.
+
+00:23:26.960 --> 00:23:29.960
+ Und ich habe nämlich gerade zu Hause erst wieder eingehabt
+
+00:23:29.960 --> 00:23:32.960
+ und habe mich da auch gefreut, dass ich zu Hause, genau,
+
+00:23:32.960 --> 00:23:35.960
+ dass ich auch damit mit drei Schrauben irgendwie die Abdeckung ab habe
+
+00:23:35.960 --> 00:23:38.960
+ und man da an den Speicher rankommt, an die Platte.
+
+00:23:38.960 --> 00:23:40.960
+ Und das ist jetzt nicht, dass bei den Lenovo nicht geht,
+
+00:23:40.960 --> 00:23:43.960
+ es gibt bei Lenovo auch Produktreihen, wo man natürlich das Prozessorspeicher
+
+00:23:43.960 --> 00:23:45.960
+ sonstiges tauschen kann.
+
+00:23:45.960 --> 00:23:47.960
+ Also genau, da sind es wahrscheinlich eher die dünnen.
+
+00:23:47.960 --> 00:23:50.960
+ Nein, ich habe jetzt so ein kleines integriertes, leichtes Ding hier.
+
+00:23:50.960 --> 00:23:53.960
+ Da ist das auch technisch einfach schwierig umzusetzen.
+
+00:23:53.960 --> 00:23:56.960
+ Weil ab einem gewissen Punkt will ich keine, das Volumen von Steckern
+
+00:23:56.960 --> 00:23:59.960
+ sparen in dem Gerät drin, um es noch dünner und kleiner zu kriegen
+
+00:23:59.960 --> 00:24:03.960
+ und dann lute ich es halt fest auf, spart Platz.
+
+00:24:03.960 --> 00:24:08.960
+ Ja, aber schön refurbished, ja, mal gucken.
+
+00:24:08.960 --> 00:24:11.960
+ Ich sehe, wer hier mal was Laptops angeht, nämlich immer Altgeräte.
+
+00:24:11.960 --> 00:24:14.960
+ Es gibt da ja so ein refurbished Markt bei eBay
+
+00:24:14.960 --> 00:24:17.960
+ und es gibt wirklich Anbieter, die refurbished,
+
+00:24:17.960 --> 00:24:20.960
+ ich sage mal, in der Anführungsteilung, seriöser verkaufen.
+
+00:24:20.960 --> 00:24:23.960
+ Ja, genau.
+
+00:24:23.960 --> 00:24:25.960
+ Ne, kann man sich auf jeden Fall mal anschauen
+
+00:24:25.960 --> 00:24:30.960
+ und ich sage mal so, der ist jetzt hier zum Beispiel deutlich
+
+00:24:30.960 --> 00:24:36.960
+ leistungsfähiger als mein Alter, aber halt auch nur drei Jahre alt
+
+00:24:36.960 --> 00:24:39.960
+ und ich bin ja jetzt aber auch keiner, der jetzt irgendwie das top modernste Spiel
+
+00:24:39.960 --> 00:24:42.960
+ jetzt unbedingt immer sofort irgendwie am Laufen haben muss.
+
+00:24:42.960 --> 00:24:49.960
+ Und selbst wenn würde der wahrscheinlich ganz viele, zumindest nicht topaktuelle Spiele,
+
+00:24:49.960 --> 00:24:52.960
+ halt auch irgendwie, keine Ahnung, da bin ich noch nicht.
+
+00:24:52.960 --> 00:24:55.960
+ Weil den habe ich so weit noch nicht eingerichtet.
+
+00:24:55.960 --> 00:24:58.960
+ Ich glaube, die Zeit, dass so nach zwei Jahren
+
+00:24:58.960 --> 00:25:02.960
+ ein Rechner grundsätzlich alt ist und überholt, die ist auch rum.
+
+00:25:02.960 --> 00:25:04.960
+ Also ja, es bewegt sich immer ein bisschen weiter, aber...
+
+00:25:04.960 --> 00:25:10.960
+ Also ich glaube, meinen Sohn, der gerade ins Zockeralter gekommen ist leider,
+
+00:25:10.960 --> 00:25:16.960
+ der hat, glaube ich, jetzt einen sieben Jahre alten Lenovo
+
+00:25:16.960 --> 00:25:21.960
+ und halt die Spiele, die so in der Jugend interessant sind,
+
+00:25:21.960 --> 00:25:23.960
+ kommen eh meistens aus dem Webbrowser
+
+00:25:23.960 --> 00:25:27.960
+ und also ich habe da jetzt irgendwie nix gemerkt.
+
+00:25:27.960 --> 00:25:29.960
+ Ich habe gerade so ein bisschen referenziert auf eine Zeit.
+
+00:25:29.960 --> 00:25:33.960
+ Also es so war, dass wenn in der Uni irgendwo ein Rechner aufgetaucht ist,
+
+00:25:33.960 --> 00:25:36.960
+ der halb so schnell war wie meiner Zuhause, da musste ich einen neuen kaufen.
+
+00:25:36.960 --> 00:25:38.960
+ Das war so ein zweijahres Takt.
+
+00:25:38.960 --> 00:25:41.960
+ Ja, das war wirklich anders.
+
+00:25:41.960 --> 00:25:44.960
+ Mehr als zehn Jahre her.
+
+00:25:44.960 --> 00:25:51.960
+ Ich wollte noch ein Wort sagen zu dem Migrationsgrafler,
+
+00:25:51.960 --> 00:25:54.960
+ also das Umstellen aufs neue Telefon.
+
+00:25:54.960 --> 00:25:56.960
+ Eppelnutzer sind das ja eigentlich gewöhnt,
+
+00:25:56.960 --> 00:26:00.960
+ dass man schon seit einigen Jahren das einfach daneben legt.
+
+00:26:00.960 --> 00:26:02.960
+ Das habe ich jetzt auch schon mehrfach gehört,
+
+00:26:02.960 --> 00:26:04.960
+ dass das bei den Androiden mittlerweile auch ganz gut funktioniert.
+
+00:26:04.960 --> 00:26:06.960
+ Ich glaube, es gibt so ein paar Ausnahmen.
+
+00:26:06.960 --> 00:26:08.960
+ Ich denke, Signal zum Beispiel,
+
+00:26:08.960 --> 00:26:10.960
+ musst du immer noch irgendwie Hände speckab und wieder einspielen?
+
+00:26:10.960 --> 00:26:12.960
+ Muss aber auch beim Apple.
+
+00:26:12.960 --> 00:26:13.960
+ Das liegt ein bisschen daran,
+
+00:26:13.960 --> 00:26:17.960
+ dass die wirklich ihre Verschlüsselungsmethoden ernst nehmen.
+
+00:26:17.960 --> 00:26:20.960
+ Genau, weil die das selber machen, exakt.
+
+00:26:20.960 --> 00:26:28.960
+ Und wenn ich das Thema zu einer anderen neuen Technik bringen darf,
+
+00:26:28.960 --> 00:26:31.960
+ ich habe nämlich einen weiteren Migrations-Service ausprobieren können.
+
+00:26:31.960 --> 00:26:33.960
+ Und da ist mir ein bisschen der Kopf explodiert,
+
+00:26:33.960 --> 00:26:34.960
+ dass das funktioniert hat.
+
+00:26:34.960 --> 00:26:37.960
+ Ich habe aber eine neue Fritzbox gekauft.
+
+00:26:37.960 --> 00:26:38.960
+ Okay.
+
+00:26:38.960 --> 00:26:40.960
+ Weil ich dringend...
+
+00:26:40.960 --> 00:26:42.960
+ Na gut, also erstens war meine...
+
+00:26:42.960 --> 00:26:43.960
+ Du brauchst es dringend mehr Internet?
+
+00:26:43.960 --> 00:26:44.960
+ Ich brauchte mehr Internet.
+
+00:26:44.960 --> 00:26:47.960
+ Ne, ich brauchte ZigBee dringend.
+
+00:26:47.960 --> 00:26:50.960
+ Also dringend.
+
+00:26:50.960 --> 00:26:52.960
+ Es war quasi schon kurz für medizinisch.
+
+00:26:52.960 --> 00:26:55.960
+ Ich habe mich aber auch wohl gefühlt mit all dem,
+
+00:26:55.960 --> 00:26:59.960
+ weil die Fritzbox hat 10 Jahre lang ihren Dienst geleistet.
+
+00:26:59.960 --> 00:27:02.960
+ Das war eine 6490 Kabel Fritzbox,
+
+00:27:02.960 --> 00:27:06.960
+ die ich, ich glaube, 2012 habe ich sie angeschafft.
+
+00:27:06.960 --> 00:27:08.960
+ Also das sind sogar mittlerweile 12 Jahre,
+
+00:27:08.960 --> 00:27:11.960
+ die er hat über diese 12 Jahre Updates bekommen.
+
+00:27:11.960 --> 00:27:15.960
+ Erst letztes Jahr noch irgendwie mit neuen Features ein Update ausgerollt.
+
+00:27:15.960 --> 00:27:18.960
+ Ich weiß, es ist verrückt.
+
+00:27:18.960 --> 00:27:20.960
+ Aber ich wollte jetzt dringend ZigBee.
+
+00:27:20.960 --> 00:27:23.960
+ Ich hatte einen Bedürfnis.
+
+00:27:23.960 --> 00:27:25.960
+ Ich weiß nicht, warum ich es haben muss.
+
+00:27:25.960 --> 00:27:27.960
+ Aber ich habe es jetzt.
+
+00:27:27.960 --> 00:27:29.960
+ Hast du denn andere Geräte, die ZigBee sprechen?
+
+00:27:29.960 --> 00:27:33.960
+ Nee, aber ich will mich ja von sowas nicht abhalten lassen.
+
+00:27:33.960 --> 00:27:36.960
+ Es ist jetzt schon die Frage,
+
+00:27:36.960 --> 00:27:38.960
+ Early Adopter oder Ressourcen verschwinden.
+
+00:27:38.960 --> 00:27:41.960
+ Moment, du hast keine Geräte, die ZigBee sprechen.
+
+00:27:41.960 --> 00:27:44.960
+ Du hast keine ePaper Link-Display?
+
+00:27:44.960 --> 00:27:46.960
+ Naja.
+
+00:27:46.960 --> 00:27:49.960
+ Wir kommen der Sache näher.
+
+00:27:49.960 --> 00:27:53.960
+ Es kann passieren, dass ich das noch zusammentüdel.
+
+00:27:53.960 --> 00:27:55.960
+ Momentan nicht.
+
+00:27:55.960 --> 00:27:57.960
+ Also was mich daran interessiert,
+
+00:27:57.960 --> 00:28:01.960
+ ist, dass ich ja viel mit den AVM-Smart Home-Produkten rumspiele,
+
+00:28:01.960 --> 00:28:04.960
+ die alle deckt oder Wi-Fi basiert sind.
+
+00:28:04.960 --> 00:28:08.960
+ Einfach Krisenstromfresser ist beide Varianten.
+
+00:28:08.960 --> 00:28:13.960
+ Und mit ZigBee binden sie das ganze andere Smart Home-Grafel
+
+00:28:13.960 --> 00:28:15.960
+ von Philips U.
+
+00:28:15.960 --> 00:28:18.960
+ Alles mit ein.
+
+00:28:18.960 --> 00:28:21.960
+ Und auch mit Pepper Links.
+
+00:28:21.960 --> 00:28:24.960
+ Ich habe es noch nicht probiert, aber es soll gehen.
+
+00:28:24.960 --> 00:28:27.960
+ Aber worauf ich eigentlich hinaus wollte,
+
+00:28:27.960 --> 00:28:30.960
+ ist auch die AVM-Menschen haben sich einen Migrationsassistenten
+
+00:28:30.960 --> 00:28:33.960
+ einfallen lassen, womit man von einer Fritzbox
+
+00:28:33.960 --> 00:28:36.960
+ auf die andere umstellen kann.
+
+00:28:36.960 --> 00:28:39.960
+ Und der funktioniert über WLAN.
+
+00:28:39.960 --> 00:28:43.960
+ Und wenn man so zuguckt und drüber nachdenkt,
+
+00:28:43.960 --> 00:28:47.960
+ was hier gerade passiert, ist das alles schon sehr magisch.
+
+00:28:47.960 --> 00:28:51.960
+ Also wie man das macht, ist man steckt die neue Fritzbox
+
+00:28:51.960 --> 00:28:54.960
+ mit einem Netzwerkkabel an die Alte an
+
+00:28:54.960 --> 00:28:57.960
+ und macht sie danach an.
+
+00:28:57.960 --> 00:29:01.960
+ Und klickt in der Weboberfläche über ein WLAN-Gerät auf,
+
+00:29:01.960 --> 00:29:04.960
+ ich mache jetzt hier eine Migration.
+
+00:29:04.960 --> 00:29:07.960
+ Dann springt er ein bisschen Magie rein
+
+00:29:07.960 --> 00:29:10.960
+ und klickst halt irgendwie dreimal.
+
+00:29:10.960 --> 00:29:13.960
+ Ich habe irgendwie 10 Heizungsthermostate,
+
+00:29:13.960 --> 00:29:16.960
+ die sich dann alle ummelden wollen und sollen.
+
+00:29:16.960 --> 00:29:19.960
+ Das dauert ja dann auch eine Weile.
+
+00:29:19.960 --> 00:29:23.960
+ Und dann sagt das die Weboberfläche irgendwann so,
+
+00:29:23.960 --> 00:29:26.960
+ naja, also jetzt gleich mache ich hier das WLAN aus
+
+00:29:26.960 --> 00:29:29.960
+ und das andere an.
+
+00:29:29.960 --> 00:29:31.960
+ Und dann leite ich dich um
+
+00:29:31.960 --> 00:29:34.960
+ und dann bist du auf der neuen Fritzbox.
+
+00:29:34.960 --> 00:29:37.960
+ Ja, nee, das glaube ich dir nicht.
+
+00:29:37.960 --> 00:29:39.960
+ Und dann drückst du da auf weiter
+
+00:29:39.960 --> 00:29:42.960
+ und dann siehst du, wie das alte Gerät ein bisschen blinkt
+
+00:29:42.960 --> 00:29:44.960
+ und dann dunkel wird.
+
+00:29:44.960 --> 00:29:47.960
+ Und dann siehst du, wie die Weboberfläche weiter lädt
+
+00:29:47.960 --> 00:29:50.960
+ und irgendwann siehst du wie kurz dein WLAN-Symbol am Telefon
+
+00:29:50.960 --> 00:29:52.960
+ oder wo auch immer ausgeht.
+
+00:29:52.960 --> 00:29:54.960
+ Und dann gehst du wieder an
+
+00:29:54.960 --> 00:29:57.960
+ und dann wirst du auf eine völlig andere IP-Adresse weitergeleitet.
+
+00:29:57.960 --> 00:29:59.960
+ Und alles sieht so aus wie vorher,
+
+00:29:59.960 --> 00:30:01.960
+ 64, 70 oder so.
+
+00:30:01.960 --> 00:30:03.960
+ Ich weiß nicht mehr, wie es heißt.
+
+00:30:03.960 --> 00:30:05.960
+ 64, 90, sondern 66, 70, so was genau.
+
+00:30:05.960 --> 00:30:08.960
+ Und dann ging das da weiter
+
+00:30:08.960 --> 00:30:11.960
+ und ich dachte, das ist doch jetzt nicht wahr.
+
+00:30:11.960 --> 00:30:13.960
+ Und dann sagt er so,
+
+00:30:13.960 --> 00:30:15.960
+ und jetzt, bei welchem Internetanbieter bist du denn überhaupt?
+
+00:30:15.960 --> 00:30:18.960
+ Und weil das ja ein reinen deutsches Produkt,
+
+00:30:18.960 --> 00:30:21.960
+ also im Wesentlichen auf den deutschen Markt ausgelegt ist,
+
+00:30:21.960 --> 00:30:24.960
+ dann halt für welchen von den vier Kabelanbietern du hier bist
+
+00:30:24.960 --> 00:30:27.960
+ und dann sagt er, ich leite dich jetzt auf das Portal um,
+
+00:30:27.960 --> 00:30:29.960
+ wo du das neue Modem anmelden musst.
+
+00:30:29.960 --> 00:30:31.960
+ Das muss man ja bei Kabelanbietern machen.
+
+00:30:31.960 --> 00:30:34.960
+ Die wollen dann ja einmal diesen Freischaltungsassistenten ausführen.
+
+00:30:34.960 --> 00:30:36.960
+ Das heißt, du hast gar kein Internet.
+
+00:30:36.960 --> 00:30:38.960
+ Die neue Fritzbox ist sich bewusst,
+
+00:30:38.960 --> 00:30:41.960
+ dass da so was dran ist, was aussieht wie Internet.
+
+00:30:41.960 --> 00:30:43.960
+ Aber das aber keins ist.
+
+00:30:43.960 --> 00:30:46.960
+ So, und jetzt kommt noch mal mehr Magie dazu.
+
+00:30:46.960 --> 00:30:49.960
+ Ich habe natürlich als guter Nerd da den Quad 9,
+
+00:30:49.960 --> 00:30:51.960
+ als DNS Server eingestellt.
+
+00:30:51.960 --> 00:30:56.960
+ Und dieser Kabelmodems-Anmeldequatsch funktioniert natürlich nur,
+
+00:30:56.960 --> 00:31:01.960
+ weil dich der Kabelanbieter intern über ihren eigenen DNS umleitet,
+
+00:31:01.960 --> 00:31:06.960
+ egal welchen Internet-Adressen du da eingibst.
+
+00:31:06.960 --> 00:31:08.960
+ Die Fritzbox weiß auch das
+
+00:31:08.960 --> 00:31:11.960
+ und schaltet die also einmal kurz auf den anderen DNS um,
+
+00:31:11.960 --> 00:31:15.960
+ damit du dann in dieses Portal kannst, dann meldest du dich da an,
+
+00:31:15.960 --> 00:31:17.960
+ dann sagt okay, jetzt habe ich auch Internet,
+
+00:31:17.960 --> 00:31:22.960
+ du kannst jetzt die Alte abziehen und dann ist er fertig mit dir.
+
+00:31:22.960 --> 00:31:26.960
+ Und irgendwie, klar, früher war nicht viel im Router drin,
+
+00:31:26.960 --> 00:31:29.960
+ da musst du es da halt deinen Passwort eingeben, was auch immer.
+
+00:31:29.960 --> 00:31:31.960
+ Aber jetzt ist halt in meinem Router irgendwie so ein Mini-Nas,
+
+00:31:31.960 --> 00:31:35.960
+ da ist so ein Medien-Server drauf, der ein bisschen Musik ausspielt.
+
+00:31:35.960 --> 00:31:40.960
+ Da sind deine 56-Geräte mit IP-Adressen drin.
+
+00:31:40.960 --> 00:31:42.960
+ Ich dachte, jetzt kommt irgendwas mit 56k, was?
+
+00:31:42.960 --> 00:31:43.960
+ Mit 56k?
+
+00:31:43.960 --> 00:31:48.960
+ Nee, irgendwelche Zugangsdaten, irgendwelche VPNs eingerichtet sind.
+
+00:31:48.960 --> 00:31:51.960
+ Und all das umzuziehen, wäre schon mehrere Stunden rumklicken
+
+00:31:51.960 --> 00:31:53.960
+ und dann vergisst du immer was.
+
+00:31:53.960 --> 00:31:56.960
+ Und das hat er alles in irgendwie so 10 Minuten mit Magie und Sprinkel gemacht.
+
+00:31:56.960 --> 00:32:02.960
+ Und ich war irgendwie, also ich war auch ein bisschen traurig,
+
+00:32:02.960 --> 00:32:06.960
+ dass ich jetzt gar nichts, also das war ja alles wie vorher, nur besser.
+
+00:32:06.960 --> 00:32:12.960
+ Hat es keine Entschuldigung nicht am Kaffetisch zu können?
+
+00:32:12.960 --> 00:32:15.960
+ Ich musste auch einmal rausgehen und sowas, in der Tour, mit Menschen.
+
+00:32:15.960 --> 00:32:19.960
+ Nee, das ging schon sehr, sehr gut.
+
+00:32:19.960 --> 00:32:23.960
+ Das hat mich gewundert, dass heute viele Hersteller doch Wert drauflegen,
+
+00:32:23.960 --> 00:32:25.960
+ dass man auf das neue Produkt wechseln kann
+
+00:32:25.960 --> 00:32:31.960
+ und dass das keinen Schmerzen verursacht mehr.
+
+00:32:31.960 --> 00:32:34.960
+ Da fühlt man sich als Nerd doch völlig überflüssig schon.
+
+00:32:34.960 --> 00:32:41.960
+ Wo kommen wir dahin, wenn wir jetzt nicht mehr nächtelang irgendwie rumfrickeln müssen,
+
+00:32:41.960 --> 00:32:44.960
+ damit alles wieder so funktioniert wie vorher?
+
+00:32:44.960 --> 00:32:49.960
+ Wenn meine hochbetragte Mutter einfach selber ihre Fritzbox auswechseln kann.
+
+00:32:49.960 --> 00:32:51.960
+ Ich muss da nicht mehr hinfahren.
+
+00:32:51.960 --> 00:32:54.960
+ Nein, ich weiß nicht.
+
+00:32:54.960 --> 00:33:00.960
+ Wobei, also ganz, ganz so, bei der Fritzbox weiß ich es nicht,
+
+00:33:00.960 --> 00:33:02.960
+ oder beziehungsweise klingt ja schon sehr gut,
+
+00:33:02.960 --> 00:33:06.960
+ aber so von wegen Telefontausch, auch bei mir in der Familie,
+
+00:33:06.960 --> 00:33:11.960
+ gab es kürzlich ein neues Telefon, wo auch man dann entsprechend migriert hat,
+
+00:33:11.960 --> 00:33:16.960
+ wo dann aber auch die Aussage war, gut, dass wir Menschen haben,
+
+00:33:16.960 --> 00:33:18.960
+ die dann doch noch ein bisschen unterstützen können,
+
+00:33:18.960 --> 00:33:21.960
+ weil ganz alleine hätten wir es dann doch auch nicht ganz hin gekriegt.
+
+00:33:21.960 --> 00:33:25.960
+ Und sei es nur, dass es dann irgendwie darum geht,
+
+00:33:25.960 --> 00:33:30.960
+ die Banking-App dann irgendwie umzuziehen,
+
+00:33:30.960 --> 00:33:34.960
+ mit dem zweiten Faktor und so was, wo du dann doch nochmal irgendwie wissen musst,
+
+00:33:34.960 --> 00:33:40.960
+ wo in welchem Menüpunkt bei deiner Bank musst du das jetzt irgendwie beantragen,
+
+00:33:40.960 --> 00:33:45.960
+ damit du dann nochmal ein neues Verschlüsselungsmaterial bekommst.
+
+00:33:45.960 --> 00:33:53.960
+ Neu ich wieder ein interessantes Stück an Erfahrungen, Wissen, Hochheitswissen,
+
+00:33:53.960 --> 00:34:00.960
+ damit ich viele Probleme lösen könnte, nämlich wo an so einer alten PCI Express Grafikkarte eigentlich der kleine Nubbel ist,
+
+00:34:00.960 --> 00:34:05.960
+ den man unten drücken muss, damit man sie rausziehen kann aus dem Slot.
+
+00:34:05.960 --> 00:34:09.960
+ Irgendwie fühle ich mich gerade an Mike Krüger erinnert.
+
+00:34:09.960 --> 00:34:14.960
+ Exakt, so hat mein Vater auch geschaut, als ich den richtigen Nubbel
+
+00:34:14.960 --> 00:34:18.960
+ mit der richtigen Kraft noch von du gedrückt habe.
+
+00:34:18.960 --> 00:34:27.960
+ Also da sind wir jetzt ein bisschen, in dem Thema ist Nordunterricht in der Schule wichtig und relevant.
+
+00:34:27.960 --> 00:34:31.960
+ Und ich habe da gestern Christian Spannagel mal wieder gehört.
+
+00:34:31.960 --> 00:34:33.960
+ Mathematikprofessor?
+
+00:34:33.960 --> 00:34:35.960
+ Ja, Mathematikprofessor, richtig.
+
+00:34:35.960 --> 00:34:42.960
+ Aber durchaus auch digital, digital Native so rum.
+
+00:34:42.960 --> 00:34:52.960
+ Und wenn man Gründe hören möchte, warum es wichtig ist, Dinge über den digitalen Bereich unserer Welt zu wissen,
+
+00:34:52.960 --> 00:34:57.960
+ Christian Spannagel googeln, man wird mit Gründen versorgt.
+
+00:34:57.960 --> 00:35:00.960
+ Ich werfe meinen Link in die Schornhauts.
+
+00:35:00.960 --> 00:35:08.960
+ Es setzt sich sehr dafür an, dass Informatik, und zwar im besten Sinne der Informatik,
+
+00:35:08.960 --> 00:35:12.960
+ ein Pflichtfach in Schulen bleibt oder wird.
+
+00:35:12.960 --> 00:35:15.960
+ Das ist doch gut.
+
+00:35:15.960 --> 00:35:18.960
+ Wollen Sie mal eine kurze Musik einspielen?
+
+00:35:18.960 --> 00:35:20.960
+ Sehr gerne, mit Vergnügen.
+
+00:35:20.960 --> 00:35:23.960
+ Ich habe ja hier vielleicht eine kurze Musik.
+
+00:35:23.960 --> 00:35:28.960
+ Wie immer, unter einer Creative Commons Lizenz wird die jetzt hier ausgespielt,
+
+00:35:28.960 --> 00:35:34.960
+ nämlich von John Shoemaker, Free Flow aus dem Free Music Archive.
+
+00:35:34.960 --> 00:35:36.960
+ Und ab geht's.
+
+00:35:36.960 --> 00:35:38.960
+ Das ist mittendrin.
+
+00:35:38.960 --> 00:35:42.960
+ Das ist auch noch mittendrin.
+
+00:35:42.960 --> 00:35:45.960
+ Ach, das reicht mir, das ist vorne genug.
+
+00:35:45.960 --> 00:35:47.960
+ Bis gleich.
+
+00:35:58.960 --> 00:36:01.960
+ * Musik *
+
+00:36:28.960 --> 00:36:31.960
+ * Musik *
+
+00:36:58.960 --> 00:37:01.960
+ * Musik *
+
+00:37:28.960 --> 00:37:31.960
+ * Musik *
+
+00:37:58.960 --> 00:38:01.960
+ * Musik *
+
+00:38:28.960 --> 00:38:31.960
+ * Musik *
+
+00:38:31.960 --> 00:38:44.960
+ Willkommen zurück zu Chaos im Radio.
+
+00:38:44.960 --> 00:38:55.960
+ Ihr hört uns jeden zweiten Montag im Monat auf 90,7 MHz UKW oder in Berlin auf 88,4 MHz.
+
+00:38:55.960 --> 00:39:01.960
+ Und auf DAB+ unter diesem Sender Fr-BB und 24,3.
+
+00:39:01.960 --> 00:39:04.960
+ Das ist das freie Radio generell.
+
+00:39:04.960 --> 00:39:09.960
+ Schreibt uns gerne eine E-Mail an radio@ccc-p.org
+
+00:39:09.960 --> 00:39:15.960
+ oder folgt uns, schreibt uns auf mastodon@cccp@caus.social.
+
+00:39:15.960 --> 00:39:19.960
+ Da erreicht ihr auch die Radio-Menschen.
+
+00:39:19.960 --> 00:39:26.960
+ Genau, da könnt ihr uns erreichen und uns Dinge schicken.
+
+00:39:26.960 --> 00:39:32.960
+ Zum Beispiel zum nächsten Thema, das heißt digitaler Frühjahrsputz.
+
+00:39:32.960 --> 00:39:43.960
+ Genau, und zwar, es ist ja, es ist Frühjahr, es ist viel zu warm.
+
+00:39:43.960 --> 00:39:46.960
+ Krokos sind schon wieder verblüht.
+
+00:39:46.960 --> 00:39:51.960
+ Und es gibt ja gemeinhin dieses Ding von so, wir machen jetzt mal Frühjahrsputz,
+
+00:39:51.960 --> 00:39:54.960
+ wir machen jetzt mal alles hübsch, alles schön.
+
+00:39:54.960 --> 00:39:56.960
+ Waschen die Solarzellen.
+
+00:39:56.960 --> 00:39:58.960
+ Sollte man das tun?
+
+00:39:58.960 --> 00:40:00.960
+ Kann man nicht mal nicht schaden.
+
+00:40:00.960 --> 00:40:02.960
+ Die liefern auch wieder.
+
+00:40:02.960 --> 00:40:05.960
+ Also einfach so ein bisschen, was tut man damit?
+
+00:40:05.960 --> 00:40:09.960
+ Einen trockenen und/oder feuchten Lappen drüberwischen
+
+00:40:09.960 --> 00:40:12.960
+ oder was tut man da bei der Sonnenzellenpflege?
+
+00:40:12.960 --> 00:40:14.960
+ Dammstrahlreiniger.
+
+00:40:14.960 --> 00:40:17.960
+ Okay, okay, gut.
+
+00:40:17.960 --> 00:40:21.960
+ Aber den nicht zu hart einstellen wahrscheinlich.
+
+00:40:21.960 --> 00:40:22.960
+ Nein, nein, nein.
+
+00:40:22.960 --> 00:40:23.960
+ Das dachte ich mir.
+
+00:40:23.960 --> 00:40:25.960
+ Genau, so war es zum Beispiel.
+
+00:40:25.960 --> 00:40:28.960
+ Reinigt eure Solarzellen, damit ihr mehr Strom bekommt,
+
+00:40:28.960 --> 00:40:33.960
+ weil jedes Elektron ist wichtig, jedes Photon auch.
+
+00:40:33.960 --> 00:40:35.960
+ Genau, macht es.
+
+00:40:35.960 --> 00:40:37.960
+ Da fängt es schon an.
+
+00:40:37.960 --> 00:40:42.960
+ Es ist ja wichtig, eure Hardware entsprechend pfleglich zu behandeln,
+
+00:40:42.960 --> 00:40:46.960
+ aber auch so was wie wir sprachen über so Telefone
+
+00:40:46.960 --> 00:40:49.960
+ und da sammeln sich vielleicht auch mal so Apps an.
+
+00:40:49.960 --> 00:40:53.960
+ Apps und Accounts, die man vielleicht gar nicht mehr benutzt.
+
+00:40:53.960 --> 00:40:55.960
+ Ja, richtig.
+
+00:40:55.960 --> 00:40:58.960
+ Wo man auch manchmal das Passwort gar nicht mehr...
+
+00:40:58.960 --> 00:41:01.960
+ Erbrichtest man das zwei Passwort, da hatte ich da jetzt verwendet.
+
+00:41:01.960 --> 00:41:03.960
+ Ja, genau, solche Sachen.
+
+00:41:03.960 --> 00:41:04.960
+ Nein.
+
+00:41:04.960 --> 00:41:08.960
+ Genau, da fängt es nämlich schon an.
+
+00:41:08.960 --> 00:41:12.960
+ Schaut doch mal, benutzt ihr einen Passwortmanager,
+
+00:41:12.960 --> 00:41:15.960
+ gibt es vielleicht Accounts, wo ihr vielleicht mal wieder
+
+00:41:15.960 --> 00:41:19.960
+ euer Passwort ändern solltet, weil die einfach viel zu alt sind
+
+00:41:19.960 --> 00:41:21.960
+ und die Gefahr einfach besteht,
+
+00:41:21.960 --> 00:41:24.960
+ dass die mal wieder in irgendeinem League aufgetaucht sein könnten.
+
+00:41:24.960 --> 00:41:28.960
+ Genau, das ist ein wichtiger Punkt, der auch teilweise kontrovers ist.
+
+00:41:28.960 --> 00:41:31.960
+ Nach wie vor soll man ein Passwort ja jetzt verändern,
+
+00:41:31.960 --> 00:41:34.960
+ ob es regelmäßig oder nicht, oder doch, oder wie.
+
+00:41:34.960 --> 00:41:36.960
+ Ich persönlich mache es tatsächlich so,
+
+00:41:36.960 --> 00:41:40.960
+ ich gucke relativ regelmäßig, ob die Passwörter,
+
+00:41:40.960 --> 00:41:43.960
+ die ich verwende, irgendwo in einem League aufgetaucht sind
+
+00:41:43.960 --> 00:41:46.960
+ und das macht der Passwortmanager gleich mit dem Hintergrund.
+
+00:41:46.960 --> 00:41:48.960
+ Okay.
+
+00:41:48.960 --> 00:41:52.960
+ Und ich ansonsten ende ich die eigentlich selten, wenn es sein muss.
+
+00:41:52.960 --> 00:41:54.960
+ Wenn ich mal was vergessen habe.
+
+00:41:54.960 --> 00:41:56.960
+ Ja, vielleicht kann man auch mal,
+
+00:41:56.960 --> 00:41:58.960
+ wo wir jetzt gerade bei solchen Sachen sind, so Backups,
+
+00:41:58.960 --> 00:42:00.960
+ macht Backups, aber vielleicht ist auch jetzt die Zeit,
+
+00:42:00.960 --> 00:42:03.960
+ wenn wir mal gucken, wie viele sinnlose Backups man noch hat
+
+00:42:03.960 --> 00:42:05.960
+ und Duplikate, die man auch räumen kann.
+
+00:42:05.960 --> 00:42:08.960
+ Testet mal, ob die Backups auch wieder zurückspielbar sind.
+
+00:42:08.960 --> 00:42:09.960
+ Das ist eine gute Idee.
+
+00:42:09.960 --> 00:42:14.960
+ Auch immer der Klassiker sortiert auch mal aus,
+
+00:42:14.960 --> 00:42:16.960
+ wenn ihr irgendwie Hardware zu Hause habt,
+
+00:42:16.960 --> 00:42:18.960
+ was davon braucht ihr wirklich noch
+
+00:42:18.960 --> 00:42:20.960
+ und was könnt ihr da vielleicht einer anderen,
+
+00:42:20.960 --> 00:42:22.960
+ besseren Verwendung zuführen.
+
+00:42:22.960 --> 00:42:25.960
+ Wir sprachen über alte Technik.
+
+00:42:25.960 --> 00:42:27.960
+ Die Computertruhe.
+
+00:42:27.960 --> 00:42:30.960
+ Und im Zweifelsfeld "U-Bake" kriegt man nochmal 3,50 Euro dazu
+
+00:42:30.960 --> 00:42:32.960
+ für die Autokasse.
+
+00:42:32.960 --> 00:42:36.960
+ Auch das, oder gegebenenfalls auch so in Nachbarschaftsnetzwerken,
+
+00:42:36.960 --> 00:42:40.960
+ gibt es teilweise auch Leute, die sich durchaus freuen,
+
+00:42:40.960 --> 00:42:43.960
+ die vielleicht jetzt nicht die Möglichkeit haben,
+
+00:42:43.960 --> 00:42:46.960
+ aus eigenen Mitteln sich Sachen zu kaufen.
+
+00:42:46.960 --> 00:42:50.960
+ Deswegen, also auch das immer mal so ein bisschen gucken.
+
+00:42:50.960 --> 00:42:52.960
+ Man muss auch nicht immer alles zu Geld machen,
+
+00:42:52.960 --> 00:42:54.960
+ wenn man sich das leisten kann,
+
+00:42:54.960 --> 00:42:56.960
+ weil andere Menschen freuen sich,
+
+00:42:56.960 --> 00:42:58.960
+ wenn sie auch mal,
+
+00:42:58.960 --> 00:43:00.960
+ auch wenn ein paar Jahre alt ist,
+
+00:43:00.960 --> 00:43:02.960
+ vielleicht ein Laptop geschenkt bekommen.
+
+00:43:02.960 --> 00:43:04.960
+ Schaut bloß vielleicht,
+
+00:43:04.960 --> 00:43:06.960
+ dass die Sachen, die irgendwie wichtig wären,
+
+00:43:06.960 --> 00:43:08.960
+ tatsächlich auch funktionieren,
+
+00:43:08.960 --> 00:43:10.960
+ weil die Sachen, die euch wichtig sind,
+
+00:43:10.960 --> 00:43:12.960
+ vielleicht nicht mehr drauf sind, wenn man es abgibt.
+
+00:43:12.960 --> 00:43:14.960
+ Was macht man eigentlich?
+
+00:43:14.960 --> 00:43:17.960
+ Oder wie weit sind wir denn eigentlich mit Recyclingen
+
+00:43:17.960 --> 00:43:19.960
+ bei so toten Telefonen?
+
+00:43:19.960 --> 00:43:22.960
+ Also, ich glaube, jeder Deutsche hat im Durchschnitt
+
+00:43:22.960 --> 00:43:25.960
+ eine Person in, und jede Deutsche,
+
+00:43:25.960 --> 00:43:29.960
+ in seinem Gnähkästchen irgendwo rumliegen,
+
+00:43:29.960 --> 00:43:31.960
+ die absolut unbrauchbar sind.
+
+00:43:31.960 --> 00:43:35.960
+ Weil uralt und jeglicher Hersteller support weg,
+
+00:43:35.960 --> 00:43:39.960
+ und man kann auch nicht mehr mit einem freien Android retten.
+
+00:43:39.960 --> 00:43:43.960
+ Ich weiß, dass Fairphone auch Telefone zurücknimmt,
+
+00:43:43.960 --> 00:43:46.960
+ das ist aber dadurch, dass die Niederlanden,
+
+00:43:46.960 --> 00:43:48.960
+ von Niederlanden aus operieren,
+
+00:43:48.960 --> 00:43:50.960
+ das ist nicht ganz trivial, das zurückzugeben.
+
+00:43:50.960 --> 00:43:52.960
+ Gerade wie gut da so.
+
+00:43:52.960 --> 00:43:54.960
+ Also, gerade bei Fairphone, das hatte ich vorher schon überlegt,
+
+00:43:54.960 --> 00:43:56.960
+ ob man es vielleicht anbringt.
+
+00:43:56.960 --> 00:44:00.960
+ Wenn man weiß, dass man es irgendwann mal zurückgeben will,
+
+00:44:00.960 --> 00:44:02.960
+ oder vielleicht nur manchmal braucht,
+
+00:44:02.960 --> 00:44:05.960
+ Common hatten wir doch mal ein RC3 als Vortrag zum Leinen.
+
+00:44:05.960 --> 00:44:07.960
+ Die werden das in der Lösung.
+
+00:44:07.960 --> 00:44:10.960
+ Leihgeräte, gibt es auch Fairphone 3, 4, 5.
+
+00:44:10.960 --> 00:44:14.960
+ Genau, aber ich weiß nicht, wo ich die einfach in den nächsten Elektromarkten bringe.
+
+00:44:14.960 --> 00:44:15.960
+ Ja.
+
+00:44:15.960 --> 00:44:17.960
+ Funktioniert es mittlerweile gut,
+
+00:44:17.960 --> 00:44:19.960
+ oder wird das dann immer noch nach Afrika verschifft und verbrannt?
+
+00:44:19.960 --> 00:44:22.960
+ Also, wie gut das funktioniert,
+
+00:44:22.960 --> 00:44:25.960
+ ich habe es tatsächlich bisher selber wirklich auch noch nicht ausgetestet.
+
+00:44:25.960 --> 00:44:31.960
+ Grundsätzlich, es gibt ja diese kleinen Geräte-Richtlinie.
+
+00:44:31.960 --> 00:44:36.960
+ Ich habe mir die 30 cm Kantenlänge und so müssen die alles abnehmen, ja.
+
+00:44:36.960 --> 00:44:40.960
+ Genau, das müssen sie alles abnehmen.
+
+00:44:40.960 --> 00:44:53.960
+ Ich weiss, dass die ganzen Händler, also die ganzen Telekommunikationsanbieter,
+
+00:44:53.960 --> 00:44:58.960
+ sich regelmäßig beklagen über noch zu geringe Recyclingquoten.
+
+00:44:58.960 --> 00:45:06.960
+ Also, die Leute haben noch viel zu viele Altgeräte, alte Smartphones in ihren Schubkästen
+
+00:45:06.960 --> 00:45:08.960
+ und bringen die nicht zurück.
+
+00:45:08.960 --> 00:45:11.960
+ Und jetzt bitte, weil da sind wertvolle Ressourcen drin,
+
+00:45:11.960 --> 00:45:15.960
+ die einer zweiten Verwendung zugeführt werden können.
+
+00:45:15.960 --> 00:45:23.960
+ Es gibt lustigerweise, also falls man in einer irgendeinwie gearteten verantwortlichen Position ist
+
+00:45:23.960 --> 00:45:27.960
+ und darüber nachdenkt, was man mit Altgeräten, die man zurückgenommen hat, macht,
+
+00:45:27.960 --> 00:45:30.960
+ es gibt da sogar Recyclingdienstleister in Deutschland,
+
+00:45:30.960 --> 00:45:33.960
+ die im großen Stil Elektronik zurückholen
+
+00:45:33.960 --> 00:45:37.960
+ und dann nicht nach Afrika verschifft und verbrennen,
+
+00:45:37.960 --> 00:45:41.960
+ so die in diversen Dingen gesehen hat, sondern die es dann wirklich versuchen,
+
+00:45:41.960 --> 00:45:45.960
+ die Wertstoffe, die da drin sind, Gold, Palladium, was auch immer,
+
+00:45:45.960 --> 00:45:50.960
+ nach bestem Wissen und Gewissen und den technischen Möglichkeiten da wieder rauszuholen.
+
+00:45:50.960 --> 00:45:54.960
+ Na, ich denke, die Herausforderung an der Stelle ist ja schon mal,
+
+00:45:54.960 --> 00:46:04.960
+ eine gewisse Vorsortierung zu haben, weil jetzt die Elektromärkte nehmen ja auch Toaster zurück
+
+00:46:04.960 --> 00:46:07.960
+ oder eine Ahnung, eine alte Rasierer und so.
+
+00:46:07.960 --> 00:46:10.960
+ Und da steckt natürlich auch noch wertvolles Material drin,
+
+00:46:10.960 --> 00:46:13.960
+ aber halt nicht im gleichen Maße wertvoll wie jetzt in einem Telefon.
+
+00:46:13.960 --> 00:46:16.960
+ So, und da, denke ich.
+
+00:46:16.960 --> 00:46:20.960
+ Und da frage ich mich halt, ob es schon, es gibt mit Sicherheit Diensteleister,
+
+00:46:20.960 --> 00:46:28.960
+ die sich speziell auf so kleinen Hightech-Geräte wie Telefone, wie Tablets und so weiter spezialisiert haben.
+
+00:46:28.960 --> 00:46:30.960
+ Die Frage ist, ist das schon brauchbar?
+
+00:46:30.960 --> 00:46:35.960
+ Ja, diese Automaten, die dir irgendwie Telefone zurücknehmen und dir meistens Geld dafür geben,
+
+00:46:35.960 --> 00:46:41.960
+ wenn es noch was Neues ist, aber in der Regel handelt es sich ja um sehr, sehr alte Geräte,
+
+00:46:41.960 --> 00:46:46.960
+ die nicht mehr wert sind, als eben das Material, was drinsteckt.
+
+00:46:46.960 --> 00:46:52.960
+ Bei diesen Diensteleistern geht es schon um Enkonvolut-Angeräten.
+
+00:46:52.960 --> 00:46:59.960
+ Also die spezialisieren sich nicht, sondern die kriegen eine Gitterbox mit 1,5 Kubikmeter Elektronik drin
+
+00:46:59.960 --> 00:47:01.960
+ und sortieren das auseinander.
+
+00:47:01.960 --> 00:47:03.960
+ Und gering das, ich habe jetzt mal so eine Gitterbox.
+
+00:47:03.960 --> 00:47:04.960
+ Gitterbox habe ich natürlich nicht.
+
+00:47:04.960 --> 00:47:08.960
+ Ja, auch in der Uni in Keller stand eine Gitterbox für Elektronik, bitte da rein.
+
+00:47:08.960 --> 00:47:11.960
+ Ich habe da einmal so ein Diensteleister rausgeholt,
+
+00:47:11.960 --> 00:47:18.960
+ L-Werk, monatlich rund 100 Tonnen Elektronikschutz, der Wiederverwertung zuführt.
+
+00:47:18.960 --> 00:47:19.960
+ Sehr schön.
+
+00:47:19.960 --> 00:47:24.960
+ Also es ist ein Ding, was ich durch Zufall vor Jahren schon mitgekriegt habe,
+
+00:47:24.960 --> 00:47:28.960
+ dass es das gibt und auch wirklich teilweise bis zur industriellen Maßstabe.
+
+00:47:28.960 --> 00:47:31.960
+ Also es sieht dann aus wie so ein großer Autosportplatz.
+
+00:47:31.960 --> 00:47:37.960
+ Mit Schredderanlagen und Chemie und Gold aus dem, was geschreddert ist,
+
+00:47:37.960 --> 00:47:42.960
+ rauslösen, ist ein Prozess, der nicht ganz unspannend ist.
+
+00:47:42.960 --> 00:47:44.960
+ Und der ist so wichtig auch.
+
+00:47:44.960 --> 00:47:49.960
+ Also gerade wo wir über die Zukunft und Nachhaltigkeitsziele und sowas sprechen,
+
+00:47:49.960 --> 00:47:54.960
+ ist es einfach mega wichtig, weil sowas wie seltene Erden und selbst auch Gold.
+
+00:47:54.960 --> 00:47:58.960
+ Und es ist ein Geschäft, also es ist nicht so, dass diese Firmen kurz vor der Pleite sind
+
+00:47:58.960 --> 00:48:03.960
+ und nur deswegen funktionieren, weil solche Enthusiasten die Nachhaltigkeit feiern sollen.
+
+00:48:03.960 --> 00:48:05.960
+ Die verdienen da echt Geld damit.
+
+00:48:05.960 --> 00:48:13.960
+ Also seltene Erden und selbst auch Gold sind halt nur begrenzt auf der Erde verfügbar.
+
+00:48:13.960 --> 00:48:18.960
+ Und wenn wir halt so weiter so umsaunen mit solch wertvollen Materialien,
+
+00:48:18.960 --> 00:48:22.960
+ indem wir einfach immer wieder neuen Elektroschrott produzieren, ist halt Dorof.
+
+00:48:22.960 --> 00:48:28.960
+ Und deswegen nutzt diese Möglichkeiten, wie gesagt.
+
+00:48:28.960 --> 00:48:36.960
+ Es gibt nach dieser Verordnung sind elektronikerische Händler verpflichtet,
+
+00:48:36.960 --> 00:48:40.960
+ Geräte bis zu den entsprechenden Kantenlängen zurückzunehmen.
+
+00:48:40.960 --> 00:48:46.960
+ Ja, und ihr tut da auf jeden Fall was Gutes, wenn ihr das entsprechend tut.
+
+00:48:46.960 --> 00:48:49.960
+ Wir könnten auch mal monomal einladen zu einer Sendung.
+
+00:48:49.960 --> 00:48:53.960
+ Und so ein bisschen in das Thema ob man so was Hardware wieder rein bohren
+
+00:48:53.960 --> 00:48:55.960
+ und schon wieder jetzt gerade so der Stand der Dinge ist.
+
+00:48:55.960 --> 00:49:00.960
+ Weil das ist ja so ein Thema, was durchaus sinnvoll und nachhaltig wirken kann
+
+00:49:00.960 --> 00:49:03.960
+ und auch aktiv entwickelt ist.
+
+00:49:03.960 --> 00:49:06.960
+ Also da wo sich noch einiges tut.
+
+00:49:06.960 --> 00:49:12.960
+ Wir hatten davon ein paar Tage mal eine etwas militante Ansicht.
+
+00:49:12.960 --> 00:49:16.960
+ Und haben gesagt, eigentlich muss ein Hersteller, wenn er wirklich nachhaltig arbeitet,
+
+00:49:16.960 --> 00:49:20.960
+ grundsätzlich nach ein, zwei, drei, vier Jahren Pleite gehen.
+
+00:49:20.960 --> 00:49:22.960
+ Und dann ist der Bedarf gedeckt, die Geräte sind so gebaut,
+
+00:49:22.960 --> 00:49:24.960
+ dass sie die nächsten zehn Jahre halten.
+
+00:49:24.960 --> 00:49:28.960
+ Und ich brauche den Hersteller dann nicht mehr der neue Geräte baut.
+
+00:49:28.960 --> 00:49:35.960
+ Das war ja durchaus ein Grund, warum es Nokia so schlecht ging,
+
+00:49:35.960 --> 00:49:37.960
+ weil die einfach zu gute Geräte gebaut haben.
+
+00:49:37.960 --> 00:49:38.960
+ Ja.
+
+00:49:38.960 --> 00:49:43.960
+ Und ich finde, dass es da eine Bewegung braucht, damit das jetzt nicht mehr schlimm ist,
+
+00:49:43.960 --> 00:49:45.960
+ wenn das passiert, sondern das gehört eigentlich,
+
+00:49:45.960 --> 00:49:48.960
+ das sollte zum Konzept gehören.
+
+00:49:48.960 --> 00:49:52.960
+ Ja, man kann es ja natürlich nicht auf ewiges Wachstum verletzen.
+
+00:49:52.960 --> 00:49:55.960
+ Ich habe noch ein Astermarket, ich muss vielleicht noch mal Dinge reparieren
+
+00:49:55.960 --> 00:49:57.960
+ oder Abtätzer bereitstellen und so.
+
+00:49:57.960 --> 00:50:00.960
+ Aber ich muss, wenn der Bedarf gedeckt ist, eigentlich ja nichts mehr herstellen.
+
+00:50:00.960 --> 00:50:01.960
+ Punkt.
+
+00:50:01.960 --> 00:50:06.960
+ Ich weiß, es ist ein bisschen sehr polarisiert.
+
+00:50:06.960 --> 00:50:10.960
+ Also ich nehme es mal so als Plädoyer.
+
+00:50:10.960 --> 00:50:15.960
+ Es wäre gut, wenn geplante Obsolescence kein Geschäftsmodell ist.
+
+00:50:15.960 --> 00:50:16.960
+ Genau.
+
+00:50:16.960 --> 00:50:19.960
+ Man braucht ja Ziele.
+
+00:50:19.960 --> 00:50:20.960
+ Ja.
+
+00:50:20.960 --> 00:50:23.960
+ Das ist doch die...
+
+00:50:23.960 --> 00:50:25.960
+ Ich wollte vielleicht einfach nochmal zusammen passen.
+
+00:50:25.960 --> 00:50:26.960
+ Genau, einfach nochmal.
+
+00:50:26.960 --> 00:50:29.960
+ Also bringt eure alte Hardware zurück, entrümpelt,
+
+00:50:29.960 --> 00:50:32.960
+ schmeißt vielleicht auch Kabel weg, die einfach kaputt sind
+
+00:50:32.960 --> 00:50:35.960
+ und nicht mehr funktionieren und einfach euch keine Freude bereiten.
+
+00:50:35.960 --> 00:50:37.960
+ Also ganz nach Marie Kondo,
+
+00:50:37.960 --> 00:50:41.960
+ if it doesn't spark joy, vielleicht mal entsorgen.
+
+00:50:41.960 --> 00:50:42.960
+ Es schafft auch Platz.
+
+00:50:42.960 --> 00:50:43.960
+ Oder wenn es schafft auch Platz.
+
+00:50:43.960 --> 00:50:45.960
+ Wenn es kabelsparkt, sollte man es vielleicht wegschmeißen.
+
+00:50:45.960 --> 00:50:51.960
+ Auch das, bevor es sparkt, zumindest im gewerblichen Kontext,
+
+00:50:51.960 --> 00:50:54.960
+ regelmäßig die GUV-3 Prüfung machen.
+
+00:50:54.960 --> 00:50:56.960
+ Genau.
+
+00:50:56.960 --> 00:51:00.960
+ Dann im Softwarebereich, guckt euch an, was ihr für Apps und Accounts habt,
+
+00:51:00.960 --> 00:51:03.960
+ schmeißt auch da Dinge weg, löscht durchaus Accounts,
+
+00:51:03.960 --> 00:51:07.960
+ macht aber vielleicht auch mal eine DSGVO-Anfrage,
+
+00:51:07.960 --> 00:51:10.960
+ was die Anbieter so über euch haben.
+
+00:51:10.960 --> 00:51:12.960
+ Auch das kann man immer durchaus mal tun.
+
+00:51:12.960 --> 00:51:17.960
+ Das ist mitunter ein Prozess, der sehr weh tut, mitunter,
+
+00:51:17.960 --> 00:51:20.960
+ weil die Anbieter als einem nicht so einfach machen,
+
+00:51:20.960 --> 00:51:23.960
+ aber auch das sind Dinge, die so einmal im Jahr,
+
+00:51:23.960 --> 00:51:25.960
+ zumindest mal bei so einer Handvoll von Anbietern,
+
+00:51:25.960 --> 00:51:28.960
+ wo man einen Account hat, kann man das vielleicht mal tun.
+
+00:51:28.960 --> 00:51:38.960
+ Ich habe da erst kürzlich auf diesem einen Gerät in der Familie,
+
+00:51:38.960 --> 00:51:43.960
+ wo es ein neues Gerät gab, habe ich sie erst kürzlich entfernt.
+
+00:51:43.960 --> 00:51:45.960
+ Aber auch das sollte man entsprechend tun,
+
+00:51:45.960 --> 00:51:49.960
+ nach der Anleitung, die ich glaube nicht vom Honkhasen selber,
+
+00:51:49.960 --> 00:51:52.960
+ aber da aus der Ecke stammeln, da gibt es hier so eine Anleitung,
+
+00:51:52.960 --> 00:51:54.960
+ dass man erst sein Account löschen sollte
+
+00:51:54.960 --> 00:51:57.960
+ und dann die Looker App entfernen in der Richtung,
+
+00:51:57.960 --> 00:52:02.960
+ sucht da auf jeden Fall mal im Netz, da gibt es eine Anleitung zu.
+
+00:52:02.960 --> 00:52:03.960
+ Verlinken wir in den Schaunuts,
+
+00:52:03.960 --> 00:52:06.960
+ öffnet die Looker App, tippt auf der unteren Leiste auf Account,
+
+00:52:06.960 --> 00:52:09.960
+ das kreut etwas nach unten, wählt Account löschen
+
+00:52:09.960 --> 00:52:12.960
+ und dann nochmal auf Account löschen und ihr seid fertig.
+
+00:52:12.960 --> 00:52:16.960
+ Und danach kann man ja plöschen.
+
+00:52:16.960 --> 00:52:19.960
+ So, das Finaltema "Brand heiss" und "Brand aktuell"
+
+00:52:19.960 --> 00:52:22.960
+ über das bestimmt auch ganz viele Reden,
+
+00:52:22.960 --> 00:52:26.960
+ ganz viele Technik-Podcasten, deswegen lassen wir uns das nicht entgehen.
+
+00:52:26.960 --> 00:52:30.960
+ Ist das XZ Backdoor.
+
+00:52:30.960 --> 00:52:34.960
+ XZ ist ein Kompressionsalgorithmus,
+
+00:52:34.960 --> 00:52:38.960
+ beziehungsweise die Software, die den anwendet
+
+00:52:38.960 --> 00:52:43.960
+ und in ganz vielen anderen Softwareprojekten drin steckt.
+
+00:52:43.960 --> 00:52:47.960
+ Wir haben das glaube ich schon mehrfach erwähnt über die Zeit,
+
+00:52:47.960 --> 00:52:49.960
+ dass es so Dinge gibt wie "Curl",
+
+00:52:49.960 --> 00:52:51.960
+ die auf einem immer wieder über den Weg,
+
+00:52:51.960 --> 00:52:53.960
+ so meistens so kleine Projekte,
+
+00:52:53.960 --> 00:52:56.960
+ die einen ganz spezifischen Anwendungsfall haben
+
+00:52:56.960 --> 00:52:58.960
+ und nicht die man selten direkt benutzt,
+
+00:52:58.960 --> 00:53:00.960
+ sondern die immer von anderer Software,
+
+00:53:00.960 --> 00:53:02.960
+ die man selber wieder benutzt werden.
+
+00:53:02.960 --> 00:53:04.960
+ Und XZ ist eines davon?
+
+00:53:04.960 --> 00:53:07.960
+ Und XZ ist eine sehr grundsätzliche Geschichte,
+
+00:53:07.960 --> 00:53:11.960
+ weil ich glaube der Kompressionsalgorithmus dazu ist,
+
+00:53:11.960 --> 00:53:14.960
+ nicht Lügen ist das LZMA.
+
+00:53:14.960 --> 00:53:18.960
+ Es gibt verschiedene Kompressionsalgorithmen darin,
+
+00:53:18.960 --> 00:53:20.960
+ davon ist LZMA, der sehr gerne verwendet wird.
+
+00:53:20.960 --> 00:53:23.960
+ Und wo die Bibliothek eigentlich so der Goldstandard dafür ist?
+
+00:53:23.960 --> 00:53:25.960
+ Genau, und das ist halt häufig so.
+
+00:53:25.960 --> 00:53:29.960
+ Also wie "Curl" eben der Goldstandard für HTTP-Protokollanfragen ist.
+
+00:53:29.960 --> 00:53:31.960
+ Oder wie geht's?
+
+00:53:31.960 --> 00:53:36.960
+ Ja, das ist ja nicht auch "Lib Curl" drin, wer weiß.
+
+00:53:36.960 --> 00:53:40.960
+ Aber genau, und das Schöne ist,
+
+00:53:40.960 --> 00:53:42.960
+ oder was heißt das, wie so was kommt,
+
+00:53:42.960 --> 00:53:46.960
+ ist, dass halt Kompression wird in fast aller Software benutzt.
+
+00:53:46.960 --> 00:53:49.960
+ XZ bietet vor allen Dingen so On-the-Fly-Kompression,
+
+00:53:49.960 --> 00:53:52.960
+ das ist also so im Gegensatz zu, weiß ich nicht, so einem Format wie ZIP,
+
+00:53:52.960 --> 00:53:55.960
+ was eher dafür geeignet ist, einen Teil zu komprimieren,
+
+00:53:55.960 --> 00:53:57.960
+ ist XZ auch dazu geeignet,
+
+00:53:57.960 --> 00:54:01.960
+ eben irgendwas zu komprimieren, was kein definiertes Ende hat.
+
+00:54:01.960 --> 00:54:04.960
+ Also beispielsweise ein, weiß ich nicht,
+
+00:54:04.960 --> 00:54:06.960
+ Audio wird vielleicht anders komprimiert,
+
+00:54:06.960 --> 00:54:08.960
+ aber irgendwas, was man über die Leitung schickt,
+
+00:54:08.960 --> 00:54:10.960
+ was man währenddessen komprimieren will.
+
+00:54:10.960 --> 00:54:11.960
+ Wie so ein Durchlauferhitzer.
+
+00:54:11.960 --> 00:54:14.960
+ Wie so ein Durchlauferhitzer, genau, ein Durchlaufkompressor.
+
+00:54:14.960 --> 00:54:19.960
+ Genau, und in einem ganz prominenten Fall,
+
+00:54:19.960 --> 00:54:21.960
+ dass das, worum es geht,
+
+00:54:21.960 --> 00:54:26.960
+ wird XZ eben zur Verschlüsselung von Verbindungen zwischen Rechnern benutzt,
+
+00:54:26.960 --> 00:54:30.960
+ die, wenn man eine unter Linux SSH benutzt,
+
+00:54:30.960 --> 00:54:35.960
+ also Remote irgendwie auf ein Gerät zugreift, um es zu steuern,
+
+00:54:35.960 --> 00:54:42.960
+ das macht alle IT-Welt in allen, ja, überall.
+
+00:54:42.960 --> 00:54:45.960
+ Das passiert überall, SSH wird genauso überall benutzt
+
+00:54:45.960 --> 00:54:47.960
+ und in SSH steckt XZ drin.
+
+00:54:47.960 --> 00:54:50.960
+ Zwingend, ich glaube nicht zwingend.
+
+00:54:50.960 --> 00:54:54.960
+ Wahrscheinlich nicht, also das kommt ja immer darauf an.
+
+00:54:54.960 --> 00:54:59.960
+ Also wird es selber gebaut, viele große Unternehmen machen ja nochmal so Dinge,
+
+00:54:59.960 --> 00:55:02.960
+ wie wir bauen das alles selber und kleinere Unternehmen
+
+00:55:02.960 --> 00:55:04.960
+ und Privatpersonen machen meistens,
+
+00:55:04.960 --> 00:55:06.960
+ dass sie das aus der Distribution nehmen,
+
+00:55:06.960 --> 00:55:08.960
+ also aus der Linux-Distribution fertig gebaut.
+
+00:55:08.960 --> 00:55:11.960
+ Da gibt es also ganz viele verschiedene Geschmacksrichtungen,
+
+00:55:11.960 --> 00:55:14.960
+ aber irgendwie steckt es halt dann immer mit drin.
+
+00:55:14.960 --> 00:55:17.960
+ Genau, was jetzt hier passiert ist,
+
+00:55:17.960 --> 00:55:19.960
+ das ist auch sehr, sehr typisch.
+
+00:55:19.960 --> 00:55:23.960
+ XZ ist, die Entwicklung ist natürlich nicht abgeschlossen,
+
+00:55:23.960 --> 00:55:25.960
+ die Kompressionsalgorithmen sind alle drin,
+
+00:55:25.960 --> 00:55:28.960
+ aber irgendjemand muss das Ding halt am Laufen halten,
+
+00:55:28.960 --> 00:55:31.960
+ weil man doch immer mal wieder ein neues Binary bauen muss
+
+00:55:31.960 --> 00:55:34.960
+ oder man muss mal hier irgendein Security Update einspielen
+
+00:55:34.960 --> 00:55:39.960
+ oder so Kleinigkeiten, so was wird in der Regel von den Maintainern gemacht.
+
+00:55:39.960 --> 00:55:41.960
+ Maintainern von Open Source Projekt,
+
+00:55:41.960 --> 00:55:43.960
+ das sind quasi diejenigen, die so ein bisschen entscheiden,
+
+00:55:43.960 --> 00:55:45.960
+ wann kommt die neue Version raus,
+
+00:55:45.960 --> 00:55:48.960
+ wann muss man aktiv an irgendwas arbeiten,
+
+00:55:48.960 --> 00:55:51.960
+ so ein bisschen so der Projektleiter.
+
+00:55:51.960 --> 00:55:54.960
+ Der große Unterschied zwischen einem Open Source Maintainer
+
+00:55:54.960 --> 00:55:55.960
+ und einem Projektleiter ist,
+
+00:55:55.960 --> 00:56:00.960
+ dass ganz, ganz häufig diese Menschen das ehrenamtlich und unbezahlt machen,
+
+00:56:00.960 --> 00:56:02.960
+ kommt auch so ein bisschen aufs Projekt an,
+
+00:56:02.960 --> 00:56:08.960
+ aber bei XZ ist es eben so, dass das irgendwie ein Mensch ist,
+
+00:56:08.960 --> 00:56:13.960
+ der das wirklich in seiner Freizeit macht und dafür nicht bezahlt wird.
+
+00:56:13.960 --> 00:56:15.960
+ Bei vielen anderen Projekten ist es so,
+
+00:56:15.960 --> 00:56:18.960
+ dass diese Menschen von irgendeiner Größe und Firma angestellt sind,
+
+00:56:18.960 --> 00:56:21.960
+ damit sie das auch weiter ordentlich machen.
+
+00:56:21.960 --> 00:56:23.960
+ Genau, hier aber eben nicht.
+
+00:56:23.960 --> 00:56:25.960
+ Und was eben passiert ist,
+
+00:56:25.960 --> 00:56:28.960
+ ist, dass der natürlich auch noch ein anderes Leben nebenher hat
+
+00:56:28.960 --> 00:56:30.960
+ und einen anderen Job.
+
+00:56:30.960 --> 00:56:36.960
+ Und es war, der war schon hart am Ausbrennen vor,
+
+00:56:36.960 --> 00:56:39.960
+ oder knapp davor auszubrennen vor zwei Jahren
+
+00:56:39.960 --> 00:56:43.960
+ und das hat sich jemand, wie sich jetzt im Nachgang ausgestellt hat,
+
+00:56:43.960 --> 00:56:47.960
+ jemand bösartiges Zunutze gemacht, hat seine Hilfe angeboten.
+
+00:56:47.960 --> 00:56:52.960
+ Man kann das sogar heutzutage schön noch nachverfolgen,
+
+00:56:52.960 --> 00:56:54.960
+ weil das alles in der Öffentlichkeit passiert,
+
+00:56:54.960 --> 00:56:57.960
+ auf Mailing-Listen in der Regel oder in GitHub-Issues.
+
+00:56:57.960 --> 00:57:00.960
+ Und es ist wohl sogar so, dass andere Leute,
+
+00:57:00.960 --> 00:57:03.960
+ möglicherweise alles erfundene Personen,
+
+00:57:03.960 --> 00:57:07.960
+ die dem Angreifer hier zugeordnet sind,
+
+00:57:07.960 --> 00:57:10.960
+ Feature-Quests angestellt haben
+
+00:57:10.960 --> 00:57:12.960
+ und Druck auf dem Antenna gemacht haben,
+
+00:57:12.960 --> 00:57:14.960
+ hier mal eine neue Version rauszubringen.
+
+00:57:14.960 --> 00:57:18.960
+ In dem speziellen Fall ging es um ein XZ4Java.
+
+00:57:18.960 --> 00:57:22.960
+ So erfundene Personen heißt natürlich einfach Fake-Profile.
+
+00:57:22.960 --> 00:57:24.960
+ Ja, man weiß es nicht.
+
+00:57:24.960 --> 00:57:26.960
+ Also Menschen, die sich mit Namen irgendwie vorstellen
+
+00:57:26.960 --> 00:57:28.960
+ und auf Mailing-Listen schreiben,
+
+00:57:28.960 --> 00:57:32.960
+ aber man macht ja jetzt keine Ausweiskontrolle, also genau.
+
+00:57:32.960 --> 00:57:36.960
+ Und jemand Gut Herziges hat sich angeboten, da auszuhelfen
+
+00:57:36.960 --> 00:57:39.960
+ und hat wohl tatsächlich über die letzten zwei Jahre
+
+00:57:39.960 --> 00:57:45.960
+ da auch echte Arbeit reingesteckt und tatsächlich zugearbeitet.
+
+00:57:45.960 --> 00:57:49.960
+ Und nachdem das Vertrauen dann jetzt da war,
+
+00:57:49.960 --> 00:57:53.960
+ hat dieser Mensch, der unter einem Pseudonym arbeitet,
+
+00:57:53.960 --> 00:57:56.960
+ mit hoher Wahrscheinlichkeit, man weiß es jetzt noch nicht,
+
+00:57:56.960 --> 00:58:01.960
+ kurz vor Ostern ein Release rausgebracht,
+
+00:58:01.960 --> 00:58:06.960
+ bei dem dann ein kleines Skript mitgeliefert wurde,
+
+00:58:06.960 --> 00:58:11.960
+ was wiederum wichtige Sachen, genau, in XZ drin steckt,
+
+00:58:11.960 --> 00:58:14.960
+ aber nur aktiv wird, wenn man es als Teil von SSH benutzt.
+
+00:58:14.960 --> 00:58:17.960
+ Ja, es war schon irgendwie spannend eingepackt.
+
+00:58:17.960 --> 00:58:19.960
+ Also es war, wenn ich es richtig mitgekriegt habe,
+
+00:58:19.960 --> 00:58:22.960
+ in einem Test, in dem Test gab es ein gutes und ein schlechtes Skript
+
+00:58:22.960 --> 00:58:26.960
+ und das schlechte sollte eigentlich, also wenn ich ein Test schreibe,
+
+00:58:26.960 --> 00:58:30.960
+ normalerweise sollte der Test es dann rauswerfen, das schlechte Ding
+
+00:58:30.960 --> 00:58:33.960
+ und dieser Test hat anderes gemacht.
+
+00:58:33.960 --> 00:58:38.960
+ Korrekt, so, und da der echte Maintainer,
+
+00:58:38.960 --> 00:58:44.960
+ der auch wirklich gute Arbeit leistet, auch noch mit aufgepasst hat,
+
+00:58:44.960 --> 00:58:49.960
+ musste da schon der Angreifer ein bisschen mehr Arbeit reinstecken
+
+00:58:49.960 --> 00:58:53.960
+ und der hat es aber trotzdem geschafft, in eines der Binarys,
+
+00:58:53.960 --> 00:58:59.960
+ was dann mit Debian, Unstable und anderen experimentellen
+
+00:58:59.960 --> 00:59:05.960
+ Linux-Distributionen ausgeliefert wurde, wo eben dieses kleine Skript drin steckt,
+
+00:59:05.960 --> 00:59:11.960
+ was dann wiederum, wenn jemand SSH mit dieser XZ Binary benutzt,
+
+00:59:11.960 --> 00:59:15.960
+ dann wird eben ein bisschen Schadcode ausgeführt, der wiederum,
+
+00:59:15.960 --> 00:59:18.960
+ und hierbei habe ich technisch nicht weitergelesen, was da eigentlich passiert,
+
+00:59:18.960 --> 00:59:22.960
+ aber es holt sich quasi die Master Key irgendwo aus dem Speicher
+
+00:59:22.960 --> 00:59:25.960
+ und schickt den auf einem Seitenkanal zurück.
+
+00:59:25.960 --> 00:59:30.960
+ Genau, der Teil ist an sich gar nicht so interessant,
+
+00:59:30.960 --> 00:59:33.960
+ da steckt jetzt auch nicht technisch so viel dahinter,
+
+00:59:33.960 --> 00:59:36.960
+ wo technisch viel dahinter steckt ist, wie wird das versteckt
+
+00:59:36.960 --> 00:59:41.960
+ und dann ist natürlich an dem Ganzen, und da fangen der soziale Aspekt viel, viel interessanter,
+
+00:59:41.960 --> 00:59:44.960
+ also wie hat der Mensch das reingekriegt, was bedeutet das
+
+00:59:44.960 --> 00:59:48.960
+ und der andere ganz interessante Aspekt, wie wurde das eigentlich entdeckt?
+
+00:59:48.960 --> 00:59:52.960
+ Ja, so und damit habe ich mich viel beschäftigt in den letzten Tagen,
+
+00:59:52.960 --> 00:59:54.960
+ wo ich das einfach so faszinierend fand.
+
+00:59:54.960 --> 01:00:00.960
+ Also es gab, wie gesagt, eine Version, ich glaube, es ist die Version 5.6,
+
+01:00:00.960 --> 01:00:06.960
+ und 5.6 ist noch die gute Version, so ist es genau, und ein 6 ist drin.
+
+01:00:06.960 --> 01:00:11.960
+ Es ist allerdings nicht, es ist nicht im Code, also wenn man sich selber sein XZ baut,
+
+01:00:11.960 --> 01:00:14.960
+ dann ist es nicht drin, und wenn man eine ältere Version hat,
+
+01:00:14.960 --> 01:00:18.960
+ wie sie in den meisten stabilen Linux-Distributionen eigentlich die weltweit benutzt Welle drin ist,
+
+01:00:18.960 --> 01:00:20.960
+ da ist einfach die 5.6 nicht drin.
+
+01:00:20.960 --> 01:00:24.960
+ Genau, da ist also alles noch gut.
+
+01:00:24.960 --> 01:00:30.960
+ Es wurde sehr früh entdeckt, weil ein Mensch, der an Postgres arbeitet, Postgres Quell,
+
+01:00:30.960 --> 01:00:34.960
+ ein weiteres Open Source Projekt, sehr, was sehr weit verwendet wird,
+
+01:00:34.960 --> 01:00:41.960
+ eine Datenbank, aber eine Datenbank, die so viel Geld dahinter steckt,
+
+01:00:41.960 --> 01:00:44.960
+ weil eben Großunternehmen alle Datenbanken benutzen,
+
+01:00:44.960 --> 01:00:48.960
+ und viele benutzen diese Datenbank, deswegen gibt es jetzt wiederum andere Großunternehmen,
+
+01:00:48.960 --> 01:00:54.960
+ namentlich sind es Microsoft, Google, Amazon und viele weitere,
+
+01:00:54.960 --> 01:00:57.960
+ die eben Leute anstellen, um aktiv an Postgres zu arbeiten.
+
+01:00:57.960 --> 01:01:03.960
+ Also hier ist das große, der große Unterschied, man hat eigentlich zwei Menschen,
+
+01:01:03.960 --> 01:01:10.960
+ die was sehr ähnliches tun, den Maintainer von XZ, der das irgendwie freiwillig und ehrenamtlich macht,
+
+01:01:10.960 --> 01:01:13.960
+ und auf der anderen Seite die Menschen, die an Postgres Quell arbeiten,
+
+01:01:13.960 --> 01:01:17.960
+ die das zwar auch freiwillig tun, und sicherlich auch in ihrer Freizeit,
+
+01:01:17.960 --> 01:01:22.960
+ aber eben zusätzlich noch von Großunternehmen dafür bezahlt werden, das zu machen,
+
+01:01:22.960 --> 01:01:24.960
+ und auch nicht schlecht bezahlt werden, das zu machen.
+
+01:01:24.960 --> 01:01:28.960
+ Ich habe gerade mal geguckt, die Version 5.2 und früher ist auf jeden Fall safe.
+
+01:01:28.960 --> 01:01:34.960
+ Ist die Cleaner, okay, alles klar, genau, und so, und was hier passiert ist,
+
+01:01:34.960 --> 01:01:39.960
+ ist, dass also ein deutscher Softwareentwickler übrigens, der in den USA arbeitet,
+
+01:01:39.960 --> 01:01:44.960
+ Tests mit Debian Unstable und Postgres gemacht hat,
+
+01:01:44.960 --> 01:01:49.960
+ und weil man an solchen Cloud-Anbietern wie Microsoft das macht,
+
+01:01:49.960 --> 01:01:52.960
+ und so, da gibt es viele Statistiken, weil einfach ausgewertet wird,
+
+01:01:52.960 --> 01:01:55.960
+ "Oh, wird jetzt irgendwas langsamer", und der hat eben festgestellt,
+
+01:01:55.960 --> 01:02:00.960
+ "Huch, meine SSH-Logins sind ja langsamer geworden", und da eben auch signifikant,
+
+01:02:00.960 --> 01:02:05.960
+ und allein durch die Auswertung, wie er das dann gemacht hat, ist er sehr, sehr technisch.
+
+01:02:05.960 --> 01:02:08.960
+ Er hat auch gar nicht SSH getestet, sondern was anderes,
+
+01:02:08.960 --> 01:02:13.960
+ insgesamt wahrscheinlich Postgres, und hat da beim Testen SSH verwendet und dabei vieles auf.
+
+01:02:13.960 --> 01:02:19.960
+ Exakt. Also man nennt das ja dann Flame Graphs, das ist in Postgres sehr üblich,
+
+01:02:19.960 --> 01:02:23.960
+ wo man sich anguckt, oh, welcher Prozess hat denn hier, wie lang für was gebraucht,
+
+01:02:23.960 --> 01:02:30.960
+ und da in diesem Flame Graph taucht auch SSH mit drin auf, was einen Postgres-Entwickler eigentlich überhaupt nicht interessiert.
+
+01:02:30.960 --> 01:02:37.960
+ Aber wenn das eben auf einmal signifikant länger dauert, dann wundert man sich, was ist denn da los,
+
+01:02:37.960 --> 01:02:45.960
+ und halt so als Mensch, der eben, also Postgres ist natürlich als Datenmark auch irgendwie sehr low-level Software,
+
+01:02:45.960 --> 01:02:52.960
+ das heißt, man beschäftigt sich ständig mit den Internas von so kleinen Softwareprojekten.
+
+01:02:52.960 --> 01:02:57.960
+ Also als Mensch mit einer nicht vorhandenen intrinsischen Motivation hört man halt auch, man stellt fest,
+
+01:02:57.960 --> 01:03:01.960
+ ja, dauert länger, pff, ist nicht mein Projekt, mir doch egal.
+
+01:03:01.960 --> 01:03:04.960
+ Und auch als Mensch, der das nicht zuordnen kann.
+
+01:03:04.960 --> 01:03:12.960
+ Also es ist halt hier schon so, weil es eben zufällig jemand ist, der im Betriebssystem oder Datenbank-Kontext unterwegs ist,
+
+01:03:12.960 --> 01:03:19.960
+ in sowas reinguckt und dann auch noch zufällig die entsprechenden Tools benutzt, um dem hinterhergehen zu können.
+
+01:03:19.960 --> 01:03:24.960
+ - Hat sich vorher Spannhackle erwähnt und warum es wichtig ist, wenigstens den Kurklagen von Informatik-Wissen zu haben?
+
+01:03:24.960 --> 01:03:29.960
+ - Korrekt, also ohne jetzt hier irgendwie despektierlich oder respektlos zu klingen,
+
+01:03:29.960 --> 01:03:35.960
+ aber jetzt halt ein typischer Javascript-Entwickler wird sicherlich nicht, die das Know-How haben,
+
+01:03:35.960 --> 01:03:43.960
+ um von sich raus hinterherzugehen, warum jetzt ist es halt irgendwie länger braucht für Verbindungsaufbau.
+
+01:03:43.960 --> 01:03:46.960
+ Das ist einfach dann nicht die Kern, das kannte ich.
+
+01:03:46.960 --> 01:03:48.960
+ - Glaub ich, solche oder solche.
+
+01:03:48.960 --> 01:03:50.960
+ - Genau. - Das ist ja das, was ich gerade gesagt habe.
+
+01:03:50.960 --> 01:03:56.960
+ Es gibt Leute mit einer gewissen intrinsischen Motivation, die diese letzte Meile auch noch gehen.
+
+01:03:56.960 --> 01:04:00.960
+ Ein bisschen links und rechts. - Ja, wo bin ich nicht unterwegs?
+
+01:04:00.960 --> 01:04:04.960
+ - Ich glaube, es kommt auch so ein bisschen darauf an.
+
+01:04:04.960 --> 01:04:09.960
+ Also nimmst du das jetzt irgendwie als Testart, im Sinne von so, okay, das dauert irgendwie länger.
+
+01:04:09.960 --> 01:04:13.960
+ Komisch oder komisch, aber es muss doch eigentlich schnell gehen
+
+01:04:13.960 --> 01:04:16.960
+ und es ist auch unser Ziel, dass es irgendwie schnell geht.
+
+01:04:16.960 --> 01:04:21.960
+ Und das ist der Überblick und siehst, dass es irgendwie wirklich komisch ist.
+
+01:04:21.960 --> 01:04:25.960
+ - Aber ich glaube, was Backdoor-Entwickler daraus lernen,
+
+01:04:25.960 --> 01:04:28.960
+ ist, sie müssen ihre Backdoors viel, viel effizienter schreiben,
+
+01:04:28.960 --> 01:04:31.960
+ damit sie nicht mehr auffallen in so einem Flamegraph.
+
+01:04:31.960 --> 01:04:34.960
+ Denn wenn man sich die Zeiten anguckt, ist es tatsächlich so,
+
+01:04:34.960 --> 01:04:37.960
+ dass der von, weiß ich, ursprünglich hat er mal 20 Millisekunden gebraucht
+
+01:04:37.960 --> 01:04:39.960
+ und jetzt braucht er auf einmal eine halbe Sekunde genau.
+
+01:04:39.960 --> 01:04:41.960
+ Also muss schon ein sehr schlechtes Backcode sein.
+
+01:04:41.960 --> 01:04:46.960
+ Und die andere was, also einerseits geht das gerade durch alle Medien,
+
+01:04:46.960 --> 01:04:50.960
+ auch in den New York Times und so stehende Tests dafür,
+
+01:04:50.960 --> 01:04:53.960
+ wo sich sehr auf diesen Maintainer fokussiert wird,
+
+01:04:53.960 --> 01:04:57.960
+ der halt einer von vielen ist, wo sowas passieren kann.
+
+01:04:57.960 --> 01:05:02.960
+ Viele stellen auch den Postgres-Entwickler hier als Helden da,
+
+01:05:02.960 --> 01:05:05.960
+ weil er das entdeckt hat und in seiner Freizeit und bla,
+
+01:05:05.960 --> 01:05:10.960
+ das ist so eben auch nicht ganz korrekt, das hat er sicherlich in seiner Freizeit gemacht,
+
+01:05:10.960 --> 01:05:12.960
+ aber es ist eben auch sein Job.
+
+01:05:12.960 --> 01:05:16.960
+ Und zum anderen, was mir an der Stelle noch auffällt,
+
+01:05:16.960 --> 01:05:19.960
+ ist es wird jetzt hier so dargestellt,
+
+01:05:19.960 --> 01:05:21.960
+ als wäre das ein kompletter Zufallspund.
+
+01:05:21.960 --> 01:05:23.960
+ Das stimmt, es ist ein Zufallspund,
+
+01:05:23.960 --> 01:05:26.960
+ aber ein Zufallspund, der bei systematischen Analysen aufgefallen ist.
+
+01:05:26.960 --> 01:05:30.960
+ Und das Einzige, was hier spannend ist,
+
+01:05:30.960 --> 01:05:33.960
+ ist das der Kollege da auf Diebien Unstable,
+
+01:05:33.960 --> 01:05:36.960
+ also wirklich der Distribution, die nirgends wo zum Einsatz kommt,
+
+01:05:36.960 --> 01:05:39.960
+ schon mal geguckt hat, wie verhält sich denn die Datenbank
+
+01:05:39.960 --> 01:05:42.960
+ mit der nächsten Version von Diebien.
+
+01:05:42.960 --> 01:05:46.960
+ Und man kann sich also relativ sicher sein,
+
+01:05:46.960 --> 01:05:51.960
+ dass so eine halbe Sekunde Versatz wird auffallen,
+
+01:05:51.960 --> 01:05:56.960
+ sehr, sehr schnell, sobald das in produktive Distributionen Einzug findet.
+
+01:05:56.960 --> 01:06:03.960
+ Also so ganz, so, hey, wir sind knapp an der größten Zeit bei Attacke der Weltgeschichte vorbeigeschrammt,
+
+01:06:03.960 --> 01:06:05.960
+ so ganz gehe ich da nicht mit.
+
+01:06:05.960 --> 01:06:07.960
+ Das ist natürlich auch...
+
+01:06:07.960 --> 01:06:10.960
+ Wenn ich möchte, dass der Artikel gelesen wird, dann schreibe ich so.
+
+01:06:10.960 --> 01:06:11.960
+ Korrekt.
+
+01:06:11.960 --> 01:06:13.960
+ Das ist nicht falsch, aber auch nicht.
+
+01:06:13.960 --> 01:06:16.960
+ Nichtsdestotrotz ist es eine sehr, sehr, sehr interessante Geschichte.
+
+01:06:16.960 --> 01:06:21.960
+ Und man fragt sich auch hier wieder, ja, okay, also wenn es da Angreifer gibt,
+
+01:06:21.960 --> 01:06:24.960
+ das scheint schon ein staatlicher Angreifer zu sein,
+
+01:06:24.960 --> 01:06:26.960
+ denn anders kann man sich nicht vorstellen,
+
+01:06:26.960 --> 01:06:29.960
+ dass jemand zwei Jahre Zeit nimmt, um tatsächlich an einem Projekt mitzuarbeiten,
+
+01:06:29.960 --> 01:06:32.960
+ um dann sozusagen der Doppelspion zu sein,
+
+01:06:32.960 --> 01:06:35.960
+ der hier seinen Backdoor einbaut.
+
+01:06:35.960 --> 01:06:37.960
+ Und da ist natürlich die Frage,
+
+01:06:37.960 --> 01:06:39.960
+ gibt es denn das nicht an anderer Stelle nochmal
+
+01:06:39.960 --> 01:06:43.960
+ und war vielleicht an anderer Stelle jemand, der ein effizienteres Backdoor eingebaut hat?
+
+01:06:43.960 --> 01:06:44.960
+ Wer war es?
+
+01:06:44.960 --> 01:06:46.960
+ Tätig, man weiß das nicht.
+
+01:06:46.960 --> 01:06:52.960
+ Ich nehme für mich an der Stelle auf jeden Fall wieder mit auch so Grundlagen,
+
+01:06:52.960 --> 01:06:57.960
+ Sachen wie XZ, da passiert viel in erntelamtlicher Arbeit,
+
+01:06:57.960 --> 01:06:59.960
+ ganz viel, was häufig nicht gesehen wird
+
+01:06:59.960 --> 01:07:04.960
+ und nur dann, wenn es brennt, wird es gesehen, wie viel Arbeit da eigentlich drinsteckt.
+
+01:07:04.960 --> 01:07:07.960
+ Unterstützt eure Grundlagenprojekte auch mit Pull Request,
+
+01:07:07.960 --> 01:07:12.960
+ mit guten Pull Request und teilweise auch mit Geld.
+
+01:07:12.960 --> 01:07:19.960
+ Also wenn ihr könnt, lasst den Entwicklern gerne mal einen Kaffee oder so da,
+
+01:07:19.960 --> 01:07:23.960
+ gibt ja da teilweise Möglichkeiten, Spenden da zu lassen.
+
+01:07:23.960 --> 01:07:25.960
+ Ich glaube, Geld ist ein Punkt,
+
+01:07:25.960 --> 01:07:29.960
+ aber so das, was drüber steht und die nächste Abtragung zu tun ist,
+
+01:07:29.960 --> 01:07:31.960
+ behandelt die Leute ordentlich.
+
+01:07:31.960 --> 01:07:35.960
+ Speziell, wenn ihr da Pull Request aufmacht, wenn ihr euch fragt,
+
+01:07:35.960 --> 01:07:40.960
+ warum ist denn dieses und jenes Binary immer noch auf dieser Hornbuckel alt?
+
+01:07:40.960 --> 01:07:42.960
+ Warum ist das immer noch Python 2.7?
+
+01:07:42.960 --> 01:07:44.960
+ Muss das noch Python 2.7 sein?
+
+01:07:44.960 --> 01:07:48.960
+ Ja, die Anfrage ist rechtfertigt, aber bitte seid freundlich
+
+01:07:48.960 --> 01:07:51.960
+ und denkt daran, dass derjenige, der am anderen Ende sitzt,
+
+01:07:51.960 --> 01:07:54.960
+ vielleicht gerade eigentlich in seinen Osterfällen ist
+
+01:07:54.960 --> 01:07:59.960
+ und mit Kumpels steckt und ihr müsst da jetzt nicht unbedingt den High-Civility-Bug
+
+01:07:59.960 --> 01:08:02.960
+ sonst was aufmachen, nur weil es euch gerade behindert.
+
+01:08:02.960 --> 01:08:05.960
+ Hält selber mit aus, wenn ihr könnt
+
+01:08:05.960 --> 01:08:09.960
+ und ansonsten seid einfach freundlich zueinander in der Welt.
+
+01:08:09.960 --> 01:08:13.960
+ Ein paar freundliche Worte sind für so ein Maintainer, glaube ich, auch hilfreich
+
+01:08:13.960 --> 01:08:18.960
+ und können im richtigen Moment sehr viel Gutes bewirken.
+
+01:08:18.960 --> 01:08:21.960
+ Aber macht gerne auch ein bisschen Kohle locker, wenn ihr könnt.
+
+01:08:21.960 --> 01:08:25.960
+ Oder bezahlt man Entwickler, der dem einen hilft?
+
+01:08:25.960 --> 01:08:31.960
+ Korrekt, wenn ihr in einer Firma seid und Geld habt, um jemanden einzustellen,
+
+01:08:31.960 --> 01:08:37.960
+ selbst wenn es keine Ahnung, ein Werkstudent ist, der dann mit bei Open-Source-Projekten
+
+01:08:37.960 --> 01:08:40.960
+ aushilft, sehr, sehr, sehr wertvoll.
+
+01:08:40.960 --> 01:08:45.960
+ So, ich denke, wir müssen dann an der Stelle auch so langsam zum Ende kommen.
+
+01:08:45.960 --> 01:08:48.960
+ Also sprechen wir wieder alle sehr viel schneller.
+
+01:08:48.960 --> 01:08:55.960
+ Ja, genau. Das war Chaos im Radio in der April-Ausgabe.
+
+01:08:55.960 --> 01:09:01.960
+ Ihr hört uns jeden zweiten Montag im Monat unter den entsprechenden Frequenzen
+
+01:09:01.960 --> 01:09:12.960
+ unter 90,7 MHz auf UKW, 88,4 MHz in Berlin und unter DAB+ auf FR-BB und 24,3 MHz.
+
+01:09:12.960 --> 01:09:17.960
+ Und ansonsten könnt ihr alte Folgen nachhören unter radio.cc-P.org
+
+01:09:17.960 --> 01:09:19.960
+ und werdet euch...
+
+01:09:19.960 --> 01:09:22.960
+ Wenn ihr nicht die alten Folgen nachhört, sondern nicht jetzt im Radio,
+
+01:09:22.960 --> 01:09:24.960
+ dann ist übermorgen, Mittwoch.
+
+01:09:24.960 --> 01:09:25.960
+ Stimmt.
+
+01:09:25.960 --> 01:09:27.960
+ In der Machbar. Wir werden fünf.
+
+01:09:27.960 --> 01:09:28.960
+ Ja, fünf.
+
+01:09:28.960 --> 01:09:29.960
+ Uuh, fünf.
+
+01:09:29.960 --> 01:09:32.960
+ Ja, genau. Es wird Slash geben.
+
+01:09:32.960 --> 01:09:33.960
+ Trumpes Slash.
+
+01:09:33.960 --> 01:09:34.960
+ Bis dahin.
+
+01:09:34.960 --> 01:09:35.960
+ Und es wird gegrillt.
+
+01:09:35.960 --> 01:09:36.960
+ Ja.
+
+01:09:36.960 --> 01:09:38.960
+ Bis dahin wünschen wir euch eine schöne Zeit, wenn wir euch dort sehen.
+
+01:09:38.960 --> 01:09:41.960
+ Und ansonsten hören wir uns im Mai wieder. Bis dahin.
+
+01:09:41.960 --> 01:09:42.960
+ Tschüss.
+
+01:09:42.960 --> 01:09:43.960
+ Tschüss.
+
