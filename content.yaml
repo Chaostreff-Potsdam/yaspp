@@ -2629,6 +2629,40 @@ long_summary_md: |-
   &#x1f3b6;&nbsp;[ArcSound - Sport Action Teaser - Free Music Archive](https://freemusicarchive.org/music/arcsound/single/sport-action-teaser/)
   &#x1f3b6;&nbsp;[CXR ATK - Impetus - Free Music Archive](https://freemusicarchive.org/music/cxr-atk/cxr-atk-3/impetus/)
 ---
+uuid: nt-2024-07-08
+title: 'CiR am 08.07.2024'
+subtitle: Der Chaostreff im Freien Radio Potsdam
+summary: >
+  Cyroxx, Gini und Hannes versuchen ohne Knurps die Technik im Radio-Studio in den Griff zu kriegen.
+
+publicationDate: "2024-07-08T00:00:00+00:00"
+audio:
+  - url: $media_base_url/2024_07_08-chaos-im-radio.mp3
+    mimeType: audio/mp3
+long_summary_md: |-
+  **Shownotes:**
+
+  * [https://de.m.wikipedia.org/wiki/Wero_(Zahlungsdienst)](https://de.m.wikipedia.org/wiki/Wero_(Zahlungsdienst))
+  * [https://www.golem.de/news/zeitmessung-2024-gibt-es-keine-schaltsekunde-2407-186793.html](https://www.golem.de/news/zeitmessung-2024-gibt-es-keine-schaltsekunde-2407-186793.html)
+  * [https://de.wikipedia.org/wiki/Swatch-Internetzeit](https://de.wikipedia.org/wiki/Swatch-Internetzeit)
+  * [https://en.wikipedia.org/wiki/Tz_database](https://en.wikipedia.org/wiki/Tz_database)
+  * [https://www.youtube.com/watch?v=T-3iFhEyKXQ](https://www.youtube.com/watch?v=T-3iFhEyKXQ)
+  * [https://9to5mac.com/2024/07/04/authy-hack/](https://9to5mac.com/2024/07/04/authy-hack/) Authy exposes phone numbers of 33M users; Twilio confirms
+  * Twilio has detected that threat actors were able to identify data associated with Authy accounts, including phone numbers, due to an unauthenticated endpoint.
+  * [https://9to5mac.com/2024/06/27/identity-verification-company-au10tix/](https://9to5mac.com/2024/06/27/identity-verification-company-au10tix/)
+  * [https://www.golem.de/news/ticket-app-uefa-teilt-standortdaten-von-em-besuchern-mit-der-polizei-2407-186767.html](https://www.golem.de/news/ticket-app-uefa-teilt-standortdaten-von-em-besuchern-mit-der-polizei-2407-186767.html)
+  * [https://x.com/fanhilfe_md/status/1808783446858199099?t=](https://x.com/fanhilfe_md/status/1808783446858199099?t=)
+  * [https://fragdenstaat.de/blog/2024/07/03/wie-die-host-citys-mit-einem-fragwurdigen-vorkaufsrecht-umgingen/](https://fragdenstaat.de/blog/2024/07/03/wie-die-host-citys-mit-einem-fragwurdigen-vorkaufsrecht-umgingen/)
+  * [https://fragdenstaat.de/blog/2024/07/03/gericht-verbietet-bildungsministerium-vorerst-loschung-von-nachrichten/](https://fragdenstaat.de/blog/2024/07/03/gericht-verbietet-bildungsministerium-vorerst-loschung-von-nachrichten/)
+  * [https://fragdenstaat.de/blog/2024/07/04/nsu-akten-leak-strafanzeige-ermittlungen-eingestellt/](https://fragdenstaat.de/blog/2024/07/04/nsu-akten-leak-strafanzeige-ermittlungen-eingestellt/)
+
+
+  **Musik:**
+
+  &#x1f3b6;&nbsp;[https://freemusicarchive.org/music/koi-discovery/single/interitusmp3/](https://freemusicarchive.org/music/koi-discovery/single/interitusmp3/)
+  &#x1f3b6;&nbsp;[Ketsa - Normal Is - Free Music Archive](https://freemusicarchive.org/music/Ketsa/fresh-starts/normal-is/)
+  &#x1f3b6;&nbsp;[Beat Mekanik - Requiem for a Dream - Free Music Archive](https://freemusicarchive.org/music/beat-mekanik/single/requiem-for-a-dream/)
+---
 uuid: nt-2024-09-09
 title: 'CiR am 09.09.2024'
 subtitle: Der Chaostreff im Freien Radio Potsdam
