@@ -1920,7 +1920,7 @@ uuid:     nt-2022-06-13
 title:    CiR am 13.06.2022
 subtitle: Der Chaostreff im Freien Radio Potsdam
 summary:  >
-  Knurps war diesmal als rasender Reporter auf der re:publica unterwegs und hat neben zwei spannenden Interviews auch 
+  Knurps war diesmal als rasender Reporter auf der re:publica unterwegs und hat neben zwei spannenden Interviews auch
   zwei Gäste für die Sendung angeworben. Mit diesen sprechen wir unter anderem über Schönes, wie die re:publica und die GPN, aber
   auch über Schmerzhaftes wie die Chatkontrolle.
 publicationDate: "2022-06-23T19:00:00+02:00"
@@ -1958,37 +1958,37 @@ chapters:
     title: 'Rausschmiss'
 long_summary_md: |
   **Shownotes:**
-    
+
   ### Unsere Gäste
-  
+
     * sara (TU Berlin, [@Sarapedia1](https://twitter.com/Sarapedia1), [@Sarapedia1@chaos.social](https://chaos.social/@Sarapedia1))
     * nielek/Daniel Wessolek (makerspace auf re:publica, Netzwerk offener Werkstätten, OKF, OpenNEXT!, [@wessolek](https://twitter.com/wessolek), [@nielek@chaos.social](https://chaos.social/@nielek))
-  
+
   ### GPN20
-  
+
   * [GPN20](https://entropia.de/GPN20) bzw. [Wikipedia zur GPN allgemein](https://de.wikipedia.org/wiki/Gulaschprogrammiernacht)
   * [Tschunk](https://entropia.de/Tschunk)
   * [Eindrücke von der GPN20](https://chaos.social/web/tags/GPN20)
   * [Vorträge der GPN20 auf media.ccc.de](https://media.ccc.de/c/gpn20)
-  
+
   ### re:publica 22
-  
+
   * [Website der re:publica](https://re-publica.com)
   * [Wikipedia: re:publica](https://de.wikipedia.org/wiki/Re%3Apublica)
   * [KInsecta](https://kinsecta.org/)
   * CityLab Berlin: [Öffentliches Gestalten - Handbuch für innovatives Arbeiten in der Verwaltung](https://citylab-berlin.org/de/projects/handbuch/)
   * [Prototype Fund Hardware](https://hardware.prototypefund.de/)
-  
+
   ### Kurzmeldungen
   * Rathaus in Potsdam hat jetzt online Warteliste:
       * [PNN: Warteliste für den Bürgerservice wird immer länger](https://www.pnn.de/potsdam/potsdamer-rathaus-in-der-kritik-warteliste-fuer-den-buergerservice-wird-immer-laenger/28389974.html) (01.06.2022)
       * [PNN: Termine für Potsdams Bürgerservice jetzt leichter buchbar](https://www.pnn.de/potsdam/software-modernisiert-termine-fuer-potsdams-buergerservice-jetzt-leichter-buchbar/28410038.html) (09.06.2022)
-  
+
   * Tempolimit: [Update IFG-Anfrage "Mehrbedarf an Verkehrsschildern"](https://fragdenstaat.de/dokumente/153168-untitled/)
   * [MDR: Digitales Schulzeugnis ist vorerst gescheitert](https://www.mdr.de/nachrichten/sachsen-anhalt/digital-zeugnis-entwicklung-probleme-100.html)
     * [O-Ton HonkHase zum Thema](https://www.mdr.de/nachrichten/sachsen-anhalt/audio-manuel-atug-digital-zeugnis-blockchain-verwaltung-politik-100.html ) (leider depubliziert)
   * [MediathekViewWeb](https://mediathekviewweb.de/) - zum Ansehen und Herunterladen von Sendungen
-  
+
   ### Chatkontrolle
   * [CCC: EU-Kommission will alle Chatnachrichten durchleuchten](https://www.ccc.de/de/updates/2022/eu-kommission-will-alle-chatnachrichten-durchleuchten)
   * [Tagesschau: Rüge durch EU-Ombudsfrau - Von der Leyen soll Pfizer-SMS offenlegen](https://www.tagesschau.de/ausland/vonderleyen-sms-101.html) (28.01.2022)
@@ -1997,9 +1997,882 @@ long_summary_md: |
   * [STRG_F: Pädokriminelle Foren: Warum löscht niemand die Aufnahmen?](https://www.youtube.com/watch?v=iItLpwkQMUQ) (02.12.2021)
   * [Netzpolitik: Client-Side-Scanning: Berühmte IT-Sicherheitsforscher:innen warnen vor Wanzen in unserer Hosentasche](https://netzpolitik.org/2021/client-side-scanning-beruehmte-it-sicherheitsforscherinnen-warnen-vor-wanzen-in-unserer-hosentasche/) (16.10.2021)
   * Wenn ihr ein iPhone habt, wollt ihr vielleicht das iCloud-Backup eurer Signal- und anderer Messenger-Nachrichten ausschalten, um in Zukunft zu verhindern, dass amerikanische Behörden mitlesen können: https://twitter.com/RayRedacted/status/1524962941044416512
-  
+
   ### Veranstaltungshinweise
-  
+
   * [Chaostreff Potsdam](https://www.ccc-p.org/), immer mittwochs ab 19:00 Uhr
   * [Bits & Bäume](https://berlin.bits-und-baeume.org/)
 
+---
+uuid: nt-2022-07-02
+title: 'CiR am 02.07.2022'
+subtitle: Der Chaostreff im Freien Radio Potsdam
+summary: >
+  Knurps, Cyroxx, Ajuvo, Gini und Kirstin senden vom CCCP-Camp irgendwo aus der digitalen Wüste Brandenburgs...
+
+publicationDate: "2022-07-02T00:00:00+00:00"
+audio:
+  - url: $media_base_url/2022_07_02-chaos-im-radio.mp3
+    mimeType: audio/mp3
+chapters:
+  - start: '00:00:00'
+    title: 'Intro & Grüße vom CCCPCamp22'
+  - start: '00:08:30'
+    title: 'Cyberhotline der Digitalagentur Berlin'
+  - start: '00:11:15'
+    title: 'Internet im Knast'
+  - start: '00:15:55'
+    title: 'Buchtipp'
+long_summary_md: |-
+  **Shownotes:**
+
+  Cyberhotline:
+  * [Tagesspiegel:  Für Firmen als Hacker-Opfer: Berlins „Cyberhotline“ bleibt dauerhaft geschaltet](https://www.tagesspiegel.de/berlin/berliner-wirtschaft/fur-firmen-als-hacker-opfer-berlins-cyberhotline-bleibt-dauerhaft-geschaltet-8651947.html)
+  * [netzpolitik.org: 21 Anrufe im Jahr: Berliner „Cyberhotline“ ist teuer und wird kaum genutzt](https://netzpolitik.org/2023/21-anrufe-im-jahr-berliner-cyberhotline-ist-teuer-und-wird-kaum-genutzt/)
+  * [Digitalagentur Berlin: Cyberhotline für die Berliner Wirtschaft](https://www.digitalagentur.berlin/neuigkeiten/cyberhotline-fuer-berliner-unternehm---36-.html)
+  * [https://www.itsbb.net/projekte/projektseite-2-cyberholine/](https://www.itsbb.net/projekte/projektseite-2-cyberholine/)
+
+  * [Internet im Knast: Eingeschränkter Zugang zur Außenwelt](https://netzpolitik.org/2022/internet-im-knast-eingeschraenkter-zugang-zur-aussenwelt/)
+
+  Veranstaltungshinweise:
+
+  * [camp im vogtland](https://thereisno.camp/)
+  * [Electromagnetic Fields Camp](https://www.emfcamp.org/)
+  * podstock
+  * [Chaostreff Potsdam](https://www.ccc-p.org/), immer mittwochs ab 19:00 Uhr
+  * [Bits & Bäume](https://berlin.bits-und-baeume.org/)
+
+
+  **Musik:**
+
+  &#x1f3b6;&nbsp;[Systemabsturz - Verdächtig](https://systemabsturz.band/)
+---
+uuid: nt-2022-09-12
+title: 'CiR am 12.09.2022'
+subtitle: Der Chaostreff im Freien Radio Potsdam
+summary: >
+  Gini, Knurps, Hannes und Cyroxx quatschen sich ins Chaos - über Edit Buttons bei Twitter und schottische Bahnen
+
+publicationDate: "2022-09-12T00:00:00+00:00"
+audio:
+  - url: $media_base_url/2022_09_12-chaos-im-radio.mp3
+    mimeType: audio/mp3
+chapters:
+  - start: '00:00:00'
+    title: 'Intro'
+  - start: '00:25:00'
+    title: 'Text-To-Speech-Hate'
+  - start: '00:39:00'
+    title: 'Hypp fractal - Fireflies - Free Music Archive'
+    href: 'https://freemusicarchive.org/music/Hypp_fractal/Time_and_Space/05_Fireflies/'
+  - start: '00:44:00'
+    title: 'Crypto'
+  - start: '01:04:00'
+    title: 'Prototype Fund'
+  - start: '01:14:00'
+    title: 'Termine'
+long_summary_md: |-
+  **Shownotes:**
+
+  * Edit-Button [https://twitter.com/Twitter/status/1565318587736285184](https://twitter.com/Twitter/status/1565318587736285184)
+  * [https://flipperzero.one/](https://flipperzero.one/)
+  * [https://en.wikipedia.org/wiki/UEFI#SECURE-BOOT](https://en.wikipedia.org/wiki/UEFI#SECURE-BOOT)
+  * [https://twitter.com/HonkHase/status/1565949799639224324](https://twitter.com/HonkHase/status/1565949799639224324)
+  * Hörer-Rätsel -> Guesses an radio@ccc-p.org
+  * versprochene Links wurden nicht an Hannes geschickt :-(
+  * Durchsagen der schottischen Bahn: [https://www.matteason.co.uk/scotbeats/](https://www.matteason.co.uk/scotbeats/)
+  * [https://linus-neumann.de/2022/07/blockchain-and-web-3-0-kicking-the-hornets-nest/](https://linus-neumann.de/2022/07/blockchain-and-web-3-0-kicking-the-hornets-nest/)
+  * Der CCCPCC-ICO
+  * Prototype Fund:  [https://prototypefund.de/projects/round-11/](https://prototypefund.de/projects/round-11/)
+  * Termine:
+  * Datenspuren, 16.09. - 18.09.2022, Zentralwerk, Riesaer Str. 32, Dresden [https://datenspuren.de/2022/](https://datenspuren.de/2022/)
+  * Klimastreik am 23.09.2022 - Mit Fridays for Future auf die ... [https://fridaysforfuture.de/klimastreik/](https://fridaysforfuture.de/klimastreik/)
+  * Bits & Bäume 2022, 30. September bis 2. Oktober 2022 an der TU Berlin, [https://bits-und-baeume.org/konferenz-2022/](https://bits-und-baeume.org/konferenz-2022/)
+  * Code Week Germany (Knurps)
+
+
+  **Musik:**
+
+  &#x1f3b6;&nbsp;[Hypp fractal - Fireflies - Free Music Archive](https://freemusicarchive.org/music/Hypp_fractal/Time_and_Space/05_Fireflies/)
+---
+uuid: nt-2022-10-10
+title: 'CiR am 10.10.2022'
+subtitle: Der Chaostreff im Freien Radio Potsdam
+summary: >
+  Gini, Knurps, Cyroxx und Hannes senden live aus'm Studio und kriegen keine Shownotes gebacken, ranten über Crypto-Currency, nicht vorhandene IT Sicherheit und über das echte Leben.
+
+publicationDate: "2022-10-10T00:00:00+00:00"
+audio:
+  - url: $media_base_url/2022_10_10-chaos-im-radio.mp3
+    mimeType: audio/mp3
+long_summary_md: |-
+  **Shownotes:**
+
+  * Die ersten Sekunden kommen aus der Sendung "Salatschatten" vom Frrapo
+  * [https://ethereum.org/en/energy-consumption/](https://ethereum.org/en/energy-consumption/)
+  * [https://tante.cc/2022/02/04/das-dritte-web/](https://tante.cc/2022/02/04/das-dritte-web/)
+  * MalwareTech: [https://en.wikipedia.org/wiki/Marcus_Hutchins](https://en.wikipedia.org/wiki/Marcus_Hutchins)
+  * [https://codeweek.eu](https://codeweek.eu)
+  * Erika Schreibmaschinen: [https://de.wikipedia.org/wiki/Seidel_%26_Naumann](https://de.wikipedia.org/wiki/Seidel_%26_Naumann)
+  * [https://freemusicarchive.org/](https://freemusicarchive.org/)
+  * im Einspieler hört man Arno Elmer
+
+
+  **Musik:**
+
+  &#x1f3b6;&nbsp;[Juanitos - Exotika](https://freemusicarchive.org/music/Juanitos/Exotica/juanitos_-_06_-_exotica/)
+  &#x1f3b6;&nbsp;[Storm Clouds (Dark Military Dystopian Mysterious Cinematic Music)](https://freemusicarchive.org/music/audiorezout/twisted-lies/storm-clouds-dark-military-dystopian-mysterious-cinematic-music/)
+  &#x1f3b6;&nbsp;[HoliznaCC0 - Little Green Men - Free Music Archive](https://freemusicarchive.org/music/holiznacc0/stranger-than-fiction-halloween-sci-fi/little-green-men/)
+  &#x1f3b6;&nbsp;[Gigakoops - Good Grief - Free Music Archive](https://freemusicarchive.org/music/gigakoops/remastered/good-grief/)
+---
+uuid: nt-2022-12-12
+title: 'CiR am 12.12.2022'
+subtitle: Der Chaostreff im Freien Radio Potsdam
+summary: >
+  Paul, Knurps, Hannes, Cyroxx und Gini reden über Large Language Models und deren Folgen
+
+publicationDate: "2022-12-12T00:00:00+00:00"
+audio:
+  - url: $media_base_url/2022_12_12-chaos-im-radio.mp3
+    mimeType: audio/mp3
+long_summary_md: |-
+  **Shownotes:**
+
+  * [OpenAI Blog](https://openai.com/blog)
+  * [Github Copilot](https://github.com/features/copilot)
+  * [Medium.com The Brilliance Of Quake’s Fast Inverse Square Root Algorithm](https://medium.com/0xcode/the-brilliance-of-quakes-fast-inverse-square-root-algorithm-d18365f8bba2)
+  * [Piqd: Gerichtsverfahren gegen Github Copilot](https://www.piqd.de/technologie-gesellschaft/gerichtsverfahren-gegen-github-copilot-wegen-ai-piracy)
+  * [MAZ: Deepfakes in Großbritanien künftig strafbar](https://www.maz-online.de/digital/grossbritannien-pornografische-deepfakes-kuenftig-strafbar-TTZMRCTWTQZL2W3UTNL57VFT4M.html)
+  * [Golem: Verwirrung um Bruce Willis' Deepfake Rechte ](https://www.golem.de/news/digitaler-zwilling-verwirrung-um-deepfake-rechte-an-bruce-willis-2210-168668.html)
+  * [YouTube: 2 minute papers](https://www.youtube.com/@TwoMinutePapers/videos)
+
+  * [Pine64.org (profit-orientiertes Unternehmen mit OpenHardware-Produkten)](https://www.pine64.org/)
+
+  * [Mastodon](https://mastodon.social/)
+
+
+  **Musik:**
+
+  &#x1f3b6;&nbsp;[Derek Stephens - Moving Ahead - Free Music Archive](https://freemusicarchive.org/music/derek-stephens/100-bpm/moving-ahead/)
+---
+uuid: nt-2023-01-09
+title: 'CiR am 09.01.2023'
+subtitle: Der Chaostreff im Freien Radio Potsdam
+summary: >
+  Gini, Cyroxx und Ajuvo begrüßen das neue Jahr, werten den Potsdamer Kongress (als Ersatz für den Chaos Communication Congress) aus und sprechen wie immer über IT Probleme in Potsdam und der Welt.
+
+publicationDate: "2023-01-09T00:00:00+00:00"
+audio:
+  - url: $media_base_url/2023_01_09-chaos-im-radio.mp3
+    mimeType: audio/mp3
+long_summary_md: |
+  **Shownotes:**
+
+  * [Podcast Hyperbandrauschen](https://hybr.de/)
+  * [http://media.ccc.de/](http://media.ccc.de/)
+  * [https://www.reddit.com/r/nextfuckinglevel/comments/100ryvp/fireworks_show_in_san_diego_where_a_computer/](https://www.reddit.com/r/nextfuckinglevel/comments/100ryvp/fireworks_show_in_san_diego_where_a_computer/)
+  * [https://therecord.media/chinese-researchers-claim-to-have-broken-rsa-with-a-quantum-computer-experts-arent-so-sure/](https://therecord.media/chinese-researchers-claim-to-have-broken-rsa-with-a-quantum-computer-experts-arent-so-sure/)
+  * [https://arxiv.org/pdf/2212.12372.pdf](https://arxiv.org/pdf/2212.12372.pdf)
+  * [https://www.potsdam.de/eingeschraenkter-service-nach-hinweisen-auf-it-angriff](https://www.potsdam.de/eingeschraenkter-service-nach-hinweisen-auf-it-angriff)
+  * [https://www.zeit.de/digital/datenschutz/2023-01/cyberangriff-potsdam-it-infrastruktur-datensicherheit](https://www.zeit.de/digital/datenschutz/2023-01/cyberangriff-potsdam-it-infrastruktur-datensicherheit)
+  * [https://www.rbb24.de/panorama/beitrag/2023/01/cyberangriff-potsdam-verwaltung-krisenstab-internet-offline.html](https://www.rbb24.de/panorama/beitrag/2023/01/cyberangriff-potsdam-verwaltung-krisenstab-internet-offline.html)
+  * [https://www.berlin.de/wahlen/wahlen/wahlen-2023/briefwahl/artikel.1277562.php](https://www.berlin.de/wahlen/wahlen/wahlen-2023/briefwahl/artikel.1277562.php)
+---
+uuid: nt-2023-02-13
+title: 'CiR am 13.02.2023'
+subtitle: Der Chaostreff im Freien Radio Potsdam
+summary: >
+  Gini, Cyroxx und Hannes reden über Heimautomatisierung und spielen Musik.
+
+publicationDate: "2023-02-13T00:00:00+00:00"
+audio:
+  - url: $media_base_url/2023_02_13-chaos-im-radio.mp3
+    mimeType: audio/mp3
+long_summary_md: |-
+  **Shownotes:**
+
+  * [https://www.home-assistant.io/](https://www.home-assistant.io/)
+  * [https://de.wikipedia.org/wiki/Zeroconf#Multicast_DNS](https://de.wikipedia.org/wiki/Zeroconf#Multicast_DNS)
+  * [https://www.shelly.cloud/en-de](https://www.shelly.cloud/en-de) (Shelly kommt offenbar aus Bulgarien)
+  * [https://go.dev](https://go.dev)
+
+
+  **Musik:**
+
+  &#x1f3b6;&nbsp;[Double-F the King - Outlandish - Free Music Archive](https://freemusicarchive.org/music/double-f-the-king/xpedition/outlandish/)
+  &#x1f3b6;&nbsp;[First Breath Of A New Sun - Free Music Archive](https://freemusicarchive.org/music/The_Vanhalia_Project__The_Sundog_Project/The_Vanhalia_Project__The_Sundog_Project/01_the_vanhalia_project_-_first_breath_of_a_new_sun/)
+  &#x1f3b6;&nbsp;[Distant 294 - agrav - Free Music Archive](https://freemusicarchive.org/music/Distant_294/constantfunction/04_distant_294_-_agrav/)
+  &#x1f3b6;&nbsp;[Line Noise - Magenta Moon (Part II) - Free Music Archive](https://freemusicarchive.org/music/Linenoise/Magenta_Moon/01_line_noise_-_magenta_moon_part_ii/)
+---
+uuid: nt-2023-03-13
+title: 'CiR am 13.03.2023'
+subtitle: Der Chaostreff im Freien Radio Potsdam
+summary: >
+  Cyroxx, Hannes und Knurps (aus der Dose) reden über Chips und IT in der Welt.
+
+publicationDate: "2023-03-13T00:00:00+00:00"
+audio:
+  - url: $media_base_url/2023_03_13-chaos-im-radio.mp3
+    mimeType: audio/mp3
+long_summary_md: |-
+  **Shownotes:**
+
+  * Sanktionen gegen China: Spezialmaschinen aus den Niederlanden
+  * [https://www.golem.de/news/chipherstellung-asml-von-weiteren-exportbeschraenkungen-betroffen-2303-172546.html](https://www.golem.de/news/chipherstellung-asml-von-weiteren-exportbeschraenkungen-betroffen-2303-172546.html)
+  * YouTube (Breaking Labs): ASML: Die Welt ist abhängig von DIESER Maschine: [https://www.youtube.com/watch?v=Ygwhw5HuZJc](https://www.youtube.com/watch?v=Ygwhw5HuZJc)
+  * YouTube: Death of the last european Elekronic giant: [https://www.youtube.com/watch?v=WE58YisgFeQ&pp=ygUXcGhpbGlwcHMgZXVyb3BlYW4gZ2lhbnQ%3D](https://www.youtube.com/watch?v=WE58YisgFeQ&pp=ygUXcGhpbGlwcHMgZXVyb3BlYW4gZ2lhbnQ%3D)
+  * [https://www.heise.de/news/Landgericht-erlaubt-Handy-Entsperrung-durch-erzwungenen-Fingerabdruck-7542934.html](https://www.heise.de/news/Landgericht-erlaubt-Handy-Entsperrung-durch-erzwungenen-Fingerabdruck-7542934.html)
+
+  * [https://netzpolitik.org/2023/einmalzahlung-an-studierende-verpflichtung-zur-bundid/](https://netzpolitik.org/2023/einmalzahlung-an-studierende-verpflichtung-zur-bundid/)
+
+  * [https://www.personalausweisportal.de/](https://www.personalausweisportal.de/)
+  * DLF Hintergrund: [https://www.deutschlandfunk.de/reichsbuerger-teil-1-die-wurzeln-und-das-ruetteln-an-der-rechtsordnung-dlf-953e1c7c-100.html](https://www.deutschlandfunk.de/reichsbuerger-teil-1-die-wurzeln-und-das-ruetteln-an-der-rechtsordnung-dlf-953e1c7c-100.html)
+  * [https://www.bpb.de/mediathek/podcasts/rechtsextreme-rueckzugsraeume/](https://www.bpb.de/mediathek/podcasts/rechtsextreme-rueckzugsraeume/)
+  * [https://www.t-online.de/digital/aktuelles/id_100140394/elon-musk-twitter-chef-beleidigt-behinderten-ex-mitarbeiter.html](https://www.t-online.de/digital/aktuelles/id_100140394/elon-musk-twitter-chef-beleidigt-behinderten-ex-mitarbeiter.html)
+  * [https://www.bbc.com/news/technology-64871183](https://www.bbc.com/news/technology-64871183)
+  * [https://www.rbb24.de/panorama/beitrag/2023/03/berlin-kinos-randale-boxfilm-creed-3-sicherheit-massnahmen.html](https://www.rbb24.de/panorama/beitrag/2023/03/berlin-kinos-randale-boxfilm-creed-3-sicherheit-massnahmen.html)
+  * [https://t3n.de/news/neuer-tiktok-filter-bold-glamour-realistisch-ki-kritik-1538524/](https://t3n.de/news/neuer-tiktok-filter-bold-glamour-realistisch-ki-kritik-1538524/)
+  * [https://www.youtube.com/watch?v=a0eCGSdH3GY](https://www.youtube.com/watch?v=a0eCGSdH3GY)
+
+  * [https://fosdem.org/2023/schedule/event/fabaccess/](https://fosdem.org/2023/schedule/event/fabaccess/)
+  * [https://hardware.forum-open.de/](https://hardware.forum-open.de/)
+
+
+  **Musik:**
+
+  &#x1f3b6;&nbsp;[sawsquarenoise - Boss Theme - Free Music Archive](https://freemusicarchive.org/music/sawsquarenoise/dojokratos/boss-theme/)
+  &#x1f3b6;&nbsp;[Defrini - Biogas - Free Music Archive](https://freemusicarchive.org/music/defrini/single/biogas/)
+---
+uuid: nt-2023-05-08
+title: 'CiR am 08.05.2023'
+subtitle: Der Chaostreff im Freien Radio Potsdam
+summary: >
+  Knurps, Gini, Hannes und Cyroxx haben sich in der Machbar getroffen um das neue Aufnahmeequipment auszuprobieren und quatschen über Balkonkraftwerke und Südafrika.
+
+publicationDate: "2023-05-08T00:00:00+00:00"
+audio:
+  - url: $media_base_url/2023_05_08-chaos-im-radio.mp3
+    mimeType: audio/mp3
+long_summary_md: |-
+  **Shownotes:**
+
+  * [https://www.golem.de/news/statische-aufladung-ikea-stuhl-sorgt-fuer-blackout-des-bildschirms-2305-173963.html](https://www.golem.de/news/statische-aufladung-ikea-stuhl-sorgt-fuer-blackout-des-bildschirms-2305-173963.html)
+  * [https://restofworld.org/2023/chatgpt-taking-kenya-ghostwriters-jobs/](https://restofworld.org/2023/chatgpt-taking-kenya-ghostwriters-jobs/)
+  * [https://gist.github.com/rena2019/a2d32769a685ed26c3e3b3bbfe151859](https://gist.github.com/rena2019/a2d32769a685ed26c3e3b3bbfe151859)
+  * [https://epetitionen.bundestag.de/petitionen/_2023/_02/_17/Petition_146290.nc.html](https://epetitionen.bundestag.de/petitionen/_2023/_02/_17/Petition_146290.nc.html)
+
+  ```
+  00:55:43.000 --> 00:55:45.000
+  Mhm.
+
+  00:55:45.000 --> 00:55:54.000
+  Test, test, ich hör mich nicht, hast du es alle gemutet?
+
+  00:55:54.000 --> 00:55:55.000
+  Ja.
+  ```
+
+
+  **Musik:**
+
+  &#x1f3b6;&nbsp;[Delta 78 - Yardgroove (radio edit) - Free Music Archive](https://freemusicarchive.org/music/delta-78/delta-78/yardgroove-radio-edit/)
+  &#x1f3b6;&nbsp;[Koi-discovery - Polylove - Free Music Archive](https://freemusicarchive.org/music/koi-discovery/vortex-temporalis/polylove/)
+---
+uuid: nt-2023-06-12
+title: 'CiR am 12.06.2023'
+subtitle: Der Chaostreff im Freien Radio Potsdam
+summary: >
+  Knurps, Gini, Hannes und Cyroxx are doing it live. Im Freiland ohne Plan senden wir diese Folge direkt in den digitalen und analogen Äther. Wir reden über unsere Lieblingsthemen: Wahlfuckups, Datenschutz und Unsinn.
+
+publicationDate: "2023-06-12T00:00:00+00:00"
+audio:
+  - url: $media_base_url/2023_06_12-chaos-im-radio.mp3
+    mimeType: audio/mp3
+long_summary_md: |-
+  **Shownotes:**
+
+  * [Potsdam.de: Jahresempfang 2023](https://www.potsdam.de/de/244-wir-feiern-unsere-stadt-jahresempfang-der-landeshauptstadt-potsdam-2023)
+  * [https://netzpolitik.org/2023/verlierer-liebhaber-junkies-in-diese-absurden-schubladen-steckt-dich-die-werbeindustrie/](https://netzpolitik.org/2023/verlierer-liebhaber-junkies-in-diese-absurden-schubladen-steckt-dich-die-werbeindustrie/)
+  * datenanfragen.de
+  * datenschmutz.de
+  * [DeppGPT im Postillion](https://www.der-postillon.com/2023/05/deppgpt.html)
+  * [Lernfragen Episode 54: KI & Schule](https://lernfragen.org/2023/06/04/lfr054-ki-und-schule/)
+  * [Basisbeveiliging: This website shows how well the Dutch government implements basic security requirements](https://basisbeveiliging.nl/#/)
+
+  **Musik:**
+
+  &#x1f3b6;&nbsp;[Shalbora - This Rhythm](https://freemusicarchive.org/music/shalbora/dance-planet/this-rhythm/)
+  &#x1f3b6;&nbsp;[Fignomo - Quiet Motion](https://freemusicarchive.org/music/fignomo/next-heaven/quiet-motion/)
+  &#x1f3b6;&nbsp;[Line Noise - Magenta Moon (Part II) - Free Music Archive](https://freemusicarchive.org/music/Line_Noise/Magenta_Moon/01_line_noise_-_magenta_moon_part_ii/)
+---
+uuid: nt-2023-07-10
+title: 'CiR am 10.07.2023'
+subtitle: Der Chaostreff im Freien Radio Potsdam
+summary: >
+  Knurps, Gini, Hannes und Cyroxx reden über Social Networks, KI, Dürren und Balkonkraftwerke-Fails.
+
+publicationDate: "2023-07-10T00:00:00+00:00"
+audio:
+  - url: $media_base_url/2023_07_10-chaos-im-radio.mp3
+    mimeType: audio/mp3
+chapters:
+  - start: '00:00:00'
+    title: 'KIs und Social Networks'
+  - start: '00:25:00'
+    title: 'Viscid - Wrecked - Free Music Archive'
+    href: 'https://freemusicarchive.org/music/viscid/replica/wrecked/'
+  - start: '00:30:00'
+    title: 'Balkonkraftwerke - fehlende Relais'
+  - start: '00:50:00'
+    title: 'fehlendes Wasser'
+long_summary_md: |-
+  **Shownotes:**
+
+  * AI - Password Challenge: [https://gandalf.lakera.ai/](https://gandalf.lakera.ai/)
+  * [https://www.heise.de/news/Wechselrichter-von-Deye-NA-Schutz-Relais-fehlt-9209401.html](https://www.heise.de/news/Wechselrichter-von-Deye-NA-Schutz-Relais-fehlt-9209401.html)
+  * Dürremonitor Deutschland: [https://www.ufz.de/index.php?de=37937](https://www.ufz.de/index.php?de=37937)
+  * [https://arstechnica.com/gadgets/2023/07/fairphone-is-coming-to-america/](https://arstechnica.com/gadgets/2023/07/fairphone-is-coming-to-america/)
+
+
+  **Musik:**
+
+  &#x1f3b6;&nbsp;[Viscid - Wrecked - Free Music Archive](https://freemusicarchive.org/music/viscid/replica/wrecked/)
+---
+uuid: nt-2023-08-14
+title: 'CiR am 14.08.2023'
+subtitle: Der Chaostreff im Freien Radio Potsdam
+summary: >
+  Knurps, Gini, Hannes und Cyroxx reden über Spam und allgemeinen IT Unsinn wie die Cloud.
+
+publicationDate: "2023-08-14T00:00:00+00:00"
+audio:
+  - url: $media_base_url/2023_08_14-chaos-im-radio.mp3
+    mimeType: audio/mp3
+long_summary_md: |-
+  **Shownotes:**
+
+  * Monty Python - Spam
+  * [https://www.amazon.de/Hackers-Heroes-Computer-Revolution-Anniversary/dp/1449388396](https://www.amazon.de/Hackers-Heroes-Computer-Revolution-Anniversary/dp/1449388396)
+  * cult of the dead cow
+  * Weltkatzentag
+  * Kurzmeldung: Informative Feuerwehrautos ([Zerforschung](https://zerforschung.org/posts/rosenbauer/))
+  * prism - snowden
+
+  **Musik:**
+
+  &#x1f3b6;&nbsp;[Scott Holmes Music - Storybook - Free Music Archive](https://freemusicarchive.org/music/Scott_Holmes/inspiring-background-music/storybook/)
+  &#x1f3b6;&nbsp;[Toussaint Morrison - Get Popular - Free Music Archive](https://freemusicarchive.org/music/Toussaint_Morrison/Toussaint_Morrison_Is_Not_My_Boyfriend/Toussaint_Morrison_-_Toussaint_Morrison_Is_Not_My_Boyfriend_-_13_Get_Popular1/)
+---
+uuid: nt-2023-09-11
+title: 'CiR am 11.09.2023'
+subtitle: Der Chaostreff im Freien Radio Potsdam
+summary: >
+  Knurps, Gini und Cyroxx reden über's Camp und mehr.
+
+publicationDate: "2023-09-11T00:00:00+00:00"
+audio:
+  - url: $media_base_url/2023_09_11-chaos-im-radio.mp3
+    mimeType: audio/mp3
+long_summary_md: |-
+  **Shownotes:**
+
+  * [https://media.ccc.de/v/camp2023-57769-chaos_zone](https://media.ccc.de/v/camp2023-57769-chaos_zone)
+  * [https://media.ccc.de/v/camp2023-57019-leihroller_hacken_ein_kasperltheater](https://media.ccc.de/v/camp2023-57019-leihroller_hacken_ein_kasperltheater)
+
+  * Nächstes Event: Datenspuren in Dresden kommendes Wochenende Ein Symposium des Chaos Computer Clubs Dresden. vom 15. bis 17. September 2023 im Zentralwerk, Riesaer Str. 32, 01127 Dresden. [https://www.datenspuren.de/2023/](https://www.datenspuren.de/2023/)
+
+  * staatliche und industrielle Förderung von Open Source:
+  [https://www.heise.de/hintergrund/Missing-Link-Wieso-so-viel-US-und-Google-Geld-in-Open-Source-Projekten-steckt-9283584.html](https://www.heise.de/hintergrund/Missing-Link-Wieso-so-viel-US-und-Google-Geld-in-Open-Source-Projekten-steckt-9283584.html)
+
+  * Zoom nutzt Daten zum KI trainieren: [https://netzpolitik.org/2023/agb-aenderung-zoom-nutzt-daten-von-nutzerinnen-um-kuenstliche-intelligenz-zu-trainieren/](https://netzpolitik.org/2023/agb-aenderung-zoom-nutzt-daten-von-nutzerinnen-um-kuenstliche-intelligenz-zu-trainieren/)
+
+  * Digitaler Produktpass - [https://netzpolitik.org/2023/alle-infos-mit-einem-scan/](https://netzpolitik.org/2023/alle-infos-mit-einem-scan/)
+
+
+  **Musik:**
+
+  &#x1f3b6;&nbsp;[Gunnar Olsen - Tremsz](https://soundcloud.com/royaltyfreemusic-nocopyrightmusic/tremsz-gunnar-olsen-free-download)
+---
+uuid: nt-2023-10-09
+title: 'CiR am 09.10.2023'
+subtitle: Der Chaostreff im Freien Radio Potsdam
+summary: >
+  Knurps, Cyroxx und Hannes reden über Bluesky, AVM, Ransomware und Chaos Veranstaltungen.
+
+publicationDate: "2023-10-09T00:00:00+00:00"
+audio:
+  - url: $media_base_url/2023_10_09-chaos-im-radio.mp3
+    mimeType: audio/mp3
+chapters:
+  - start: '00:00:00'
+    title: 'Intro'
+  - start: '00:02:00'
+    title: 'NFT foo'
+  - start: '00:09:00'
+    title: 'Bluesky'
+  - start: '00:20:00'
+    title: 'AVM, Zigbee und Wireguard'
+  - start: '00:24:30'
+    title: 'Beat Mekanik - Addiction - Free Music Archive'
+    href: 'https://freemusicarchive.org/music/beat-mekanik/single/addiction/'
+  - start: '00:29:00'
+    title: 'Ransomware'
+  - start: '00:42:00'
+    title: 'AudioCoffee Band - Positive - Free Music Archive'
+    href: 'https://freemusicarchive.org/music/audiocoffee-band/relaxing-dance-waves/positive-1/'
+  - start: '00:45:00'
+    title: 'Veranstaltung'
+  - start: '00:56:00'
+    title: 'https://freemusicarchive.org/music/maarten-schellekens/single/still-wondering-1/'
+long_summary_md: |-
+  **Shownotes:**
+
+  * [https://www.deutschepost.de/de/k/kryptomarke.html](https://www.deutschepost.de/de/k/kryptomarke.html)
+  * bluesky wikipedia
+  * [https://www.golem.de/news/avm-fritzbox-schwachstelle-wohl-ohne-fernzugriff-ausnutzbar-2310-178153.html](https://www.golem.de/news/avm-fritzbox-schwachstelle-wohl-ohne-fernzugriff-ausnutzbar-2310-178153.html)
+  * [https://www.tagesschau.de/wirtschaft/unternehmen/motel-one-hackerangriff-100.html](https://www.tagesschau.de/wirtschaft/unternehmen/motel-one-hackerangriff-100.html)
+  * [https://www.deutschlandfunk.de/it-sicherheit-in-krankenhaeusern-wenn-hacker-kliniken-100.html](https://www.deutschlandfunk.de/it-sicherheit-in-krankenhaeusern-wenn-hacker-kliniken-100.html)
+  * [https://www.heise.de/news/Casino-Hacker-kosten-MGM-Resorts-rund-100-Millionen-US-Dollar-9326420.html](https://www.heise.de/news/Casino-Hacker-kosten-MGM-Resorts-rund-100-Millionen-US-Dollar-9326420.html)
+  * [https://www.golem.de/news/credential-stuffing-hacker-bieten-nutzerdaten-von-23andme-zum-verkauf-an-2310-178295.html](https://www.golem.de/news/credential-stuffing-hacker-bieten-nutzerdaten-von-23andme-zum-verkauf-an-2310-178295.html)
+  * [https://interestingengineering.com/culture/google-search-indexed-bard-conversations](https://interestingengineering.com/culture/google-search-indexed-bard-conversations)
+  * [https://mashable.com/article/google-ai-chatbot-warning-to-employees](https://mashable.com/article/google-ai-chatbot-warning-to-employees)
+
+  * [https://dezentrale.space/posts/2023/09/programm-6-jahre-dezentrale/](https://dezentrale.space/posts/2023/09/programm-6-jahre-dezentrale/)
+  * [https://spaceapi.io](https://spaceapi.io)
+  * [https://spaceapi.ccc-p.org](https://spaceapi.ccc-p.org)
+  * Termine:
+  * [CoderDojo Potsdam HPI, 14.10.23](https://zen.coderdojo.com/dojos/de/brandenburg/potsdam/potsdam-hpi)
+  * [Vintage Computing Festival (VCFB) 2023](https://vcfb.de/2023/)  14.-15.10.
+  * [Geekend Hamburg #jetzt3](https://chaos.jetzt/), Fr. 20.-22.10.
+  * Krisenmanagement - BHT, 02.11.23
+  * Geekend mit eInk-Displays 17. bis 19.11.
+  * Jugend hackt in Potsdam (bald)
+  * [37c3](https://www.ccc.de/de/updates/2023/37C3) 27.-30.12.2023, Hamburg
+
+
+  **Musik:**
+
+  &#x1f3b6;&nbsp;[Beat Mekanik - Addiction - Free Music Archive](https://freemusicarchive.org/music/beat-mekanik/single/addiction/)
+  &#x1f3b6;&nbsp;[AudioCoffee Band - Positive - Free Music Archive](https://freemusicarchive.org/music/audiocoffee-band/relaxing-dance-waves/positive-1/)
+  &#x1f3b6;&nbsp;[Marten Schellekens - Still Wondering](https://freemusicarchive.org/music/maarten-schellekens/single/still-wondering-1/)
+---
+uuid: nt-2023-12-11
+title: 'CiR am 11.12.2023'
+subtitle: Der Chaostreff im Freien Radio Potsdam
+summary: >
+  Knurps, Hannes und Cyroxx reden live Unsinn über die Machbar, die Pandemie, die BVG und Urteile, die was mit digital zum tun haben
+
+publicationDate: "2023-12-11T00:00:00+00:00"
+audio:
+  - url: $media_base_url/2023_12_11-chaos-im-radio.mp3
+    mimeType: audio/mp3
+long_summary_md: |-
+  **Shownotes:**
+
+  * Danke für DOD-Würfel in der Machbar!
+  * Viruslast im Abwasser [https://corona-pandemieradar.de/de/abwasser](https://corona-pandemieradar.de/de/abwasser)
+  *  [https://hygiene-monitor.de/dashboard/corona](https://hygiene-monitor.de/dashboard/corona)
+  * BVG-Musical "Tarifzone Liebe":
+  * Aufzeichnung: [https://www.youtube.com/watch?v=luR2FIra9eo](https://www.youtube.com/watch?v=luR2FIra9eo)
+  * taz-Artikel "Ne halbe Station Richtung „Linie 1“": [https://taz.de/BVG-Musical-Tarifzone-Liebe/!5978315/](https://taz.de/BVG-Musical-Tarifzone-Liebe/!5978315/)
+  * [https://de.wikipedia.org/wiki/Trauer#Trauerphasen_(Modelle)](https://de.wikipedia.org/wiki/Trauer#Trauerphasen_(Modelle))
+  * 7 Phasen eines Projekts [https://www.programmwechsel.de/lustig/management/projekt-phasen.html](https://www.programmwechsel.de/lustig/management/projekt-phasen.html)
+  * Quad9-Urteil (https://netzpolitik.org/2023/erfolg-fuer-quad9-dns-anbieter-doch-nicht-fuer-urheberrechtsverletzungen-verantwortlich/#netzpolitik-pw)
+  * Andere schöne Urteile .. [https://netzpolitik.org/2023/schufa-der-score-allein-darf-nicht-entscheidend-sein/](https://netzpolitik.org/2023/schufa-der-score-allein-darf-nicht-entscheidend-sein/)
+  * Und besorgniserregende Entwicklungen .. [https://netzpolitik.org/2023/eidas-reform-digitale-brieftasche-mit-ausspaehgarantie/#netzpolitik-pw](https://netzpolitik.org/2023/eidas-reform-digitale-brieftasche-mit-ausspaehgarantie/#netzpolitik-pw)
+  * LNP475 zu eIDAS und Chatkontrolle: [https://logbuch-netzpolitik.de/lnp475-deutsch-aber-lustig](https://logbuch-netzpolitik.de/lnp475-deutsch-aber-lustig)
+  * 23andMe: Hacker erbeuten Stammbaumdaten von 6,9 Millionen Menschen [https://www.spiegel.de/netzwelt/web/dna-datenbank-23andme-hacker-erbeuten-stammbaumdaten-von-6-9-millionen-menschen-a-b34b1a4d-779e-4717-9583-dbdf9335bd10](https://www.spiegel.de/netzwelt/web/dna-datenbank-23andme-hacker-erbeuten-stammbaumdaten-von-6-9-millionen-menschen-a-b34b1a4d-779e-4717-9583-dbdf9335bd10)
+
+
+  **Musik:**
+
+  &#x1f3b6;&nbsp;[The Day Before Boxing Day Eve - Free Music Archive](https://freemusicarchive.org/music/Various_Artists_Rushcoil/XMAS_Compilation_2010/J_Arthur_Keenes_-_XMAS_Compilation_2010_-_04_The_Day_Before_Boxing_Day_Eve/)
+  &#x1f3b6;&nbsp;[HoliznaCC0 - Oh Holy Night ( Lo-Fi ) - Free Music Archive](https://freemusicarchive.org/music/holiznacc0/a-lo-fi-christmas-special/oh-holy-night-lo-fi/)
+  &#x1f3b6;&nbsp;[AudioCoffee - Winter Fun - Free Music Archive](https://freemusicarchive.org/music/audiocoffee/christmas-time/winter-fun/)
+---
+uuid: nt-2024-03-11
+title: 'CiR am 11.03.2024'
+subtitle: Der Chaostreff im Freien Radio Potsdam
+summary: >
+  Hannes, Gini, Knurps und Cyroxx reden über Programmierung, Netzpolitik, deutsche Digitalisierung und schiefgegangene Experimente.
+
+publicationDate: "2024-03-11T00:00:00+00:00"
+audio:
+  - url: $media_base_url/2024_03_11-chaos-im-radio.mp3
+    mimeType: audio/mp3
+chapters:
+  - start: '00:00'
+    title: 'Tag des offenen Hackspaces'
+  - start: '00:04'
+    title: 'Go(lang)'
+  - start: '00:16'
+    title: 'DMR Hotspots'
+  - start: '00:19'
+    title: 'Masteredit - Clash - Free Music Archive'
+    href: 'https://freemusicarchive.org/music/masteredit/synesthesia-1/clash/'
+  - start: '00:24'
+    title: 'RAF und Gesichtserkennung'
+  - start: '00:37'
+    title: 'Deutschlandticket und E-Rezept'
+  - start: '00:52'
+    title: 'Willy Chocolate Experience'
+  - start: '00:58'
+    title: 'Beat Mekanik - Electron (Free Stems) - Free Music Archive'
+    href: 'https://freemusicarchive.org/music/beat-mekanik/single/electron-free-stems/'
+long_summary_md: |-
+  **Shownotes:**
+
+  * [https://go.dev/](https://go.dev/)
+  * Legion Podcast: [https://www.rbb-online.de/legion/](https://www.rbb-online.de/legion/)
+  * [https://netzpolitik.org/2024/gesichtserkennung-in-welcher-welt-wollen-wir-leben/](https://netzpolitik.org/2024/gesichtserkennung-in-welcher-welt-wollen-wir-leben/)
+  * [https://verimi.de/](https://verimi.de/)
+  * Datengarten Podcast zum E-Rezept: [https://media.ccc.de/v/dg-109](https://media.ccc.de/v/dg-109)
+  * [https://www.theguardian.com/uk-news/2024/feb/27/glasgow-willy-wonka-experience-slammed-as-farce-as-tickets-refunded](https://www.theguardian.com/uk-news/2024/feb/27/glasgow-willy-wonka-experience-slammed-as-farce-as-tickets-refunded)
+  * [https://de.wikipedia.org/wiki/Fyre_Festival](https://de.wikipedia.org/wiki/Fyre_Festival)
+
+
+  **Musik:**
+
+  &#x1f3b6;&nbsp;[Masteredit - Clash - Free Music Archive](https://freemusicarchive.org/music/masteredit/synesthesia-1/clash/)
+  &#x1f3b6;&nbsp;[Beat Mekanik - Electron (Free Stems) - Free Music Archive](https://freemusicarchive.org/music/beat-mekanik/single/electron-free-stems/)
+---
+uuid: nt-2024-04-08
+title: 'CiR am 08.04.2024'
+subtitle: Der Chaostreff im Freien Radio Potsdam
+summary: >
+  Knurps, Cyroxx und Hannes reden in der Machbar über's Menschen, die an OpenSource arbeiten
+
+publicationDate: "2024-04-08T00:00:00+00:00"
+audio:
+  - url: $media_base_url/2024_04_08-chaos-im-radio.mp3
+    mimeType: audio/mp3
+chapters:
+  - start: '00:00'
+    title: 'Neues aus der Machbar'
+  - start: '00:10'
+    title: 'Fairphone 4 und 5'
+  - start: '00:20'
+    title: 'neuer Laptop'
+  - start: '00:26'
+    title: 'neue FritzBox'
+  - start: '00:34'
+    title: 'Nerds'
+  - start: '00:36'
+    title: 'Jon Shuemaker - Free Flow - Free Music Archive'
+    href: 'https://freemusicarchive.org/music/jon-shuemaker/free-flow/free-flow/'
+  - start: '00:39'
+    title: 'Digitaler Frühjarhsputz'
+  - start: '00:50'
+    title: 'XZ Backdoor'
+long_summary_md: |-
+  **Shownotes:**
+
+  * [https://denog.de](https://denog.de)
+  * [https://www.der-postillon.com/2014/04/sicherstes-passwort.html](https://www.der-postillon.com/2014/04/sicherstes-passwort.html)
+  * [https://xkcd.com/2347/](https://xkcd.com/2347/)
+  * [https://www.heise.de/hintergrund/Pflichtfach-Informatik-Zweite-Fremdsprache-ade-9622293.html](https://www.heise.de/hintergrund/Pflichtfach-Informatik-Zweite-Fremdsprache-ade-9622293.html)
+  * [https://www.netzwelt.de/anleitung/202220-luca-app-so-loescht-konto.html](https://www.netzwelt.de/anleitung/202220-luca-app-so-loescht-konto.html)
+  * [https://twitter.com/fr0gger_/status/1774342248437813525/photo/1](https://twitter.com/fr0gger_/status/1774342248437813525/photo/1)
+  * [https://www.bsi.bund.de/SharedDocs/Cybersicherheitswarnungen/DE/2024/2024-223608-1032.pdf](https://www.bsi.bund.de/SharedDocs/Cybersicherheitswarnungen/DE/2024/2024-223608-1032.pdf)
+  * [https://tukaani.org/xz-backdoor/](https://tukaani.org/xz-backdoor/)
+
+
+  **Musik:**
+
+  &#x1f3b6;&nbsp;[Jon Shuemaker - Free Flow - Free Music Archive](https://freemusicarchive.org/music/jon-shuemaker/free-flow/free-flow/)
+---
+uuid: nt-2024-05-13
+title: 'CiR am 13.05.2024'
+subtitle: Der Chaostreff im Freien Radio Potsdam
+summary: >
+  Knurps, Cyroxx, Gini und Hannes reden in der Machbar über Sonnenstürme, den Weltall und Scheidungen. Mit Gesichtsüberwachung. Den Rest sagen wir nicht, wir haben nämlich was zu verheimlichen.
+
+publicationDate: "2024-05-13T00:00:00+00:00"
+audio:
+  - url: $media_base_url/2024_05_13-chaos-im-radio.mp3
+    mimeType: audio/mp3
+chapters:
+  - start: '00:00'
+    title: 'ArcSound - Sport Action Teaser - Free Music Archive'
+    href: 'https://freemusicarchive.org/music/arcsound/single/sport-action-teaser/'
+  - start: '00:04'
+    title: 'Scheidungsversuch - verklickt'
+  - start: '00:12'
+    title: 'Der Weltall - Voyager Sonden, Sonnenstürme und GPS'
+  - start: '00:39'
+    title: 'CXR ATK - Impetus - Free Music Archive'
+    href: 'https://freemusicarchive.org/music/cxr-atk/cxr-atk-3/impetus/'
+  - start: '00:43'
+    title: 'Gesichtserkennung'
+  - start: '00:55'
+    title: 'Kartenänderungen: überfüllte Busse in Barcelona und Kartierung von Waldwegen'
+long_summary_md: |-
+  **Shownotes:**
+
+  * Wrong couple divorced after computer error by law firm Vardag's: [https://www.bbc.com/news/uk-68821406](https://www.bbc.com/news/uk-68821406)
+  * Voyager: [https://www.heise.de/news/Jubel-bei-der-NASA-Voyager-1-sendet-erstmals-nach-Monaten-wieder-korrekte-Daten-9694359.html](https://www.heise.de/news/Jubel-bei-der-NASA-Voyager-1-sendet-erstmals-nach-Monaten-wieder-korrekte-Daten-9694359.html)
+  * Samsungs Mond Fotografie: [https://www.theverge.com/2023/3/15/23641069/samsung-fake-moon-controversy-english-language-blog-post](https://www.theverge.com/2023/3/15/23641069/samsung-fake-moon-controversy-english-language-blog-post)
+  * Sonnensturm: Der aktuelle Sonnensturm ist keine Freude für Bauern, die mit GPS arbeiten: [https://www.404media.co/solar-storm-knocks-out-tractor-gps-systems-during-peak-planting-season/](https://www.404media.co/solar-storm-knocks-out-tractor-gps-systems-during-peak-planting-season/)
+  * Echtzeit-GPS mit 1cm Auflösung, Real Time Kinetmatic: [https://www.youtube.com/watch?v=Oc1LBFDj2MA](https://www.youtube.com/watch?v=Oc1LBFDj2MA)
+  * Echtzeit-Gesichtserkennung in Berlin: [https://www.heise.de/news/Echtzeit-Gesichtserkennung-Wachsende-Sorgen-wegen-biometrischer-Ueberwachung-9715192.html](https://www.heise.de/news/Echtzeit-Gesichtserkennung-Wachsende-Sorgen-wegen-biometrischer-Ueberwachung-9715192.html)
+  * [https://verfassungsblog.de/thuringen-projekt/](https://verfassungsblog.de/thuringen-projekt/)
+  * [https://de.wikipedia.org/wiki/Nichts-zu-verbergen-Argument](https://de.wikipedia.org/wiki/Nichts-zu-verbergen-Argument)
+  * [https://www.kuketz-blog.de/nichts-zu-verbergen-ein-moderner-mythos-und-12-argumente-dagegen/](https://www.kuketz-blog.de/nichts-zu-verbergen-ein-moderner-mythos-und-12-argumente-dagegen/)
+  * fLotte Potsdam: [https://flotte-potsdam.de/](https://flotte-potsdam.de/)
+  * fLotte Berlin: [https://flotte-berlin.de/](https://flotte-berlin.de/)
+  * [https://damals-tm-podcast.de/index.php/2024/04/22/dtm098_energie/](https://damals-tm-podcast.de/index.php/2024/04/22/dtm098_energie/)
+  * Flashback-Symposium: [https://www.flashback-event.de/flashback-symposium-01/](https://www.flashback-event.de/flashback-symposium-01/) (14.-16.6.)
+
+
+  **Musik:**
+
+  &#x1f3b6;&nbsp;[ArcSound - Sport Action Teaser - Free Music Archive](https://freemusicarchive.org/music/arcsound/single/sport-action-teaser/)
+  &#x1f3b6;&nbsp;[CXR ATK - Impetus - Free Music Archive](https://freemusicarchive.org/music/cxr-atk/cxr-atk-3/impetus/)
+---
+uuid: nt-2024-07-08
+title: 'CiR am 08.07.2024'
+subtitle: Der Chaostreff im Freien Radio Potsdam
+summary: >
+  Cyroxx, Gini und Hannes versuchen ohne Knurps die Technik im Radio-Studio in den Griff zu kriegen.
+
+publicationDate: "2024-07-08T00:00:00+00:00"
+audio:
+  - url: $media_base_url/2024_07_08-chaos-im-radio.mp3
+    mimeType: audio/mp3
+long_summary_md: |-
+  **Shownotes:**
+
+  * [https://de.m.wikipedia.org/wiki/Wero_(Zahlungsdienst)](https://de.m.wikipedia.org/wiki/Wero_(Zahlungsdienst))
+  * [https://www.golem.de/news/zeitmessung-2024-gibt-es-keine-schaltsekunde-2407-186793.html](https://www.golem.de/news/zeitmessung-2024-gibt-es-keine-schaltsekunde-2407-186793.html)
+  * [https://de.wikipedia.org/wiki/Swatch-Internetzeit](https://de.wikipedia.org/wiki/Swatch-Internetzeit)
+  * [https://en.wikipedia.org/wiki/Tz_database](https://en.wikipedia.org/wiki/Tz_database)
+  * [https://www.youtube.com/watch?v=T-3iFhEyKXQ](https://www.youtube.com/watch?v=T-3iFhEyKXQ)
+  * [https://9to5mac.com/2024/07/04/authy-hack/](https://9to5mac.com/2024/07/04/authy-hack/) Authy exposes phone numbers of 33M users; Twilio confirms
+  * Twilio has detected that threat actors were able to identify data associated with Authy accounts, including phone numbers, due to an unauthenticated endpoint.
+  * [https://9to5mac.com/2024/06/27/identity-verification-company-au10tix/](https://9to5mac.com/2024/06/27/identity-verification-company-au10tix/)
+  * [https://www.golem.de/news/ticket-app-uefa-teilt-standortdaten-von-em-besuchern-mit-der-polizei-2407-186767.html](https://www.golem.de/news/ticket-app-uefa-teilt-standortdaten-von-em-besuchern-mit-der-polizei-2407-186767.html)
+  * [https://x.com/fanhilfe_md/status/1808783446858199099?t=](https://x.com/fanhilfe_md/status/1808783446858199099?t=)
+  * [https://fragdenstaat.de/blog/2024/07/03/wie-die-host-citys-mit-einem-fragwurdigen-vorkaufsrecht-umgingen/](https://fragdenstaat.de/blog/2024/07/03/wie-die-host-citys-mit-einem-fragwurdigen-vorkaufsrecht-umgingen/)
+  * [https://fragdenstaat.de/blog/2024/07/03/gericht-verbietet-bildungsministerium-vorerst-loschung-von-nachrichten/](https://fragdenstaat.de/blog/2024/07/03/gericht-verbietet-bildungsministerium-vorerst-loschung-von-nachrichten/)
+  * [https://fragdenstaat.de/blog/2024/07/04/nsu-akten-leak-strafanzeige-ermittlungen-eingestellt/](https://fragdenstaat.de/blog/2024/07/04/nsu-akten-leak-strafanzeige-ermittlungen-eingestellt/)
+
+
+  **Musik:**
+
+  &#x1f3b6;&nbsp;[https://freemusicarchive.org/music/koi-discovery/single/interitusmp3/](https://freemusicarchive.org/music/koi-discovery/single/interitusmp3/)
+  &#x1f3b6;&nbsp;[Ketsa - Normal Is - Free Music Archive](https://freemusicarchive.org/music/Ketsa/fresh-starts/normal-is/)
+  &#x1f3b6;&nbsp;[Beat Mekanik - Requiem for a Dream - Free Music Archive](https://freemusicarchive.org/music/beat-mekanik/single/requiem-for-a-dream/)
+---
+uuid: nt-2024-09-09
+title: 'CiR am 09.09.2024'
+subtitle: Der Chaostreff im Freien Radio Potsdam
+summary: >
+  Cyroxx, Hannes und Knurps erzählen neues aus der Machbar, aus dem Weltraum und aus der Bahn.
+
+publicationDate: "2024-09-09T00:00:00+00:00"
+audio:
+  - url: $media_base_url/2024_09_09-chaos-im-radio.mp3
+    mimeType: audio/mp3
+long_summary_md: |-
+  **Shownotes:**
+
+  * [http://handy-helfer.de/](http://handy-helfer.de/)
+  * [https://www.golem.de/news/echo-show-8-photos-edition-amazon-deaktiviert-kostenpflichtige-alexa-spezialfunktion-2408-188384.html](https://www.golem.de/news/echo-show-8-photos-edition-amazon-deaktiviert-kostenpflichtige-alexa-spezialfunktion-2408-188384.html)
+  * [https://www.tagesschau.de/inland/innenpolitik/bsw-datenleck-correctiv-100.html](https://www.tagesschau.de/inland/innenpolitik/bsw-datenleck-correctiv-100.html)
+  * [https://www.ccc.de/de/updates/2024/biometrischer-uberwachungsexzess-der-bundesregierung](https://www.ccc.de/de/updates/2024/biometrischer-uberwachungsexzess-der-bundesregierung)
+  * Ungeklärte Geräusche ertönen aus Boeings an der ISS angedocktem Starliner [https://www.heise.de/news/Ungeklaerte-Geraeusche-ertoenen-aus-Boeings-an-der-ISS-angedocktem-Starliner-9854066.html](https://www.heise.de/news/Ungeklaerte-Geraeusche-ertoenen-aus-Boeings-an-der-ISS-angedocktem-Starliner-9854066.html)
+  * Astronauten müssen bis Februar 2025 auf der ISS bleiben [https://www.deutschlandfunk.de/astronauten-muessen-bis-februar-2025-auf-der-iss-bleiben-102.html](https://www.deutschlandfunk.de/astronauten-muessen-bis-februar-2025-auf-der-iss-bleiben-102.html)
+  * [https://www.heise.de/news/Starlink-Antenne-heimlich-auf-US-Kriegsschiff-montiert-9798943.html](https://www.heise.de/news/Starlink-Antenne-heimlich-auf-US-Kriegsschiff-montiert-9798943.html)
+  * GSM-R bei der Bahn - [https://www.heise.de/news/Grossstoerung-bei-der-Bahn-in-der-Mitte-Deutschlands-9860897.html](https://www.heise.de/news/Grossstoerung-bei-der-Bahn-in-der-Mitte-Deutschlands-9860897.html)
+  * Digitalisierung bei der Bahn [https://www.tagesschau.de/inland/regional/badenwuerttemberg/bahn-digitalisierung-stellwerke-100.html](https://www.tagesschau.de/inland/regional/badenwuerttemberg/bahn-digitalisierung-stellwerke-100.html)
+
+  * Termine:
+  * Datenspuren, 20.-22.9. im Zentralwerk in Dresden [https://datenspuren.de/2024/](https://datenspuren.de/2024/)
+  * Bildet Netze, 13.09. in der alten Münze, Berlin - [https://events.ccc.de/2024/08/10/netpolitik-geburtstagskonferenz/](https://events.ccc.de/2024/08/10/netpolitik-geburtstagskonferenz/)
+  * HOTB24 - Hacks on the Beach 2024, Flensburg - 27. September 2024 – 29. September 2024 - [https://chaostreff-flensburg.de/blog/2024/hotb24-tickts/](https://chaostreff-flensburg.de/blog/2024/hotb24-tickts/)
+  * MRMCD, in Darmstadt - 03.10. - [https://2024.mrmcd.net/](https://2024.mrmcd.net/)
+
+
+  **Musik:**
+
+  &#x1f3b6;&nbsp;[MOHMOHRAP - Rap trap type beat &quot;pop my sh*t&quot;](https://freemusicarchive.org/music/mohmohrap/remember-4/rap-trap-type-beat-pop-my-sht/)
+  &#x1f3b6;&nbsp;[Makaih Beats - Lessons - Free Music Archive](https://freemusicarchive.org/music/Makaih_Beats/lessons-beat-tape/lessons-1/)
+---
+uuid: nt-2024-11-11
+title: 'CiR am 11.11.2024'
+subtitle: Der Chaostreff im Freien Radio Potsdam
+summary: >
+  Knurps, Hannes, Cyroxx und Gini reden in dieser Novemberfolge über Smartwatches, KI und Geschirrspülern mit Spezialprogrammen im Abo.
+
+publicationDate: "2024-11-11T00:00:00+00:00"
+audio:
+  - url: $media_base_url/2024_11_11-chaos-im-radio.mp3
+    mimeType: audio/mp3
+long_summary_md: |-
+  **Shownotes:**
+
+  - 1700 Briefe vom Finanzamt: [https://www.zdf.de/nachrichten/panorama/finanzamt-1700-briefe-100.html](https://www.zdf.de/nachrichten/panorama/finanzamt-1700-briefe-100.html)
+  - [https://fortune.com/2024/10/30/mark-zuckerberg-ai-generated-content-next-big-category-social-media-feeds/](https://fortune.com/2024/10/30/mark-zuckerberg-ai-generated-content-next-big-category-social-media-feeds/)
+  - [https://techcrunch.com/2024/10/11/apple-intelligence-features-can-also-summarize-breakup-texts-for-you/](https://techcrunch.com/2024/10/11/apple-intelligence-features-can-also-summarize-breakup-texts-for-you/)
+  - V-Zug-Geschirrspüler, Spezialprogramme nur mit Abo:
+  [https://www.srf.ch/sendungen/kassensturz-espresso/espresso/umstrittenes-geschaeftsmodell-v-zug-geschirrspueler-spezialprogramme-nur-mit-abo](https://www.srf.ch/sendungen/kassensturz-espresso/espresso/umstrittenes-geschaeftsmodell-v-zug-geschirrspueler-spezialprogramme-nur-mit-abo)
+  - JavaScript Interpreter Smart Watch: [https://banglejs.com](https://banglejs.com)
+  - Gadget Bridge [https://gadgetbridge.org/](https://gadgetbridge.org/)
+  - Spam Song von Monty Python
+  - Tickets zum 38C3 in Hamburg [https://events.ccc.de/2024/10/17/38c3-presale-modus-operandi/](https://events.ccc.de/2024/10/17/38c3-presale-modus-operandi/)
+
+
+  **Musik:**
+
+  &#x1f3b6;&nbsp;[Lowtone Music - Lofi No Intro - Free Music Archive](https://freemusicarchive.org/music/lowtone-music/lofi-chillout-calm-music/lofi-no-intro/)
+---
+uuid: nt-2025-01-13
+title: 'CiR am 13.01.2025'
+subtitle: Der Chaostreff im Freien Radio Potsdam
+summary: >
+  Knurps, Hannes, Cyroxx und Gini reden in dieser ersten Folge im Jahr 2025 über den Congress.
+
+publicationDate: "2025-01-13T00:00:00+00:00"
+audio:
+  - url: $media_base_url/2025_01_13-chaos-im-radio.mp3
+    mimeType: audio/mp3
+long_summary_md: |-
+  **Shownotes:**
+
+  * PistonMiner - Hacking yourself a satellite - recovering BEESAT-1: [https://media.ccc.de/v/38c3-hacking-yourself-a-satellite-recovering-beesat-1](https://media.ccc.de/v/38c3-hacking-yourself-a-satellite-recovering-beesat-1)
+  * Michael Kreil und Flüpke -  Wir wissen wo dein Auto steht: Volksdaten von Volkswagen [https://media.ccc.de/v/38c3-wir-wissen-wo-dein-auto-steht-volksdaten-von-volkswagen](https://media.ccc.de/v/38c3-wir-wissen-wo-dein-auto-steht-volksdaten-von-volkswagen)
+  * Martin Tschirsich und Bianca Kastl - „Konnte bisher noch nie gehackt werden“: Die elektronische Patientenakte kommt - jetzt für alle! [https://media.ccc.de/v/38c3-konnte-bisher-noch-nie-gehackt-werden-die-elektronische-patientenakte-kommt-jetzt-fr-alle](https://media.ccc.de/v/38c3-konnte-bisher-noch-nie-gehackt-werden-die-elektronische-patientenakte-kommt-jetzt-fr-alle)
+  * Anne Brorhilker - Der Milliarden-Steuerraub Cum/Ex: Wie schädlich ist Wirtschaftskriminalität für unsere Gesellschaft? [https://media.ccc.de/v/38c3-der-milliarden-steuerraub-cum-ex-wie-schdlich-ist-wirtschaftskriminalitt-fr-unsere-gesellschaft](https://media.ccc.de/v/38c3-der-milliarden-steuerraub-cum-ex-wie-schdlich-ist-wirtschaftskriminalitt-fr-unsere-gesellschaft)
+  * Ucki (He/Him) - Och Menno - How NOT to build a submarine [https://media.ccc.de/v/38c3-och-menno-how-not-to-build-a-submarine](https://media.ccc.de/v/38c3-och-menno-how-not-to-build-a-submarine)
+  * Lilith Wittmann - Knäste hacken [https://media.ccc.de/v/38c3-knste-hacken](https://media.ccc.de/v/38c3-knste-hacken)
+  * Arne Semsrott - Das IFG ist tot – Best of Informationsfreiheit, Gefangenenbefreiung & Machtübernahmen [https://media.ccc.de/v/38c3-das-ifg-ist-tot-best-of-informationsfreiheit-gefangenenbefreiung-machtbernahmen](https://media.ccc.de/v/38c3-das-ifg-ist-tot-best-of-informationsfreiheit-gefangenenbefreiung-machtbernahmen)
+  * kantorkel und Kai Biermann - Fake-Shops von der Stange: BogusBazaar [https://media.ccc.de/v/38c3-fake-shops-von-der-stange-bogusbazaar](https://media.ccc.de/v/38c3-fake-shops-von-der-stange-bogusbazaar)
+  * Stefan Magerstedt - RadioMining: Playlist-Scraping und Analyse [https://media.ccc.de/v/38c3-radiomining-playlist-scraping-und-analyse](https://media.ccc.de/v/38c3-radiomining-playlist-scraping-und-analyse)
+  * Sec and schneider - Investigating the Iridium Satellite Network [https://media.ccc.de/v/38c3-investigating-the-iridium-satellite-network](https://media.ccc.de/v/38c3-investigating-the-iridium-satellite-network)
+  * Kolja und Mark - Illegal Infrastructure: 12 years of hosting in the greyzone  [https://media.ccc.de/v/38c3-illegal-infrastructure-12-years-of-hosting-in-the-greyzone](https://media.ccc.de/v/38c3-illegal-infrastructure-12-years-of-hosting-in-the-greyzone)
+  * TheEnbyperor - What's inside my train ticket? [https://media.ccc.de/v/38c3-what-s-inside-my-train-ticket](https://media.ccc.de/v/38c3-what-s-inside-my-train-ticket)
+  * Erisvision - 0, 1 oder 2: Hackerei und Cyberbrei [https://media.ccc.de/v/38c3-0-1-oder-2-hackerei-und-cyberbrei](https://media.ccc.de/v/38c3-0-1-oder-2-hackerei-und-cyberbrei)
+  * Sec und Ray - Hacker Jeopardy [https://media.ccc.de/v/38c3-hacker-jeopardy](https://media.ccc.de/v/38c3-hacker-jeopardy)
+
+  * [https://chaoschemnitz.de/Winterchaos](https://chaoschemnitz.de/Winterchaos) am 08.02.25
+  * Junghackertag Chemnitz 18.01.2025 chaoschemnitz.de/Junghackertag
+
+
+  **Musik:**
+
+  &#x1f3b6;&nbsp;[Small Colin - Mutations - Free Music Archive](https://freemusicarchive.org/music/Small_Colin/Tape_Productions/03_-_Small_Colin_-_Mutations_-_Tape_Productions/)
+  &#x1f3b6;&nbsp;[legacyAlli - Interrogation Bond-Style - Free Music Archive](https://freemusicarchive.org/music/legacyalli/legacyalli-2025/interrogation-bond-style/)
+---
+uuid: nt-2025-03-10
+title: 'CiR am 10.03.2025'
+subtitle: Der Chaostreff im Freien Radio Potsdam
+summary: >
+  Digitales und Netzpolitik in und um Potsdam von den Chaoten Knurps, Cyroxx und Hannes.
+
+publicationDate: "2025-03-10T00:00:00+00:00"
+audio:
+  - url: $media_base_url/2025_03_10-chaos-im-radio.mp3
+    mimeType: audio/mp3
+long_summary_md: |-
+  **Shownotes:**
+
+  * [https://archlinux.org/news/cleaning-up-old-repositories/](https://archlinux.org/news/cleaning-up-old-repositories/)
+  * [https://www.t-online.de/nachrichten/ausland/usa/id_100626884/-enola-gay-us-pentagon-loescht-fotos-des-atom-bombers-aus-dem-weltkrieg.html](https://www.t-online.de/nachrichten/ausland/usa/id_100626884/-enola-gay-us-pentagon-loescht-fotos-des-atom-bombers-aus-dem-weltkrieg.html)
+  * [https://www.golem.de/news/usa-neue-ntia-chefin-lehnt-zu-viel-glasfaser-als-woke-ab-2502-193828.html](https://www.golem.de/news/usa-neue-ntia-chefin-lehnt-zu-viel-glasfaser-als-woke-ab-2502-193828.html)
+  * [https://www.golem.de/news/kuenstliche-intelligenz-doge-fuehrt-ki-chatbot-fuer-us-verwaltungsamt-ein-2503-194103.html](https://www.golem.de/news/kuenstliche-intelligenz-doge-fuehrt-ki-chatbot-fuer-us-verwaltungsamt-ein-2503-194103.html)
+  * [https://www.wired.com/story/doge-autorif-mass-firing-government-workers/](https://www.wired.com/story/doge-autorif-mass-firing-government-workers/)
+  * [https://www.youtube.com/shorts/oacnaX1Syqc](https://www.youtube.com/shorts/oacnaX1Syqc)
+
+  * Konversationen transkribieren mit Whisper & Co: [https://github.com/pyannote/pyannote-audio](https://github.com/pyannote/pyannote-audio)
+  * Einschlagwahrscheinlichkeit nochmal korrigiert: Nasa nennt aktuelle Infos für Asteroid 2024 YR4
+  * [https://www.fr.de/wissen/einschlagwahrscheinlichkeit-nochmal-korrigiert-nasa-nennt-aktuelle-infos-fuer-asteroid-2024-yr4-zr-93580814.html](https://www.fr.de/wissen/einschlagwahrscheinlichkeit-nochmal-korrigiert-nasa-nennt-aktuelle-infos-fuer-asteroid-2024-yr4-zr-93580814.html)
+  * ePA: Kassenärzte rechnen mit weiterer Verzögerung [https://www.golem.de/news/elektronische-patientenakte-kassenaerzte-rechnen-mit-weiterer-verzoegerung-2503-194105.html](https://www.golem.de/news/elektronische-patientenakte-kassenaerzte-rechnen-mit-weiterer-verzoegerung-2503-194105.html)
+
+  * [https://smartcity.potsdam.de/de/urbane-datenplattform](https://smartcity.potsdam.de/de/urbane-datenplattform)
+  * [https://urbanedatenplattform-potsdam.de/](https://urbanedatenplattform-potsdam.de/)
+  * [https://smartcity.potsdam.de/de/veranstaltung/udp-startet-pilotbetrieb](https://smartcity.potsdam.de/de/veranstaltung/udp-startet-pilotbetrieb)
+  * [https://www.heise.de/hintergrund/Missing-Link-Homebrew-Computer-Club-Keimzelle-der-digitalen-Revolution-10308909.html](https://www.heise.de/hintergrund/Missing-Link-Homebrew-Computer-Club-Keimzelle-der-digitalen-Revolution-10308909.html)
+
+
+  **Musik:**
+
+  &#x1f3b6;&nbsp;[Dirk Dehler - Impulsion - Free Music Archive](https://freemusicarchive.org/music/dirk-dehler/melange/impulsion/)
+  &#x1f3b6;&nbsp;[Broke For Free - Night Owl - Free Music Archive](https://freemusicarchive.org/music/Broke_For_Free/Directionless_EP/Broke_For_Free_-_Directionless_EP_-_01_Night_Owl/)
+---
+uuid: nt-2025-05-12
+title: 'CiR am 12.05.2025'
+subtitle: Der Chaostreff im Freien Radio Potsdam
+summary: >
+  Hannes und Cyroxx reden über Vibe Coding und das Fediverse.
+
+publicationDate: "2025-05-12T00:00:00+00:00"
+audio:
+  - url: $media_base_url/2025_05_12-chaos-im-radio.mp3
+    mimeType: audio/mp3
+chapters:
+  - start: '00:00'
+    title: 'Intro & Vibe coding'
+  - start: '27:00'
+    title: 'Beat Mekanik - Night City - Free Music Archive'
+    href: 'https://freemusicarchive.org/music/beat-mekanik/single/night-city/'
+  - start: '31:00'
+    title: 'NFC Visitenkarten'
+  - start: '44:00'
+    title: 'mastodon und bluesky'
+  - start: '53:00'
+    title: 'Peertube'
+  - start: '59:00'
+    title: 'HoliznaCC0 - Mutant Club - Free Music Archive'
+    href: 'https://freemusicarchive.org/music/holiznacc0/power-pop/mutant-club/'
+long_summary_md: |-
+  **Shownotes:**
+
+  * [https://fed.brid.gy/](https://fed.brid.gy/)
+  * Threads im Fediverse: [https://help.instagram.com/760878905943039](https://help.instagram.com/760878905943039)
+  * [https://peertube.tv/](https://peertube.tv/)
+  * [https://www.heise.de/news/Signal-meldet-sich-zu-TeleMessage-Affaere-zu-Wort-10373137.html](https://www.heise.de/news/Signal-meldet-sich-zu-TeleMessage-Affaere-zu-Wort-10373137.html)
+  * [https://www.t-online.de/digital/aktuelles/id_100708344/signal-klon-tm-sgnl-stellt-betrieb-wegen-hackerangriff-vorerst-ein.html](https://www.t-online.de/digital/aktuelles/id_100708344/signal-klon-tm-sgnl-stellt-betrieb-wegen-hackerangriff-vorerst-ein.html)
+  * Wenn du KI-generierte Forschung in eine subreddit machst, ohne Wissen und Zustimmung der Reddit-User...
+  [https://bsky.app/profile/cfiesler.bsky.social/post/3lnqrpz3qas2r](https://bsky.app/profile/cfiesler.bsky.social/post/3lnqrpz3qas2r)
+  * Klarna ergänzt KI wieder mit Menschen [https://www.golem.de/news/wende-beim-kundensupport-klarna-hat-jetzt-ki-kater-2505-196076.html](https://www.golem.de/news/wende-beim-kundensupport-klarna-hat-jetzt-ki-kater-2505-196076.html)
+  * [https://www.golem.de/news/keine-zugriffsrechte-bremer-online-meldeportal-war-jahrelang-kaputt-2505-196082.html](https://www.golem.de/news/keine-zugriffsrechte-bremer-online-meldeportal-war-jahrelang-kaputt-2505-196082.html)
+  * ePA: [https://www.heise.de/hintergrund/Elektronische-Patientenakte-Welche-Unklarheiten-es-noch-gibt-10377344.html](https://www.heise.de/hintergrund/Elektronische-Patientenakte-Welche-Unklarheiten-es-noch-gibt-10377344.html)
+
+
+  **Musik:**
+
+  &#x1f3b6;&nbsp;[Beat Mekanik - Night City - Free Music Archive](https://freemusicarchive.org/music/beat-mekanik/single/night-city/)
+  &#x1f3b6;&nbsp;[HoliznaCC0 - Mutant Club - Free Music Archive](https://freemusicarchive.org/music/holiznacc0/power-pop/mutant-club/)
+---
+uuid: nt-2025-07-14
+title: 'CiR am 14.07.2025'
+subtitle: Der Chaostreff im Freien Radio Potsdam
+summary: >
+  Cyroxx und Hannes reden über den Fleischraum, schnelle Züge und generelle Neuigkeiten aus dem Nicht-Meatspace.
+
+publicationDate: "2025-07-14T00:00:00+00:00"
+audio:
+  - url: $media_base_url/2025_07_14-chaos-im-radio.mp3
+    mimeType: audio/mp3
+long_summary_md: |-
+  **Shownotes:**
+
+  * ASDF Movie - I like trains: [https://asdfmovie.fandom.com/wiki/I_Like_Trains](https://asdfmovie.fandom.com/wiki/I_Like_Trains)
+  * Bahn-Content: ICE fährt 405 km/h: [https://www.youtube.com/watch?v=2K2SRhgmcSc](https://www.youtube.com/watch?v=2K2SRhgmcSc) [https://www.heise.de/news/Testzug-faehrt-Tempo-405-zwischen-Erfurt-und-Leipzig-10463766.html](https://www.heise.de/news/Testzug-faehrt-Tempo-405-zwischen-Erfurt-und-Leipzig-10463766.html)
+  * [https://www.radioeins.de/archiv/podcast/teurer_fahren.html](https://www.radioeins.de/archiv/podcast/teurer_fahren.html)
+  * Commodore von YouTuber gekauft: [https://www.heise.de/news/Youtuber-erweckt-Commodore-mit-neuem-Team-zum-Leben-10464305.html](https://www.heise.de/news/Youtuber-erweckt-Commodore-mit-neuem-Team-zum-Leben-10464305.html)
+  [https://www.escapistmagazine.com/news-commodore-64-ultimate-hardware-reveal-2025/](https://www.escapistmagazine.com/news-commodore-64-ultimate-hardware-reveal-2025/)
+  * Bitcoin: [https://www.heise.de/news/Transaktion-von-80-000-Bitcoin-sorgt-fuer-Spekulationen-im-Netz-10476106.html](https://www.heise.de/news/Transaktion-von-80-000-Bitcoin-sorgt-fuer-Spekulationen-im-Netz-10476106.html)
+  * Lösegeldverhandler soll von Hackern Provision kassiert haben: [https://www.golem.de/news/ransomware-loesegeldverhandler-soll-von-hackern-provision-kassiert-haben-2507-197715.html](https://www.golem.de/news/ransomware-loesegeldverhandler-soll-von-hackern-provision-kassiert-haben-2507-197715.html)
+  * Schlechte Protokolle, eigentlich nicht, Bluetooth: [https://www.heise.de/news/Zero-Day-Bluetooth-Luecke-macht-Millionen-Kopfhoerer-zu-Abhoerstationen-10457857.html](https://www.heise.de/news/Zero-Day-Bluetooth-Luecke-macht-Millionen-Kopfhoerer-zu-Abhoerstationen-10457857.html)
+  * Telemessage ist nicht Signal: [https://www.independent.co.uk/news/world/americas/us-politics/telemessage-signal-app-hacked-government-b2755435.html](https://www.independent.co.uk/news/world/americas/us-politics/telemessage-signal-app-hacked-government-b2755435.html)
+  *  Lordes viertes Album Virgin spinnt: Transparente Audio-CD lässt sich vielfach nicht abspielen [https://www.golem.de/news/lordes-viertes-album-virgin-spinnt-transparente-audio-cd-laesst-sich-vielfach-nicht-abspielen-2507-197711.html](https://www.golem.de/news/lordes-viertes-album-virgin-spinnt-transparente-audio-cd-laesst-sich-vielfach-nicht-abspielen-2507-197711.html)
+  * E-Mail-Irrsinn bei Gmail: Google verdreht Worte [https://www.t-online.de/digital/aktuelles/id_100811852/gmail-fantasiert-googles-mail-programm-verfaelscht-fremde-inhalte.html](https://www.t-online.de/digital/aktuelles/id_100811852/gmail-fantasiert-googles-mail-programm-verfaelscht-fremde-inhalte.html)
+  * Stop Destroying Video Games: [https://www.heise.de/news/EU-Buergerinitiative-Stop-Destroying-Videogames-erreicht-noetige-Unterschriften-10474510.html](https://www.heise.de/news/EU-Buergerinitiative-Stop-Destroying-Videogames-erreicht-noetige-Unterschriften-10474510.html)
+  * Neues Fairphone: [https://www.heise.de/news/Fairphone-6-iFixit-vergibt-eine-10-10-fuer-die-Reparierbarkeit-10478316.html](https://www.heise.de/news/Fairphone-6-iFixit-vergibt-eine-10-10-fuer-die-Reparierbarkeit-10478316.html)
+
+
+  **Musik:**
+
+  &#x1f3b6;&nbsp;[Amarent - Dance Away - Free Music Archive](https://freemusicarchive.org/music/amarent/free-soft-pop/dance-away-1/)
+  &#x1f3b6;&nbsp;[Beat Mekanik - Dance the Night Away II - Free Music Archive](https://freemusicarchive.org/music/beat-mekanik/single/dance-the-night-away-ii/)
