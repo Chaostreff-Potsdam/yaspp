@@ -96,10 +96,11 @@ find "$TARGET_DIR" -type f \( -name "*.vtt" -o -name "*.srt" -o -name "*.txt" \)
     ((file_count++))
 done
 
-# remove all newlines from txt files
+# remove all newlines from txt files and create a newline after each sentence
 find "$TARGET_DIR" -type f -name "*.txt" | while read -r txt_file; do
-    echo "Removing newlines in: $txt_file"
+    echo "Re-arranging newlines in: $txt_file"
     tr '\n' ' ' < "$txt_file" > "${txt_file}.tmp"
+    sed -i 's/\. /\.\n/g; s/! /\!\n/g; s/? /\?\n/g' "${txt_file}.tmp"
     mv "${txt_file}.tmp" "$txt_file"
 done
 

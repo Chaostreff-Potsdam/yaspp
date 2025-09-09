@@ -1,0 +1,491 @@
+ Herzlich willkommen zur Dezember-Ausgabe von Chaos im Radio oder früher auch bekannt als Nurtalk.
+ Es ist schon die letzte Folge des Jahres, es geht schnell um.
+ Heute mit dabei sind der Cyroxx.
+ Hallo.
+ Der Hannes.
+ Juhu.
+ Der Knurps.
+ Moin moin.
+ Und Knurps ist auch nicht alleine, sondern er hat auch noch jemand mitgebracht, und zwar den Paul.
+ Hallo.
+ Hallo Paul, ja und ich bin Gini.
+ Hallo Gini, hallo Gini.
+ Hallo Gini.
+ Hi.
+ Ja, lass uns doch vielleicht einsteigen.
+ Was ist denn jetzt ein Nurtalk wieder ausgegramm, das ist ja lange her.
+ Ja, und die Leute, die uns so lange nicht gehört haben, auch noch wissen wir, wie es sind.
+ Vielleicht haben wir auch schon schon so lange keinen Podcast mehr publiziert.
+ Na gut.
+ Ja, außerdem unterscheidet uns das ja immer noch so ein bisschen vom großen Chaosradio, vom ehrwürdigem.
+ Was jetzt genau, du unterscheidest uns vom großen Chaosradio.
+ Da komme ich drauf, klar.
+ Ich meine, irgendwie muss man eine Maßstäbe setzen.
+ Yes.
+ Wir reden heute über Dinge.
+ Gini, was willst du denn sagen?
+ Ich habe es, sorry, die Pause war zu lange, da habe ich dazwischen gequatscht, wie immer.
+ Ich wollte etwas sagen, lass uns doch direkt mit den Themen einsteigen, ob wir heute reden.
+ Oh ja, ich möchte über KIs reden.
+ Aber dann nicht gespannt.
+ Was möchte man, KIs auch über dich reden?
+ Ja, ja.
+ Oh.
+ Wenn man sie fragt.
+ Was hast du uns für künstliche Intelligenz mitgebracht?
+ Ja, was habe ich euch für künstliche Intelligenz mitgebracht?
+ Also das, was gerade durch die Medien geht, wenn man von KIs redet, ich finde, der Begriff  ist ja eh durch, also man kann den nicht mehr benutzen und damit irgendwas Spezielles beschreiben.
+ Man sagt jetzt alles, was irgendwie toll ist, ist KI, aber die Geschichten, die ich immer  wieder mitverfolge, sind einerseits diese Bildgeneratoren, die einem Bilder malen,  je nachdem, was man für ein Text eingibt und die Systeme, mit denen man Texte generieren  kann.
+ Also von wegen hier Chatbots und so, habe ich jetzt auch schon einige gesehen, wer mal in  den Play Store oder in den App Store von Apple und Google guckt, der sieht da mittlerweile  einige Freunde, imaginäre Freunde, die man sich da klicken kann, mit denen man reden  kann, die einem wahrscheinlich furchtbar viel Geld aus der Tasche ziehen, dafür, dass  sie sehr generische Statements abgeben.
+ Aber es ist mittlerweile wohl gut genug, als dass ich doch ein großer Teil der Menschheit  damit unterhalten möchte.
+ So, und was ich total spannend finde, ist, dass die Sachen, über die man in der Attack-Welt  immer wieder redet, das sind bei den Bildgeneratoren, sind das irgendwie Dal E und Stable Diffusion  und dann der Chat-Kram, das System da heißt GPT oder Chat-GPT und die kommen eigentlich  von derselben Butze, also irgendwie von OpenAI, was eigentlich eine ganz normale Company ist  oder eine ganz normale Firma, die offensichtlich sehr gut Werbung machen und vielleicht auch,  weiß ich nicht, ob das besser ist als das, was die großen so an Produkten in der Richtung  rausgeben, aber die machen auf jeden Fall immer wieder Wind.
+ Genau, die Sachen, die ich spannend fand, also was man auf Twitter unterwegs ist, kann  man ja gar nicht an diesen Dal E Bildern vorbei, wo halt irgendjemand einen lustigen Satz  reingegeben hat und das Ding malt einem irgendwas, was schon sehr beeindruckend gut ist, also  Illustratoren werden es schwer haben in Zukunft und GPT ist eben das gleiche für, schreibt  mir mal ein Text.
+ Also gestern bin ich über so ein Twitter-Fat gestolpert, indem jemand da groß ausprobiert  hat, was man alles machen kann und der Anderen schreibt mal eine Bewerbung für das Unternehmen  so und so.
+ Ich bin so und so und hab den Background und dann schreibt ihr das Ding halt eine echt  gute Bewerbung.
+ Also ich hab ja viele Bewerbungen gelesen in meinem Job schon und das war eine der Top  10 Bewerbungen, möchte ich sagen, so als Anschreiben hat das wirklich sehr, sehr gut funktioniert.
+ Und die können eben auch Songs schreiben, ja also Chat GPT kann oder GPT, dem kann man  auch sagen, schreibt mir mal ein Song und mach mir noch ein paar Akkorde dazu und das funktioniert  alles erstaunlich gut, ja, also das ist schon sehr beeindruckend.
+ Ich hatte letztens erst in einer anderen Chatgruppe einen Fall, wo man so vier Zellen  lang beschrieben hat, dass er in ärgerlichem Ton mit sagten Beleidigungen gerne ein Text  über die Benutzung von Arch Linux hätte und ich hab mich da echt getroffen gefühlt.
+ Also es hat mich echt mitgenommen, was dabei rauskam.
+ Das ist wirklich so, ja?
+ Nicht nur ich, ich ging danach in der Chatgruppe so, ich glaub, 5, 6 Messages über die Benutzung  von Arch Linux.
+ Also es hat auch andere getroffen und getrickert.
+ Wie war das?
+ Arch Linux ist das Betriebssystem, wo man weiß, wer es benutzt, weil die Leute seinem  sagen, oder?
+ Das ist doch so das Meme, das so durchs Internet geistert.
+ Ich hab nur das andere Meme noch, auch wieder sehr treffend im Kopf, du benutzt doch nur  Arch Linux, weil du Gen2 nicht kompilieren kannst.
+ Ja, Entschuldigung.
+ Gut, also das sind, genau, also das eine generiert wunderbare Texte, das andere generiert viele  Bilder, die wir hier im Radio eh nicht zeigen können, also wir auch mal darüber auch nicht  weiter reden.
+ Spannend ist von der gleichen Firma OpenAI auch Whisper.
+ Also ich mein Bilder funktionieren nicht im Radio, aber Texte, wir könnten doch mal  einfach in der Radiosendung mit Texten von Gplay 3.
+ Also wahrscheinlich finden wir auch noch irgendeine gute Sprachsynthese, das hofft der.
+ Oh ja.
+ Dann sind wir mal weg, dann sind wir total überflüssig, genau.
+ Whisper, wollte ich noch ansprechen, ist ein trainiertes neuronales Netz, was Spracherkennung  hinkriegt, sehr gut, zumindest im Englischen habe ich da jetzt einiges gesehen, ich habe  noch keine Software gefunden, die das jetzt mal irgendwie als Anwendung rausbringt, ich  warte ja immer noch auf ein Open Source Sprachassistenten, den ich mir irgendwie in mein beliebiges Smart  Home Produkt einbasteln kann, also offenes Smart Home Produkt.
+ Wir hatten aber schon mal über den, wie heißt der Butler, hatten wir glaube ich schon mal  gesprochen hier in diesem Podcast, oder?
+ Hatte ich das schon mal erwähnt, ich komme jetzt gerade auf den Namen nicht.
+ Ich glaube ja und ich glaube wir hatten festgestellt, dass die Spracherkennung nicht so wunderbar  ist, richtig?
+ Vielleicht.
+ Ich habe da tatsächlich selber keine praktischen Erfahrungen mit dem gehabt.
+ Ich auch nicht.
+ Mir ist bloß tatsächlich gerade der echte Name entfallen.
+ Genau und dann das letzte, was ich noch ansprechen will, was wirklich mein Leben in meiner Freizeit  verändert hat, ist der GitHub Co-Pilot, eine KI, die Code vorschlägt und zwar auch mit  ähnlichem, ähnlicher Mächtigkeit wie GPT, wie das funktioniert ist, wenn man sich da  so eine Subscription klickt und das in seine IDE einbaut, dann schreibt man Code erstmal  ganz normal wie sonst und immer wenn man zwei Sekunden nichts schreibt, schlägt er einem  vor, was man wahrscheinlich gerade schreiben will und das ist bankstikend.
+ Also wenn man das so benutzt, ja so habe ich angefangen das zu benutzen, ist es halt wirklich  so, dass einem da was hinschreiten, also ja, das, exakt das wollte ich gerade schreiben  und das halt so die nächsten 3, 4, 5 Zeilen oder die ganze Funktion zu Ende geschrieben  haben und entweder hast du so diese Erkenntnis, oh, das, krass, genau das wollte ich schreiben  oder du hast die Erkenntnis, oh, nee, das wollte ich aber gerade nicht schreiben und  stellts dann fest, der hat recht, der Co-Pilot, also so in mindestens der Hälfte aller Fälle  war das so, dass man da gedanklich einfach irgendwas falsch gemacht hat, also ich habe  da sehr, sehr, sehr gute Erfahrungen in Go gemacht, ich schreibe meine Freizeit Projekte  im meisten Sinn Go und das ist wirklich magisch und dann die andere Variante wie man das  verwenden kann, also ursprünglich hatte ich es verwendet, weil der Go-Linter, der mich  in der IDE nervt über all möglichen Dingen, Kommentare haben will über exportierten Funktionen  und Methoden und ich habe gedacht, hey, der Co-Pilot kann mir bestimmt auch Kommentare  erzeugen, ja kann er, macht da ziemlich gut, aber andersrum ist es noch viel magischer,  man schreibt den Kommentar und das Ding klatscht ein, die Funktionen drunter und die Funktionen  sind grundsätzlich besser als die, die ich wählen würde, also dazu gibt es, ich kann  da ein paar YouTube-Videos empfehlen, einfach mal so nach Co-Pilot suchen, dann das ist  mindblowing, was da passiert und ich hatte eine 60-Tage Subscription und den habe ich  auch relativ viel gemacht und ich möchte sagen, es hat meinen Output mindestens verdoppelt  und also das hat mich wirklich im Alltag, hat das so viele Sachen so viel leichter gemacht,  weil man Sachen Probleme nicht mehr nachschlägt, man braucht noch ganz selten gucken, wie heißt  das, man tippt einfach hin, was will man machen und Co-Pilot weiß dann schon, welches  Modul man dafür braucht und welche Library man jetzt wahrscheinlich benutzen will und  so weiter.
+ Wahnsinn.
+ Also würdest du jetzt nicht sagen, du hast dich damit überflüssig gemacht, sondern du  bist produktiver geworden?
+ Also du hast quasi, es ist wie ein, es fühlt sich zeitweise eher an, als würdest du Code  Reviews machen, als würdest du selber Code schreiben.
+ Okay.
+ Und genau, du brauchst halt noch, du lenkst das Ganze halt und du musst natürlich vorher  überlegen, was willst du machen, aber halt auf einem viel höheren Level als sonst, also  so über die Implementierungsdetail ist, in einem ganz tiefen Level machst du dir relativ  wenig Gedanken, nur noch für viele Sachen, ja, also es gibt schon Algorithmen da, musst  du wahrscheinlich selber ran, aber so viele Sachen macht das Ding einfach richtig.
+ Speziell so Anwendungssoftware, ja, wo du eigentlich überhaupt nicht, die Schaffungshöhe  nicht so krass hoch ist wie bei einem neuen Algorithmus, das macht der dir halt einfach  fertig.
+ Ja, Amazon hat auch ein Konkurrenzprodukt, irgendwie WISP, nee, OpenWisper, könnte  falsch sein.
+ Nee, OpenWisper ist glaube ich nochmal was anderes.
+ CodeWisper, sorry, CodeWisper, ja, habe ich noch nicht ausprobiert, weiß nicht, ob das  genauso gut funktioniert, aber halt diese, diese GitHub Integration in die IDE, GitHub  Copilot Integration ist absurd, genau und da kannst du dich in den Kommentaren auch mit  dem Copilot unterhalten und kannst ihn fragen, ob du in deinem Leben alles richtig gemacht  hast und so, und der antwortet dir in den Kommentaren, dass das so scheit, also JetGPT ist da quasi  mit eingebaut.
+ Hat das nicht, aber auch für einen ziemlich aufreger gesorgt, in der GitHub Community,  das ist der Copilot jetzt kommerzialisiert wird oder vertrieben wird, aber ja, im Prinzip  auf offenen Repositories trainiert wurde.
+ Ja, genau, genau, und sie haben, ich glaube, was auch viele probiert haben ist, spuckt  mir das Ding jetzt Dinger aus, die nicht öffentlich sind und kommt man dazu, dass der irgendwie  einem Passwort da wiedergibt, die jemand anders eingecheckt hat.
+ Da haben sie sich, glaube ich, mit rumbekleckert sozusagen, da haben sie, glaube ich, viel richtig  gemacht.
+ Aber ja, grundsätzlich ist die Frage, ist das, wem gehört jetzt eigentlich das Modell,  das ist ja genauso wie bei generierten Bildern, das ist ein sehr ähnliches Problem.
+ Nein, nicht nur das Modell, auch das, was Paul, also ja, aber letztendlich das, was Paul  ja meinte, fängt ja noch ein bisschen früher an, weil für das Trainieren werden ja eben  die, auch diese ganzen Open Source Repositories verwendet, also Open Source Code und wird  dann bei dir eingefügt, ohne dass kentlich gemacht wird, dass das Open Source Code in  Zweifel hat, ist, der da bei dir eingefügt wird.
+ Zum Beispiel war da nicht irgendwie diese, ah, diese berühmte Funktion von Quake irgendwie  auch mit dabei.
+ Was, was macht denn die Wurzel ziehen oder so, ja, das ist ein gefährliches Halbwissen,  also die du halt, die du halt quasi immer irgendwie brauchst, spätestens in der Computergrafik,  ist das halt irgendwie, glaube ich, so ein Algorithmus gewesen, der halt da umgeht, dass  du halt Wurzel ziehen musst, was halt bei Computern auch nach wie vor immer sehr viel Zeit kostet,  gerade wenn es um Performance geht und das ist halt, steht unter einer freien Lizenz und  sollte halt so auch dann kentlich gemacht sein, wenn der CodePilot dir das aber nicht  macht, sondern dir einfach nur das Stückchen Text einfügt, dann ja klar, U-AwareShift ist  das eine, also ein bisschen davon hast du oder der CodePilot das jetzt kreiert, aber eigentlich  hat das ja jemand anderes kreiert, der das unter freie Lizenz gestellt hat und zwar  unter einer Copy-Level-Lizenz, die halt sagt, wo immer du diesen Code verwendest, musst  du den auch als solchen Kennzeichnen, wo der ursprünglich herkommt und auch weiterhin  frei machen.
+ Also deswegen, das ist nicht nur, ist jetzt nicht ganz risikofrei auch, das muss man halt  auch sehen.
+ Ach so meinst du, ja.
+ Also ich denke, das ist ja, das ist trotzdem eine sehr ähnliche Diskussion, wie es ja  auch in der Bildgenerierung gibt, ne?
+ Also die Frage...
+ Ja, lass uns doch mal kurz rein gehen, genau, in die Bilder.
+ Also kannst du halt irgendwie sagen, mal mir mal einen, eine Frau auf einem Stuhl im Stil  von Van Gogh und dann sieht das halt irgendwie eben sehr ähnlich und wenn du da jetzt lebende  Künstler nimmst, dann ist das schon spannend, was ist das jetzt rechtlich, was passiert  da jetzt?
+ Das sind ja mehrere Ebenen, also das meines ist ja so, ich glaube nicht, dass jeder den  Konzent gegeben hat, dass mit seinem Werk ein Modell trainiert wird, das ist ja so der  eine Faktor mit auch Urheberrecht und so weiter und dann kommen ja andere Bilder raus, die  aussehen wie deine, aber nicht deine sind, das ist wahrscheinlich auch noch ein Problem.
+ Ich habe das eben noch gar nicht drüber nachgedacht, dass das ein Problem sein könnte, verdammt.
+ Das hat auch tatsächlich noch eine Ebene, die tatsächlich in Großbritannien jetzt im  Moment in die Regulierung einen Eingang findet und zwar hat der Justizminister in Großbritannien  gesagt, Moment, Verbreitung von pornografischen Deepfakes-Inhalten wird demnächst unter Strafe  gestellt.
+ Das heißt, ja.
+ Also nochmal zur Erklärung Deepfakes waren ja die Sachen, wo man, wo man bestehendes  Material nimmt, meistens irgendwie so Bilder oder Videos und dann da zum Beispiel mal das  Bild einer anderen Person drauf, ja, drauf modellieren lässt und dann sieht das teilweise  sehr täuschend echt aus und man könnte fast meinen, okay, das ist wirklich diese Person  und das ist gerade bei so incriminierenden Inhalten, Schraubdagen oder…  Hat doch nichts mit Konsens zu tun.
+ Ja, genau.
+ Aber ist das… also ich habe jetzt letztens gesehen, weil mir kam es auch so eine News  für dreien, dass jetzt irgendwie diese App Lenser gibt, wo man so fünf bis zehn Bilder  hoch lädt und dann macht es dir auch halt so hundert oder was auch immer Bilder eben  auch mit diesem Stable Diffusion, weiß das Modul, ist das Algorithmus, weiß ich jetzt  auch nicht.
+ Ist das nicht dann auch quasi, dass du ganz viel Deepfakes quasi machst, weil du die machen  ja auch so künstlerische Bilder, wie du keine Ahnung oder Wüste stehst und einen Umhang  umherst oder so.
+ Ist das dann auch Deepfake oder ist Deepfake nur, wenn es was Negatives ist?
+ Weil es ist ja etwas, was nicht passiert ist.
+ Deepfake ist erstmal das Verfahren oder die Verfahren an sich als, das ist jetzt erstmal  ohne, grundsätzlich erstmal ohne, dass es jetzt, ob das jetzt für einen Anfangsstrich  einen guten oder schlechten Zweck ist.
+ Also wäre das auch ein Deepfake quasi, weil ich war ja nicht in der Wüste und da gibt es  ein Bild von mir, was realistisch aussieht, dass ich in der Wüste war oder so.
+ Ich meine, das ist dann eben die Sache mit dem Konsent oder halt nicht.
+ Hast du deine Zustimmung gegeben, das damit zu tun oder bist du, und das Problem an den  Deepfakes ist halt das hohe Manipulations- und Missbrauchspotenzial, sei es für z.B.
+ bei pornografischen Inhalten Leute in angenehme Situationen zu bringen, weil da irgendwie  Bitmaterial mit ihrem Gesicht entsteht, was täuschend echt aussieht, was aber so nie  in der Realität stattgefunden hat und das auch noch ohne die Einstimmung derjenigen,  deren Gesicht da verwendet wird oder beispielsweise auch das politische, sorg dir auch für politischen  Sprengstoff in dem Sinne, wenn du halt ja z.B.
+von irgendeinem Präsidenten nimmst und  da Videomaterial so bearbeitest, dass der dann quasi sagt, was du ihm in den Mund legst.
+ Oder von einem Bürgermeister aus der Ukraine, der dann mit einer deutschen Politikerin telefoniert.
+ Oh ja.
+ Nicht, dass das so ist, oder?
+ Ja.
+ Ich bin übrigens gerade ganz stolz, ich habe mal recherchiert, bevor ich was sage.
+ In Bezug auf Deepfakes gab es ja von der Weile die Meldung, dass Bruce Willis seine Gesicht  quasi verkauft hat an eine Deepfake-Firma.
+ Da gab es wohl mal einen Werbespot mit Bruce Willis, also mit einem Schauspieler und dann  wurde Bruce Willis Gesicht darauf gelegt und dafür gab es dann tatsächlich auch Geld.
+ Und jetzt habe ich gerade bei Golem gelesen, dass das wohl eine Inter war.
+ Also Bruce Willis hat nicht grundsätzlich seine Rechte verkauft, fake zu werden, aber  vielleicht war der Text ja auch von einer KI geschickt.
+ Also, der weiß.
+ Ich kann mich jetzt auch so, ja, go ahead.
+ An einer KI sind wir noch ein bisschen vorbeigeschrammt, und zwar dieses Deep L, das tatsächlich  auch mir diverse Übersetzungen in den letzten Tagen deutlich anders übersetzt hat als Google  Translator.
+ Ja, das hat sich auch gute Sachen gehört, stimmt.
+ Also es ging tatsächlich soweit, dass ich einfach einen Grammatikfehler im Englischen  hatte, weil man halt so an so eine deutsche Grammatik gewohnt ist und das Ding hat es  mir einfach wegkorrigiert und hat dann auch die Grammatik in dem Satz nicht übersetzen  wollte, umgestellt, fand ich spannend.
+ Okay.
+ Die Deep L hat sogar eine Funktion, dass du ganze PDF-Dokumente hochladen kannst und  die dann übersetzt werden und auch mehr oder weniger in der ursprünglichen Formatierung.
+ Also ich habe ein Buch übersetzen können, viele hundertzeiten, das in einer Sprache,  die ich eigentlich nicht spreche, tief vereindruckend, und tatsächlich kommt aus meinem Umfeld kommen  eine Meldung von jungen Lehrerinnen und Lehrpersonen, die tatsächlich sprechen, dass sie jetzt  sich auch bei den Schülerinnen und Schülern durchgesetzt hat, dass ganz häufig die Hausarbeiten  besonders gut formuliert sind in letzter Zeit und da Deep L doch doch sehr gute Nachhilfe  gegeben hat.
+ Nachhilfe in ganz großen Anführungsstrichen würde ich da so ein bisschen...
+ Das könnte man aber auch mal über ein paar Research Paper drüber jagen und auch mal  ein bisschen Feinschliff brauchen.
+ Ja.
+ Da könnte man doch damals, wie bei den Kartografen und Atlanten herstellern, könnte man doch  da ganz bewusst Fehler einbauen, um zu sehen, ah, du hast das mit Deep L übersetzt.
+ Das ist aber auch gefährlich.
+ Ja.
+ Ja.
+ Also ich...
+ Ja, von Deep L habe ich auch schon auf der Gurt, aber ich war bei den Bildern noch nicht  ganz fertig.
+ Ach so.
+ Weil ich habe ja von Salense abgehört und ich habe es auch gesehen, dass ein Kollege  von mir auch so eine Art Ding gebaut hat, wo man halt auch so fünf bis zehn Bilder irgendwie  ihm geben kann und dann baute er da hundert Sachen wieder draus und ich habe ihm schon  das Geld dafür gegeben und ich überlege ihm, gebe ich ihm die Bilder wirklich oder lasse  ich es sein?
+ Weil was passiert eigentlich mit den Bildern?
+ Also ist es mal auf dem Modell oder kommen dann die Bilder auch an die Datenbank und  werden Teil des Modells wissen, das weiß das jemand?
+ Ich bin kein Jurist, ja nahe.
+ Du meinst, ob der sich selbst trainiert?
+ Ja, genau.
+ Ich glaube bei den, das sind glaube ich fertige Modelle, die nicht weiter trainiert werden.
+ Okay.
+ Aber nicht sicher.
+ Aber...
+ Ich könnte ihn ja mal fragen.
+ Das wäre eine gute Frage, oder?
+ Das wäre eine gute Frage.
+ Was passiert mit meinen Bildern?
+ Ja.
+ Das ist sowieso immer eine gute Frage.
+ Ja, auf alle Fälle.
+ Aber ich finde es halt spannend, dass es jetzt ein großes Thema wird, weil es halt diese  neue Forschung dazu gab.
+ Es gibt es noch nicht so lange in dieses Modell, ne?
+ Das haben die ja erst dieses Jahr irgendwie rausgebracht.
+ Richtig ist jetzt das Dali?
+ Ne, das Stable Diffusion Ding, also diese Forschung dazu ist noch nicht so alt.
+ Spannend?
+ Danke.
+ Ich werde überlegen, ob ich das tue, ob ich das nicht tue.
+ Wir bleiben dran, wie es so schön ist.
+ Ja, absolut.
+ Ich denke, das Thema wird uns sicherlich alle nicht loslassen in eine Zukunft.
+ Ja.
+ Genau.
+ Ja, das ist zum Abschluss noch mal.
+ Warte, Paul hatte gerade noch was, glaube ich?
+ Ja, nur, wer eigene Dinge Absätze konsumieren möchte, es sei der Kanal Two Minute Papers  auf YouTube noch empfohlen.
+ Da werden in diesem Bereich Bildgenerationen und so sehr niedrigschwellig neue Paper zusammengefasst.
+ Und da kann man wirklich gut mitbekommen, wo es gerade hingeht.
+ Das ist sehr spannend.
+ Vielen Dank.
+ Kommt auf jeden Fall in die Show-Nords.
+ Genau.
+ Ja, Show-Nords.
+ So, ich habe hier meine Altersschwäche über das Tattoo-Layouts.
+ Habe ich jetzt mal nach hinten geschoben.
+ Dann habe ich noch eine, nachdem wir jetzt ganz viel über über eigentlich alles proprietäre Produkte.
+ Ich glaube Stable Diffusion ist nicht proprietär, aber alles andere, glaube ich, schon.
+ Ich dachte, tatsächlich bis gerade eben das Open AI tatsächlich irgendwas mit Open wäre.
+ Nee, also...
+ Es ist auch nur wieder ein Unternehmen, wo unter anderem auch Elon Musk wieder mit drin hängt.
+ Ja, ja, also genau.
+ Ich habe mir die Firmenstruktur nicht genau angeguckt, aber es ist auf jeden Fall nicht...
+ Da gibt es wohl noch eine Stiftung, die mit drin hockt.
+ Aber ja, also da müssen wir mal ein bisschen warten, bis ich mal ein paar Journalisten damit beschäftigen  und Journalistinnen und da mal dahinter gucken, was da eigentlich los ist.
+ Genau.
+ So, ich würde aber gerne noch was empfehlen, was sehr offen ist und mir sehr gefällt.
+ Ich habe mir in den letzten Jahren immer mal wieder über Gadget Bridge gesprochen  und generell offenes Android und offene Gadgets drum rum.
+ Also sowas wie Smartwatches, die man sich dann irgendwie...
+ Also meistens sind das ja irgendwelche, keine Ahnung, Huawei, Xiaomi, Samsung, Apple Watches,  die alle auf geschlossene Systemen basieren, wo man nichts mitmachen kann.
+ Da haben wir uns schon öfter darüber aufgelegt.
+ Ich könnte mich auch eigentlich jeden Tag wieder über meinen iPad, was hardwaretechnisch  noch völlig in Ordnung ist, aber da aus dem Support gelaufen ist aufregen.
+ So, und jetzt habe ich gefunden, eine Smartwatch, die von Grund auf offendesignt ist, 30 Dollar kostet  und für die es sogar zwei offene Betriebsthemen gibt, von denen man sich eins picken kann,  die also auch wirklich auf GitHub entwickelt werden.
+ Und das ist die Pine Time Watch, also Pine, wie die Fichte.
+ Und die machen mehrere Produkte, weiß jetzt nicht, was das für eine Firma ist,  aber alles, was sie produzieren, ist irgendwie offen.
+ Sie produzieren auch einen kleinen Lötkolben, den man sich selber mit Firmware bespielen kann.
+ Der hat einen USB-C Anschluss und damit kann man löten.
+ Das ist ganz großartig der Pine Pen.
+ Und ein Smartphone, das Pine Phone habe ich auch noch nicht ausprobiert,  aber alles, was sie haben, ist von Grund auf immer offen.
+ Es gibt keinerlei Mechanismen, um zu verhindern, dass man da drauf zugreifen kann.
+ Man kann das nach Belieben bricken und auseinandernehmen  und hat dann wieder ein Interface, womit man auch die gebrickten Geräte wieder hinkriegt.
+ Also ganz, ganz große Empfehlung.
+ Ich habe mir diese Pine Time besorgt, sogar das Steph Kit,  wo ich also eine verklebte Uhr habe und eine Offener, die ich dann fahr,  die Firmware Updates ausprobier.
+ Genau, und das ist ein ganz wunderbares Produkt.
+ Und die Software dazu heißt Infinityime.
+Großartig.
+ Pine hatte ich jetzt schon mal gehört als Hersteller von so Mini-Computern,  so ähnlich wie Raspberry Pi beispielsweise.
+ Mir ist aufgefallen, die haben dieses Pine Note,  das im Prinzip so eine Dienerviersalte e-Paper ist.
+ Das sieht irgendwie sehr ähnlich zum Remarkable aus,  was im Prinzip so aussieht wie ein wirklich dünnes E-Book-Reader-Ding mit Stift,  auf dem man relativ flüssig schreiben kann.
+ Und auf dem Ding läuft im Hintergrund wohl tatsächlich ein offenes Linux,  mit dem man sein Gerät dann auch tatsächlich selber im Griff hat  und da eigene Dinge laufen lassen kann.
+ Zum Teil kümmern die sich gar nicht selber um die Software.
+ Also das Infinityime hat, soweit ich das sehen kann, nichts mit Pine-Time zu tun.
+ Also das ist halt für die Uhr entwickelt, kann aber auch noch andere,  also alle anderen Geräte, die unterstützt sind,  muss man halt erst irgendwie hacken und unlocken und schlag mich tot.
+ Und jailbreaken.
+ Und auf der Pine-Time läuft es halt out of the box.
+ Also das ist schon sehr angenehm.
+ Und man sieht halt auch, was man mit Hardware für 30 Dollar eigentlich hinkriegt.
+ Also da sind alle Sensoren drin, die man vor einer Smartwatch erwartet.
+ Das ist schon spannend.
+ Per Pine-Note genauso.
+ Also ich habe Leute damit arbeiten sehen, dass es funktioniert einfach.
+ Es gibt ja mittlerweile auch im Open-Hardware-Bereich,  also gerade das, was der Pine-Time scheinbar ist,  auch mittlerweile diverse Übersichtsstudien, die einfach mal so geguckt haben,  wie unterscheiden sich die Preise von proprietären Varianten und den offenen.
+ Dann gibt es ein ganz interessantes Spektrum.
+ Also die EU-Kommission spricht von 75 Prozent Kostenersparnis.
+ Und einige Leute aus der Open-Hardware-Szene selber sprechen von 95 Prozent im Schnitt,  sind offene Projekte günstiger im Hardware-Bereich als als Propretäre  oder werden günstiger vertrieben.
+ Ganz schön absurde Zahlen.
+ Ich denke so, was die für Energie da reinstecken, ihre Produkte zu vernageln,  ist ja nicht zu unterschätzen.
+ Und dann natürlich Margen etc.
+und Support.
+ Ich meine, wenn ich mir so ein offenes Gerät kaufe,  habe ich dazu natürlich auch eine ganz andere Einstellung,  als wenn ich mir so eine vernagelte Apple Watch kaufe,  mit der wenn da was nicht geht, dann gebe ich die halt zurück.
+ Wenn man auf meiner Pine-Time was nicht geht,  dann gucke ich erstmal auf GitHub, ob es ein Bug-Report gibt.
+ Weil man natürlich auch sagen muss, du kannst es,  du hast die Fähigkeiten dazu.
+ Also wir sind ja da, die wir da irgendwie mit Code und Software  nicht gesehen arbeiten können, sind wir da auch ein bisschen privilegiert.
+ Für andere Leute muss es einfach funktionieren.
+ Ja gut, aber gerade die Kategorie Smartwatch Träger,  das sind ja nun mal zum großen Teil...
+ Techniker viele Menschen her.
+ Nicht nur, ja, genau.
+ Aber ich sage mal so, ich höre ja aber dennoch auch raus aus deinen Worten,  dass da auch sehr viel Lob mitschwingt.
+ Das ist generell einfach ein gutes, dass du sehr zufrieden damit bist.
+ Genau, also ja, ich habe die auch bekommen,  habe sie direkt an den Arm geschnallt und das ging, ne?
+ Sehr gut, insofern.
+ Wir machen ja an der Stelle nur kurz dahin,  wir machen ja keine Werbung in dem Sinne.
+ Also das liegt uns ja, liegt uns der Fern.
+ Aber so, wie ich sage mal so, positive Erfahrungsberichte,  sind es ja durchaus auch mal wertzuteilen,  gerade wenn es jetzt um so offene Hardware wie an der Stelle eben geht.
+ Das ist richtig, genau.
+ Also über die Firma, wie gesagt, kann ich selber auch gar nichts sagen.
+ Ich muss mir das Zeug auch aus China bestellen  und selber durch den Zoll bringen und so.
+ Genau, Cyroxx, du wolltest gerne den Twitter-Rand vom letzten Mal  noch etwas anderes entgegenstellen.
+ Was ist denn Twitter-Rand?
+ Ach so, ja, wir haben ja letztes Mal sehr viel über Twitter gesprochen  und was da gerade sehr schiefläuft,  nachdem Elon Musk Twitter übernommen hat, übernehmen musste.
+ Was wir überhaupt nicht erwähnt haben,  ist, was ist eigentlich Mastodon?
+ Beziehungsweise was gibt es überhaupt für Alternativen zu Twitter  und ist Mastodon vielleicht möglicherweise eine Alternative dazu?
+ Ja, genau.
+ Das sollten wir vielleicht mal ansprechen in dieser Runde.
+ Wobei es da viele Texte dazu gab in den letzten Wochen, ne?
+ Ja, aber wir können ja vielleicht mal einen kurzen Abriss,  den Leuten das ein bisschen naheliegen, war jetzt so der Garnke.
+ Haben wir doch immer, genau.
+ Wir sind ja auch auf Mastodon, nämlich at cccp@caus.social.
+ Richtig.
+ Möchte das jemand, möchtet, möchtet jemand ein bisschen über Mastodon sprechen?
+ Oder soll ich das?
+ Ich nehme das dann mal.
+ Ja, genau, ja.
+ Wie gesagt, Twitter, ja, das geht da gerade so ein bisschen bergab.
+ Ob es das tatsächlich jetzt das Ende von Twitter sein wird in den nächsten Monaten,  kann, glaube ich, keiner seriös sagen.
+ Nur ganz viele Leute, die jetzt gerade, wo man sieht,  die jetzt gerade tatsächlich ernsthaft zu anderen Sachen rüberwechseln,  im Wesentlichen zu Mastodon.
+ Was ist das?
+ Das ist tatsächlich eine Software, die eine gewisse Ähnlichkeit hat zu Twitter.
+ Ich glaube, die Kategorie war mal so Microblogging-Dienst.
+ Und da kann man tatsächlich auch ähnlich wie bei Twitter.
+ Man kann irgendwie gewisse Texte schreiben, ein bisschen länger als bei Twitter.
+ Man kann die Liken in dem Sinne, dass man Sternchen dran packt,  dann kann zumindest der Autor, die Autorin da, kriegt das mit.
+ Man kann die auch teilen bei sich in der Timeline.
+ Auch das ähnlich zu Twitter.
+ Genau, einer der zentralen Unterschiede von Mastodon gegenüber Twitter ist,  es ist an der Stelle A offen, also es ist eine Open Source Software.
+ Und B, es ist vor allem aber auch dezentral.
+ Das heißt, es gibt nicht wie bei Twitter eine große Instanz,  einen großen Anbieter und dann sind da alle irgendwie,  sondern das ist tatsächlich dezentral.
+ Es gibt eine Reihe von Instanzen  und die sind mehr oder weniger zusammengeschaltet, förderiert.
+ Und man kann sich einen Account machen auf einer Instanz  und kann aber mit allen Leuten in dem gesamten sogenannten Fidivers,  also die Gesamtheit, Mastodons und aber auch noch darüber hinaus,  kann man dann das ähnlich wie Twitter benutzen.
+ Ähnlich wie Twitter und die Sache ist halt zum Beispiel auch,  dass es so offen ist, dass wenn man mal auf einer Instanz ist  und sich jetzt entscheidet, auf eine andere Instanz zu wechseln,  dass das dann überhaupt kein Thema ist.
+ Man kann da durchaus auch umziehen,  es ist vielleicht auch noch ganz wichtig zu erwähnen.
+ Das heißt, wenn man sich mal irgendwo angemeldet hat,  dann ist man dann nicht festgenagelt,  sondern kann mit so einem Account schöne Daten mitnehmen  und woanders hingehen, wie so von einem Dorf zum anderen.
+ Wie es ja eigentlich eh sein sollte mit DSGVO und so,  da hat man ganz viel Möglichkeiten zu haben.
+ Also wenn man es wissen möchte, wie es geht,  der Netzpolitikpunkt hat da letztens erst eine Anleitung veröffentlicht.
+ Genau, genau.
+ Ich wollte nochmal, dass das Fediverse irgendwie überstretchen.
+ Du hast ja am Anfang gesagt, sehr viele waren dann zum Mastodone ab.
+ Ich habe kürzlich, Achtung, Disclaimer und nicht überprüft,  gesehen, dass auch nochmal sehr viele Leute zu Tumblr wechseln,  wieder zurück.
+ Mir war nicht bewusst, dass es das noch gibt.
+ Die hatten ja mal, wer sich daran erinnert,  Tumblr ist vor vielen Jahren, war das mal eher so ein nacksche Bilderdienst  und dann wurden die aufgekauft und dann wurde,  ja, alles, was in Richtung Pornografisches Material geht, dort verboten  und damit sind dann 90 Prozent der Nutzerschaft irgendwie weggegangen.
+ Der Dienst, den gibt es aber noch,  der hat es überlebt, so als Microbloggingdienst  und ich habe kürzlich gehört,  dass die sich auch ins Fediverse mit reinhängen wollen.
+ Also das hätte dann eben zur Folge,  dass man von seiner Mastodoninstanz irgendwie auf Bilder  oder Blocks von Tumblr verweisen kann und andersrum.
+ Das ist schon ein ganz spannendes Konzept.
+ Was man vielleicht noch sagen sollte,  ist Mastodon ist aber auch nicht ganz wie Twitter.
+ Zum Beispiel gibt es ja bei Twitter diesen ominösen Algorithmus.
+ Immer wenn du irgendwie interagierst mit einem Post auf Twitter,  sei es mit einem Like oder sei es mit einem Retweet,  dann befördert das und befeuert das natürlich den Algorithmus  und was dir angezeigt wird, bzw.
+was anderen angezeigt wird.
+ Das gibt es so bei Mastodon nicht.
+ Das ist eine bewusste Entscheidung,  dass es nicht noch irgendwie zusätzlich auf irgendeine Empfehlung,  dass es da nicht noch irgendwie extra ein Empfehlungssystem gibt,  sondern es ist da wirklich gut.
+ Als es irgendwie weiter und darüber wird es dann weiterverbreitet,  aber wenn du jetzt auf dieses Sternchen drückst,  ist es bei Mastodon, dann ist das eigentlich nur eine Botschaft  für dich und für den Autor des Tweets  und hat jetzt aber sonst keinen weiteren Einfluss auf irgendwie,  wie gesagt, Dinge, die dir angezeigt werden oder nicht.
+ Das sollte man vielleicht noch mit erwähnen.
+ Spaces gibt es auch nicht.
+ Ich glaube, das wurde kontrovers diskutiert,  in der nicht tächelt, welche Optionen alle fehlen.
+ Was ist dafür?
+ Was gibt es in Content Warnings?
+ Die sind auch durchaus, ich sage mal, umstritten.
+ An welcher Stelle muss man die setzen?
+ An welcher Stelle soll man sie setzen?
+ Und an welcher Stelle darf man?
+ Also, da gibt es Diskussionen, sag ich mal so.
+ Auf jeden Fall super spannend.
+ Wusstet ihr, dass Mastodon, glaube ich, sitzt doch auch in Berlin?
+ Das ist eine gemeinnützige GmbH,  die das Ganze vorantreibt.
+ Und zumindest in meinem Umfeld wurde auch diskutiert,  inwiefern es irgendwie so Förderstrukturen geben kann,  die solche eine eher gemeinschaftsgetragenen Projekte pushen können  und da Mittel bereitstellen können,  dass vielleicht Funktionen und so noch erweitert werden.
+ Richtig, ich glaube, die Community,  also die jetzt Mastodon wirklich aktiv entwickelt,  die ist auch, ich sage mal, überschaubar.
+ Es ist keine riesene Menge an Menschen.
+ Ist auf jeden Fall spannend.
+ Wir werden mal schauen, wie es da jetzt weitergeht.
+ Generell, ja, es bleibt, glaube ich, einfach spannend.
+ Ich würde es, glaube ich, an der Stelle erst mal dabei belassen.
+ Ich denke, das Thema wird auch da sicherlich noch weitergehen,  wenn wir sicherlich noch mal als Thema in einer der zukünftigen Folgen haben.
+ Ja, zukünftige Folgen ist ja ein schönes Stichwort.
+ Es ist ja kein Zufall, dass Paul hier heute bei uns ist.
+ Nicht?
+Ich dachte, er ist einfach so reingesteubert hier.
+ Achso, nee, passiert Menschen, ja, aber nein.
+ Vor allen Dingen, wenn sie sich mit Knuffs aufhalten.
+ Ja, und zwar haben Knuffs und ich mit einer weiteren Begleitung  vor kurzem ein Papier geschrieben, oder schon ein bisschen her,  wo wir uns mit einem vielleicht etwas fachfernen Thema beschäftigt haben,  nämlich der Disziplin der Technikfolgenabschätzung,  die so ein ganz krudes akademisches Feld ist,  was in den letzten Jahrzehnten sich so am Rande von anderen Disziplinen entwickelt hat  und im Prinzip als Aufgabe hat, so ein bisschen technologischer Trendanalyse zu machen  und das Ganze aus unterschiedlichen Richtungen zu betrachten, einzuordnen  und auch dann immer mit dem Gedankengang in politische Regulierung zurückzuspiegeln.
+ Genau, also gefühlt hat sich dieses Thema in so einem kleinen gallischen Dorf in Süddeutschland  durchaus entwickelt, aber immer hat es immer wieder mal am Rande gehört,  dass es dieses Wort gibt und dass man sich da vielleicht doch mal mit beschäftigen sollt,  was das denn ist.
+Und da hatte ich das Vergnügen,  als Co-Autor an einem Paper mitzuwirken zu dürfen.
+ Und bin dadurch auch erst mal wieder so ein bisschen aufmerksam drauf geworden,  dass es eben dieses Forschungsfeld tatsächlich gibt und was sich da alles so auftut.
+ Aber ich glaube, das wird wirklich eine zukünftige Sendung,  wo wir da mal tiefer reinbohren.
+Ich glaube, wir haben es schon vor ein oder zwei Sendungen mal angeteasert,  dass so was passieren könnte.
+Und es fehlt heute so eine Person.
+ Ja, aber wird sicherlich noch kommen.
+ Aber was mich gerade so ein bisschen irritiert hat ist, wie so den Fach fremd,  weil eigentlich Technikfolgenabschätzung ist ja eigentlich,  auch wenn es vielleicht nicht immer so beim Namen genannt wird,  aber es ist jetzt zum Beispiel auch ein sehr wesentliches Thema,  dass so in Kreisen der Chaos-Computer-Clubs beispielsweise auch immer eine Rolle spielt,  gerade wenn es so um Überwachung und Co.
+geht.
+ Oder wie sieht das mit Drohnen aus?
+Wie sieht das mit eben auch neuen Technologien?
+ Wir hatten es jetzt vorhin eigentlich auch.
+Also ihr wisst da sicherlich deutlich mehr.
+ Ich will euch da gar nicht reingreifen oder schon vor oder noch gar nicht vorgreifen,  aber letztendlich sind das ja auch Sachen, wo wir auch immer wieder versuchen,  einzuordnen, zum Beispiel auch hier in der Sendung.
+ Okay, da gibt es jetzt eine neue Entwicklung.
+Wie könnte sich das irgendwie auswirken?
+ Aber sicherlich werden wir dabei zukünftig mal noch mehr hören,  was es mit Technikfolgenabschätzung auf sich hat.
+ Aber du hast ja aber trotzdem auch noch ein anderes Thema mitgebracht, Paul.
+ Und zwar lese ich hier Commons Public Partnerships.
+ Kannst du dazu kurz sagen, was hat das damit auf sich?
+ Man kann es vielleicht neben einem anderen Thema einordnen,  dass mir in meinem uniläben Parmabegegnissen eine Private Public Partnerships,  diese PPP, die ich gerade oft auftauchen habe, das ist nochmal eine Alternative dazu.
+ Genau, was ist Commons Public Partnerships?
+Was muss man hier so nicht verstehen?
+ Genau, also im Prinzip ist es ein alternativer Entwurf oder ein Framework,  kann man vielleicht auch sagen, ein Rahmen, ein Konzept,  wie man die Fähigkeiten der Zivilgesellschaft,  also wie zum Beispiel vom Chaos Computer Club und anderen Vereinigungen,  die so ein bisschen an Gemeingut, an Teilen von Informationen, Gegenständen, Wissen arbeiten,  mehr dazu bewegen kann mit öffentlicher Hand und mit Gemeinwesen zusammenzuarbeiten,  also mit so verfassten Institutionen.
+ Und das ist so ein bisschen ein vielleicht Gegenmodell,  vielleicht aber auch nur Ergänzung von diesen klassischen öffentlich-privaten Partnerschaften,  die Knobz eben erwähnte, die ja vor 20, 30 Jahren aufkam,  mit dem wesentlich motiv Start auf Effizienz und Rentabilität zu trimmen  und dabei vielleicht einiges richtig gemacht hat,  aber vielleicht auch ganz viele Aspekte von Gemeinwesen behindert,  vielleicht aber auch kaputt gemacht hat.
+ Und Commons Public Partnerships gehen von diesem Commons Begriff aus,  ich weiß nicht in wiefern der allen geläufig ist,  aber das ist im Prinzip so das Wort für Allmendegüter, für Gemeingüter,  also also Dinge, die nicht direkt in jetzt so verstaatlich sind  oder aber auch nicht im Privatbesitz oder im Einfluss von einer Person oder einzelnen Personengruppen,  sondern sich dadurch auszeichnen, dass eben Personen das Ganze teilen.
+ Also Beispiel ist immer im Alltatum irgendwie Weideland,  was gemeinschaftlich von allen aus dem Dorf genutzt wird.
+ Moderneres Beispiel wäre vielleicht das Wissen der Wikipedia oder so,  das ja im Prinzip zusammengeführt wird und dann dadurch wächst,  dass jeder ein bisschen beiträgt und am Ende ein Gesamtkonstrukt herauskommt,  was nie abgeschlossen ist, aber was zu mehr führt,  als ursprünglich da war in den einzelnen Köpfen.
+ Und die Frage wäre halt, die wir uns gestellt haben,  auch beim Schreiben eines anderen Papiers, was jetzt hier heute so unser Alternative ist,  können wir nicht diese Aspekte von Commons-Vereinigungen  oder von zivilgesellschaftlichen Gruppen,  die sich dieses Gemeingut-Prinzip auf die Fahnen geschrieben haben,  nutzen, um das mit staatlicher Daseinsvorsorge irgendwie zu verbinden.
+ Ganz stark dadurch motiviert, weil man ja immer sich darüber aufregt,  wie langsam doch Bürgerämter arbeiten.
+ Bei euch geht es etwas schneller als in Berlin.
+ Wenn nicht gerade aufgrund einer Sicherheitslücke  die komplette Behördeninfrastruktur langelegt ist,  weil man Sicherheitshalbe abschalten muss.
+ Aber das ist ein anderes Thema, das haben wir schon mal thematisiert.
+ Aber man sieht ja immer wieder, dass so ganz egal,  ob real oder wahrgenommen, die so öffentliche Einrichtung sehr träge arbeiten  und dann gibt es auch noch dieses Prinzip,  dass die Handlungen so fernsehlich komplett ausführen sind,  auch noch parlamentarisch legitimiert werden müssen,  berechtigterweise.
+ Da sind sehr viele Verfahrenschritte dabei,  die das Ganze sehr träge und langsam machen.
+ Die Frage ist, ob man nicht, wenn man dieses Kriterium erfüllt hat,  dass das eine zivilgesellschaftliche Gruppe an einem Gemeingut arbeitet,  das Ganze nutzen kann, um diese Agilität, die ja eine Gruppe,  die Freizeitaktivitäten aus eigenem Antrieb macht,  in dieses öffentliche Gefüge einbinden kann,  ob da nicht schon irgendwie was Wunderbares entstehen kann,  weil man sich diesem frischen Wind,  dieser vielleicht schnelleren Handlungsweise bedienen kann.
+ Ja, also schönes Beispiel, was mir dabei gerade kommt,  ist ja auch diese Face-Shield-Aktion am Anfang der Pandemie,  wo da wirklich aus einem akuten Bedarf in der Gesellschaft daraus,  so aus dem Nichts plötzlich Kräfte aktiv wurden,  die innerhalb von, ich sag mal, kürzester Zeit Berlin-Brannburg  mit 24.000 Face-Shield-Haltern,  in Anführungszeilen überschwemmt,  bedient haben und zwar sehr strukturiert  und in bis dahin selten erlebten Zusammenarbeit.
+ Also ich habe sowas davor vielleicht mal so an der Elbeflut mitgekriegt,  wo dann wirklich private Menschen losgelaufen sind  und sich selbstständig strukturiert organisiert haben  und dann eben Sanze gefult haben.
+ Und ich glaube, da macht es schon Sinn nochmal zu gucken,  welche Prinzipien stecken denn so dahinter  und was hat dazu geführt, dass es kam, wie es kam?
+ Absolut, das sind vielleicht ganz geniale Beispiele,  also wo man einfach merkt, da gibt es auch einen inneren Drang,  vielleicht in Krisensituationen,  aber auch vielleicht einfach im Alltag in der Freizeit,  Aktivitäten zu machen, die auch irgendwie einen größeren Wohl  oder nicht nur dem Eigenutstil und die man ja sicherlich irgendwie auch einbinden kann,  die aber momentan einfach parallel laufen  und nicht immer zum Guten, sich manchmal ja auch gegenseitig im Weg stehen  und das irgendwie zusammenzuführen, es ist sicherlich was.
+ Also beispielsweise gibt es auch den Vorschlag,  jetzt unter diesem Frame "Commons Public Partnerships"  doch mal in sterbenden Städten oder im Zuge des Dorfsterbenes, im ländlichen Raum,  doch mal solche Commons-Vereinigungen zu nutzen,  um Leerstand zu analysieren  und vielleicht Nachnutzungskonzepte zu entwickeln,  die halt Gemeinschaftsgetragen sind  und dadurch vielleicht ein bisschen resilienter auf demografischen Wandel reagieren als jetzt vorher.
+ Und da gibt es zum Beispiel schon ganz tolle Ansätze in Nordhessen  und in anderen Regionen Deutschlands, wo tatsächlich Dörfer einfach wieder mit Leben gefüllt wurden,  weil eben diese Prinzipien wir handeln so, dass andere auch etwas davon haben  und nicht nur die unmittelbar Beteiligten einfach so ein bisschen als Maxime übernommen wurden.
+ Das wiederum erinnert mich jetzt an das Gut-Allaune,  wo wir in der Nähe von Halle uns zum Verbandstreffen  vom Verbund offenen Werkstätten aufgehalten haben.
+ Ich muss da noch mal was nachbereiten und schneiden.
+ Ich habe dann noch eine Tondertei aus der Veranstaltung,  wo es ein bisschen um dieses Gut-Allaune geht und was da läuft bestimmt.
+ Ich möchte mal.
+ Das läuft schon sehr in die Richtung, der den Ort in Nordhessen nicht meint ist.
+ Das ist die Fuchsmühle.
+ Generell kam mir die Frage, also ich glaube, das haben wir noch gar nicht beleuchtet jetzt hier.
+ Wie bist du eigentlich dazu gekommen, dich mit DLI Team zu beschäftigen  mit Comments, Public Partnerships, mit Technikfolgen, Abschätzung?
+ Magst du vielleicht ein bisschen was zu deinem Hintergrund sagen?
+ Wo kommst du her?
+ Also im Sinne von einfach fachlich, wo kommst du her?
+ Ja, ich habe mal nach dem Abi ziemlich unbedarf begonnen in Potsdam zu studieren.
+ Politik und VWL haben das dann nach Graniosem links und rechts schon tatsächlich erfolgreich abgebrochen  und bin nach so einem kleinen Gedankenprozess dann ins Ingenieurwesen eingestiegen.
+ Und habe aber auch da gemerkt, dass irgendwie so die Hands-on Arbeit vielleicht dann doch ein,  ja isoliert würde ich nicht sagen, aber gewissermaßen Handlungsspielräume verhindert  oder auf andere Weise eröffnet, als ich es gedacht hätte.
+ Und seitdem immer so in diesem Spannungsfeld von Politik und Technik kann man jetzt vielleicht ganz untergebrochen sagen.
+ Und dieses Prinzip Comments und was passiert, wenn dieses einfache Prinzip "Ich handle für mein Gegenüber und mich",  aber auch für den Dritten, den ich gerade nicht sehe, was was dann passiert ist,  einfach so ein wahnsinnig spannendes Feld, für das es so unzählige Anwendungsfälle und Beispiele gibt.
+ Hast du das so von wegen Zivilgesellschaft, hast du die Entwicklung in den letzten Monaten  oder ich glaube auch innerhalb des letzten Jahres rund um das Verschwörhaus in Ulm mitbekommen, sagt ihr das was?
+ Ja, absolut.
+Ich glaube das sind so Gegenbeispiele, also wie auch in der Machtposition von öffentlichen Akteuren  dazu führen kann, dass das Zivilgesellschaft eben ausgenutzt  oder so Kapazitäten der Zivilgesellschaft in der Form abgeschafft werden,  die vielleicht nicht ziefund ist oder langfristig die Zusammenarbeit verhindert.
+ Wir hatten es ja beim letzten Mal, glaube ich schon mal kurz angeschnitten, kurz thematisiert,  dass es gibt ja oder gab das Verschwörhaus, sondern ein Space mitten in der Innenstadt in Ulm  und ja die Stadt, so sitzt meine Wahrnehmung, was ich so mitbekommen habe, ihr dürft mich da aber auch gerne korrigieren,  weil da sehr will das quasi übernehmen, inklusive der Namensrechte auch an dem Verschwörhaus  und das ist natürlich alles andere als ein partnerschaftlicher Umgang,  sondern eher eher mehr so einen, die mussten halt raus aus ihren Räumlichkeiten,  den wird der Name streitig gemacht und das ist wie gesagt ein bisschen was anderes als  ein partnerschaftlicher Umgang mit diesem schönen Ökosystem, das da eigentlich entstanden war.
+ Absolut, deswegen gibt es auch auf dieser konzeptionellen Ebene auch ganz stark immer ein Pochen darauf,  dass Commons Public Partnerships eben diese Augenhöhe konstant bewahren,  auch wenn es so ein lascher Begriff ist, Augenhöhe und das gegenseitige Respektieren von den eigenen Einflussbereichen  und von den eigenen Fähigkeiten und Rollen vor allen Dingen ist da ganz relevant in diesem Zusammenspiel von öffentlichen Institutionen  und Commons Vereinigung und im Idealfall wäre sowas eben nie passiert,  weil das Verschwörhaus in der Konstellation akzeptiert worden wäre und dann eben geguckt worden wäre.
+ Wie kann man vielleicht sicherstellen, dass nicht nur der Community Verschwörhaus die Dienste zugutekommen,  sondern wie kann irgendwie vermittelt werden, im Zweifel ist es ja bereits erfüllt worden,  aber wie kann noch mehr in die Öffentlichkeit kommuniziert werden, was der Vorteil ist auch für die Stadtgesellschaft als solche,  die jetzt nicht direkt am Verschwörhaus beteiligt ist und das ist glaube ich ganz relevant.
+ Und da gibt es in dem Papier, was wir auch dazu geschrieben haben, wo wir uns mal Beispiel angeguckt haben, auch gegen Entwürfe.
+ Also Beesheit in Münster ist beispielsweise ein Veranstaltungszentrum, jetzt nicht so auf Technologie bezogen, eher auf Zusammenkunft und Organisation im Stadtquartier,  aber da klappt das dann doch auf einem anderen Maße.
+ Es ist sehr viel mehr Respekt gegenseitig im Spiel und auch ein Wertschätzen von den jeweiligen Rollen und aber auch Autonomie für die engagierten Vorort.
+ Also ich habe den Eindruck, dass zusammen in Erlangen ist auch ein ganz gutes Beispiel, wie es gut und zusammengehen kann.
+ Kannst du das noch ein bisschen ausmalen, weil ich kenne das jetzt nicht.
+ Was ist das da, von dem du in Erfurt redest?
+Kannst du das ein bisschen beschreiben?
+ Ja, im Prinzip das Zentrum für Austausch und Machen ist in Erlangen ein, ich würde gerade sagen, frisch entstehender Makerspace,  so seit einem halben Jahr ungefähr geöffnet und der halt wirklich zum einen aus einem Betreiberverein besteht,  in dem so ein bisschen Zivilgesellschaft sich findet und auch strukturiert, die aber halt wirklich ganz dediziert auch von der Stadt dann gefördert werden  und Räume zur Verfügung kriegen, wo das dann tatsächlich genau diese Augenhöhe da ist  und das gegenseitige Zulassen von unterschieden, so ein Stückchen Zivilgesellschaft sich da selbst strukturiert und organisiert.
+ Das ist halt für eine Verwaltung zum einen schwer zu verstehen, zum anderen schwer in Strukturen zu drücken,  die es dann wieder für die Verwaltung leicht machen, das zu verwalten.
+ Und wie gesagt, zusammen scheint dann ein gutes Beispiel zu sein, wie es gut zusammenlaufen kann.
+ Ich wollte gerade sagen, das ist ja schon der Name irgendwie Programm, also ich finde den irgendwie sehr charmant,  dieses bayerische Zusammenhang.
+Das ist ein bisschen akzeptieren von unterschieden, die man hat  und damit auch aktiv arbeiten und nicht dagegen arbeiten, sondern nutzen davon.
+ Ja, Potenziale erkennen und was das eigentlich für positive Sachen mit sich bringen kann.
+ Gefällt mir natürlich hervorragend, weil dann Makerspace mittendrin ist und der Kern des Ganzen.
+ Ja, da möchte ich gleich auch mal die ketzerische Frage aufwerfen, inwiefern man dann zum Beispiel Institution wie die alte Hölle  bei Bad Belzig so denken könnte und denken könnte, wie man über den Event- und Seminarraum hinaus auch für die Ortschaft  einen Vorteil verschwinden, wie könnte das CPP sein?
+ Da bin ich sehr gespannt, wie sich das entwickelt.
+ Ja, und es gibt ja auch nicht nur die alte Hölle an sich, sondern es gibt ja noch ein anderes Projekt,  da auch in Wiesenburg-Mark, wo ja auch eine alte Lagerhalle oder mehrere ausgebaut werden sollen,  um das entsprechend auch zu bespielen und da wieder Leben reinzubringen.
+ Ich habe es bloß gerade nicht als Namen, wie das andere auch noch hiezt.
+ Aber alte Hölle und Co.
+sind ja auf jeden Fall auch sehr spannende Projekte, die laufen eben genau wie du schon sagst,  Paul, mit diesem Stadtentwicklung, wie man da das auch zusammendenken kann.
+ Ja, ganz genau.
+ Wobei die alte Hölle jetzt schon wieder eine schöne Brücke zu einem neuen Thema wäre.
+ Was machten wir so zwischen Weihnachten und Neujahr?
+ Also ich würde gerne mal tatsächlich, auch wenn ich schwer beschäftigt bin, mal in der alten Hölle vorbeischauen.
+ Ausgründen.
+ Das ist schon wieder so mysteriös.
+Wärt doch mal konkret, bitte.
+ Ja, wir sind hier sehr viele Menschen, die auch konkret werden.
+Warum immer ich?
+ Ich bin ja nur eine kleine Randfigur.
+ Na, das sehe ich aber ein bisschen anders.
+ Ja, ich glaube, ich werde mich in Potsdam aufhalten.
+ Es gibt da nämlich so eine Veranstaltung, die nennt sich ReConnect to Chaos.
+ Da habe ich von gehört.
+Die finde ich total toll.
+ Ja, okay, Spaß beiseite.
+Wir haben ja beim letzten Mal auch, glaube ich, schon kurz erwähnt.
+ Wir werden im Freiland zwischen Weihnachten und Neujahr 27.
+bis 30.
+ eine Veranstaltung abhalten.
+ Der große Kongress fällt ja leider pandemiebedingt nochmal aus.
+ Und dann haben wir uns gedacht, ja, okay, kann doch jetzt aber so nicht laufen, dass das komplett ausfällt.
+ Und werden da eben ein kleines Event auf die Beine stellen mit Publikum.
+ Es gibt Tickets, kommt gerne vorbei.
+ Es wird auch ein schönes Programm geben mit einer ganzen Reihe von Vorträgen und auch ein paar Workshops sicherlich.
+ Und ja, noch so ein paar andere Sachen, die man so schon lange vermisst hat.
+ Also, Hackcenter sind ja auf jeden Fall dabei, das zu überlegen, was und wie und wo das genau als stattfinden könnte.
+ Es sind gerade noch ein paar Prozesse am Laufen, damit wir Dinge klären.
+ Aber generell das Konzept steht und mit jedem Tag wird es auch immer konkreter, wie genau das dann alles stattfinden wird.
+ Haltet auf jeden Fall Augen und Ohren offen auf unseren sozialen Kanälen.
+ Auf Twitter @chaospotsdam, auf Mastodon sind wir natürlich auch @cccp@chaos.social, das hatten wir vorhin schon gesagt.
+ Und dann gibt es natürlich auch noch unsere Website.
+ Also, es reicht, wenn ihr auf einem dieser Kanäle regelmäßig mal vorbeischaut, aber um es einfach mal die ganze Bandbreite gesagt zu haben,  es gibt dann nämlich noch www.ccc-p.org/rtc22  und da findet ihr dann auf der Website auch noch mal alle gesammelten Informationen zu Tickets.
+ Wo kommt ihr hin?
+ Wo könnt ihr hinschreiben, wenn ihr irgendwie Fragen habt?
+ Genau, da soll euch…  Sehr schön erklärt, sehr schön erklärt.
+ Genau, und es gibt tickets.ccc-p.org, wo man sich tatsächlich solch klicken kann.
+ Ja, ich bin schon ganz gespannt, ich habe schon viele Einreichungen gesehen und jetzt möchte der Hannes weiter machen.
+ Okay, schuldigung, weiter zum nächsten Thema.
+ Bevor wir jetzt hier Schluss machen, weil die Stunde rum ist, wollte ich noch darauf hinweisen,  dass wenn ihr uns heute im Radio auf dem KW hört, dann könnt ihr in etwa zweieinhalb Stunden im ersten,  alles ist eins außer der Null gesehen, der Film über Wauholland, den wir hier schon mehrfach empfohlen haben, der war zuletzt im Kino  und jetzt ist er auch im Fernsehen.
+ Also gleich.
+ Warum man solche Filme immer so gute Inhalte immer in die Nachtschiene verschieben muss?
+ Ich begreife es nicht.
+ Ich weiß gar nicht, landet das Automat schon der Mediathek für dann sechs Wochen bis zur Depublikation?
+ Ich glaube, der Standardantwort an der Stelle ist, es kommt darauf an, auf die eingeräumten Rechte, ob das dann online sein darf oder nicht.
+ Also ich habe da ganz positive Signale gehört, ich glaube ja, dass das dann in der Mediathek landet.
+ Das heißt so, wie bei uns mit dem Podcast dann zum Zeitautonomen nachsehen verfügbar.
+ Abgleich.
+ Sehr schön.
+ Gut, darf ich noch eine CC Musik einspielen, bevor wir...
+ Ja, das ist verständlich.
+ Musst du es aber vorher noch sagen, wer wie, wo was das ist?
+ Ja, es ist vermutlich CC bei.
+ Es ist vermutlich CC bei.
+ Ich glaube, was wir hin spielen.
+ Ich glaube, ich muss jetzt, muss ich mir aussehen.
+ Ich möchte "Moving Ahead" von Derek Stevens spielen, wie immer aus dem Free Music Archive,  unter einer "Intribution Non-Commercial No Derivatives", habe ich das richtig ausgesprochen,  "4.0 International License Creative Commons".
+ Und wir hören uns im neuen Jahr wieder, am zweiten Montag des Monats,  im freien Radio Potsdam von 21 bis 22 Uhr auf 90,7 MHz in Potsdam und 88,4 MHz in Berlin.
+ Und vielleicht sogar irgendwann mal wieder in nahe bis ferner Zukunft.
+ Da müssen wir mal eine Folgenabschätzung machen.
+ Hören wir uns auch auf radio.ccc-p.org.
+ Genau, und manche von uns könntet ihr möglicherweise unsere schönen Radio Gesichter sogar live sein, demnächst.
+ Stimmt.
+ Zwischen den Jahren.
+ Ja.
+ Dann bis bald, sagt alle mal Tschüss.
+ Tschüss, vor allem auch an unseren Gast heute.
+ Danke an Paul.
+ Ja, vielen Dank Paul.
+ Tschüss und Tschüss Paul.
+ Danke euch, danke fürs Zuhören.
+ Tschüss.
+ Und bis zum nächsten Mal.
+ Tschüss.
+ Ciao, moving head, ciao.
+ [Musik]  [Musik]  [Musik]  [Musik]  [Musik]  [Musik]  [Musik] 
