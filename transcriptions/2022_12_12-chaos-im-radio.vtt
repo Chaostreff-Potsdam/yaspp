@@ -1,0 +1,3071 @@
+WEBVTT
+
+00:00:00.130 --> 00:00:05.950
+ Herzlich willkommen zur Dezember-Ausgabe von Chaos im Radio oder früher auch bekannt als Nerdtalk.
+
+00:00:05.950 --> 00:00:09.050
+ Es ist schon die letzte Folge des Jahres. Es geht schnell um.
+
+00:00:09.050 --> 00:00:18.480
+ Heute mit dabei sind der Cyroxx, der Hannes, der Knurps und Knurps ist auch nicht alleine,
+
+00:00:18.480 --> 00:00:21.210
+ sondern der hat auch noch jemand mitgebracht, und zwar den Paul.
+
+00:00:21.210 --> 00:00:24.530
+ Hallo Paul. Ja, und ich bin Gini.
+
+00:00:24.530 --> 00:00:26.420
+ Hallo Gini. Hallo Gini.
+
+00:00:26.420 --> 00:00:32.970
+ Hi. Ja, lass uns doch vielleicht einsteigen. Was ist denn jetzt das Nerdtalk?
+
+00:00:32.970 --> 00:00:36.960
+ Was ist denn jetzt ein Nerdtalk wieder ausgegramm, das ist ja lange her.
+
+00:00:36.960 --> 00:00:40.720
+ Die Leute, die uns so lange nicht gehört haben, auch noch wissen wir, wie es sind.
+
+00:00:40.720 --> 00:00:45.040
+ Vielleicht haben wir auch schon lange keinen Podcast mehr publiziert.
+
+00:00:45.040 --> 00:00:54.210
+ Na gut, außerdem unterscheidet uns das ja immer noch so ein bisschen vom großen Chaosradio, vom ehrwürdigen.
+
+00:00:54.210 --> 00:01:01.080
+ Was jetzt genau? Ich finde, du unterscheidest uns vom großen Chaosradio.
+
+00:01:01.080 --> 00:01:06.350
+ Da komme ich drauf klar. Man muss irgendwie mehr Maßstäbe setzen.
+
+00:01:06.350 --> 00:01:12.110
+ Yes. Wir reden heute über Dinge. Gini, was würdest du denn sagen?
+
+00:01:12.110 --> 00:01:15.810
+ Ich habe es, sorry, die Pause war zu lange, da habe ich dazwischen gequatscht, wie immer.
+
+00:01:15.810 --> 00:01:21.430
+ Ich wollte etwas sagen, lass uns doch direkt mit dem Team einsteigen, ob wir heute reden.
+
+00:01:21.430 --> 00:01:24.260
+ Oh ja, ich möchte über KIs reden.
+
+00:01:24.260 --> 00:01:31.210
+ Ich möchte auch über KIs über dich reden. Ja, wenn man sie fragt.
+
+00:01:31.210 --> 00:01:33.880
+ Was hast du uns für künstliche Intelligenz mitgebracht?
+
+00:01:33.880 --> 00:01:36.760
+ Was habe ich euch für künstliche Intelligenz mitgebracht?
+
+00:01:36.760 --> 00:01:40.320
+ Also das, was gerade durch die Medien geht, wenn man von KIs redet.
+
+00:01:40.320 --> 00:01:48.380
+ Ich finde, der Begriff ist ja eh durch, also man kann die nicht mehr benutzen und damit was Spezielles beschreiben.
+
+00:01:48.380 --> 00:01:51.670
+ Man sagt jetzt alles, was irgendwie toll ist, ist KIs.
+
+00:01:51.670 --> 00:01:58.590
+ Aber die Geschichten, die ich immer wieder mitverfolge, sind einerseits diese Bildgeneratoren,
+
+00:01:58.590 --> 00:02:01.620
+ die einem Bildermahlen, je nachdem, was man für ein Text eingibt,
+
+00:02:01.620 --> 00:02:06.770
+ und die Systeme, mit denen man Texte generieren kann.
+
+00:02:06.770 --> 00:02:11.770
+ Also von wegen hier Chatbots und so, habe ich jetzt auch schon einige gesehen,
+
+00:02:11.770 --> 00:02:16.710
+ wenn man in den Play Store oder in den App Store von Apple und Google guckt.
+
+00:02:16.710 --> 00:02:22.810
+ Da sieht da mittlerweile einige Freunde, imaginäre Freunde, die man sich da klicken kann,
+
+00:02:22.810 --> 00:02:26.810
+ mit denen man reden kann, die einem wahrscheinlich furchtbar viel Geld aus der Tasche ziehen,
+
+00:02:26.810 --> 00:02:28.790
+ dafür, dass sie sehr generische Statements abgeben.
+
+00:02:28.790 --> 00:02:34.740
+ Aber es ist mittlerweile wohl gut genug, als dass sich doch ein großer Teil der Menschheit damit unterhalten möchte.
+
+00:02:34.740 --> 00:02:41.780
+ So, und was ich total spannend finde, ist, dass die Sachen, über die man in der Tech-Welt immer wieder redet,
+
+00:02:41.780 --> 00:02:47.770
+ das sind bei den Bildgeneratoren, sind das irgendwie Dal E und Stable Diffusion,
+
+00:02:47.770 --> 00:02:54.910
+ und dann der Chat-Kram, das System da heißt GPT oder Chat GPT,
+
+00:02:54.910 --> 00:02:59.870
+ und die kommen eigentlich von derselben Butze, also irgendwie von OpenAI,
+
+00:02:59.870 --> 00:03:03.840
+ was eigentlich eine ganz normale Company ist, oder eine ganz normale Firma,
+
+00:03:03.840 --> 00:03:07.840
+ die offensichtlich sehr gut Werbung machen und vielleicht auch, weiß ich nicht,
+
+00:03:07.840 --> 00:03:12.930
+ ob das besser ist als das, was die Großen so an Produkten in der Richtung rausgeben,
+
+00:03:12.930 --> 00:03:15.910
+ aber die machen auf jeden Fall immer wieder Wind.
+
+00:03:15.910 --> 00:03:20.880
+ Genau, die Sachen, die ich spannend fand, also was man auf Twitter unterwegs ist,
+
+00:03:20.880 --> 00:03:26.840
+ kann man ja gar nicht an diesen Dal E Bildern vorbei, wo halt irgendjemand einen lustigen Satz reingegeben hat
+
+00:03:26.840 --> 00:03:30.800
+ und das Ding malt einem irgendwas, was schon sehr beeindruckend gut ist,
+
+00:03:30.800 --> 00:03:33.800
+ also Illustratoren werden es schwer haben in Zukunft.
+
+00:03:33.800 --> 00:03:39.120
+ Und GPT ist eben das Gleiche für, schreibt mir mal ein Text,
+
+00:03:39.120 --> 00:03:42.080
+ also gestern bin ich über so ein Twitter-Fred gestolpert,
+
+00:03:42.080 --> 00:03:46.110
+ in dem jemand groß ausprobiert hat, was man alles machen kann,
+
+00:03:46.110 --> 00:03:50.050
+ und der Anderen schreibt mal eine Bewerbung für das Unternehmen so und so,
+
+00:03:50.050 --> 00:03:55.060
+ ich bin so und so und hab den Background und dann schreibt dir das Ding halt eine echt gute Bewerbung,
+
+00:03:55.060 --> 00:03:58.040
+ also ich hab ja viele Bewerbungen gelesen in meinem Job schon,
+
+00:03:58.040 --> 00:04:03.010
+ und das war einer der Top 10 Bewerbungen, möchte ich sagen,
+
+00:04:03.010 --> 00:04:05.990
+ so als Anschreiben hat das wirklich sehr, sehr gut funktioniert.
+
+00:04:05.990 --> 00:04:11.010
+ Und die können eben auch Songs schreiben, also Chat GPT kann oder GPT,
+
+00:04:11.010 --> 00:04:15.960
+ den kann man auch sagen, schreibt mir mal ein Song und mach mir noch ein paar Akkorde dazu,
+
+00:04:15.960 --> 00:04:22.270
+ und das funktioniert alles erstaunlich gut, also das ist schon schon beeindruckend.
+
+00:04:22.270 --> 00:04:27.470
+ Ich hatte letztens erst in der Anderen Chatgruppe einen Fall,
+
+00:04:27.470 --> 00:04:32.670
+ wo man so vier Zellen lang beschrieben hat, dass er in ärgerlichem Ton
+
+00:04:32.670 --> 00:04:38.620
+ mit sagten Beleidigungen gerne ein Text über die Benutzung von Arch Linux hätte,
+
+00:04:38.620 --> 00:04:45.770
+ und ich hab mich da echt getroffen gefühlt, also es hat nicht echt mitgenommen, was dabei rauskam.
+
+00:04:45.770 --> 00:04:49.170
+ Das ist wirklich so, ja?
+
+00:04:49.170 --> 00:04:53.200
+ Nicht nur ich, ich ging danach in der Chatgruppe so, ich glaub fünf, sechs Messages
+
+00:04:53.200 --> 00:04:57.170
+ über die Benutzung von Arch Linux, also es hat auch andere getroffen und getriggert.
+
+00:04:57.170 --> 00:05:01.140
+ Wie war das? Arch Linux ist das Betriebssystem, wo man weiß, wer es benutzt,
+
+00:05:01.140 --> 00:05:03.200
+ weil die Leute seinem sagen, oder?
+
+00:05:03.200 --> 00:05:08.220
+ Das ist doch so das Meme, das so durchs Internet geistert.
+
+00:05:08.220 --> 00:05:12.410
+ Ich hab nur das andere Meme noch, auch wieder sehr treffend im Kopf,
+
+00:05:12.410 --> 00:05:16.430
+ du benutzt doch nur Arch Linux, weil du Gen2 nicht kompilieren kannst.
+
+00:05:16.430 --> 00:05:20.080
+ Ja, Entschuldigung.
+
+00:05:20.080 --> 00:05:24.710
+ Gut, also das sind, genau, also das eine generiert wunderbare Texte,
+
+00:05:24.710 --> 00:05:27.690
+ das andere generiert viele Bilder, die wir hier im Radio ähnlich zeigen können,
+
+00:05:27.690 --> 00:05:29.680
+ also auch mal darüber auch nicht weiterreden.
+
+00:05:29.680 --> 00:05:35.660
+ Spannend ist von der gleichen Firma OpenAI auch Whisper.
+
+00:05:35.660 --> 00:05:39.810
+ Also ich mein Bilder funktionieren nicht im Radio, aber Texte,
+
+00:05:39.810 --> 00:05:43.850
+ wir könnten doch mal einfach eine Radiosendung mit Texten von Arch Linux drehen.
+
+00:05:43.850 --> 00:05:46.820
+ Also wahrscheinlich finden wir auch noch irgendeine gute Sprachsynthese, das hofft der.
+
+00:05:46.820 --> 00:05:48.800
+ Oh ja.
+
+00:05:48.800 --> 00:05:51.770
+ Dann sind wir immer weg, dann ist es immer total überflüssig, genau.
+
+00:05:51.770 --> 00:05:58.230
+ Genau, Whisper wollte ich noch ansprechen, ist ein trainiertes neuronales Netz,
+
+00:05:58.230 --> 00:06:01.150
+ was Spracherkennung hinkriegt, sehr gut.
+
+00:06:01.150 --> 00:06:03.250
+ Zumindest im Englischen habe ich da jetzt einiges gesehen.
+
+00:06:03.250 --> 00:06:09.220
+ Ich habe noch keine Software gefunden, die das jetzt mal irgendwie als Anwendung rausbringt.
+
+00:06:09.220 --> 00:06:12.150
+ Ich warte ja immer noch auf ein Open Source Sprachassistenten,
+
+00:06:12.150 --> 00:06:18.110
+ den ich mir irgendwie in mein beliebiges Smart Home Produkt einbasteln kann.
+
+00:06:18.110 --> 00:06:20.340
+ Also offenes Smart Home Produkt.
+
+00:06:20.340 --> 00:06:23.310
+ Wir hatten aber schon mal über den, wie heißt der Butler,
+
+00:06:23.310 --> 00:06:26.270
+ hatten wir glaube ich schon mal gesprochen hier in diesem Podcast, oder?
+
+00:06:26.270 --> 00:06:28.300
+ Hatte ich das schon mal erwähnt?
+
+00:06:28.300 --> 00:06:29.290
+ Ich komme mir jetzt gerade auf den Namen nicht.
+
+00:06:29.290 --> 00:06:31.270
+ Ich glaube ja, und ich glaube wir hatten festgestellt,
+
+00:06:31.270 --> 00:06:34.230
+ dass die Spracherkennung nicht so wunderbar ist, richtig?
+
+00:06:34.230 --> 00:06:35.600
+ Vielleicht.
+
+00:06:35.600 --> 00:06:38.560
+ Ich habe da tatsächlich selber keine praktischen Erfahrungen mit dem gehabt.
+
+00:06:38.560 --> 00:06:39.550
+ Ich auch nicht.
+
+00:06:39.550 --> 00:06:42.510
+ Mir ist bloß tatsächlich gerade der echte Name entfallen.
+
+00:06:42.510 --> 00:06:51.480
+ Genau, und dann das letzte, was ich noch ansprechen will, was wirklich mein Leben in meiner Freizeit verändert hat,
+
+00:06:51.480 --> 00:06:56.410
+ ist der GitHub Co-Pilot, eine KI, die Code vorschlägt.
+
+00:06:56.410 --> 00:07:03.340
+ Und zwar auch mit ähnlichen, ähnlicher Mächtigkeit wie GPT.
+
+00:07:03.340 --> 00:07:08.460
+ Wie das funktioniert ist, wenn man sich da so eine Subscription klickt
+
+00:07:08.460 --> 00:07:13.470
+ und das in seine IDE einbaut, dann schreibt man Code erstmal ganz normal wie sonst.
+
+00:07:13.470 --> 00:07:16.440
+ Und immer wenn man zwei Sekunden nichts schreibt, schlägt da einem vor,
+
+00:07:16.440 --> 00:07:18.420
+ was man wahrscheinlich gerade schreiben will.
+
+00:07:18.420 --> 00:07:20.410
+ Und das ist sehr engstickend.
+
+00:07:20.410 --> 00:07:24.540
+ Also wenn man das so benutzt, so habe ich angefangen das zu benutzen,
+
+00:07:24.540 --> 00:07:26.520
+ ist es halt wirklich so, dass einem da was hinschreiten.
+
+00:07:26.520 --> 00:07:29.500
+ Also ja, exakt das wollte ich gerade schreiben
+
+00:07:29.500 --> 00:07:33.470
+ und das halt so die nächsten 3, 4, 5 Zeilen oder die ganze Funktion zu Ende geschrieben.
+
+00:07:33.470 --> 00:07:38.470
+ Und entweder hast du diese Erkenntnis, oh, das ist krass, genau das wollte ich schreiben,
+
+00:07:38.470 --> 00:07:42.440
+ oder du hast die Erkenntnis, oh, nee, das wollte ich aber gerade nicht schreiben
+
+00:07:42.440 --> 00:07:45.520
+ und stellts dann fest, der hat recht, der Co-Pilot.
+
+00:07:45.520 --> 00:07:48.500
+ Oh Gott!
+
+00:07:48.500 --> 00:07:51.480
+ Also so in mindestens der Hälfte aller Fälle war das so,
+
+00:07:51.480 --> 00:07:54.460
+ dass man da gedanklich einfach irgendwas falsch gemacht hat.
+
+00:07:54.460 --> 00:07:58.440
+ Also ich habe da sehr, sehr, sehr gute Erfahrungen in Go gemacht.
+
+00:07:58.440 --> 00:08:00.430
+ Ich schreibe meine Freizeitprojekte im meisten Sinn in Go.
+
+00:08:00.430 --> 00:08:03.510
+ Und das ist wirklich magisch.
+
+00:08:03.510 --> 00:08:05.510
+ Und dann die andere Variante, wie man das verwenden kann.
+
+00:08:05.510 --> 00:08:07.500
+ Also ursprünglich hatte ich es verwendet,
+
+00:08:07.500 --> 00:08:09.490
+ weil der Go-Linter, der mich in der IDE nervt,
+
+00:08:09.490 --> 00:08:13.470
+ über all möglichen Dingen Kommentare haben will, über exportierten Funktionen und Methoden.
+
+00:08:13.470 --> 00:08:17.460
+ Und ich habe gedacht, hey, der Co-Pilot kann mir bestimmt auch Kommentare erzeugen.
+
+00:08:17.460 --> 00:08:19.450
+ Ja, kann er, macht da ziemlich gut.
+
+00:08:19.450 --> 00:08:21.440
+ Aber andersherum ist es noch viel magischer.
+
+00:08:21.440 --> 00:08:24.430
+ Man schreibt den Kommentar und das Ding klatscht ein, die Funktionen drunter.
+
+00:08:24.430 --> 00:08:29.250
+ Und die Funktionen sind grundsätzlich besser als die, die ich wählen würde.
+
+00:08:29.250 --> 00:08:31.340
+ Oh, wow.
+
+00:08:31.340 --> 00:08:34.280
+ Also dazu gibt es, ich kann da ein paar YouTube-Videos empfehlen,
+
+00:08:34.280 --> 00:08:37.330
+ einfach mal so nach Co-Pilot suchen.
+
+00:08:37.330 --> 00:08:40.310
+ Das ist mindblowing, was da passiert.
+
+00:08:40.310 --> 00:08:43.290
+ Ich hatte eine 60-Tage-Subscription.
+
+00:08:43.290 --> 00:08:45.280
+ Den habe ich auch relativ viel gemacht.
+
+00:08:45.280 --> 00:08:49.250
+ Und ich möchte sagen, das hat mein Output mindestens verdoppelt.
+
+00:08:49.250 --> 00:08:54.570
+ Also das hat mich wirklich im Alltag, hat das so viele Sachen, so viel leichter gemacht,
+
+00:08:54.570 --> 00:08:57.550
+ weil man Sachen Probleme nicht mehr nachschlägt.
+
+00:08:57.550 --> 00:08:59.540
+ Man braucht noch ganz selten gucken, wie heißt das?
+
+00:08:59.540 --> 00:09:01.530
+ Man tippt einfach hin, was will man machen.
+
+00:09:01.530 --> 00:09:04.510
+ Und Co-Pilot weiß dann schon, welches Modul man dafür braucht
+
+00:09:04.510 --> 00:09:07.490
+ und welche Library man jetzt wahrscheinlich benutzen will und so weiter.
+
+00:09:07.490 --> 00:09:09.750
+ Wahnsinn.
+
+00:09:09.750 --> 00:09:11.710
+ Also würdest du jetzt nicht sagen, du hast dich damit überflüssig gemacht,
+
+00:09:11.710 --> 00:09:13.720
+ sondern du bist produktiver geworden?
+
+00:09:13.720 --> 00:09:18.590
+ Also du hast quasi, es ist wie ein, es fühlt sich zeitweise eher an,
+
+00:09:18.590 --> 00:09:22.570
+ als würdest du Code Reviews machen, als würdest du selber Code schreiben.
+
+00:09:22.570 --> 00:09:24.560
+ Okay.
+
+00:09:24.560 --> 00:09:28.540
+ Du lenkst das Ganze halt und du musst natürlich vorher überlegen, was willst du machen,
+
+00:09:28.540 --> 00:09:30.530
+ aber halt auf einem viel höheren Level als sonst.
+
+00:09:30.530 --> 00:09:32.520
+ Also so über die Implementierungsdetail ist.
+
+00:09:32.520 --> 00:09:35.510
+ In einem ganz tiefen Level machst du dir relativ wenig Gedanken,
+
+00:09:35.510 --> 00:09:37.500
+ nur noch für viele Sachen.
+
+00:09:37.500 --> 00:09:39.620
+ Also es gibt schon Algorithmen da, musst du wahrscheinlich selber ran.
+
+00:09:39.620 --> 00:09:41.560
+ Aber so viele Sachen macht das Ding einfach richtig.
+
+00:09:41.560 --> 00:09:44.540
+ Speziell so Anwendungs-Software, wo du eigentlich überhaupt nicht,
+
+00:09:44.540 --> 00:09:49.540
+ wenn es die Schaffungshöhe nicht so krass hoch ist wie bei einem neuen Algorithmus,
+
+00:09:49.540 --> 00:09:52.610
+ das macht der dir halt einfach fertig.
+
+00:09:52.610 --> 00:09:56.580
+ Ja, der Amazon hat auch einen Konkurrenzprodukt, irgendwie Wisp,
+
+00:09:56.580 --> 00:10:00.550
+ nee Open Whisper, könnte falsch sein.
+
+00:10:00.550 --> 00:10:02.540
+ Nee Open Whisper ist glaube ich nochmal was anderes.
+
+00:10:02.540 --> 00:10:05.520
+ Nee Code Whisper, Entschuldigung Code Whisper.
+
+00:10:05.520 --> 00:10:09.500
+ Habe ich noch nicht ausprobiert, weiß nicht, ob das genauso gut funktioniert,
+
+00:10:09.500 --> 00:10:12.490
+ aber halt diese, diese GitHub Integration in die IDE,
+
+00:10:12.490 --> 00:10:14.450
+ GitHub Copilot Integration ist absurd.
+
+00:10:14.450 --> 00:10:18.470
+ Genau, da kannst du dich in den Kommentaren auch mit dem Copilot unterhalten
+
+00:10:18.470 --> 00:10:22.640
+ und dann kannst du ihn fragen, ob du in deinem Leben alles richtig gemacht hast
+
+00:10:22.640 --> 00:10:26.730
+ und so, und der antwortet dir in den Kommentaren, dass das so bescheuert.
+
+00:10:26.730 --> 00:10:30.610
+ Also Chat GPT ist da quasi mit eingebaut.
+
+00:10:30.610 --> 00:10:33.590
+ Hat er das nicht, aber auch für einen ziemlichen Aufreger gesorgt,
+
+00:10:33.590 --> 00:10:35.580
+ in der GitHub Community.
+
+00:10:35.580 --> 00:10:40.540
+ Das ist der Copilot, der jetzt kommerzialisiert wird oder vertrieben wird,
+
+00:10:40.540 --> 00:10:44.520
+ aber ja im Prinzip auf offenen Repositories trainiert wurde.
+
+00:10:44.520 --> 00:10:49.600
+ Genau, genau, und sie haben, ich glaube, was auch viele probiert haben,
+
+00:10:49.600 --> 00:10:52.550
+ ist spuckt mir das Ding jetzt Dinger aus, die nicht öffentlich sind
+
+00:10:52.550 --> 00:10:56.540
+ und kommt man dazu, dass der irgendwie einen Passwort da wiedergibt,
+
+00:10:56.540 --> 00:10:58.500
+ die jemand anders eingecheckt hat.
+
+00:10:58.500 --> 00:11:02.550
+ Da haben sie sich, glaube ich, mit hohem Beklecker sozusagen,
+
+00:11:02.550 --> 00:11:04.550
+ da haben sie, glaube ich, viel richtig gemacht.
+
+00:11:04.550 --> 00:11:06.540
+ Aber ja, grundsätzlich ist die Frage,
+
+00:11:06.540 --> 00:11:08.530
+ ist das, wem gehört jetzt eigentlich das Modell?
+
+00:11:08.530 --> 00:11:11.520
+ Das ist ja genauso wie bei generierten Bildern ein sehr ähnliches Problem.
+
+00:11:11.520 --> 00:11:18.500
+ Nein, nicht nur das Modell, auch das, was Paul, also ja,
+
+00:11:18.500 --> 00:11:22.490
+ aber letztendlich das, was Paul ja meinte, fängt ja noch ein bisschen früher an.
+
+00:11:22.490 --> 00:11:25.480
+ Weil für das Trainieren werden ja eben die,
+
+00:11:25.480 --> 00:11:31.520
+ auch diese ganzen Open Source Repositories verwendet, also Open Source Code
+
+00:11:31.520 --> 00:11:35.490
+ und wird dann bei dir eingefügt, ohne dass kenntlich gemacht wird,
+
+00:11:35.490 --> 00:11:39.450
+ dass das Open Source Code in Zweifel hat, ist, der da bei dir eingefügt wird.
+
+00:11:39.450 --> 00:11:46.430
+ Zum Beispiel war da nicht irgendwie diese berühmte Funktion von Quake
+
+00:11:46.430 --> 00:11:48.410
+ irgendwie auch mit dabei.
+
+00:11:48.410 --> 00:11:50.390
+ Was machten die Wurzel ziehen oder so?
+
+00:11:50.390 --> 00:11:52.370
+ Ja, das ist ein gefährliches Halbwissen.
+
+00:11:52.370 --> 00:11:57.750
+ Die du halt quasi immer irgendwie brauchst, spätestens in der Computergrafik,
+
+00:11:57.750 --> 00:12:01.730
+ ist das halt irgendwie, glaube ich, so ein Algorithmus gewesen,
+
+00:12:01.730 --> 00:12:05.700
+ der halt da umgeht, dass du halt Wurzel ziehen musst,
+
+00:12:05.700 --> 00:12:08.680
+ was halt bei Computern auch nach wie vor immer sehr viel Zeit kostet,
+
+00:12:08.680 --> 00:12:10.900
+ wenn es um Performance geht.
+
+00:12:10.900 --> 00:12:15.840
+ Und das steht unter einer freien Lizenz und sollte halt so auch dann kenntlich gemacht sein.
+
+00:12:15.840 --> 00:12:21.810
+ Wenn der CodePilot dir das aber nicht macht, sondern dir einfach nur das Stückchen Text einfügt,
+
+00:12:21.810 --> 00:12:23.770
+ dann ja klar, Urheberschaft ist das eine.
+
+00:12:23.770 --> 00:12:27.780
+ Also ein bisschen davon hast du oder der CodePilot das jetzt kreiert,
+
+00:12:27.780 --> 00:12:30.710
+ aber eigentlich hat das ja jemand anderes kreiert, der das unter freie Lizenz gestellt hat,
+
+00:12:30.710 --> 00:12:32.740
+ und zwar unter einer Copy-Level-Lizenz, die halt sagt,
+
+00:12:32.740 --> 00:12:37.680
+ wo immer du diesen Code verwendest, musst du den auch als solchen Kennzeichnen,
+
+00:12:37.680 --> 00:12:40.910
+ dass du ursprünglich herkommst und auch weiterhin frei machen.
+
+00:12:40.910 --> 00:12:43.850
+ Also deswegen, das ist nicht nur, ist jetzt nicht ganz risikofrei auch,
+
+00:12:43.850 --> 00:12:45.900
+ muss man halt auch sehen.
+
+00:12:45.900 --> 00:12:49.830
+ Ach so meinste, ja. Also ich denke, dass es ja trotzdem eine sehr ähnliche Diskussion,
+
+00:12:49.830 --> 00:12:53.780
+ wie es ja auch in der Bildgenerierung gibt, also die Frage...
+
+00:12:53.780 --> 00:12:56.900
+ Ja, lass uns doch mal kurz reingehen, genau, in die Bilder.
+
+00:12:56.900 --> 00:13:03.830
+ Also kannst du halt irgendwie sagen, mal mir mal ein Frau auf einem Stuhl im Stil von Van Gogh,
+
+00:13:03.830 --> 00:13:07.140
+ und dann sieht das halt irgendwie eben sehr ähnlich.
+
+00:13:07.140 --> 00:13:11.240
+ Und wenn du da jetzt lebende Künstler nimmst, dann ist das schon spannend.
+
+00:13:11.240 --> 00:13:14.210
+ Was ist das jetzt rechtlich? Was passiert da jetzt?
+
+00:13:14.210 --> 00:13:16.200
+ Das sind ja mehrere Ebenen, oder?
+
+00:13:16.200 --> 00:13:20.160
+ Also das ist mal ein ist ja so, ich glaube nicht, dass jeder den Konzent gegeben hat,
+
+00:13:20.160 --> 00:13:23.200
+ dass mit seinem Werk ein Modell trainiert wird.
+
+00:13:23.200 --> 00:13:27.160
+ Das ist ja so der eine Faktor mit auch Ohrheberrecht und so weiter.
+
+00:13:27.160 --> 00:13:30.130
+ Und dann kommen ja andere Bilder raus, die aussehen wie deine, aber nicht deine sind.
+
+00:13:30.130 --> 00:13:32.110
+ Das ist wahrscheinlich auch noch ein Problem.
+
+00:13:32.110 --> 00:13:36.160
+ Ich habe es eben noch gar nicht drüber nachgedacht, dass es ein Problem sein könnte, verdammt.
+
+00:13:36.160 --> 00:13:44.300
+ Das hat auch tatsächlich noch eine Ebene, die tatsächlich in Großbritannien jetzt im Moment in die Regulierung Eingang findet.
+
+00:13:44.300 --> 00:13:48.260
+ Und zwar hat der Justizminister in Großbritannien gesagt,
+
+00:13:48.260 --> 00:13:55.120
+ Moment, Verbreitung von pornografischen Deepfake-Inhalten wird demnächst unter Strafe gestellt.
+
+00:13:55.120 --> 00:14:05.860
+ Also nochmal zur Erklärung, Deepfakes waren ja die Sachen, wo man bestehendes Material nimmt, meistens irgendwie so Bilder oder Videos.
+
+00:14:05.860 --> 00:14:13.810
+ Und dann da zum Beispiel mal das Bild einer anderen Person drauf, ja, drauf modellieren lässt.
+
+00:14:13.810 --> 00:14:16.850
+ Und dann sieht das teilweise sehr täuschend echt aus.
+
+00:14:16.850 --> 00:14:19.820
+ Und man könnte fast meinen, okay, das ist wirklich diese Person.
+
+00:14:19.820 --> 00:14:23.780
+ Und das ist gerade bei so inkriminierenden Inhalten, Schraubdagen.
+
+00:14:23.780 --> 00:14:25.840
+ Das macht nichts mit Konsens zu tun.
+
+00:14:25.840 --> 00:14:28.080
+ Ja, genau.
+
+00:14:28.080 --> 00:14:34.040
+ Also ich habe jetzt letztens gesehen, weil mir kam das auch so eine Newsfit rein,
+
+00:14:34.040 --> 00:14:38.010
+ dass jetzt irgendwie diese App-Lenser gibt, wo man so fünf bis zehn Bilder hoch lädt.
+
+00:14:38.010 --> 00:14:44.000
+ Und dann macht das dir auch halt so 100 oder was auch immer Bilder eben auch mit diesem Stable Diffusion.
+
+00:14:44.000 --> 00:14:46.990
+ Das ist das Modul, das ist das Algorithmus, weiß ich jetzt auch nicht.
+
+00:14:46.990 --> 00:14:49.970
+ Ist das nicht dann auch quasi, dass du ganz viele Deepfakes quasi machst,
+
+00:14:49.970 --> 00:14:55.920
+ die machen ja auch so künstlerische Bilder, wie du keine Ahnung, unerwüste stehst und umhang umhast oder so.
+
+00:14:55.920 --> 00:14:58.900
+ Ist das dann auch Deepfake oder ist Deepfake nur, wenn es was Negatives ist?
+
+00:14:58.900 --> 00:15:00.920
+ Weil es ist ja etwas, was nicht passiert ist.
+
+00:15:00.920 --> 00:15:05.910
+ Die Deepfake ist erstmal das Verfahren oder die Verfahren an sich als, das ist jetzt erstmal ohne,
+
+00:15:05.910 --> 00:15:11.870
+ grundsätzlich erstmal ohne, dass es jetzt, ob das jetzt für den Anfangsstrich einen guten oder schlechten Zweck ist.
+
+00:15:11.870 --> 00:15:15.840
+ Also wäre das auch ein Deepfake quasi, weil ich war ja nicht in der Wüste.
+
+00:15:15.840 --> 00:15:19.900
+ Gibt es ein Bild von mir, was realistisch aussieht, dass ich in der Wüste war oder so?
+
+00:15:19.900 --> 00:15:22.880
+ Ich meine, das ist dann eben die Sache mit dem Konsent oder halt nicht.
+
+00:15:22.880 --> 00:15:25.850
+ Hast du deine Zustimmung gegeben, das damit zu tun?
+
+00:15:25.850 --> 00:15:33.860
+ Und das Problem an den Deepfakes ist halt das hohe Manipulations- und Missbrauchspotenzial,
+
+00:15:33.860 --> 00:15:41.840
+ sei es für z.B. bei pornografischen Inhalten Leute in angenehme Situationen zu bringen,
+
+00:15:41.840 --> 00:15:47.830
+ weil da irgendwie Bitmaterial mit ihrem Gesicht entsteht, was täuschend echt aussieht,
+
+00:15:47.830 --> 00:15:50.820
+ was aber so nie in der Realität stattgefunden hat.
+
+00:15:50.820 --> 00:15:55.810
+ Und das auch noch ohne die Einstimmung derjenigen, deren Gesicht da verwendet wird.
+
+00:15:55.810 --> 00:16:00.800
+ Oder beispielsweise auch das politische, sorgt ja auch für politischen Sprengstoff in dem Sinne,
+
+00:16:00.800 --> 00:16:07.780
+ wenn du halt ja z.B. von irgendeinem Präsidenten nimmst und da Videomaterial so bearbeitest,
+
+00:16:07.780 --> 00:16:12.830
+ dass der dann quasi sagt, was du ihm in den Mund legst.
+
+00:16:12.830 --> 00:16:18.790
+ Oder von einem Bürgermeister aus der Ukraine, der dann mit einer deutschen Politikerin telefoniert.
+
+00:16:18.790 --> 00:16:23.870
+ Nicht, dass es so ist, als ob er ihm hätte.
+
+00:16:23.870 --> 00:16:29.370
+ Ich bin übrigens gerade ganz stolz, ich habe mal recherchiert, bevor ich was sage.
+
+00:16:29.370 --> 00:16:34.330
+ In Bezug auf Deepfakes gab es ja vor einer Weile die Meldung,
+
+00:16:34.330 --> 00:16:41.760
+ dass Bruce Willis seinen Gesicht quasi verkauft hat an eine Deepfake-Firma.
+
+00:16:41.760 --> 00:16:46.660
+ Da gab es wohl mal einen Werbespot mit Bruce Willis, also mit einem Schauspieler.
+
+00:16:46.660 --> 00:16:52.690
+ Und dann wurde Bruce Willis Gesicht darauf gelegt und dafür gab es dann tatsächlich auch Geld.
+
+00:16:52.690 --> 00:16:58.660
+ Und jetzt habe ich gerade bei Golem gelesen, dass das wohl eine Inter war.
+
+00:16:58.660 --> 00:17:05.630
+ Bruce Willis hat nicht grundsätzlich seine Rechte verkauft, Geld faked zu werden.
+
+00:17:05.630 --> 00:17:10.800
+ Aber vielleicht war der Text ja auch von der KI geschickt, also, der weiß.
+
+00:17:10.800 --> 00:17:13.770
+ Ich kann jetzt jetzt auch so, ja, go ahead.
+
+00:17:13.770 --> 00:17:16.740
+ An einer KI sind wir noch ein bisschen vorbeigeschrammt.
+
+00:17:16.740 --> 00:17:26.690
+ Und zwar dieses DeepL, das tatsächlich auch mir diverse Übersetzungen in den letzten Tagen deutlich anders übersetzt hat als Google Translator.
+
+00:17:26.690 --> 00:17:29.690
+ Ja, das hat ja auch gute Sachen gehört, stimmt.
+
+00:17:29.690 --> 00:17:34.840
+ Also es ging tatsächlich soweit, dass ich einfach einen Grammatikfehler im Englischen hatte,
+
+00:17:34.840 --> 00:17:38.800
+ weil man halt so an so eine deutsche Grammatik gewohnt ist und das Ding hat es mir einfach wegkorrigiert
+
+00:17:38.800 --> 00:17:44.680
+ und hat dann auch die Grammatik in dem Satz nicht übersetzen wollte, umgestellt, fand ich spannend.
+
+00:17:44.680 --> 00:17:51.630
+ DeepL hat sogar eine Funktion, dass du ganze PDF-Dokumente hochladen kannst und die dann übersetzt werden
+
+00:17:51.630 --> 00:17:54.600
+ und auch mehr oder weniger in der ursprünglichen Formatierung.
+
+00:17:54.600 --> 00:18:02.990
+ Also ich habe ein Buch übersetzen können, viele hundertzeiten, das in einer Sprache, die ich eigentlich nicht spreche, tiefer eindrugend.
+
+00:18:02.990 --> 00:18:11.040
+ Und tatsächlich kommt aus meinem Umfeld, kommen Meldungen von jungen Lehrerinnen und Lehrpersonen,
+
+00:18:11.040 --> 00:18:15.020
+ die tatsächlich sprechen, dass sie jetzt sich auch bei den Schülerinnen und Schülern durchgesetzt hat,
+
+00:18:15.020 --> 00:18:19.990
+ dass ganz häufig die Hausarbeiten besonders gut formuliert sind in letzter Zeit
+
+00:18:19.990 --> 00:18:24.010
+ und da DeepL doch sehr gute Nachhilfe gegeben hat.
+
+00:18:24.010 --> 00:18:29.140
+ Nachhilfe in ganz großen Anführungsstrichen würde ich das ein bisschen.
+
+00:18:29.140 --> 00:18:32.120
+ Das könnte man aber auch mal über ein paar Research Paper drüber jagen.
+
+00:18:32.120 --> 00:18:33.110
+ Das würde ich besser, oder?
+
+00:18:33.110 --> 00:18:34.100
+ Und auch mal ein bisschen Feinschliff brauchen.
+
+00:18:34.100 --> 00:18:35.100
+ Ja.
+
+00:18:35.100 --> 00:18:42.210
+ Aber da könnte man doch damals, wie bei den Kartografen und Atlantenherstellern,
+
+00:18:42.210 --> 00:18:49.140
+ könnte man doch da ganz bewusst Fehler einbauen, um zu sehen, ah, du hast das mit DeepL übersetzt.
+
+00:18:49.140 --> 00:18:51.120
+ Das ist aber auch gefährlich.
+
+00:18:51.120 --> 00:18:52.710
+ Ja?
+
+00:18:52.710 --> 00:18:55.670
+ Ja, von DeepL habe ich auch schon auf der Gute.
+
+00:18:55.670 --> 00:18:57.640
+ Aber ich fahre bei den Bildern noch nicht ganz fertig.
+
+00:18:57.640 --> 00:18:58.630
+ Ach so.
+
+00:18:58.630 --> 00:19:01.980
+ Weil ich habe ja von Salense abgehört und ich habe es auch gesehen,
+
+00:19:01.980 --> 00:19:04.980
+ dass ein Kollege von mir auch so eine Art Ding gebaut hat,
+
+00:19:04.980 --> 00:19:07.910
+ wo man halt auch so fünf bis zehn Bilder irgendwie geben kann
+
+00:19:07.910 --> 00:19:10.910
+ und dann baute er da hundert Sachen wieder draus.
+
+00:19:10.910 --> 00:19:11.890
+ Und ich habe ihm schon das Geld dafür gegeben,
+
+00:19:11.890 --> 00:19:15.830
+ und das überlege ich ihm, gebe ich ihm die Bilder wirklich oder lasse ich es sein?
+
+00:19:15.830 --> 00:19:17.580
+ Weil was passiert eigentlich mit den Bildern?
+
+00:19:17.580 --> 00:19:21.540
+ Also ist es mal auf Modell oder kommen dann die Bilder auch in die Datenbank
+
+00:19:21.540 --> 00:19:24.500
+ und werden Teil des Modells gewesen, das weiß das jemand?
+
+00:19:24.500 --> 00:19:28.390
+ Ich bin kein Jurist, ianal.
+
+00:19:28.390 --> 00:19:30.330
+ Du meinst, ob der sich selbst trainiert?
+
+00:19:30.330 --> 00:19:32.480
+ Ja, genau.
+
+00:19:32.480 --> 00:19:39.550
+ Ich glaube bei den, das sind glaube ich fertige Modelle, die nicht weiter trainiert werden.
+
+00:19:39.550 --> 00:19:40.680
+ Okay.
+
+00:19:40.680 --> 00:19:42.680
+ Aber nicht sicher, aber...
+
+00:19:42.680 --> 00:19:44.640
+ Ich könnte hier mal fragen, das wäre eine gute Frage oder?
+
+00:19:44.640 --> 00:19:47.600
+ Das wäre eine gute Frage, was passiert mit den Bildern?
+
+00:19:47.600 --> 00:19:49.770
+ Ja, ist sowieso immer eine gute Frage.
+
+00:19:49.770 --> 00:19:51.750
+ Ja, auf alle Fälle, aber ich finde es halt spannend,
+
+00:19:51.750 --> 00:19:54.720
+ dass es jetzt ein großes Thema wird, weil es halt diese neue Forschung dazu gab.
+
+00:19:54.720 --> 00:19:56.690
+ Das gibt es noch nicht so lange in dieses Modell.
+
+00:19:56.690 --> 00:19:59.720
+ Das haben die ja erst dieses Jahr irgendwie rausgebracht.
+
+00:19:59.720 --> 00:20:01.700
+ Ich sehe jetzt das Dali?
+
+00:20:01.700 --> 00:20:03.670
+ Nee, das Stable-Diffusion-Dinger.
+
+00:20:03.670 --> 00:20:06.700
+ Also diese Forschung dazu ist noch nicht so alt.
+
+00:20:06.700 --> 00:20:08.660
+ Spannend, danke.
+
+00:20:08.660 --> 00:20:11.610
+ Ich werde überlegen, ob ich das tue, ob ich das nicht tue.
+
+00:20:11.610 --> 00:20:14.520
+ Wir bleiben dran, wie es so schön heißt.
+
+00:20:14.520 --> 00:20:16.490
+ Ja, richtig.
+
+00:20:16.490 --> 00:20:21.450
+ Ich denke, das Thema wird uns sicherlich alle nicht loslassen
+
+00:20:21.450 --> 00:20:23.440
+ in einer Zukunft.
+
+00:20:23.440 --> 00:20:25.970
+ Genau.
+
+00:20:25.970 --> 00:20:28.950
+ Warte, Paul hatte gerade noch was, glaube ich?
+
+00:20:28.950 --> 00:20:35.210
+ Ja, nur wer eigene Dinge Absätze konsumieren möchte,
+
+00:20:35.210 --> 00:20:40.140
+ es sei der Kanal "2-Minute Papers" auf YouTube noch empfohlen.
+
+00:20:40.140 --> 00:20:45.160
+ In diesem Bereich werden Bildgenerationen und so
+
+00:20:45.160 --> 00:20:48.130
+ sehr niedrigschwellig neue Paper zusammengefasst.
+
+00:20:48.130 --> 00:20:51.620
+ Da kann man wirklich gut mitbekommen, wo es gerade hingeht.
+
+00:20:51.620 --> 00:20:53.580
+ Das ist sehr spannend.
+
+00:20:53.580 --> 00:20:57.920
+ Ja, danke.
+
+00:20:57.920 --> 00:20:59.980
+ Kommt auf jeden Fall in die Show-Nords.
+
+00:20:59.980 --> 00:21:01.980
+ Genau, ja, Show-Nords.
+
+00:21:01.980 --> 00:21:05.960
+ Ich habe hier meine Alters-Schwäche über das Tattoo-Layouts
+
+00:21:05.960 --> 00:21:07.960
+ jetzt mal nach hinten geschoben.
+
+00:21:07.960 --> 00:21:10.940
+ Dann habe ich noch eine, nachdem wir jetzt ganz viel über
+
+00:21:10.940 --> 00:21:14.930
+ über eigentlich alles proprietäre Produkte.
+
+00:21:14.930 --> 00:21:17.920
+ Ich glaube Stable-Diffusion ist nicht proprietär,
+
+00:21:17.920 --> 00:21:19.910
+ aber alles andere glaube ich schon.
+
+00:21:19.910 --> 00:21:21.910
+ Ich dachte, bis gerade eben das Open AI
+
+00:21:21.910 --> 00:21:23.900
+ tatsächlich irgendwas mit Open wäre.
+
+00:21:23.900 --> 00:21:25.890
+ Nee, also...
+
+00:21:25.890 --> 00:21:27.890
+ Es ist auch nur wieder ein Unternehmen, wo unter anderem
+
+00:21:27.890 --> 00:21:29.940
+ auch Elon Musk wieder mitrennen.
+
+00:21:29.940 --> 00:21:31.920
+ Ja, ja, ich habe mir die Firmenstruktur nicht genau angeguckt,
+
+00:21:31.920 --> 00:21:33.900
+ aber es ist auf jeden Fall nicht...
+
+00:21:33.900 --> 00:21:36.870
+ Da gibt es wohl noch eine Stiftung, die mit drin hockt,
+
+00:21:36.870 --> 00:21:39.920
+ aber ja, also da müssen wir mal ein bisschen warten,
+
+00:21:39.920 --> 00:21:41.910
+ bis ich mal ein paar Journalisten mit beschäftigen
+
+00:21:41.910 --> 00:21:43.890
+ und Journalistinnen und da mal dahinter gucken,
+
+00:21:43.890 --> 00:21:45.880
+ was da eigentlich los ist.
+
+00:21:45.880 --> 00:21:47.870
+ Ich würde aber gerne noch was empfehlen,
+
+00:21:47.870 --> 00:21:49.860
+ was sehr offen ist und mir sehr gefällt.
+
+00:21:49.860 --> 00:21:52.840
+ Wir haben hier in den letzten Jahren
+
+00:21:52.840 --> 00:21:56.930
+ immer mal wieder über Gadget-Bridge gesprochen
+
+00:21:56.930 --> 00:22:02.890
+ und generell offenes Android und offene Gadgets drumrum,
+
+00:22:02.890 --> 00:22:06.830
+ also sowas wie Smartwatches,
+
+00:22:06.830 --> 00:22:09.890
+ die man sich dann irgendwie, also meistens sind das ja
+
+00:22:09.890 --> 00:22:12.910
+ irgendwelche, keine Ahnung, Huawei, Xiaomi,
+
+00:22:12.910 --> 00:22:15.900
+ Samsung, Apple Watches,
+
+00:22:15.900 --> 00:22:17.900
+ die alle auf geschlossenen Systemen basieren,
+
+00:22:17.900 --> 00:22:19.890
+ wo man nichts mitmachen kann.
+
+00:22:19.890 --> 00:22:21.880
+ Da haben wir uns schon öfter darüber aufgelegt.
+
+00:22:21.880 --> 00:22:23.880
+ Ich könnte mich auch eigentlich jeden Tag wieder über meinen iPad,
+
+00:22:23.880 --> 00:22:25.870
+ was hardwaretechnisch noch völlig in Ordnung ist,
+
+00:22:25.870 --> 00:22:28.860
+ aber da aus dem Support gelaufen ist, aufregen.
+
+00:22:28.860 --> 00:22:31.850
+ So, und jetzt habe ich gefunden eine Smartwatch,
+
+00:22:31.850 --> 00:22:37.840
+ die von Grund auf offendesignt ist, 30 Dollar kostet
+
+00:22:37.840 --> 00:22:41.820
+ und für die es sogar zwei offene Betriebssthemen gibt,
+
+00:22:41.820 --> 00:22:43.820
+ von denen man sich eins picken kann.
+
+00:22:43.820 --> 00:22:46.850
+ Die also auch wirklich auf GitHub entwickelt werden.
+
+00:22:46.850 --> 00:22:53.830
+ Und das ist die Pine Time Watch, also Pine, wie die Fichte.
+
+00:22:53.830 --> 00:22:56.820
+ Und die machen mehrere Produkte.
+
+00:22:56.820 --> 00:22:58.820
+ Ich weiß jetzt nicht, was das für eine Firma ist,
+
+00:22:58.820 --> 00:23:01.810
+ aber alles, was sie produzieren, ist irgendwie offen.
+
+00:23:01.810 --> 00:23:04.800
+ Sie produzieren auch einen kleinen Lötkolben,
+
+00:23:04.800 --> 00:23:06.800
+ den man sich selber mit Firmware bespielen kann.
+
+00:23:06.800 --> 00:23:08.790
+ Der hat einen USB-C Anschluss und damit kann man löten.
+
+00:23:08.790 --> 00:23:12.780
+ Das ist ganz großartig der Pine-Tam, Pine-Pen.
+
+00:23:12.780 --> 00:23:17.770
+ Und ein Smartphone, das Pine-Fone habe ich auch noch nicht ausprobiert,
+
+00:23:17.770 --> 00:23:20.760
+ aber alles, was sie haben, ist von Grund auf immer offen.
+
+00:23:20.760 --> 00:23:22.760
+ Es gibt keinerlei Mechanismen, um zu verhindern,
+
+00:23:22.760 --> 00:23:24.750
+ dass man da drauf zugreifen kann.
+
+00:23:24.750 --> 00:23:27.740
+ Man kann das nach Belieben bricken und auseinandernehmen
+
+00:23:27.740 --> 00:23:28.740
+ und hat dann wieder ein Interface,
+
+00:23:28.740 --> 00:23:32.880
+ womit man auch die Gebricktengeräte wieder hinkriegt.
+
+00:23:32.880 --> 00:23:34.860
+ Also ganz, ganz große Empfehlung.
+
+00:23:34.860 --> 00:23:37.830
+ Ich habe mir diese Pine Time besorgt, sogar das StevKit,
+
+00:23:37.830 --> 00:23:40.800
+ wo ich also eine verklebte Uhr habe und eine offene,
+
+00:23:40.800 --> 00:23:44.010
+ die ich dann fahre, die Firmware-Updates ausprobiere.
+
+00:23:44.010 --> 00:23:46.980
+ Genau, und das ist ein ganz wunderbares Produkt.
+
+00:23:46.980 --> 00:23:49.960
+ Und die Software dazu heißt "Infinityime".
+
+00:23:49.960 --> 00:23:51.940
+ Das ist großartig.
+
+00:23:51.940 --> 00:23:55.030
+ Pine hatte ich jetzt schon mal gehört,
+
+00:23:55.030 --> 00:23:57.980
+ als Hersteller von so Mini-Computern,
+
+00:23:57.980 --> 00:23:59.950
+ so ähnlich wie Raspberry Pi beispielsweise.
+
+00:23:59.950 --> 00:24:03.200
+ Mir ist aufgefallen, die haben dieses Pine-Note,
+
+00:24:03.200 --> 00:24:06.270
+ das im Prinzip so eine Dienerviersalte der ePaper ist.
+
+00:24:06.270 --> 00:24:09.210
+ Das sieht irgendwie sehr ähnlich zum Remarkable aus,
+
+00:24:09.210 --> 00:24:14.300
+ was im Prinzip so ein aussieht wie ein wirklich dünnes eBook-Reader-Ding
+
+00:24:14.300 --> 00:24:18.580
+ mit der Stift, auf die man relativ flüssig schreiben kann.
+
+00:24:18.580 --> 00:24:22.530
+ Und auf dem Ding läuft im Hintergrund wohl tatsächlich ein offenes Linux,
+
+00:24:22.530 --> 00:24:26.740
+ mit dem man sein Gerät dann auch tatsächlich selber im Griff hat
+
+00:24:26.740 --> 00:24:28.770
+ und da eigene Dinge laufen lassen kann.
+
+00:24:28.770 --> 00:24:31.740
+ Zum Teil kümmern die sich gar nicht selber um die Software.
+
+00:24:31.740 --> 00:24:35.750
+ Also das Infinityime hat, soweit ich das sehen kann,
+
+00:24:35.750 --> 00:24:37.740
+ nichts mit Pine Time zu tun.
+
+00:24:37.740 --> 00:24:41.720
+ Also das ist halt für die Uhr entwickelt, kann aber auch noch andere,
+
+00:24:41.720 --> 00:24:43.710
+ also alle anderen Geräte, die unterstützt sind,
+
+00:24:43.710 --> 00:24:45.700
+ muss man halt erst irgendwie hacken und anlocken
+
+00:24:45.700 --> 00:24:48.690
+ und schlag mich tot und jailbreaken.
+
+00:24:48.690 --> 00:24:50.680
+ Und auf der Pine Time läuft es halt out of the box.
+
+00:24:50.680 --> 00:24:52.670
+ Also das ist schon sehr angenehm.
+
+00:24:52.670 --> 00:24:57.660
+ Und man sieht halt auch, was man mit Hardware für 30 Dollar eigentlich hinkriegt.
+
+00:24:57.660 --> 00:25:01.630
+ Also da sind alle Sensoren drin, die man von der Smartwatch erwartet.
+
+00:25:01.630 --> 00:25:03.940
+ Das ist schon spannend.
+
+00:25:03.940 --> 00:25:08.960
+ Es funktioniert einfach.
+
+00:25:08.960 --> 00:25:11.910
+ Es gibt ja mittlerweile auch im Open Hardware Bereich.
+
+00:25:11.910 --> 00:25:14.920
+ Also gerade das, was der Pine Time scheinbar ist.
+
+00:25:14.920 --> 00:25:18.930
+ Auch mittlerweile diverse Übersichtsstudien, die einfach mal so geguckt haben.
+
+00:25:18.930 --> 00:25:24.250
+ Wie unterscheiden sich die Preise von proprietären Varianten und den offenen?
+
+00:25:24.250 --> 00:25:26.220
+ Dann gibt es ein ganz interessanter Spektrum.
+
+00:25:26.220 --> 00:25:30.160
+ Also die EU-Kommission spricht von 75 Prozent Kostenersparnis
+
+00:25:30.160 --> 00:25:33.370
+ und einige Leute aus der Open Hardware.
+
+00:25:33.370 --> 00:25:36.340
+ Sie sprechen von 95 Prozent im Schnitt.
+
+00:25:36.340 --> 00:25:38.310
+ Sind offene Projekte günstiger?
+
+00:25:38.310 --> 00:25:40.400
+ Im Hardware Bereich als als proprietär?
+
+00:25:40.400 --> 00:25:44.400
+ Oder werden günstiger Vertrieben ganz schön absurde Zahlen?
+
+00:25:44.400 --> 00:25:47.520
+ Ich denke so, was die für Energie da reinstecken,
+
+00:25:47.520 --> 00:25:51.520
+ ihre Produkte zu vernageln, ist ja nicht zu unterschätzen.
+
+00:25:51.520 --> 00:25:55.530
+ Und dann natürlich Margen etc. und Support.
+
+00:25:55.530 --> 00:25:57.500
+ Ich meine, wenn ich mir so ein offenes Gerät kaufe,
+
+00:25:57.500 --> 00:25:59.480
+ habe ich dazu natürlich auch eine ganz andere Einstellung.
+
+00:25:59.480 --> 00:26:01.450
+ Als wenn ich mir so eine vernagelte Apple Watch kaufe,
+
+00:26:01.450 --> 00:26:04.480
+ wenn da was nicht geht, dann gebe ich die halt zurück.
+
+00:26:04.480 --> 00:26:06.450
+ Wenn man auf meiner Pine Time was nicht geht,
+
+00:26:06.450 --> 00:26:08.430
+ dann gucke ich erstmal auf GitHub, ob es ein Bug Report gibt.
+
+00:26:08.430 --> 00:26:14.450
+ Weil man natürlich auch sagen muss, du kannst es, du hast die Fähigkeiten dazu.
+
+00:26:14.450 --> 00:26:18.440
+ Also wir sind ja da, die wir da irgendwie mit Code und Software
+
+00:26:18.440 --> 00:26:20.440
+ und hast da nicht gesehen arbeiten können,
+
+00:26:20.440 --> 00:26:22.430
+ sind wir da auch ein bisschen privilegiert.
+
+00:26:22.430 --> 00:26:23.430
+ Für andere Leute muss es einfach funktionieren.
+
+00:26:23.430 --> 00:26:27.410
+ Ja gut, aber gerade die Kategorie Smartwatch Träger,
+
+00:26:27.410 --> 00:26:31.400
+ das sind ja nun mal zum großen Teil Techniker, viele Menschen.
+
+00:26:31.400 --> 00:26:32.400
+ Techniker, viele Menschen.
+
+00:26:32.400 --> 00:26:33.400
+ Nicht nur, ja genau.
+
+00:26:33.400 --> 00:26:38.380
+ Aber ich sage mal so, ich höre ja aber dennoch auch raus aus deinen Worten,
+
+00:26:38.380 --> 00:26:40.380
+ dass da auch sehr viel Lob mitschwingt.
+
+00:26:40.380 --> 00:26:43.370
+ Einfach, dass du generell einfach ein gutes,
+
+00:26:43.370 --> 00:26:45.410
+ dass du sehr zufrieden damit bist, einfach.
+
+00:26:45.410 --> 00:26:47.380
+ Genau, also ich habe die auch bekommen,
+
+00:26:47.380 --> 00:26:49.350
+ habe sie direkt an den Arm geschnallt und das ging, ne?
+
+00:26:49.350 --> 00:26:51.390
+ Sehr gut, insofern.
+
+00:26:51.390 --> 00:26:53.380
+ Wir machen ja an der Stelle nur kurz die Hinweise,
+
+00:26:53.380 --> 00:26:55.360
+ machen ja keine Werbung in dem Sinne.
+
+00:26:55.360 --> 00:26:57.350
+ Also es liegt uns ja, liegt uns der Fern.
+
+00:26:57.350 --> 00:27:00.330
+ Aber so, wie ich sage mal, so positive Erfahrungsberichte,
+
+00:27:00.330 --> 00:27:02.320
+ sind es ja durchaus auch mal wertzuteilen,
+
+00:27:02.320 --> 00:27:05.300
+ gerade wenn es jetzt um so auf eine Hardware wie in der Stelle eben geht.
+
+00:27:05.300 --> 00:27:06.770
+ Das ist richtig, genau.
+
+00:27:06.770 --> 00:27:08.750
+ Also über die Firma, wie gesagt, kann ich selber auch gar nichts sagen.
+
+00:27:08.750 --> 00:27:11.710
+ Ich muss mir das Zeug auch aus China bestellen
+
+00:27:11.710 --> 00:27:13.690
+ und selber durch den Zoll bringen und so.
+
+00:27:13.690 --> 00:27:18.360
+ Genau, Cyroxx, du wolltest gerne dem Twitter-Rent
+
+00:27:18.360 --> 00:27:22.350
+ vom letzten Mal noch etwas anderes entgegenstellen.
+
+00:27:22.350 --> 00:27:23.340
+ Was ist das, dem Twitter-Rent?
+
+00:27:23.340 --> 00:27:25.340
+ Ach so, ja, wir haben ja letztes Mal sehr viel über
+
+00:27:25.340 --> 00:27:29.320
+ Twitter gesprochen und was da gerade sehr schiefläuft,
+
+00:27:29.320 --> 00:27:33.310
+ nachdem Elon Musk Twitter übernommen hat, übernehmen musste.
+
+00:27:33.310 --> 00:27:36.300
+ Was wir überhaupt nicht erwähnt haben ist,
+
+00:27:36.300 --> 00:27:38.290
+ was ist eigentlich Mastodon?
+
+00:27:38.290 --> 00:27:41.280
+ Beziehungsweise was gibt es überhaupt für Alternativen zu Twitter
+
+00:27:41.280 --> 00:27:44.270
+ und ist Mastodon vielleicht möglicherweise eine Alternative dazu?
+
+00:27:44.270 --> 00:27:47.400
+ Ja, genau.
+
+00:27:47.400 --> 00:27:51.420
+ Das sollten wir vielleicht mal ansprechen in dieser Runde.
+
+00:27:51.420 --> 00:27:57.370
+ Wobei es da viele Texte dazu gab in den letzten Wochen, oder?
+
+00:27:57.370 --> 00:28:00.420
+ Ja, aber wir können ja vielleicht mal einen kurzen Abriss,
+
+00:28:00.420 --> 00:28:04.360
+ den Leuten das ein bisschen naheliegen, war jetzt so der Garnke.
+
+00:28:04.360 --> 00:28:06.670
+ Haben wir doch immer.
+
+00:28:06.670 --> 00:28:12.800
+ Wir sind ja auch auf Mastodon, nämlich at ccp@caus.social.
+
+00:28:12.800 --> 00:28:14.770
+ Richtig.
+
+00:28:14.770 --> 00:28:18.680
+ Möchte das jemand, möchte jemand ein bisschen über Mastodon sprechen?
+
+00:28:18.680 --> 00:28:21.660
+ Oder soll ich das?
+
+00:28:21.660 --> 00:28:24.990
+ Ich nehme das dann mal.
+
+00:28:24.990 --> 00:28:32.120
+ Wie gesagt, Twitter geht da gerade so ein bisschen bergab.
+
+00:28:32.120 --> 00:28:37.070
+ Ob das tatsächlich jetzt das Ende von Twitter sein wird in den nächsten Monaten,
+
+00:28:37.070 --> 00:28:39.060
+ kann glaube ich keiner seriös sagen.
+
+00:28:39.060 --> 00:28:42.030
+ Nur ganz viele Leute, die jetzt gerade, wo man sieht,
+
+00:28:42.030 --> 00:28:45.000
+ die jetzt gerade tatsächlich ernsthaft zu anderen Sachen rüberwechseln,
+
+00:28:45.000 --> 00:28:46.950
+ im Wesentlichen zu Mastodon.
+
+00:28:46.950 --> 00:28:49.130
+ Was ist das?
+
+00:28:49.130 --> 00:28:57.100
+ Das ist tatsächlich eine Software, die eine gewisse Ähnlichkeit hat zu Twitter.
+
+00:28:57.100 --> 00:29:01.090
+ Ich glaube, die Kategorie war mal so Microblogging-Dienst.
+
+00:29:01.090 --> 00:29:05.070
+ Und da kann man tatsächlich auch ähnlich wie bei Twitter.
+
+00:29:05.070 --> 00:29:08.060
+ Man kann irgendwie gewisse Texte schreiben,
+
+00:29:08.060 --> 00:29:11.050
+ ein bisschen länger als bei Twitter.
+
+00:29:11.050 --> 00:29:16.380
+ Man kann die Liken in dem Sinne, dass man Sternchen dran packt,
+
+00:29:16.380 --> 00:29:20.320
+ dann kann zumindest der Autor, die Autorin da,
+
+00:29:20.320 --> 00:29:22.350
+ kriegt das mit.
+
+00:29:22.350 --> 00:29:25.290
+ Man kann die auch teilen bei sich in der Timeline.
+
+00:29:25.290 --> 00:29:27.490
+ Das ist ähnlich zu Twitter.
+
+00:29:27.490 --> 00:29:33.720
+ Einer der zentralen Unterschiede von Mastodon gegenüber Twitter ist,
+
+00:29:33.720 --> 00:29:37.810
+ es ist an der Stelle A offen, also es ist eine Open Source Software.
+
+00:29:37.810 --> 00:29:40.790
+ Und B, es ist vor allem aber auch dezentral.
+
+00:29:40.790 --> 00:29:44.760
+ Das heißt, es gibt nicht wie bei Twitter eine große Instanz,
+
+00:29:44.760 --> 00:29:48.740
+ einen großen Anbieter und dann sind da alle irgendwie,
+
+00:29:48.740 --> 00:29:50.730
+ sondern das ist tatsächlich dezentral.
+
+00:29:50.730 --> 00:29:53.800
+ Es gibt eine Reihe von Instanzen
+
+00:29:53.800 --> 00:29:58.750
+ und die sind mehr oder weniger zusammengeschaltet, förderiert.
+
+00:29:58.750 --> 00:30:03.740
+ Man kann sich einen Account machen auf einer Instanz
+
+00:30:03.740 --> 00:30:07.710
+ und kann aber mit allen Leuten in dem gesamten sogenannten Fidiverse,
+
+00:30:07.710 --> 00:30:12.670
+ also die Gesamtheit, Mastodons und aber auch noch darüber hinaus,
+
+00:30:12.670 --> 00:30:16.630
+ kann man dann das ähnlich wie Twitter benutzen.
+
+00:30:16.630 --> 00:30:21.080
+ Ähnlich wie Twitter und die Sache ist halt zum Beispiel auch,
+
+00:30:21.080 --> 00:30:24.030
+ dass es so offen ist, dass wenn man mal auf einer Instanz ist
+
+00:30:24.030 --> 00:30:27.060
+ und sich jetzt entscheidet, auf eine andere Instanz zu wechseln,
+
+00:30:27.060 --> 00:30:29.040
+ dass das dann überhaupt kein Thema ist.
+
+00:30:29.040 --> 00:30:31.030
+ Man kann da durchaus auch umziehen.
+
+00:30:31.030 --> 00:30:33.010
+ Es ist vielleicht auch noch ganz wichtig zu erwähnen.
+
+00:30:33.010 --> 00:30:34.990
+ Ja, das heißt, wenn man sich mal irgendwo angemeldet hat,
+
+00:30:34.990 --> 00:30:37.010
+ dann ist man dann nicht festgenagelt,
+
+00:30:37.010 --> 00:30:39.030
+ sondern kann mit so einem Account halt so eine Daten mitnehmen
+
+00:30:39.030 --> 00:30:42.050
+ und woanders hingehen, wie so von einem Dorf zum anderen.
+
+00:30:42.050 --> 00:30:45.020
+ Man kann ja eigentlich eh sein, sollte mit DSGVO und so.
+
+00:30:45.020 --> 00:30:47.000
+ Da hat man ganz viel Möglichkeiten zu haben.
+
+00:30:47.000 --> 00:30:49.980
+ Also wenn das wissen möchte, wie es geht,
+
+00:30:49.980 --> 00:30:53.970
+ der Netzpolitikpunkt hat da letztens erst eine Anleitung veröffentlicht.
+
+00:30:53.970 --> 00:31:00.950
+ Genau, ich glaube, ich wollte nochmal, dass das Fidiverse irgendwie über stretching,
+
+00:31:00.950 --> 00:31:03.940
+ du hast ja am Anfang gesagt, sehr viele wandern zum Mastodon ab.
+
+00:31:03.940 --> 00:31:09.920
+ Ich habe kürzlich, Achtung, Disclaimer, und nicht überprüft gesehen,
+
+00:31:09.920 --> 00:31:13.910
+ auch nochmal sehr viele Leute zu Tumblr wechseln, wieder zurück.
+
+00:31:13.910 --> 00:31:15.900
+ Mir war nicht bewusst, dass es das noch gibt.
+
+00:31:15.900 --> 00:31:17.900
+ Die hatten ja mal, wer sich daran erinnert,
+
+00:31:17.900 --> 00:31:21.880
+ Tumblr ist vor vielen Jahren, war das mal eher so ein nacksche Bilderdienst
+
+00:31:21.880 --> 00:31:24.990
+ und dann wurden die aufgekauft
+
+00:31:24.990 --> 00:31:30.070
+ und dann wurde alles, was in Richtung Pornografisches Material geht, dort verboten
+
+00:31:30.070 --> 00:31:34.060
+ und damit sind dann 90 Prozent der Nutzerschaft irgendwie weggegangen.
+
+00:31:34.060 --> 00:31:36.050
+ Der Dienst, den gibt es aber noch, der hat es überlebt,
+
+00:31:36.050 --> 00:31:38.040
+ so als Microblogging-Dienst.
+
+00:31:38.040 --> 00:31:42.020
+ Und ich habe kürzlich gehört, dass die sich auch ins Fidiverse mit reinhängen wollen.
+
+00:31:42.020 --> 00:31:46.000
+ Also das hätte dann eben zur Folge, dass man von seiner Mastodon-Instanz
+
+00:31:46.000 --> 00:31:52.950
+ irgendwie auf Bilder oder Blocks von Tumblr verweisen kann und andersrum.
+
+00:31:52.950 --> 00:31:55.400
+ Das ist schon ein ganz spannendes Konzept.
+
+00:31:55.400 --> 00:32:02.340
+ Was man vielleicht noch sagen sollte, ist Mastodon ist aber auch nicht ganz wie Twitter.
+
+00:32:02.340 --> 00:32:08.350
+ Zum Beispiel gibt es ja bei Twitter diesen ominösen Algorithmus.
+
+00:32:08.350 --> 00:32:12.280
+ Immer wenn du irgendwie interagierst mit einem Post auf Twitter,
+
+00:32:12.280 --> 00:32:16.340
+ sei es mit einem Like oder sei es mit einem Retweet,
+
+00:32:16.340 --> 00:32:20.310
+ dann befördert das und befeuert das natürlich den Algorithmus
+
+00:32:20.310 --> 00:32:25.270
+ und was dir angezeigt wird, beziehungsweise was anderen angezeigt wird.
+
+00:32:25.270 --> 00:32:28.640
+ Das gibt es so bei Mastodon nicht, das ist eine bewusste Entscheidung,
+
+00:32:28.640 --> 00:32:33.620
+ dass es nicht noch irgendwie zusätzlich auf irgendeine Empfehlung,
+
+00:32:33.620 --> 00:32:36.610
+ dass es da nicht noch irgendwie extra ein Empfehlungssystem gibt,
+
+00:32:36.610 --> 00:32:38.600
+ sondern es ist da wirklich gut heizt, es ist irgendwie weiter
+
+00:32:38.600 --> 00:32:40.600
+ und darüber wird es dann weiterverbreitet.
+
+00:32:40.600 --> 00:32:44.590
+ Aber wenn du jetzt auf dieses Sternchen drückst, ist es bei Mastodon,
+
+00:32:44.590 --> 00:32:50.570
+ dann ist das eigentlich nur eine Botschaft für dich und für den Autor des Tweets
+
+00:32:50.570 --> 00:32:54.550
+ und hat jetzt aber sonst keinen weiteren Einfluss auf irgendwie,
+
+00:32:54.550 --> 00:32:56.550
+ wie gesagt, Dinge, die dir angezeigt werden oder nicht,
+
+00:32:56.550 --> 00:32:59.330
+ das sollte man vielleicht noch mit erwähnen.
+
+00:32:59.330 --> 00:33:01.610
+ Spaces gibt es auch nicht.
+
+00:33:01.610 --> 00:33:05.930
+ Ich glaube, das wurde kontrovers diskutiert, in der nicht welche Bild,
+
+00:33:05.930 --> 00:33:08.230
+ welche Optionen alle fehlen.
+
+00:33:08.230 --> 00:33:11.230
+ Ja, was jetzt dafür gibt es in Content Warnings?
+
+00:33:11.230 --> 00:33:14.170
+ Die sehen auch durchaus, ich sag mal, umstritten.
+
+00:33:14.170 --> 00:33:16.180
+ An welcher Stelle muss man die setzen,
+
+00:33:16.180 --> 00:33:19.120
+ an welcher Stelle soll man sie setzen und an welcher Stelle darf man?
+
+00:33:19.120 --> 00:33:22.400
+ Also, da gibt es Diskussionen, sag ich mal so.
+
+00:33:22.400 --> 00:33:28.030
+ Wusstet ihr, dass Mastodon, glaube ich, sitzt doch auch in Berlin.
+
+00:33:28.030 --> 00:33:33.190
+ Es ist eine gemeinnützige GmbH, das Ganze vorantreibt.
+
+00:33:33.190 --> 00:33:36.450
+ Und zumindest in meinem Umfeld wurde auch diskutiert,
+
+00:33:36.450 --> 00:33:40.380
+ inwiefern es irgendwie so Förderstrukturen geben kann,
+
+00:33:40.380 --> 00:33:44.510
+ die solche eher gemeinschaftsgetragenen Projekte pushen kann
+
+00:33:44.510 --> 00:33:46.450
+ und da Mittel bereitstellen kann,
+
+00:33:46.450 --> 00:33:50.450
+ dass vielleicht Funktionen und so noch erweitert werden.
+
+00:33:50.450 --> 00:33:52.730
+ Richtig, ich glaube, die Community,
+
+00:33:52.730 --> 00:33:54.690
+ also die jetzt Mastodon wirklich aktiv entwickelt,
+
+00:33:54.690 --> 00:33:56.730
+ die ist auch, ich sag mal, überschaubar.
+
+00:33:56.730 --> 00:34:00.780
+ Also, es ist keine riesen Menge an Menschen.
+
+00:34:00.780 --> 00:34:02.810
+ Ist auf jeden Fall spannend.
+
+00:34:02.810 --> 00:34:07.720
+ Wir werden mal schauen, wie es da jetzt weitergeht generell.
+
+00:34:07.720 --> 00:34:10.720
+ Ja, es bleibt, glaube ich, einfach spannend.
+
+00:34:10.720 --> 00:34:14.170
+ Ich würde es, glaube ich, an der Stelle erst mal dabei belassen.
+
+00:34:14.170 --> 00:34:19.130
+ Ich denke, das Thema wird auch da sicherlich noch weitergehen,
+
+00:34:19.130 --> 00:34:22.110
+ werden wir sicherlich noch mal hier als Thema
+
+00:34:22.110 --> 00:34:25.090
+ in einer der zukünftigen Folgen haben.
+
+00:34:25.090 --> 00:34:29.250
+ Ja, zukünftige Folgen ist ja ein schönes Stichwort.
+
+00:34:29.250 --> 00:34:33.690
+ Es ist ja kein Zufall, dass Paul hier heute bei uns ist.
+
+00:34:33.690 --> 00:34:36.640
+ Nicht? Ich dachte, er ist einfach so reingestäubert hier.
+
+00:34:36.640 --> 00:34:39.630
+ Ach so, passiert Menschen, ja, aber nein.
+
+00:34:39.630 --> 00:34:42.810
+ Vor allen Dingen, wenn Sie sich mit Knuffs aufhalten.
+
+00:34:42.810 --> 00:34:48.510
+ Und zwar haben Knuffs und ich mit einer weiteren Begleitung
+
+00:34:48.510 --> 00:34:52.920
+ vor kurzem ein Papier geschrieben, oder von ein bisschen her,
+
+00:34:52.920 --> 00:34:58.890
+ wo wir uns mit einem vielleicht etwas fachfernen Thema beschäftigt haben,
+
+00:34:58.890 --> 00:35:01.870
+ nämlich der Disziplin der Technikfolgenabschätzung,
+
+00:35:01.870 --> 00:35:05.840
+ die so ein ganz grutes akademisches Feld ist,
+
+00:35:05.840 --> 00:35:08.820
+ was in den letzten Jahrzehnten sich so am Rande
+
+00:35:08.820 --> 00:35:10.810
+ von anderen Disziplinen entwickelt hat.
+
+00:35:10.810 --> 00:35:14.930
+ Und im Prinzip als Aufgabe hat so ein bisschen technologischer
+
+00:35:14.930 --> 00:35:18.890
+ Trendanalyse zu machen und das Ganze aus unterschiedlichen
+
+00:35:18.890 --> 00:35:22.910
+ Richtungen zu betrachten, einzuordnen und auch dann immer
+
+00:35:22.910 --> 00:35:26.830
+ mit dem Gedankengang in politische Regulierung zurückzuspiegeln.
+
+00:35:26.830 --> 00:35:29.980
+ Genau, also gefühlt hat sich dieses Thema in so einem kleinen
+
+00:35:29.980 --> 00:35:35.440
+ gallischen Dorf in Süddeutschland durchaus entwickelt,
+
+00:35:35.440 --> 00:35:37.410
+ aber immer hat es immer wieder mal am Rande gehört,
+
+00:35:37.410 --> 00:35:40.370
+ dass es dieses Wort gibt und dass man sich da vielleicht doch mal
+
+00:35:40.370 --> 00:35:43.370
+ mit beschäftigen sollt, was das denn ist.
+
+00:35:43.370 --> 00:35:47.310
+ Und da hatte ich das Vergnügen, als Co-Autor an den
+
+00:35:47.310 --> 00:35:49.340
+ Paper-Mitwerken zu dürfen.
+
+00:35:49.340 --> 00:35:51.290
+ Und bin dadurch auch erst mal wieder so ein bisschen aufmerksam
+
+00:35:51.290 --> 00:35:54.290
+ drauf geworden, dass es eben dieses Forschungsfeld,
+
+00:35:54.290 --> 00:35:57.770
+ sag ich mal, tatsächlich gibt und was sich da alles so auftut.
+
+00:35:57.770 --> 00:36:01.790
+ Aber ich glaube, das wird wirklich eine zukünftige Sendung,
+
+00:36:01.790 --> 00:36:03.760
+ wo wir da mal tiefer reinbohren.
+
+00:36:03.760 --> 00:36:05.740
+ Ich glaube, wir haben es schon vor ein oder zwei Sendungen mal
+
+00:36:05.740 --> 00:36:07.750
+ angeteasert, dass so was passieren könnte.
+
+00:36:07.750 --> 00:36:10.780
+ Und es fehlt heute so eine Person.
+
+00:36:10.780 --> 00:36:13.830
+ Ja, aber wird sicherlich nicht noch kommen.
+
+00:36:13.830 --> 00:36:15.820
+ Aber was mich gerade so ein bisschen irritiert hat,
+
+00:36:15.820 --> 00:36:17.820
+ ist, wieso denn fachfremd?
+
+00:36:17.820 --> 00:36:20.810
+ Weil eigentlich Technikfolgenabschätzung ist ja eigentlich,
+
+00:36:20.810 --> 00:36:22.800
+ auch wenn es vielleicht nicht immer so beim Namen genannt wird,
+
+00:36:22.800 --> 00:36:25.790
+ aber es ist jetzt zum Beispiel auch ein sehr wesentliches Thema,
+
+00:36:25.790 --> 00:36:31.770
+ dass so in Kreisen der Chaos-Computer-Clubs beispielsweise
+
+00:36:31.770 --> 00:36:35.760
+ auch immer eine Rolle spielt, gerade wenn es so um Überwachung
+
+00:36:35.760 --> 00:36:36.760
+ und Co. geht.
+
+00:36:36.760 --> 00:36:38.750
+ Oder wie sieht das mit Drohnen aus?
+
+00:36:38.750 --> 00:36:40.740
+ Wie sieht das mit eben auch neuen Technologien?
+
+00:36:40.740 --> 00:36:42.740
+ Wir hatten es ja jetzt vorhin eigentlich auch.
+
+00:36:42.740 --> 00:36:45.790
+ Also ihr wisst da sicherlich deutlich mehr.
+
+00:36:45.790 --> 00:36:49.770
+ Ich will euch da gar nicht reingreifen oder schon vor.
+
+00:36:49.770 --> 00:36:51.770
+ Oder noch gar nicht vorgreifen.
+
+00:36:51.770 --> 00:36:54.760
+ Aber letztendlich sind das ja auch Sachen,
+
+00:36:54.760 --> 00:36:56.750
+ wo wir auch immer wieder versuchen,
+
+00:36:56.750 --> 00:36:59.740
+ einzuordnen zum Beispiel auch hier in der Sendung.
+
+00:36:59.740 --> 00:37:01.730
+ Okay, da gibt es jetzt eine neue Entwicklung.
+
+00:37:01.730 --> 00:37:03.730
+ Wie könnte sich das irgendwie auswirken?
+
+00:37:03.730 --> 00:37:08.710
+ Aber sicherlich werden wir dabei zukünftig mal noch mehr hören,
+
+00:37:08.710 --> 00:37:11.700
+ was es mit Technikfolgenabschätzung auf sich hat.
+
+00:37:11.700 --> 00:37:19.070
+ Aber du hast ja trotzdem auch noch ein anderes Thema mitgebracht, Paul.
+
+00:37:19.070 --> 00:37:23.040
+ Und zwar lese ich hier Commons Public Partnerships.
+
+00:37:23.040 --> 00:37:27.480
+ Kannst du dazu kurz sagen, was ist das?
+
+00:37:27.480 --> 00:37:29.510
+ Was hattest du damit auf sich?
+
+00:37:29.510 --> 00:37:32.480
+ Man kann es vielleicht neben einem anderen Thema einordnen,
+
+00:37:32.480 --> 00:37:35.450
+ dass wir in meinem uniliebenden Paar mal begegnet sind.
+
+00:37:35.450 --> 00:37:39.550
+ Private Public Partnerships, diese PPP, die ihr gerade oft auftachen,
+
+00:37:39.550 --> 00:37:41.470
+ aber das ist noch mal eine Alternative dazu.
+
+00:37:41.470 --> 00:37:43.510
+ Genau, was ist Commons Public Partnerships?
+
+00:37:43.510 --> 00:37:45.780
+ Was muss man überhaupt nicht bestellen?
+
+00:37:45.780 --> 00:37:49.740
+ Genau, also im Prinzip ist es ein alternativer Entwurf
+
+00:37:49.740 --> 00:37:52.710
+ oder ein Framework, kann man vielleicht auch sagen,
+
+00:37:52.710 --> 00:37:58.760
+ ein Rahmen, ein Konzept, wie man die Fähigkeiten der Zivilgesellschaft,
+
+00:37:58.760 --> 00:38:02.730
+ also wie z.B. vom Chaos Computer Club und anderen Vereinigungen,
+
+00:38:02.730 --> 00:38:06.710
+ die ein bisschen an Gemeingut, an Teilen von Informationen,
+
+00:38:06.710 --> 00:38:12.790
+ Gegenständen, Wissen arbeiten, mehr dazu bewegen kann,
+
+00:38:12.790 --> 00:38:16.730
+ mit öffentlicher Hand und mit Gemeinwesen zusammenzuarbeiten,
+
+00:38:16.730 --> 00:38:20.000
+ also mit so verfassten Institutionen.
+
+00:38:20.000 --> 00:38:23.970
+ Und das ist so ein bisschen ein vielleicht Gegenmodell,
+
+00:38:23.970 --> 00:38:26.960
+ vielleicht aber auch nur Ergänzung von diesen klassischen
+
+00:38:26.960 --> 00:38:30.930
+ öffentlich-privaten Partnerschaften, die Knurps eben erwähnte,
+
+00:38:30.930 --> 00:38:35.910
+ die ja vor 20, 30 Jahren aufkam mit dem wesentlichen Motiv,
+
+00:38:35.910 --> 00:38:42.230
+ Staat auf Effizienz und Rentabilität zu trimmen und dabei
+
+00:38:42.230 --> 00:38:44.210
+ vielleicht einiges richtig gemacht hat,
+
+00:38:44.210 --> 00:38:50.170
+ aber vielleicht auch ganz viele Aspekte von Gemeinwesen behindert,
+
+00:38:50.170 --> 00:38:54.250
+ vielleicht aber auch kaputt gemacht hat.
+
+00:38:54.250 --> 00:38:58.360
+ Commons Public Partnerships gehen von diesem Commons Begriff aus,
+
+00:38:58.360 --> 00:39:01.340
+ ich weiß nicht in wiefern der allen geläufig ist,
+
+00:39:01.340 --> 00:39:04.310
+ aber das ist im Prinzip so das Wort für einen Mendegüter,
+
+00:39:04.310 --> 00:39:10.710
+ für Gemeingüter, also also Dinge, die nicht direkt in jetzt so
+
+00:39:10.710 --> 00:39:15.690
+ verstaatlicht sind oder aber auch nicht im Privatbesitz
+
+00:39:15.690 --> 00:39:19.670
+ oder im Einfluss von einer Person oder einzelnen Personengruppen,
+
+00:39:19.670 --> 00:39:24.650
+ sondern sich dadurch auszeichnen, dass eben Personen das Ganze teilen.
+
+00:39:24.650 --> 00:39:28.640
+ Also ein Beispiel ist immer im Altatum irgendwie Weideland,
+
+00:39:28.640 --> 00:39:32.620
+ was gemeinschaftlich von allen aus dem Dorf genutzt wird.
+
+00:39:32.620 --> 00:39:36.680
+ Moderneres Beispiel wäre vielleicht das Wissen der Wikipedia
+
+00:39:36.680 --> 00:39:39.660
+ oder so, das ja im Prinzip zusammengeführt wird
+
+00:39:39.660 --> 00:39:43.650
+ und dann dadurch wächst, dass jeder ein bisschen beiträgt
+
+00:39:43.650 --> 00:39:48.620
+ und am Ende ein Gesamtkonstrukt herauskommt, was nie abgeschlossen ist,
+
+00:39:48.620 --> 00:39:53.600
+ aber was zu mehr führt als ursprünglich da war in den einzelnen Köpfen.
+
+00:39:53.600 --> 00:39:57.670
+ Und die Frage wäre halt die, die wir uns gestellt haben,
+
+00:39:57.670 --> 00:40:01.590
+ auch beim Schreiben eines anderen Papiers, was jetzt hier heute
+
+00:40:01.590 --> 00:40:08.560
+ so unsere Alternative ist, können wir nicht diese Aspekte
+
+00:40:08.560 --> 00:40:12.520
+ von Commons Vereinigung oder von zivilgesellschaftlichen Gruppen,
+
+00:40:12.520 --> 00:40:16.480
+ die sich dieses Gemeingutprinzip auf die Fahne geschrieben haben,
+
+00:40:16.480 --> 00:40:24.540
+ nutzen, um das mit staatlicher Daseinsvorsorge irgendwie zu verbinden.
+
+00:40:24.540 --> 00:40:29.710
+ Ganz stark dadurch motiviert, weil man ja immer sich darüber aufregt,
+
+00:40:29.710 --> 00:40:32.700
+ wie langsam doch Bürgerämter arbeiten
+
+00:40:32.700 --> 00:40:36.680
+ oder bei euch geht es etwas schneller als in Berlin.
+
+00:40:36.680 --> 00:40:41.660
+ Wenn nicht gerade aufgrund einer Sicherheitslücke
+
+00:40:41.660 --> 00:40:45.650
+ die komplette Behördeninfrastruktur lahmgelegt ist,
+
+00:40:45.650 --> 00:40:48.640
+ weil man sich als Halbe abschalten muss.
+
+00:40:48.640 --> 00:40:53.620
+ Aber das ist ein anderes Thema, das haben wir schon mal thematisiert, genau.
+
+00:40:53.620 --> 00:41:02.250
+ Aber man sieht ja immer wieder, dass so ganz egal ob real oder wahrgenommen,
+
+00:41:02.250 --> 00:41:05.240
+ die öffentliche Einrichtung sehr träge arbeiten
+
+00:41:05.240 --> 00:41:07.230
+ und dann gibt es auch noch dieses Prinzip,
+
+00:41:07.230 --> 00:41:12.210
+ dass die die Handlungen so fernsehlich komplett ausführen sind,
+
+00:41:12.210 --> 00:41:15.190
+ auch noch parlamentarisch legitimiert werden müssen,
+
+00:41:15.190 --> 00:41:21.670
+ und da sind dann immer sehr viele Verfahrenschritte dabei,
+
+00:41:21.670 --> 00:41:24.660
+ die das Ganze sehr träge und langsam machen.
+
+00:41:24.660 --> 00:41:28.640
+ Die Frage ist, ob man nicht, wenn man dieses Kriterium erfüllt hat,
+
+00:41:28.640 --> 00:41:32.620
+ dass das eine zivilgesellschaftliche Gruppe an einem Gemeingut arbeitet,
+
+00:41:32.620 --> 00:41:37.600
+ das Ganze nutzen kann, um diese Agilität, die ja eine Gruppe,
+
+00:41:37.600 --> 00:41:40.600
+ die Freizeitaktivitäten aus eigenem Antrieb macht,
+
+00:41:40.600 --> 00:41:44.690
+ in dieses öffentliche Gefüge einbinden kann,
+
+00:41:44.690 --> 00:41:49.230
+ ob da nicht schon irgendwie was Wunderbares entstehen kann,
+
+00:41:49.230 --> 00:41:52.420
+ weil man sich diesem frischen Wind,
+
+00:41:52.420 --> 00:41:56.350
+ dieser vielleicht schnelleren Handlungsweise bedienen kann.
+
+00:41:56.350 --> 00:41:59.930
+ Ja, also schönes Beispiel, was mir dabei gerade kommt,
+
+00:41:59.930 --> 00:42:02.880
+ ist ja auch diese Face-Shield-Aktion am Anfang der Pandemie,
+
+00:42:02.880 --> 00:42:07.870
+ wo da wirklich außen im akuten Bedarf in der Gesellschaft daraus,
+
+00:42:07.870 --> 00:42:12.130
+ so aus dem Nichts plötzlich Kräfte aktiv wurden,
+
+00:42:12.130 --> 00:42:15.090
+ die innerhalb von, ich sag mal, kürzester Zeit,
+
+00:42:15.090 --> 00:42:18.040
+ Berlin-Brandenburg mit 24.000 Face-Shield-Haltern,
+
+00:42:18.040 --> 00:42:20.100
+ ich sag mal, in Anführungszeilen überschwemmt,
+
+00:42:20.100 --> 00:42:22.050
+ nie bedient haben und zwar sehr strukturiert
+
+00:42:22.050 --> 00:42:26.020
+ und in bis dahin selten erlebten Zusammenarbeit.
+
+00:42:26.020 --> 00:42:29.990
+ Also ich hab so was davor vielleicht mal so an der Elbeflut mitgekriegt,
+
+00:42:29.990 --> 00:42:31.980
+ wo dann wirklich private Menschen losgelaufen sind
+
+00:42:31.980 --> 00:42:35.020
+ und sich selbstständig strukturiert organisiert haben
+
+00:42:35.020 --> 00:42:37.030
+ und dann eben Sandzecke gefüllt haben.
+
+00:42:37.030 --> 00:42:40.030
+ Und ich glaube, da macht es schon Sinn, nochmal zu gucken,
+
+00:42:40.030 --> 00:42:42.000
+ welche Prinzipien stecken denn so dahinter
+
+00:42:42.000 --> 00:42:43.960
+ und was hat dazu geführt, dass es kam, wie es kam?
+
+00:42:43.960 --> 00:42:47.340
+ Absolut, das sind vielleicht ganz geniale Beispiele.
+
+00:42:47.340 --> 00:42:50.320
+ Also wo man einfach merkt, da gibt es auch einen inneren Drang,
+
+00:42:50.320 --> 00:42:52.320
+ vielleicht in Krisensituationen,
+
+00:42:52.320 --> 00:42:55.310
+ aber auch vielleicht einfach im Alltag in der Freizeit,
+
+00:42:55.310 --> 00:42:59.290
+ Aktivitäten zu machen, die auch irgendwie im größeren Wohl
+
+00:42:59.290 --> 00:43:01.280
+ oder nicht nur dem Eigenuts dienen
+
+00:43:01.280 --> 00:43:03.270
+ und die man ja sicherlich irgendwie auch einbinden kann,
+
+00:43:03.270 --> 00:43:06.260
+ die aber momentan einfach parallel laufen
+
+00:43:06.260 --> 00:43:08.260
+ und nicht immer zum Guten,
+
+00:43:08.260 --> 00:43:10.250
+ sich manchmal ja auch gegenseitig im Wegstehen.
+
+00:43:10.250 --> 00:43:14.280
+ Und das irgendwie zusammenzuführen, ist sicherlich was.
+
+00:43:14.280 --> 00:43:16.260
+ Also beispielsweise gibt es auch den Vorschlag,
+
+00:43:16.260 --> 00:43:19.230
+ jetzt unter diesem Frame "Commons Public Partnerships"
+
+00:43:19.230 --> 00:43:25.550
+ doch mal in sterbenen Städten oder im Zuge des Dorfsterben,
+
+00:43:25.550 --> 00:43:27.520
+ ist im ländlichen Raum,
+
+00:43:27.520 --> 00:43:29.500
+ doch mal solche Kommonsvereinigungen zu nutzen,
+
+00:43:29.500 --> 00:43:32.570
+ um Leerstand zu analysieren
+
+00:43:32.570 --> 00:43:34.560
+ und vielleicht Nachnutzungskonzepte zu entwickeln,
+
+00:43:34.560 --> 00:43:37.540
+ die halt Gemeinschafts getragen sind
+
+00:43:37.540 --> 00:43:39.530
+ und dadurch vielleicht ein bisschen resilienter
+
+00:43:39.530 --> 00:43:42.520
+ auf demografischen Wandel reagieren als jetzt vorher.
+
+00:43:42.520 --> 00:43:45.500
+ Und da gibt es zum Beispiel schon ganz tolle Ansätze
+
+00:43:45.500 --> 00:43:48.490
+ in Nordhessen und in anderen Regionen Deutschlands,
+
+00:43:48.490 --> 00:43:53.730
+ wo tatsächlich Dörfer einfach wieder mit Leben gefüllt wurden,
+
+00:43:53.730 --> 00:43:56.710
+ weil eben diese Prinzipien wir handeln so,
+
+00:43:56.710 --> 00:43:58.700
+ dass andere auch etwas davon haben
+
+00:43:58.700 --> 00:44:00.680
+ und nicht nur die unmittelbar Beteiligten
+
+00:44:00.680 --> 00:44:03.660
+ einfach so ein bisschen als Maxime übernommen wurde.
+
+00:44:03.660 --> 00:44:06.900
+ Das wiederum erinnert mich jetzt an das Gut-Allaune,
+
+00:44:06.900 --> 00:44:08.860
+ wo wir in der Nähe von Halle
+
+00:44:08.860 --> 00:44:13.880
+ uns zum Verbandstreffen vom Verbund offenen Werkstätten aufgehalten haben.
+
+00:44:13.880 --> 00:44:17.830
+ Ich muss da nochmal was nachbereiten und schneiden.
+
+00:44:17.830 --> 00:44:20.850
+ Ich habe dann noch eine Grundatei aus der Veranstaltung,
+
+00:44:20.850 --> 00:44:23.870
+ wo es ein bisschen um dieses Gut-Allaune geht
+
+00:44:23.870 --> 00:44:26.010
+ und was da läuft, stimmt.
+
+00:44:26.010 --> 00:44:27.000
+ Ich müsste mal.
+
+00:44:27.000 --> 00:44:29.480
+ Das läuft schon sehr in die Richtung, genau.
+
+00:44:29.480 --> 00:44:33.400
+ Den Ort in Nordhessen, ich meine das, das ist die Fuchsmühle.
+
+00:44:33.400 --> 00:44:37.080
+ Generell kam mir die Frage,
+
+00:44:37.080 --> 00:44:41.060
+ also ich glaube, das haben wir noch gar nicht beleuchtet jetzt hier.
+
+00:44:41.060 --> 00:44:44.040
+ Wie bist du eigentlich dazu gekommen,
+
+00:44:44.040 --> 00:44:46.030
+ dich mit DLI Team zu beschäftigen,
+
+00:44:46.030 --> 00:44:48.020
+ mit Comments, Public Partnerships,
+
+00:44:48.020 --> 00:44:50.010
+ mit Technikfolgen, Abschätzung?
+
+00:44:50.010 --> 00:44:53.990
+ Magst du vielleicht ein bisschen was zu deinem Hintergrund sagen?
+
+00:44:53.990 --> 00:44:56.040
+ Wo kommst du her?
+
+00:44:56.040 --> 00:45:00.960
+ Also im Sinne von einfach fachlich, wo kommst du her?
+
+00:45:00.960 --> 00:45:04.990
+ Ja, ich habe mal nach dem Abi ziemlich unbedarf begonnen,
+
+00:45:04.990 --> 00:45:06.960
+ in Potsdam zu studieren.
+
+00:45:06.960 --> 00:45:11.240
+ Politik und VWL haben das dann nach San Josem,
+
+00:45:11.240 --> 00:45:15.150
+ links und rechts schon tatsächlich erfolgreich abgebrochen
+
+00:45:15.150 --> 00:45:18.380
+ und bin nach so einem kleinen Gedankenprozess
+
+00:45:18.380 --> 00:45:21.320
+ dann ins Ingenieurwesen eingestiegen
+
+00:45:21.320 --> 00:45:23.390
+ und habe aber auch da gemerkt,
+
+00:45:23.390 --> 00:45:28.300
+ dass die Hands-on Arbeit vielleicht dann doch ein,
+
+00:45:28.300 --> 00:45:31.190
+ ja isoliert würde ich nicht sagen,
+
+00:45:31.190 --> 00:45:35.160
+ aber gewissermaßen Handlungsspielräume verhindert
+
+00:45:35.160 --> 00:45:39.140
+ oder auf andere Weise eröffnet, als ich es gedacht hätte.
+
+00:45:39.140 --> 00:45:44.100
+ Und seitdem immer in diesem Spannungsfeld
+
+00:45:44.100 --> 00:45:47.470
+ von Politik und Technik kann man jetzt vielleicht
+
+00:45:47.470 --> 00:45:49.420
+ ganz runtergebrochen sagen.
+
+00:45:49.420 --> 00:45:54.420
+ Und dieses Prinzip Comments und was passiert,
+
+00:45:54.420 --> 00:45:56.460
+ wenn dieses einfache Prinzip
+
+00:45:56.460 --> 00:45:58.450
+ ich handle für mein Gegenüber und mich,
+
+00:45:58.450 --> 00:46:01.430
+ aber auch für den Dritten, den ich gerade nicht sehe,
+
+00:46:01.430 --> 00:46:03.410
+ was was dann passiert ist,
+
+00:46:03.410 --> 00:46:05.400
+ einfach so ein wahnsinnig spannendes Feld,
+
+00:46:05.400 --> 00:46:08.380
+ für das es so unzählige Anwendungsfälle und Beispiele gibt.
+
+00:46:08.380 --> 00:46:14.110
+ Hast du das, so von wegen Zivilgesellschaft,
+
+00:46:14.110 --> 00:46:17.090
+ hast du die Entwicklung in den letzten Monaten
+
+00:46:17.090 --> 00:46:19.080
+ oder ich glaube auch innerhalb des letzten Jahres
+
+00:46:19.080 --> 00:46:23.050
+ rund um das Verschwörhaus in Ulm mitbekommen,
+
+00:46:23.050 --> 00:46:25.360
+ sagt dir das was?
+
+00:46:25.360 --> 00:46:28.290
+ Absolut, ich glaube das sind so Gegenbeispiele,
+
+00:46:28.290 --> 00:46:32.350
+ also wie auch in der Machtposition von öffentlichen Akteuren
+
+00:46:32.350 --> 00:46:34.320
+ ja dazu führen kann,
+
+00:46:34.320 --> 00:46:37.570
+ dass das Zivilgesellschaft eben ausgenutzt
+
+00:46:37.570 --> 00:46:39.540
+ oder so Kapazitäten der Zivilgesellschaft
+
+00:46:39.540 --> 00:46:41.500
+ in der Form abgeschöpft werden,
+
+00:46:41.500 --> 00:46:43.890
+ die vielleicht nicht ziefund ist
+
+00:46:43.890 --> 00:46:46.880
+ oder langfristig die Zusammenarbeit verhindert.
+
+00:46:46.880 --> 00:46:48.870
+ Wir hatten es ja beim letzten Mal,
+
+00:46:48.870 --> 00:46:50.860
+ glaube ich schon mal kurz angeschnitten,
+
+00:46:50.860 --> 00:46:52.850
+ kurz thematisiert,
+
+00:46:52.850 --> 00:46:56.830
+ es gibt ja oder gab das Verschwörhaus
+
+00:46:56.830 --> 00:47:00.810
+ einen Space mitten in der Innenstadt in Ulm
+
+00:47:00.810 --> 00:47:05.470
+ und ja die Stadt,
+
+00:47:05.470 --> 00:47:07.460
+ so sitzt meine Wahrnehmung,
+
+00:47:07.460 --> 00:47:08.450
+ was ich so mitbekommen habe,
+
+00:47:08.450 --> 00:47:10.440
+ ihr dürft mich da aber auch gerne korrigieren,
+
+00:47:10.440 --> 00:47:12.420
+ ist ja da sehr,
+
+00:47:12.420 --> 00:47:14.410
+ will das quasi übernehmen,
+
+00:47:14.410 --> 00:47:17.390
+ inklusive der Namensrechte auch an dem Verschwörhaus
+
+00:47:17.390 --> 00:47:19.380
+ und das ist natürlich alles andere
+
+00:47:19.380 --> 00:47:21.550
+ als partnerschaftlicher Umgang,
+
+00:47:21.550 --> 00:47:23.530
+ mit diesem schönen Ökosystem,
+
+00:47:23.530 --> 00:47:25.510
+ das da eigentlich entstanden war.
+
+00:47:25.510 --> 00:47:27.480
+ Absolut, deswegen gibt es auch auf dieser
+
+00:47:27.480 --> 00:47:29.530
+ konzeptionellen Ebene
+
+00:47:29.530 --> 00:47:31.510
+ auch ganz stark immer ein Pochen darauf,
+
+00:47:31.510 --> 00:47:33.480
+ dass Kommons Public Partnerships
+
+00:47:33.480 --> 00:47:35.460
+ eben diese Augenhöhe konstant bewahren,
+
+00:47:35.460 --> 00:47:38.110
+ auch wenn das so ein lascher Begriff ist,
+
+00:47:38.110 --> 00:47:40.110
+ Augenhöhe und das,
+
+00:47:40.110 --> 00:47:42.110
+ das ist da ein bisschen anstrengend,
+
+00:47:42.110 --> 00:47:44.100
+ das ist ein bisschen anstrengend,
+
+00:47:44.100 --> 00:47:45.100
+ das ist ein bisschen anstrengend,
+
+00:47:45.100 --> 00:47:47.100
+ das ist ein bisschen anstrengend,
+
+00:47:47.100 --> 00:47:49.100
+ das ist ein bisschen anstrengend,
+
+00:47:49.100 --> 00:47:51.090
+ das ist ein bisschen anstrengend,
+
+00:47:51.090 --> 00:47:53.090
+ das gegenseitige Respektieren
+
+00:47:53.090 --> 00:47:55.090
+ von den eigenen Einflussbereichen
+
+00:47:55.090 --> 00:47:57.080
+ und von den eigenen Fähigkeiten
+
+00:47:57.080 --> 00:47:59.080
+ ist da ganz, und Rollen vor allen Dingen,
+
+00:47:59.080 --> 00:48:01.080
+ ist da ganz relevant in diesem Zusammenspiel
+
+00:48:01.080 --> 00:48:03.070
+ von öffentlichen Institutionen
+
+00:48:03.070 --> 00:48:05.070
+ und Kommonsvereinigungen
+
+00:48:05.070 --> 00:48:08.070
+ und im Idealfall wäre sowas eben nie passiert,
+
+00:48:08.070 --> 00:48:11.060
+ weil das Verschwörhaus
+
+00:48:11.060 --> 00:48:14.060
+ in der Konstellation akzeptiert worden wäre
+
+00:48:14.060 --> 00:48:16.050
+ und dann eben geguckt worden wäre.
+
+00:48:16.050 --> 00:48:18.050
+ Wie kann man vielleicht sicherstellen,
+
+00:48:18.050 --> 00:48:21.040
+ dass nicht nur der Community-Verschwörhaus
+
+00:48:21.040 --> 00:48:23.040
+ die Dienste zugutekommen,
+
+00:48:23.040 --> 00:48:26.040
+ sondern wie kann irgendwie vermittelt werden?
+
+00:48:26.040 --> 00:48:28.030
+ Im Zweifel ist es ja bereits erfüllt worden,
+
+00:48:28.030 --> 00:48:31.030
+ aber wie kann noch mehr in die Öffentlichkeit kommuniziert werden?
+
+00:48:31.030 --> 00:48:33.020
+ Was der Vorteil ist,
+
+00:48:33.020 --> 00:48:35.020
+ auch für die Stadtgesellschaft als solche,
+
+00:48:35.020 --> 00:48:38.020
+ die jetzt nicht direkt am Verschwörhaus beteiligt ist.
+
+00:48:38.020 --> 00:48:41.040
+ Und das ist glaube ich ganz relevant
+
+00:48:41.040 --> 00:48:43.180
+ und da gibt es in dem Papier,
+
+00:48:43.180 --> 00:48:45.140
+ was wir auch dazu geschrieben haben,
+
+00:48:45.140 --> 00:48:48.180
+ geguckt haben, auch gegen Entwürfe.
+
+00:48:48.180 --> 00:48:51.310
+ Also Biesheit in Münster ist beispielsweise
+
+00:48:51.310 --> 00:48:53.300
+ ein Veranstaltungszentrum,
+
+00:48:53.300 --> 00:48:55.290
+ jetzt nicht so auf Technologie bezogen,
+
+00:48:55.290 --> 00:48:58.270
+ eher auf Zusammenkunft und Organisation im Stadtquartier,
+
+00:48:58.270 --> 00:49:01.250
+ aber da klappt das dann doch auf einem anderen Maße.
+
+00:49:01.250 --> 00:49:05.230
+ Es ist sehr viel mehr Respekt gegenseitig im Spiel
+
+00:49:05.230 --> 00:49:08.700
+ und auch ein Wertschätzen von den jeweiligen Rollen
+
+00:49:08.700 --> 00:49:13.020
+ und aber auch Autonomie für die engagierten Vorort.
+
+00:49:13.020 --> 00:49:15.430
+ Also ich habe den Eindruck,
+
+00:49:15.430 --> 00:49:17.370
+ das Sammel in Erlangen ist auch ein ganz gutes Beispiel,
+
+00:49:17.370 --> 00:49:19.340
+ wie es gut und zusammengehen kann.
+
+00:49:19.340 --> 00:49:23.700
+ Kannst du das noch ein bisschen ausmalen,
+
+00:49:23.700 --> 00:49:25.730
+ weil ich kenne das jetzt nicht.
+
+00:49:25.730 --> 00:49:30.660
+ Was ist das da, von dem du in Erfurt redest?
+
+00:49:30.660 --> 00:49:32.640
+ Kannst du das ein bisschen beschreiben?
+
+00:49:32.640 --> 00:49:35.650
+ Ja, im Prinzip ist das Zentrum für Austausch und Machen,
+
+00:49:35.650 --> 00:49:38.670
+ das in Erlangen ein,
+
+00:49:38.670 --> 00:49:40.630
+ ich würde gerade sagen,
+
+00:49:40.630 --> 00:49:42.670
+ ein frisch entstehender Makerspace,
+
+00:49:42.670 --> 00:49:44.910
+ so seit einem halben Jahr ungefähr geöffnet
+
+00:49:44.910 --> 00:49:46.840
+ und der halt wirklich zum einen
+
+00:49:46.840 --> 00:49:48.840
+ aus einem Betreiberverein besteht,
+
+00:49:48.840 --> 00:49:50.890
+ in dem so ein bisschen Zivilgesellschaft
+
+00:49:50.890 --> 00:49:53.840
+ sich findet und auch strukturiert,
+
+00:49:53.840 --> 00:49:56.880
+ die aber halt wirklich ganz dediziert auch von der Stadt
+
+00:49:56.880 --> 00:49:59.840
+ dann gefördert werden und Räume zur Verfügung kriegen,
+
+00:49:59.840 --> 00:50:02.840
+ wo es dann tatsächlich genau diese Augenhöhe da ist
+
+00:50:02.840 --> 00:50:05.860
+ und das gegenseitige Zulassen von unterschieden,
+
+00:50:05.860 --> 00:50:09.810
+ so ein Dückchen Zivilgesellschaft,
+
+00:50:09.810 --> 00:50:12.930
+ das sich da selbst strukturiert und organisiert,
+
+00:50:12.930 --> 00:50:15.010
+ das ist halt für eine Verwaltung,
+
+00:50:15.010 --> 00:50:17.010
+ zum einen schwer zu verstehen,
+
+00:50:17.010 --> 00:50:19.960
+ zum anderen schwer in Strukturen zu drücken,
+
+00:50:19.960 --> 00:50:21.930
+ die es dann wieder für die Verwaltung leicht machen,
+
+00:50:21.930 --> 00:50:24.480
+ das zu verwalten.
+
+00:50:24.480 --> 00:50:27.430
+ Wie gesagt, zusammen schenkt da ein gutes Beispiel zu sein,
+
+00:50:27.430 --> 00:50:29.480
+ wie es gut zusammenlaufen kann.
+
+00:50:29.480 --> 00:50:31.480
+ Ich wollte gerade sagen,
+
+00:50:31.480 --> 00:50:33.470
+ das ist ja schon der Name irgendwie Programm,
+
+00:50:33.470 --> 00:50:35.460
+ da wird denn irgendwie sehr schamant,
+
+00:50:35.460 --> 00:50:37.440
+ dieses bayerische "zusammen",
+
+00:50:37.440 --> 00:50:39.430
+ das ist ja letztendlich auch eine anspielung da drauf.
+
+00:50:39.430 --> 00:50:41.420
+ Das ist ein bisschen akzeptieren von unterschieden,
+
+00:50:41.420 --> 00:50:44.400
+ die man hat und damit auch aktiv arbeiten
+
+00:50:44.400 --> 00:50:46.450
+ und nicht dagegen arbeiten,
+
+00:50:46.450 --> 00:50:48.480
+ sondern nutzen davon.
+
+00:50:48.480 --> 00:50:51.450
+ Potenziale erkennen und was das eigentlich
+
+00:50:51.450 --> 00:50:53.430
+ für positive Sachen mit sich bringen kann.
+
+00:50:53.430 --> 00:50:55.410
+ Gefällt mir natürlich hervorragend,
+
+00:50:55.410 --> 00:50:57.400
+ weil dann Makerspace mittendrin ist
+
+00:50:57.400 --> 00:51:00.430
+ und der Kern des Ganzen.
+
+00:51:00.430 --> 00:51:02.600
+ Dann möchte ich gleich auch mal
+
+00:51:02.600 --> 00:51:04.560
+ eine weitere Frage aufwerfen,
+
+00:51:04.560 --> 00:51:06.530
+ inwiefern man dann zum Beispiel in Situationen
+
+00:51:06.530 --> 00:51:09.550
+ wie die alte Hölle bei Bad Belzig so denken könnte
+
+00:51:09.550 --> 00:51:11.510
+ und denken könnte,
+
+00:51:11.510 --> 00:51:14.750
+ wie kann über den Event- und Seminarraum hinaus
+
+00:51:14.750 --> 00:51:17.890
+ auch für die Ortschaft ein Vorteil verspielen?
+
+00:51:17.890 --> 00:51:20.840
+ Wie kann man, wie könnte das CPP sein?
+
+00:51:20.840 --> 00:51:23.060
+ Da bin ich ja sehr gespannt,
+
+00:51:23.060 --> 00:51:25.660
+ wie sich das entwickelt.
+
+00:51:25.660 --> 00:51:27.650
+ Es gibt ja auch nicht nur die alte Hölle an sich,
+
+00:51:27.650 --> 00:51:30.630
+ sondern es gibt ja noch ein anderes Projekt,
+
+00:51:30.630 --> 00:51:34.610
+ der zwar auch in Wiesenburg mag,
+
+00:51:34.610 --> 00:51:39.590
+ wo ja auch eine alte Lagerhalle
+
+00:51:39.590 --> 00:51:43.570
+ oder mehrere gar ausgebaut werden sollen,
+
+00:51:43.570 --> 00:51:46.690
+ um das entsprechend auch zu bespielen
+
+00:51:46.690 --> 00:51:49.700
+ und da wieder Leben reinzubringen.
+
+00:51:49.700 --> 00:51:54.290
+ Ich bloß gerade nicht als Namen,
+
+00:51:54.290 --> 00:51:56.260
+ wie das andere auch noch hieß.
+
+00:51:56.260 --> 00:51:58.230
+ Genau, aber alte Hölle und Co.
+
+00:51:58.230 --> 00:52:01.510
+ Das sind ja auf jeden Fall auch sehr spannende Projekte,
+
+00:52:01.510 --> 00:52:05.550
+ die laufen eben genau wie du schon sachtest Paul,
+
+00:52:05.550 --> 00:52:08.510
+ mit diesem Stadtentwicklung,
+
+00:52:08.510 --> 00:52:11.990
+ wie man da das auch zusammendenken kann.
+
+00:52:11.990 --> 00:52:14.360
+ Ganz genau.
+
+00:52:14.360 --> 00:52:18.400
+ Wobei die alte Hölle schon wieder eine schöne Brücke zu einem neuen Thema wäre.
+
+00:52:18.400 --> 00:52:21.460
+ Was machten wir so zwischen Weihnachten und Neujahr?
+
+00:52:21.460 --> 00:52:23.430
+ Also ich würde gerne mal tatsächlich,
+
+00:52:23.430 --> 00:52:25.400
+ auch wenn ich schwer beschäftigt bin,
+
+00:52:25.400 --> 00:52:28.430
+ mal in der alten Hölle vorbeischauen.
+
+00:52:28.430 --> 00:52:30.650
+ Ausgründen.
+
+00:52:30.650 --> 00:52:33.690
+ Das ist schon wieder so mysteriös.
+
+00:52:33.690 --> 00:52:35.660
+ Wär doch mal konkret, bitte.
+
+00:52:35.660 --> 00:52:37.640
+ Ach, wir sind hier ganz sehr viele Menschen,
+
+00:52:37.640 --> 00:52:40.070
+ die auch konkret werden, warum immer ich.
+
+00:52:40.070 --> 00:52:42.940
+ Ich bin ja nur eine kleine Randfigur.
+
+00:52:42.940 --> 00:52:44.950
+ Na, das sehe ich aber ein bisschen anders.
+
+00:52:44.950 --> 00:52:48.880
+ Gut, ja, ich glaube, ich werde mich in Potsdam aufhalten.
+
+00:52:48.880 --> 00:52:51.240
+ Es gibt nämlich so eine Veranstaltung.
+
+00:52:51.240 --> 00:52:56.330
+ Die nennt sich ReConnect2Chaos, da habe ich von gehört.
+
+00:52:56.330 --> 00:52:58.290
+ Die finde ich total toll.
+
+00:52:58.290 --> 00:53:00.530
+ Ja, okay, Spaß beiseite.
+
+00:53:00.530 --> 00:53:03.520
+ Wir haben ja beim letzten Mal auch, glaube ich, schon kurz erwähnt.
+
+00:53:03.520 --> 00:53:11.480
+ Wir werden im Freiland zwischen Weihnachten und Neujahr 27. bis 30.
+
+00:53:11.480 --> 00:53:14.470
+ eine Veranstaltung abhalten.
+
+00:53:14.470 --> 00:53:20.450
+ Der große Kongress fällt ja leider pandemiebedingt nochmal aus.
+
+00:53:20.450 --> 00:53:22.440
+ Und dann haben wir uns gedacht, ja, okay,
+
+00:53:22.440 --> 00:53:25.450
+ kann doch jetzt aber so nicht laufen, dass das komplett ausfällt.
+
+00:53:25.450 --> 00:53:31.490
+ Und werden da eben ein kleines Event auf die Beine stellen mit Publikum.
+
+00:53:31.490 --> 00:53:34.480
+ Es gibt Tickets, kommt gerne vorbei.
+
+00:53:34.480 --> 00:53:40.460
+ Es wird auch ein schönes Programm geben mit einer ganzen Reihe von Vorträgen
+
+00:53:40.460 --> 00:53:44.440
+ und auch ein paar Workshops sicherlich.
+
+00:53:44.440 --> 00:53:52.410
+ Und ja, noch so ein paar andere Sachen, die man so schon lange vermisst hat.
+
+00:53:52.410 --> 00:53:59.510
+ Hacksenter sind ja auf jeden Fall dabei, das zu überlegen, was und wie und wo das genau
+
+00:53:59.510 --> 00:54:01.550
+ stattfinden könnte.
+
+00:54:01.550 --> 00:54:04.540
+ Es sind gerade noch ein paar Prozesse am Laufen, damit wir Dinge klären.
+
+00:54:04.540 --> 00:54:10.500
+ Aber generell das Konzept steht und mit jedem Tag wird es auch immer konkreter,
+
+00:54:10.500 --> 00:54:13.490
+ wie genau das dann alles stattfinden wird.
+
+00:54:13.490 --> 00:54:19.460
+ Haltet auf jeden Fall Augen und Ohren offen auf unseren sozialen Kanälen,
+
+00:54:19.460 --> 00:54:23.500
+ auf Twitter @kaospotstamm, auf Mastodon sind wir natürlich auch,
+
+00:54:23.500 --> 00:54:27.470
+ @cccp@kaos.social, hatten wir vorhin schon gesagt.
+
+00:54:27.470 --> 00:54:31.450
+ Und dann gibt es natürlich auch noch unsere Website.
+
+00:54:31.450 --> 00:54:35.430
+ Also es reicht, wenn ihr auf einem dieser Kanäle regelmäßig mal vorbeischaut,
+
+00:54:35.430 --> 00:54:39.410
+ aber um es einfach mal die ganze Bandbreite gesagt zu haben,
+
+00:54:39.410 --> 00:54:49.410
+ gibt dann nämlich noch www.ccc-p.org/rtc22.
+
+00:54:49.410 --> 00:54:55.710
+ Und da findet ihr dann auf der Website auch nochmal alle gesammelten Informationen zu Tickets.
+
+00:54:55.710 --> 00:54:57.620
+ Wo kommt ihr hin?
+
+00:54:57.620 --> 00:55:03.790
+ Wo könnt ihr hinschreiben, wenn ihr irgendwie Fragen habt?
+
+00:55:03.790 --> 00:55:04.780
+ Genau.
+
+00:55:04.780 --> 00:55:06.780
+ Sehr schön erklärt, sehr schön erklärt.
+
+00:55:06.780 --> 00:55:13.540
+ Genau. Und es gibt tickets.ccc-p.org, wo man sich tatsächlich solch klicken kann.
+
+00:55:13.540 --> 00:55:20.270
+ Ja, ich bin schon ganz gespannt, ich habe schon viele Einreichungen gesehen
+
+00:55:20.270 --> 00:55:23.230
+ und jetzt möchte der Hannes weiter machen.
+
+00:55:23.230 --> 00:55:27.210
+ Okay, schuldigung, weiter zum nächsten Thema.
+
+00:55:27.210 --> 00:55:30.270
+ Bevor wir jetzt hier Schluss machen, weil die Stunde rum ist,
+
+00:55:30.270 --> 00:55:35.700
+ wollte ich noch darauf hinweisen, dass wenn ihr uns heute im Radio auf der KW hört,
+
+00:55:35.700 --> 00:55:43.620
+ dann könnt ihr in etwa zweieinhalb Stunden im ersten, alles ist eins außer der Null,
+
+00:55:43.620 --> 00:55:48.550
+ sehen, der Film über Wauholland, den wir hier schon mehrfach empfohlen haben,
+
+00:55:48.550 --> 00:55:53.520
+ der war zuletzt im Kino und jetzt ist er auch im Fernsehen.
+
+00:55:53.520 --> 00:55:56.470
+ Ja, 13.12. um 0.20 Uhr.
+
+00:55:56.470 --> 00:55:57.520
+ Also gleich.
+
+00:55:57.520 --> 00:56:03.480
+ Warum man solche Filme immer so gute Inhalte immer in die Nachtschiene verschieben muss.
+
+00:56:03.480 --> 00:56:05.460
+ Ich begreife es nicht.
+
+00:56:05.460 --> 00:56:12.430
+ Ich weiß gar nicht, ich landete das Automatisch in der Mediathek für dann 6 Wochen bis zur Depublikation.
+
+00:56:12.430 --> 00:56:17.860
+ Ich glaube, die Standardantwort an der Stelle ist, es kommt darauf an.
+
+00:56:17.860 --> 00:56:23.830
+ Auf die eingeräumten Rechte, ob das dann online sein darf oder nicht.
+
+00:56:23.830 --> 00:56:25.750
+ Also ich habe da ganz positive Signale gehört.
+
+00:56:25.750 --> 00:56:27.800
+ Ich glaube ja, dass das dann in der Mediathek landet.
+
+00:56:27.800 --> 00:56:33.730
+ Das heißt so, wie wir uns mit dem Podcast dann zum Zeitautonomen nachsehen verfügbar.
+
+00:56:33.730 --> 00:56:34.760
+ Abgleich.
+
+00:56:34.760 --> 00:56:35.940
+ Sehr schön.
+
+00:56:35.940 --> 00:56:39.870
+ Gut, darf ich noch eine CC Musik einspielen, bevor wir...
+
+00:56:39.870 --> 00:56:41.200
+ Ja, das verstehe ich.
+
+00:56:41.200 --> 00:56:44.150
+ Musst du es aber vorher noch sagen, wer wie, wo was das ist?
+
+00:56:44.150 --> 00:56:45.130
+ Ja.
+
+00:56:45.130 --> 00:56:46.500
+ Es ist vermutlich CC Bay.
+
+00:56:46.500 --> 00:56:48.450
+ Es ist vermutlich CC Bay.
+
+00:56:48.450 --> 00:56:50.460
+ Ich glaube, was wir hin spielen.
+
+00:56:50.460 --> 00:56:52.440
+ Ich glaube, ich muss jetzt, muss ich mir aussehen.
+
+00:56:52.440 --> 00:56:58.370
+ Ich möchte "Moving Ahead" von Derek Stevens spielen, wie immer aus dem Free Music Archive,
+
+00:56:58.370 --> 00:57:04.410
+ unter einer "Intribution Non-Commercial No Derivatives", wie sie richtig ausgesprochen,
+
+00:57:04.410 --> 00:57:06.390
+ "40 International License Creative Commons".
+
+00:57:06.390 --> 00:57:12.550
+ Und wir hören uns im neuen Jahr wieder, am zweiten Montag des Monats,
+
+00:57:12.550 --> 00:57:18.500
+ auf im freien Radio Potsdam, von 21 bis 22 Uhr auf 90,7 MHz in Potsdam
+
+00:57:18.500 --> 00:57:21.480
+ und 88,4 MHz in Berlin.
+
+00:57:21.480 --> 00:57:25.500
+ Und vielleicht sogar irgendwann mal wieder in nahe bis ferner Zukunft,
+
+00:57:25.500 --> 00:57:28.470
+ müsste wir mal eine Folgenabschätzung machen.
+
+00:57:28.470 --> 00:57:33.420
+ Hören wir uns auch auf radio.ccc-p.org.
+
+00:57:33.420 --> 00:57:34.460
+ Genau.
+
+00:57:34.460 --> 00:57:38.380
+ Und manche von uns, könntet ihr möglicherweise unsere schönen Radio Gesichter sogar live
+
+00:57:38.380 --> 00:57:39.460
+ sein, demnächst.
+
+00:57:39.460 --> 00:57:40.410
+ Stimmt.
+
+00:57:40.410 --> 00:57:41.890
+ Zwischen den Jahren.
+
+00:57:41.890 --> 00:57:44.120
+ Dann bis bald.
+
+00:57:44.120 --> 00:57:45.120
+ Sagt alle mal Tschüss.
+
+00:57:45.120 --> 00:57:46.120
+ Tschüss.
+
+00:57:46.120 --> 00:57:47.120
+ Vor allem auch an unseren Gast heute.
+
+00:57:47.120 --> 00:57:48.120
+ Danke an Paul.
+
+00:57:48.120 --> 00:57:49.120
+ Ja, vielen Dank Paul.
+
+00:57:49.120 --> 00:57:50.120
+ Tschüss und Tschüss Paul.
+
+00:57:50.120 --> 00:57:51.120
+ Danke euch.
+
+00:57:51.120 --> 00:57:53.120
+ Und bis zum nächsten Mal.
+
+00:57:53.120 --> 00:57:54.120
+ Tschüss.
+

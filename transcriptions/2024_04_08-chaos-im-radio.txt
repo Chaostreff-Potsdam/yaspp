@@ -1,0 +1,711 @@
+ Hallo und herzlich willkommen zu Chaos im Radio, eure freundlichen Neuzendung aus der Nachbarschaft.
+ Wir sind in der Machbar und wir, das sind der Cyroxx.
+ Hallo.
+ Der Knurps.
+ Moin moin.
+ Und ich, der Hannes.
+ Hallo Hannes.
+ Und die Gini ist im Urlaub, hat sie, glaube ich, gesagt oder so?
+ Also es ist ein guter Grund.
+ Es ist gegönnt und viel Spaß dabei.
+ Ja, genau.
+ Liebe Grüße an Gini.
+ Ja, ihr hört uns hier wie immer montags.
+ Es ist wahrscheinlich gerade um neun und das war die Reuspartaste.
+ Sehr gut, wir reden über Chaos im Internet und in der Machbar.
+ Für uns eine Premiere, wir sitzen in der Machbar B.
+ Im ersten Stock.
+ Im ersten Stock über der Machbar.
+ Heute wird nämlich gefräst und gebohrt und Menschen sind tief in der Machbar.
+ Haben Sie uns versprochen?
+ Und das zu so einer frühen Stunde?
+ So darf man ja im Radio nicht sagen, weil wir später ausgesprochen haben.
+ Zeit zu verrehen es aufnehmen und Zeit zu verrehen es hören.
+ Ihr kennt das.
+ Ich glaube, du darfst es sagen.
+ Ihr könnt jetzt für Verwirrung sorgen, aber es ist okay.
+ Ja, ich sage mal so, seit der Zeitumstellung vor kurzem ist eh wieder alles egal, oder?
+ Ja, stimmt.
+ Jetzt wird der Scheiß rauch.
+ Ja, also ich bin jetzt viertel vor zwölf die ganze Zeit oder so.
+ Ja, ich habe so einen Bereitschaftsdienst bei meinem Arbeitgeber, der geht von elf bis sieben.
+ An Werktagen ist das egal, an Wochenenden ist es blund.
+ Und wie war es am Tag der Zeitumstellung?
+ Genau, sehr interessant war es, weil nämlich das ist eine Bereitschaftsdienst-Tabelle, die weltweit gilt.
+ Das ganze Team und sie ist aber und das hat der Macher dieser Software, dieser Bereitschafts-Tabelle quasi mitgedacht.
+ Die Bereitschafts-Tabelle ist in Indien also angelegt und in Indien gibt es keine Zeitumstellung.
+ Deswegen habe ich weiterhin zum selben Sonnenstand meinen Bereitschaftsdienst, nur es ist halt jetzt von zwölf bis acht.
+ Was macht die Zeit-Tabelle in 2038?
+ Ich habe es noch nicht ausprobiert.
+ Ich habe es noch nicht ausprobiert, ich will es wissen.
+ Drei über 14 tatsächlich, das ist ja großartig, also für die Menschen, die Pi mögen.
+ Aber danach geht es aus und sieben Sekunden.
+ Falls euch 2038 nix sagt, google mal oder Ecosiat, das Jahr 2038 Problem.
+ Wir haben ja auch schon, glaube ich, das ein oder andere mal drüber gesprochen.
+ Genau, in 32.
+ Google doch mal irgendwas.
+ Ecosiat mal was.
+ Oder frag ChatGPT, auch vielleicht eine haluzinierte Antwort zu kriegen.
+ Er hat es schon wieder gesagt.
+ Ach so, weil das jetzt irgendwie...
+ Also, so langsam nimmt er das so ein bisschen überhand.
+ Ich mache ja viel mit, also ich rede ja viel mit der KI.
+ Das redet sich auch mit dir?
+ Also, ich fühle mich teilweise schon im Her angekommen, so wie es ja der Film ist.
+ Ist diese KI jetzt mit uns hier im Raum?
+ Sie hört mit.
+ Nein, guck mal, kein Strom drin.
+ Das muss das alle.
+ Knurps präsentierte gerade seinen Smartphone, das offenbar gerade stromlos ist.
+ Ja, quasi Energiesparmodus Deluxe.
+ Das ist wie ich heute Morgen schon in einem anderen Radio hörte, Death Metal.
+ Die Kommunikationsqualität eines Zugestands.
+ Aber keine Bugs drin, ne?
+ Zumindest keine aktiven.
+ Genau, heute gibt es Themen.
+ Bugs haben wir später noch.
+ Also, es wird Themen geben.
+ Was genau wissen wir noch nicht?
+ Zum Entteilen.
+ Also, wir haben Ideen.
+ Aber hier steht als erstes Thema, was das klingt wie Eierlikör auf Englisch?
+ Eggnog?
+ Eggnog.
+ Aber ich glaube, es steht anders drin und es ist auch was anderes gemeint als Eierlikör.
+ Ja, Denog.
+ Denog, stimmt.
+ Alles großgeschrieben über jemand auf der Feststelle-Taste eingeschlafen.
+ Eine Aku, eine Abkürzung.
+ Das heißt, ich möge mal kurz erzählen, was ich die letzten zwei Tage verbracht habe.
+ Knurps, was hast du denn in den letzten zwei Tagen gemacht?
+ Ich erzähle mal, ich fange mal von Anfang an.
+ Die Denog ist die Deutsche Network Operators Group.
+ Ist so ein Verein und eigentlich hauptsächlich eine Konferenz, die von diesem Verein ausgerichtet wird.
+ Und Menschen, die Dinge mit Netzwerken tun, sollten das kennen.
+ Und wenn nicht?
+ Wenn nicht.
+ Das kommt darauf an.
+ Wenn Sie sich für Netzwerke interessieren, dann sollten Sie es wiederum kennen.
+ Einfach mal denog.de in einem Endgerät der Wahl eingeben.
+ Es ist halt einfach ein plussegerhaufen von Menschen, die Dinge mit Netzwerken tun.
+ Ja, also Netzwerk-Administratoren.
+ Ja, also wirklich so die ganze Bandbreite.
+ Ich bin der Neue, also ich habe ja keine Ahnung.
+ Ich habe einen neuen Job und ich schnuffel da jetzt gerade mal rein, was es da so alles gibt.
+ Das macht tatsächlich eine Geschäftsreise?
+ Ne.
+ Nein, das ist nicht ein Verein.
+ Und das ist weit genug vom Beruf weg, das ist keine Geschäftsreise.
+ Das war völlig okay.
+ Ja, genau.
+ Das hat wirklich eine volle Bandbreite.
+ So von ISPs, die ihr Internet verkaufen zu Menschen, die mit dem Taschenmesser unten in den Switches rumkrauchen und das Internet bauen.
+ Welchen Teil des Taschenmessers haben Sie da parat?
+ Der, der so kleine Blitze schießt und Glasfasern verschweißt.
+ Okay.
+ Ne, egal.
+ Ich habe Internet im Taschenmesser.
+ Ne, also es ist tatsächlich ein bisschen schon der Welt für sich, aber eine super Spannende, in die ich gerade ausgründen eintauch.
+ Und deswegen auch dort gewesen, es waren so ein Member-Days, so eigentlich eine ganz nette, schöne, spannende Veranstaltung,  um mal so in Ruhe, Board-Member und Vorstand mit dem, ich sage mal, dem neuen Fußvorgang, dem eingesessenen Fußvorgang zu produzieren  und in Ruhe sich austauschen, was durchaus Sinn macht, um diese Lücke zwischen dem, was die einen tun und die anderen möchten ein bisschen zu schließen.
+ Und das, ich finde es gut.
+ Das ist ja so ein typisches Motto im Chaos, dieses Bildetbanden trifft ja auch auf die echte Welt.
+ Macht doch mal was, macht doch mal was.
+ Gabs nicht Fernsehen.
+ Gabs 102 Themen im Speziellen, die ihr da behandelt habt, die du besonders interessant fandest?
+ Es gab Themen slot und wir haben wirklich so, wir kamen an und haben überlegt,  wie viele Themen gibt es denn im Raum, was sind so die größten rosa roten Elefanten?
+ Und ins Detail würde ich jetzt nicht gehen, weil es waren halt Member-Days und es war alles klar.
+ Gut, völlig.
+ Keine Geheimnisse, keine Magie, aber...
+ Es ist auch in Ordnung.
+ Also wenn ihr Dinge mit Netzwerken macht, dann schaut euch mal die Denok an.
+ Man kann sie auch anschauen, ohne member zu werden.
+ Das ist völlig okay und legitim.
+ Wenn man dann selber mitgestalten möchte, dann macht es halt irgendwann Sinn,  auch mal die Unterschrift zu leisten, unsere Seele zu verkaufen.
+ Schon wie in vielen Vereinen.
+ Auch in der Machbar kann man ja vorbeischauen, ohne Mitglied zu sein.
+ Wo ist es aber trotzdem auch bei Mitglieder.
+ In den roten Vereinen.
+ Man kann man uns dann sehen.
+ Warte mal, es steht hier, ich muss rollen.
+ Du weißt es doch auch so.
+ Man kann uns natürlich sehen, wenn wir aufnehmen hier.
+ Aber vor allem kann man uns sehen zum Chaos-Treff.
+ Also den Chaos-Teil der Machbar kann man da sehen.
+ Und zwar jeden Mittwoch um 19 Uhr.
+ Da gibt es meistens irgendwie was zu schnabulieren,  was zu essen und dann ganz viele Menschen,  die Unsinn, Chaos und Sinnvolles machen.
+ Genau, immer mit Fug.
+ Und manche existieren auch einfach nur da, auch gut.
+ Immer Mittwochs ab 19 Uhr in der Machbar, im Haus 5 im Freiland.
+ Genau, im Freiland.
+ Und auch an anderen Tagen sind Dinge los in der Machbar,  da einfach mal unter machbar.pots.de,  einfach mal schauen, was da also im Kalender steht.
+ Neue Technik, steht da.
+ Ja, neue Technik.
+ Wo?
+ Ja, ich habe mir ein bisschen neue Technik gegönnt.
+ Das ist ein Staubig.
+ Ach so, das ist eine alte Technik.
+ Das ist doch Staub.
+ Das ist ein ganz schön fester Staub.
+ Schon eingetreten, schon festgezogen.
+ Jetzt holt hier jeder seine neue Technik?
+ Nein, diese alte ist gebraucht.
+ Hab ich auch irgendwas Neues?
+ Ein Schlüssel?
+ Neue Technik deswegen,  weil ich habe es schon seit Längerem  ein bisschen Hardwareprobleme gehabt  und da musste einfach jetzt dann doch mal endlich was Neues her.
+ Ich habe so lange gegen die...
+ Nein, nicht Obsolizenz,  aber so lange mit der alten Technik zu tun gehabt,  dass ich jetzt mal tatsächlich neue brauchte.
+ Protokasse geblündert.
+ Genau.
+ Und zum einen halt irgendwie ein neues Telefon,  damit ich endlich meine Phantom-Touches los werde.
+ Die sind echt nervig.
+ Also ich habe nicht, dass die Physik für dich drückt.
+ Ja, ja, ja, dass da irgendwelche Strömlinge,  komische Dinge tun.
+ Ja, genau.
+ Deswegen...
+ Ich teste nur die Kamera.
+ Zieht man so gut im Radio.
+ Ja, genau.
+ Also es ist dann tatsächlich diesmal ein Fairphone geworden,  weil es gibt ja seit dem vergangenen Herbst,  gibt es ja ein, das Fairphone 5.
+ Und ich dachte mir, es ist nur gut und richtig,  dass wir tatsächlich mal das Fairphone zu benutzen.
+ Nur ist ja jetzt eine Weile kein neues Telefon mehr kaufen.
+ Ja.
+ Es ist auch tatsächlich, also schon allein direkt nach dem Auspacken,  einfach dieses Gefühl, hey, wenn ich da tatsächlich mal...
+ Du solltest es nicht kaputt machen.
+ Ja, ja.
+ Das ist ja das Schöne.
+ Das ist so gedacht.
+ Was ich gerade tue, ist, ich nehme die Rückwand gerade ab  und kann quasi direkt sofort, ohne dass ich irgendwie schrauben muss,  könnte ich jetzt den Akku wechseln bzw.
+komm halt dran,  an die SIM-Karte rein zu tun.
+ Und ja, das ist ja fast viel früher bei Nokia.
+ Und mit einem einfachen, kleinen Kreuzschlitzschraubenzieher  lassen sich jetzt hier alle Komponenten relativ schnell entfernen.
+ Man sieht auch, so was mal, auch bei dem Fairphone 4,  was ich daneben gelegt habe jetzt mal ganz demonstrativ,  man sieht neben jeder Schrauber ein klein Hinweis,  was man denn jetzt losschraubt, wenn man da den Schraubenzieher ansetzt.
+ Das ist einfach so losschraubt.
+ Wenn man jetzt einfach so mal, ja, also es ist tatsächlich,  ich glaube, das machen auch die meisten, die sich irgendwie so ein Fairphone kaufen,  einmal das Ding auseinandernehmen, um sich darüber zu freuen,  dass man das auseinandernehmen kann.
+ Dann gehöre ich nicht zu den meisten, aber das bin ich gewohnt.
+ Du bist ja auch noch nicht so weit.
+ Du freust dich ja immer noch über das Abnehmen des Deckels.
+ Das ist der erste Spiel.
+ Meistens ist es eine Phase.
+ Die fünf Phasen, was das Fairphone besitzt.
+ Genau.
+ Ich weiß nicht, ob wir das hier schon öfter schon mal angesprochen hatten.
+ Das Fairphone ist wie, ja, genau, du hast es gerade gesagt,  das ist eine fünfte Interaktion.
+ Das Schöne ist also, Sie haben mittlerweile bewiesen,  dass es Sie länger geben wird und dass Sie das ernst meinen,  was Sie da machen.
+ Denn das eine Versprechen ist ja, dass du es reparieren kannst  und dass es in irgendeiner Form fair und umweltverträglich,  wie es geht, gebaut wird.
+ Das andere große Versprechen,  das Fair auch im Sinne von wirklich nachhaltig produziert  und unter ordentlichen Arbeitsbedingungen.
+ Genau, sobald man das, wenn man so den Report liest  und so, sie geben sich sehr, sehr viel Mühe,  das auch wirklich nachzuvollziehen.
+ Da fließt auch sehr viel Geld rein,  was man dann wiederum halt als Consumer auch bezahlt.
+ Allerdings verkaufen Sie mittlerweile genug davon,  dass es nicht mehr so exorbitant ist.
+ Der Preis ist jetzt nicht mehr so weit entfernt  von einem vergleichbaren Gerät.
+ Genau, dafür hat man aber eben einerseits das vielleicht gute Gewissen,  aber andererseits durchaus ab einem bestimmten Alter,  wo man auch keinen Lust mehr hat,  sich alle anderthalb Jahre ein neues Telefon zu kaufen,  ist es eben auch so, dass Sie versprechen,  dieses Gerät sehr, sehr lange mit Updates zu versorgen  und auch das erste Fairphone bekommt noch Updates.
+ Dann gibt es sehr lange in Zahlen.
+ Also Sie versprechen, und Sie werden das vermutlich auch halten,  zehn Jahre Updates für, also Sicherheitsupdates für das Gerät.
+ Und ich glaube, Sie versprechen so etwas wie,  das ist jetzt Lügen so etwas wie die nächsten drei oder vier Android-Versionen,  die Sie den noch mitgeben.
+ Genau, das längste Update versprechen der Android-Welt.
+ Und Sie sind auch nicht betran, so wie andere Hersteller.
+ Also ein paar Hersteller gibt es ja noch,  die sich da so ein bisschen mit reinigen sagen,  okay, wir geben euch das nächste Android-Update.
+ Sie sind immer so ungefähr eine Version hinterher.
+ Also wenn Google weiß ich nicht, dass Android 15 bekannt gibt,  dann kriegt man meistens auf dem Fairphone gerade  das Android 14 ausgeliefert und so.
+ Und das ist schon okay, da sind andere deutlich langsamer.
+ Also jetzt für das Fairphone 5 verspricht der Hersteller mindestens acht Jahre lang Software-Support.
+ Wobei da ist, ich glaube Apple gar nicht so weit weg,  Sie versprechen zwar nicht, Sie versprechen glaube ich zwei Jahre,  aber faktisch meine diversen Schwiegereltern und sonstigen  fahren eigentlich alle mit den iPhones, die ich vor acht bis zehn Jahren hatte.
+ Das stimmt, der große Unterschied ist natürlich in der Hinsicht,  also natürlich von allen anderen Unterschieden mal abgesehen.
+ Wenn das dann aus dem Support raus ist, ist es auch wirklich ein Backstein.
+ Also ich sage mal ein altes iPad Mini, was eigentlich ein wunderschönes Gerät ist,  Akku ist in Ordnung, Bildschirm ist in Ordnung,  aber die Software ist halt mittlerweile so weit out of date,  das kann es ja nicht mal die Zertifikate darauf erneuern,  so dass es halt einfach ein Backstein ist, obwohl die Hardware völlig okay ist.
+ So viel meinst du jetzt gerade ohne Strom.
+ Genau, und das Fairphone ist ja von Haus aus frei  und du kannst da auch deine eigene Software drauf bügeln,  wenn du nur genug Lust drauf hast, dich damit zu beschäftigen.
+ Nicht Teile von der Version 4 in diversen 5 und Umgekehrte einbauen oder so ein Quatsch?
+ Teile ja, also zum Beispiel gab es für das Fairphone 4,  die Kamera, die jetzt im Fairphone 5 drin ist, die gibt es glaube ich auch für das Fairphone 4.
+ Man sieht auch, dass es die gleiche Form, die haben sie behalten.
+ Die Radiohörer sehen es wie immer, ganz besonders.
+ Ihr müsst es euch einfach gerade kurz vorstellen, aber ich sehe es von hier aus,  es sieht völlig gleich aus.
+ Ja, das Föhn ist wohl ein bisschen dünner, aber ansonsten sind die...
+ Aber es gibt hier irgendwie ein versus zwei Blitze oder Lichter oder so was,  das ist so der einzige offensichtlich ordentliche...
+ Genau, und ansonsten eben so die anderen Module, die drin sind.
+ Wie weit das dann austauschbar ist, weil das Display wird sicherlich nicht austauschbar sein.
+ Ich glaube, da gab es ein großes Update, das jetzt irgendwie so ein OLED.
+ Ich habe jetzt nach dem Kauf quasi sofort alle möglichen Sachen,  die ich mir angeschaut habe, quasi sofort vergessen.
+ Sofort, weil wie das so ist.
+ Wie das so ist.
+ Und dann funktioniert es.
+ Also wo ich immer ganz angetan bin, es kommt...
+ Es kommt bei den besten vor, dass du mal ein Bug im System hast.
+ Im Fairphone 4 war das für ein paar Wochen das Problem,  dass es bei vielen Nutzern in einem der deutschen Mobilfunknetze,  wenn man 5G an hatte, zufällig rebooted.
+ Da war irgendein Bug in der Firmware.
+ Und gut, das ließ sich recht einfach beheben, indem man dann halt irgendwie 5G ausgemacht hat  und auf LTE gewechselt ist.
+ Und ich freue mich dann aber immer, wenn dann halt irgendwann das Update,  ohne dass ich mich da irgendwie drum bemühe, das Update kommt.
+ Und da steht dann drin, ja, wir haben diesen Bug mit 5G-Behoben.
+ Und dann geht das auch.
+ Also man kann sich darauf verlassen, dass irgendwie einmal im Monat kommt hier ein Update rein.
+ Das sind meistens Kleinigkeiten.
+ Und wie gesagt, so einmal im Jahr kommt das große neue Android.
+ Und das fluppt alles.
+ Also das funktioniert so, wie man sich das vorstellt.
+ Wie gesagt, die sind ja mittlerweile auch quasi ein gutes Mittel zwischen  hey, wir sind immer noch irgendwie, wir verfolgen unsere Mission weiter,  die Welt zu verbessern.
+ Und gleichzeitig haben wir aber auch mittlerweile genug Unterstützer und Leute,  die Geld bezahlen dafür, dass man da auch einen professionellen Service anbieten kann.
+ Also ich bin da echt sehr zufrieden mit.
+ Ansonsten muss ich sagen, auf meinem anderen Telefon waren halt relativ viele Apps und Co.
+ Und der Umzug gestaltet sich erstaunlich einfach.
+ Also ich glaube, beim letzten Gerätewechsel habe ich noch irgendwie alle Apps,  händisch irgendwie, eine nach der anderen irgendwie installiert.
+ Und dann irgendwie wieder neu eingerichtet.
+ Es gibt ja jetzt irgendwie so ein Gefühl zu einem Standard,  dass du entweder Kabel oder du legst sie per Bluetooth nebeneinander,  dass du das dann migrieren kannst.
+ Das war recht angenehm.
+ Es funktioniert noch nicht alles wieder hundertprozentig.
+ Also so ein paar Sachen muss man dann doch noch irgendwie noch mal wieder händisch einrichten.
+ Beziehungsweise ich habe auch noch irgendwie Probleme mit Next Cloud,  mit der Next Cloud App das irgendwie, keine Ahnung.
+ Das funktioniert noch nicht so ganz wie es soll.
+ Aber so im Großen und Ganzen ist das schon soweit funktionabel.
+ Und wo wir auch noch bei anderer neue Technik waren,  ich habe mir außerdem auch weil mein Laptop mittlerweile sehr in die Jahre gekommen ist  und mittlerweile auch echt ein Hardwareproblem hat.
+ Irgendein Speicherbereich ist oder irgendeine Leiterbahn,  die einen bestimmten Speicherbereich des Arbeitsspeichers ansteuert,  scheint irgendwie defekt zu sein.
+ Deswegen immer wenn ich eine bestimmte Anzahl von Speicher gefühlt habe,  der nächste Tapp oder so stürzt dann regelmäßig ab.
+ Und deswegen musste da auch mal ein neues Gerät her.
+ Und da habe ich tatsächlich zum ersten Mal auch was anderes gemacht.
+ Und zwar nämlich tatsächlich ein Refurbished Gerät,  also ein wiederaufbereitetes Gerät, wie mal besorgt.
+ Mit Anschliessen hinten.
+ Das sieht man ja an Laptops sehr selten mittlerweile.
+ Das ist aber bei dem Hersteller durchaus fanden.
+ Genau, deswegen bei einem Refurbished Gerät.
+ Und das ist jetzt auch nur drei Jahre alt, glaube ich.
+ Und das ist super.
+ Also es gibt ja bei so größeren Unternehmen,  geben ja durchaus ihre Laptops mal in die ...
+ Also wenn man bei einer Firma ist,  kriegt man auf genug ein Dienstgerät.
+ Und das wird dann irgendwie drei Jahre lang abgeschrieben.
+ Und danach läuft es auch meistens aus dem Support halt raus.
+ Es gibt dann keine Supportverträge mehr,  es sei denn man würde das dann verlängern.
+ Aber das machen die meisten dann doch eher nicht.
+ Und deswegen werden nach drei Jahren,  werden die dann zweitverwertet,  gehen dann teilweise an Schulen  oder gehen halt überhaupt erstmal zu einem Aufbereiter.
+ Zur Computer-Truhe.
+ Ja, das ist dann quasi für gemeinnützige Zwecke,  an der Stelle als Spende.
+ Oder entsprechend gehen quasi dann in den Zweitmarkt  über solche Aufbereiter,  wo man die sich dann wieder entsprechend kaufen kann.
+ Es gibt verschiedene Anbieter.
+ Und ich habe da einen mal genommen.
+ Und genau, da kann man sich dann auch teilweise,  wie man das bei anderen Laptops auch macht,  kann man sich dann teilweise eben auch aus,  wo ich halt jetzt gerne den Prozessor  und so und so viel Speicher.
+ Und für mich ganz gut funktioniert.
+ Bei dem Hersteller lässt sich ja tatsächlich  der Speicher auch noch rein und raus klipsen.
+ Und dann, wenn es nicht reicht,  nimmt man Modulation dazu und klippst es rein.
+ Das ist ja tatsächlich häufig bei den Geräten,  die von Firmen benutzt werden.
+ Ja, genau.
+ Dadurch, dass die schon so austauschbar bestellen,  am Anfang ist es eben auch darauf gebaut,  dass man es austauschen kann.
+ Also, ich erwähne das...
+ Ich erwähne das, weil bei meinem geht es halt nicht.
+ Speicher fest eingelötet.
+ Kaufst du mit einem gewissen Menge an Speicher?
+ Das war es dann.
+ Aber also hier jetzt Dell,  man kann ja den Namen auch sagen,  bei Dell ist das ja durchaus häufiger mein Fall.
+ Also, auch gut, da zeig ich jetzt.
+ Bei dem Nage auch ist das ein Linovo.
+ Genau, wobei du halt so ein dünnes Hast,  diese T-Reihe oder was auch immer,  die sind ja auch sehr...
+ Ach so, ja, X, genau.
+ Und ich hab nämlich gerade zu Hause es wieder eingehabt  und hab mich da auch gefreut,  dass ich zu Hause, genau,  dass ich auch damit mit drei Schrauben irgendwie die Abdeckung abhaben  und man da an den Speicher ankommt,  die Platte und...
+ Also es ist jetzt nicht, dass bei Linovo nicht geht,  es gibt bei Linovo auch Produktreihen,  wo man natürlich das Prozessorspeicher sonstiges tauschen kann.
+ Also genau, da sind es wahrscheinlich eher die dünnen...
+ Nein, ich hab jetzt ein kleines integriertes, leichtes Ding hier.
+ Da ist das auch technisch einfach schwierig umzusetzen.
+ Ja, genau.
+ Weil ab einem gewissen Punkt will ich keine...
+ das Volumen von Steckern sprachen in dem Gerät drin,  um es noch dünner und kleiner zu kriegen  und dann lute ich es halt fest auf.
+ Ja, aber schön, wie verbischt.
+ Wir können uns noch mal gucken.
+ Ich kriege hier werfen mal was Laptops angeht,  nämlich immer Altgeräte als Linovo.
+ Es gibt da ja so ein Refurbished-Markt bei eBay  und es gibt wirklich Anbieter,  die Refurbished, ich sage mal,  in Anführungszeichen seriöser verkaufen.
+ Ja, ja.
+ Genau, kann man sich auf jeden Fall mal anschauen  und ich sage mal so,  der ist jetzt hier zum Beispiel deutlich  leistungsfähiger als mein Alter  und aber halt auch nur drei Jahre alt  und ich bin ja jetzt aber auch keiner,  der jetzt irgendwie das top modernste Spiel  jetzt unbedingt immer sofort irgendwie am Laufen haben muss  und selbst wenn,  würde der wahrscheinlich ganz viele,  zumindest nicht topaktuelle Spiele halt auch irgendwie,  keine Ahnung, da bin ich noch nicht.
+ Weil den habe ich den so weit noch nicht eingerichtet.
+ Ich glaube, die Zeit,  dass so nach zwei Jahren ein Rechner  grundsätzlich alt ist und überholt,  die ist auch rum.
+ Also ja, es bewegt sich immer ein bisschen weiter, aber...
+ Ich glaube, meinen Sohn,  der gerade ins Zockeralter gekommen ist, leider,  der hat, glaube ich,  jetzt ein sieben Jahre alten Lenovo  und halt die Spiele, die so in der Jugend interessant sind,  kommen eh meistens aus dem Webbrowser  und also ich habe da jetzt irgendwie nichts gemerkt.
+ Ich habe gerade so ein bisschen referenziert auf eine Zeit,  also es so war,  dass wenn in der Uni irgendwo ein Rechner aufgetaucht ist,  der halb so schnell war wie meiner Zuhause,  da musste ich einen neuen kaufen.
+ Das war so ein zwei Jahrees Takt.
+ Das war wirklich anders.
+ Mehr als zehn Jahre her.
+ Ich wollte noch ein Wort sagen zu dem Migrationsgrafler,  also das Umstellen aufs neue Telefon.
+ Apple-Nutzer sind das ja eigentlich gewöhnt,  dass man schon seit einigen Jahren das einfach daneben legt.
+ Das habe ich jetzt auch schon mehrfach gehört,  dass das bei den Androiden mittlerweile auch ganz gut funktioniert.
+ Ich glaube, es gibt so ein paar Ausnahmen.
+ Ich denke, Signal zum Beispiel,  musste immer noch irgendwie Hände speckab und wieder einspielen.
+ Muss aber auch beim Apple.
+ Muss auch beim Apple, genau.
+ Das liegt so ein bisschen daran,  dass die wirklich ihre Verschlüsselungsmethoden ernst nehmen.
+ Genau, weil die das selber machen, exakt.
+ Und wenn ich das Thema zu einer anderen neuen Technik bringen darf,  ich habe nämlich einen weiteren Migrationsservice ausprobieren können  und da ist mir ein bisschen der Kopf explodiert,  dass das funktioniert,  aber ich habe auch noch eine neue Fritzbox gekauft.
+ Okay.
+ Weil ich dringend, na gut, also erstens war meine...
+ Du brauchst es dringend mehr Internet?
+ Ich brauchte mehr Internet.
+ Nee, ich brauchte das irgendwie dringend.
+ Also...
+ Dringend.
+ Das war quasi schon kurz vor medizinisch.
+ Ich habe mich aber auch wohl gefühlt mit all dem,  weil die Fritzbox hat zehn Jahre lang ihren Dienst geleistet.
+ Das war eine 6490 Kabel Fritzbox,  ich glaube 2012 habe ich sie angeschafft.
+ Also, sind sogar mittlerweile zwölf Jahre,  die er hat über diese zwölf Jahre Updates bekommen.
+ Erst letztes Jahr noch irgendwie mit neuen Features ein Update ausgerollt.
+ Ich weiß, es ist verrückt.
+ Aber ich wollte jetzt dringend ZigBee, ich hatte ein Bedürfnis.
+ Ich weiß nicht, warum ich es haben muss, aber ich habe es jetzt.
+ Hast du denn andere Geräte, die ZigBee spielen?
+ Nee, aber ich will mich ja von sowas nicht abhalten lassen.
+ Ist jetzt schon die Frage Early Adopter oder Ressourcenverschleur?
+ Moment, du hast keine Geräte, die ZigBee sprechen.
+ Du hast keine e-Paper-Link-Display?
+ Naja...
+ Also, wir kommen der Sache näher.
+ Es kann passieren, dass ich das noch zusammentüdel.
+ Genau, momentan nicht.
+ Also, was mich daran interessiert,  ist, dass ich ja viel mit den AVM-Smart Home-Produkten rumspiele,  die alle deckt oder Wi-Fi basiert sind.
+ Einfach Krisenstromfresser ist beide Varianten.
+ Und mit ZigBee binden sie das ganze andere Smart Home-Grafel  von Philips U über, falls nicht Hama-Produkte oder was auch immer,  alles mit ein.
+ Und Open-Paper-Links?
+ Ich habe es noch nicht probiert, aber es soll gehen.
+ Aber worauf ich eigentlich hinaus wollte,  ist auch die AVM-Menschen haben sich einen Migrationsassistenten,  einfallen lassen, womit man von einer Fritzbox auf die andere umstellen kann.
+ Und der funktioniert über WLAN.
+ Und wenn man so zuguckt und drüber nachdenkt, was hier gerade passiert,  ist das alles schon sehr, sehr magisch.
+ Also, wie man das macht, ist man steckt die neue Fritzbox  mit einem Netzwerkkabel an die alte an und macht sie danach an  und klickt in der Web-Oberfläche über ein WLAN-Gerät auf  "Ich mache jetzt hier eine Migration."  Dann springt der ein bisschen Magie rein und klickst halt irgendwie dreimal.
+ Ich habe irgendwie, weiß nicht, zehn Heizungsthermostate,  die sich dann alle ummelden wollen und sollen.
+ Das dauert ja dann auch eine Weile.
+ Und dann sagt das die Web-Oberfläche irgendwann so,  "Naja, also jetzt gleich mache ich hier das WLAN aus  und das andere an und dann leite ich dich um  und dann bist du auf der neuen Fritzbox."  Ja, nee, das glaube ich dir nicht.
+ Ich glaube, vieler hat das nicht.
+ Und dann drückst du da auf weiter  und dann siehst du, wie das alte Gerät ein bisschen blinkt  und dann dunkel wird.
+ Und dann siehst du, wie die Web-Oberfläche weiter lädt  und irgendwann siehst du wie kurz dein WLAN-Symbol am Telefon  oder wo auch immer ausgeht und dann geht's wieder an.
+ Und dann wirst du auf eine völlig andere IP-Adresse weiter gleiten.
+ Und alles sieht so aus wie vorher,  nur dass halt jetzt oben nicht mehr 6640 steht,  sondern 6670 oder so.
+ Ja, ich weiß nicht mehr, wie es heißt.
+ 6490, sondern 6670, so war es genau.
+ Und dann ging das da weiter.
+ Und ich dachte, das ist doch jetzt nicht wahr.
+ Und dann sagt er so, und jetzt,  bei welchem Internetanbieter bist du denn überhaupt?
+ Und weil das ja ein reines deutsches Produkt,  also im Wesentlichen auf den deutschen Markt ausgelegt ist,  hast du dann halt für welchen von den vier Kabelanbietern du hier,  wenn du bist, dann sagt er,  "Ja, ich leite dich jetzt auf das Portal um,  wo du das neue Modem anmelden musst.
+ Das muss man ja bei Kabelanbietern machen."  Die wollen dann ja einmal diesen Freischaltungsassistenten ausführen.
+ Das heißt, du hast gar kein Internet.
+ Die neue Fritzbox ist sich bewusst,  dass da so was dran ist, was aussieht wie Internet.
+ Das aber keins ist.
+ Das aber keins ist.
+ So, und jetzt kommt noch mal mehr Magie dazu.
+ Ich habe natürlich als Guter Nerd da den Quad 9  als DNS Server eingestellt.
+ Und dieser Kabelmodems-Anmeldequatsch funktioniert natürlich nur,  weil dich der Kabelanbieter intern über ihren eigenen DNS umleitet  auf den richtigen, egal welchen Internetadressen du da eingibst.
+ Die Fritzbox weiß auch das  und schaltet die also einmal kurz auf den anderen DNS um,  damit du dann da in dieses Portal kannst,  dann meldest du dich da an, dann sagt,  "Okay, jetzt habe ich auch Internet.
+ Du kannst jetzt die Alte abziehen."  Dann ist er fertig mit dir.
+ Und irgendwie, klar, früher war nicht viel im Router drin,  da musst du es da halt deinen Passwort eingeben, was auch immer.
+ Aber jetzt ist halt in meinem Router irgendwie so ein Mini-Nast,  da ist so ein Medien-Server drauf, der ein bisschen Musik ausspielt.
+ Da sind deine 56-Geräte mit IP-Adressen drin.
+ Ich dachte, jetzt kommt irgendwas mit 56K, was?
+ Mit 56K?
+ Nee, schon.
+ Irgendwelche Zugangsdaten, irgendwelche VPNs eingerichtet sind.
+ All das umzuziehen, wäre schon mehrere Stunden rumklicken  und dann vergisst immer was.
+ Und das hat er alles in irgendwie so 10 Minuten  mit Magie und Sprinkel gemacht.
+ Ja.
+ Und ich war irgendwie, also ich war auch ein bisschen traurig,  dass ich jetzt gar nichts, also war ja alles wie vorher, nur besser.
+ Hat es keine Entschuldigung, nicht am Kaffetisch sitzen zu können.
+ Ich musste auch einmal rausgehen und sowas in Natur und Menschen.
+ Nee, das ging schon sehr, sehr gut.
+ Das hat mich gewundert, dass heute viele Hersteller doch wert drauflegen,  dass man auf das neue Produkt wechseln kann  und dass das keinen Schmerzen verursacht.
+ Da fühlt man sich erst nirgendwo völlig überflüssig um.
+ Ja, dieses, wo kommen wir dahin, wenn wir jetzt nicht mehr nächtelang  irgendwie rumfrickeln müssen, damit alles wieder so funktioniert wie vorher?
+ Wenn meine hochbetragte Mutter einfach selber ihre Fritzbox auswechseln kann.
+ Ich muss dann nicht mehr hinfahren.
+ Nein, ich weiß nicht.
+ Wobei, also ganz, ganz so, bei der Fritzbox weiß ich es nicht.
+ Beziehungsweise klingt ja schon sehr gut.
+ Aber so von wegen Telefontausch, auch bei mir in der Familie,  gab es kürzlich ein neues Telefon, wo man dann entsprechend migriert hat,  wo dann aber auch die Aussage war, ah, gut, dass wir Menschen haben,  die dann doch noch ein bisschen unterstützen können,  weil ganz alleine hätten wir es dann doch auch nicht ganz hingekriegt.
+ Und sei es nur, dass es dann irgendwie darum geht, die Banking-App  dann irgendwie umzuziehen mit dem zweiten Faktor und so was.
+ Wo du dann doch noch mal irgendwie wissen musst, okay,  wo in welchem Menüpunkt bei deiner Bank musst du das jetzt irgendwie beantragen,  dass du dann noch mal ein neues Verschlüsselungsmaterial bekommst.
+ Ich habe neu wieder ein interessantes Stück an Erfahrung,  Wissen, Hochheitswissen, damit ich viele Probleme lösen könnte,  nämlich wo an so einer alten PCI-Express-Grafikarte eigentlich der kleine Nubbel ist,  den man unten drücken muss, damit man sie rausziehen kann aus dem Slot.
+ Irgendwie, das fühle ich mich gerade an Mike Kröger erinnert.
+ Ja, ja, exakt.
+ Exakt, so hat mein Vater auch geschaut,  als ich den richtigen Nubbel mit der richtigen Kraftwurzeln gedrückt habe.
+ Also, da sind wir jetzt ein bisschen in dem Thema,  ist Nerd-Unterricht in der Schule wichtig und relevant,  und ich habe da gestern Christian Spannagel mal wieder gehört.
+ Mathematikprofessor?
+ Ja, Mathematikprofessor, richtig.
+ Aber durchaus auch digital, Literal, digital-native, so rum.
+ Digital-native.
+ Und wenn man Gründe hören möchte, warum es wichtig ist,  Dinge über den digitalen Bereich unserer Welt zu wissen.
+ Christian Spannagel, Googling, man wird mit Gründen versorgt.
+ Ich werfe meinen Link in die Schornhauts.
+ Es setzt sich sehr dafür ein, dass Informatik,  und zwar im besten Sinne der Informatik ein Pflichtfach in Schulen bleibt oder wird.
+ Das ist doch gut.
+ Wollen wir mal eine kurze Musik einspielen?
+ Sehr gerne.
+ Vergnügen.
+ Ich habe ja hier vielleicht eine kurze Musik.
+ Wie immer, unter einer Creative Commons-Lizenz wird die jetzt hier ausgespielt.
+ Nämlich von John Shoemaker, Freeflow aus dem Free Music Archive.
+ Und abwärts.
+ Das ist mittendrin.
+ Das ist auch noch mittendrin.
+ Ach, das reicht mir.
+ Das ist vorne genug.
+ Bis gleich.
+ Willkommen zurück zu Chaos im Radio.
+ Ihr hört uns jeden zweiten Montag im Monat auf 90,7 MHz UKW  oder in Berlin auf 88,4 MHz.
+ Und auf DAB+ unter diesem Sender FR-BB und 24/3.
+ Das ist das freie Radio generell.
+ Genau, schreibt uns gerne eine E-Mail an radio@ccc-p.org  oder folgt uns, schreibt uns auf mastodon@cccp@chaos.social.
+ Da erreicht ihr auch die Radio-Menschen.
+ Da muss man hier noch was sagen.
+ Genau, da könnt ihr uns erreichen und uns Dinge schicken.
+ Zum Beispiel zum nächsten Thema.
+ Das heißt digitaler Frühjahrspots.
+ Genau.
+ Und zwar ist es viel zu warm.
+ Die Krokos sind schon wieder da.
+ Es gibt ja gemeinhin dieses Ding von "Wir machen jetzt mal Frühjahrspots,  wir machen jetzt mal alles hübsch, alles schön."  Waschen die Solarzellen.
+ Sollte man das tun, kann man manchmal nicht schaden.
+ Die liefern auch wieder.
+ Also einfach so ein bisschen, was tut man damit?
+ Einen trockenen und/oder feuchten Lappen drüberwischen  oder was tut man da bei der Sonnenzellenpflege?
+ Okay, okay.
+ Aber den nicht zu hart einstellen wahrscheinlich, das dachte ich mir.
+ Genau, so was zum Beispiel.
+ Reinigt eure Solarzellen, damit ihr mehr Strom bekommt,  weil jedes Elektron ist wichtig, jedes Photon auch.
+ Genau, macht das.
+ Da fängt es schon an.
+ Eure Hardware entsprechend zu pflichtlich zu behandeln.
+ Aber auch so was wie wir sprachen über so Telefone  und da sammeln sich vielleicht auch mal so Apps an.
+ Apps und Accounts, die man vielleicht gar nicht mehr benutzt.
+ Ja, ich auch richtig, wo man auch manchmal das Passwort gar nicht mehr...
+ Erbrichtest man da zwei Passwords, da hatte ich da jetzt verwendet.
+ Ja, genau, solche Sachen.
+ Nein, wir benutzen Passwortmanager.
+ Genau, genau.
+ Da fängt es nämlich schon an.
+ Schaut doch mal, benutzt ihr einen Passwortmanager.
+ Gibt es vielleicht Accounts, wo ihr vielleicht mal wieder  euer Passwort ändern solltet, weil die einfach viel zu alt sind  und die Gefahr einfach besteht,  dass die mal wieder in irgendeinem League aufgetaucht sein könnten?
+ Genau, das ist ein wichtiger Punkt, der auch teilweise kontrovers ist.
+ Nach wie vor soll man Passwords jetzt verändern,  regelmäßig oder nicht oder doch oder wie.
+ Ich persönlich mache es tatsächlich so.
+ Ich gucke relativ regelmäßig, ob die Passwords,  die ich verwende, irgendwo in einem League aufgetaucht sind.
+ Und das macht der Passwortmanager gleich mit dem Hintergrund.
+ Und ansonsten ändere ich die eigentlich selten, wenn es sein muss,  wenn ich mal das mal vergessen habe.
+ Vielleicht kann man auch mal, wo wir jetzt gerade bei solchen Sachen sind,  Backups, macht Backups, aber vielleicht ist auch jetzt die Zeit,  aber mal zu gucken, wie viele sinnlose Backups man noch hat  und Duplikate, die man aufräumen kann.
+ Testet mal, ob die Backups auch wieder zurückspielbar sind,  auch immer der Klassiker.
+ Sortiert auch mal aus, wenn ihr irgendwie Hardware zu Hause habt,  was davon braucht ihr wirklich noch  und was könnt ihr da vielleicht einer anderen, besseren Verwendung zuführen.
+ Wir sprachen über alte Technik.
+ Die Computertruhe.
+ Im Beispiel die Computertruhe.
+ Und im Zweifelsfeld ist bei, kriegt man nochmal 3,50 Euro dazu für die Autokasse.
+ Auch das oder gegebenenfalls auch so in Nachbarschaftsnetzwerken.
+ Es gibt teilweise auch Leute, die sich durchaus freuen,  die vielleicht jetzt nicht die Möglichkeit haben,  aus eigenen Mitteln sich Sachen zu kaufen.
+ Deswegen, also auch das immer mal so ein bisschen gucken.
+ Man muss auch nicht immer alles zu Geld machen,  wenn man sich's leisten kann,  weil andere Menschen freuen sich, wenn sie auch mal nennen.
+ Auch wenn er ein paar Jahre alt ist,  vielleicht Laptop geschenkt bekommen.
+ Schaut bloß vielleicht, dass es,  dass die Sachen, die irgendwie wichtig wären,  tatsächlich auch funktionieren,  weil die Sachen, die euch wichtig sind,  vielleicht nicht mehr draufzuhören, wenn man es abgibt.
+ Was macht man denn eigentlich?
+ Oder wie weit sind wir denn eigentlich mit Recyclingen  bei so toten Telefonen?
+ Also ich glaube, jeder Deutsche hat irgendwie im Durchschnitt  zwei Telefone und jede Deutsche in seinem Nähkästchen irgendwo rumliegen,  die absolut unbrauchbar sind,  weil uralt und die jegliche Hersteller support weg.
+ Und man kann auch nicht mehr mit einem freien Android retten.
+ Ich weiß, dass Fairphone auch Telefone zurücknimmt.
+ Aber dadurch, dass die von Niederlanden aus operieren,  ist es nicht ganz trivial, das zurückzugeben.
+ Ich frag mich gerade, wie gut da so ist.
+ Also gerade bei Fairphone, das hatte ich vorher schon überlegt,  ob man es vielleicht anbringt.
+ Wenn man weiß, dass man es irgendwann mal zurückgeben will  oder vielleicht nur manchmal braucht,  Common hatten wir doch mal ein RC3 als Vortrag.
+ Die werden das in der Lösung.
+ Leihgeräte gibt es auch Fairphone 3, 4, 5.
+ Genau, aber ich weiß nicht, wo ich die einfach in den nächsten Elektromarkt bringe.
+ Du funktionierst mittlerweile gut?
+ Oder wird das dann immer noch nach Afrika verschifft und verbrannt?
+ Also wie gut das funktioniert?
+ Ich habe es tatsächlich bisher selber wirklich auch noch nicht ausgetestet.
+ Grundsätzlich gibt es diese kleinen Geräte-Richtlinie.
+ Wie 30 cm Kantenlänge und so müssen die alles abnehmen.
+ Genau, das müssen sie alles abnehmen.
+ Ich weiß, dass die ganzen Händler oder auch Telekommunikationsanbieter  sich regelmäßig beklagen über noch zu geringe Recyclingquoten.
+ Also die Leute haben noch viel zu viele Altgeräte, alte Smartphones  in ihren Schubkästen und bringen die nicht zurück.
+ Tut es bitte, da sind wertvolle Ressourcen drin, die einer zweiten Verwendung zugeführt werden können.
+ Gibt es lustigerweise, falls man in irgendeiner gearteten verantwortlichen Position ist  und darüber nachdenkt, was man mit Altgeräten, die man zurückgenommen hatte, macht,  es gibt da sogar Recyclingdienstleister in Deutschland,  die im großen Stil Elektronik zurückholen und dann nicht nach Afrika verschiffen und verbrennen,  wie man es so in die weißen Dingen gesehen hat, sondern die es dann wirklich versuchen,  die Wertstoffe, die da drin sind, Gold, Palladium, was auch immer,  nach bestem Wissen und Gewissen und den technischen Möglichkeiten da wieder rauszuholen.
+ Na, ich denke, die Herausforderung an der Stelle ist ja schon mal,  eine gewisse Vorsortierung zu haben, weil jetzt die Elektromärkte nehmen ja auch Toaster zurück  und keine Ahnung, alte Rasierer und so.
+Und da steckt natürlich auch noch wertvolles Material drin,  aber halt nicht im gleichen Maße wertvoll wie jetzt in einem Telefon, so, und da denke ich.
+ Und da frage ich mich halt, ob es schon, es gibt mit Sicherheit Dienstleister,  die sich speziell auf so kleinen Hightech-Geräte wie Telefone, wie Tablets und so weiter spezialisiert haben.
+ Die Frage ist, ist das schon brauchbar?
+Ich weiß, es gibt immer diese Automaten,  die dir irgendwie Telefone zurücknehmen und dir meistens Geld dafür geben,  wenn es noch was Neues ist, aber in der Regel handelt es sich ja um sehr, sehr alte Geräte,  die nicht mehr wert sind als eben das Material, was drinsteckt.
+ Bei diesen Dienstleistern geht es schon um ein Konvolut an Geräten, also die spezialisieren sich nicht,  sondern die kriegen eine Gitterbox mit anderthalb Kubikmeter Elektronik drin  und sortieren das auseinander und kriegen das hier ab jetzt mal so eine Gitterbox.
+ Gitterbox habe ich natürlich nicht.
+ Ja, doch in der Uni in Keller stand eine Gitterbox für alte Elektronik, bitte da rein.
+ Ich habe da einmal so ein Dienstleister rausgeholt,  Ellberg, monatlich rund 100 Tonnen Elektronikschrott, der Wiederverwertung zugeführt.
+ Sehr schön.
+ Also es ist ein Ding, was ich durch Zufall vor Jahren schon mitgekriegt habe,  dass es das gibt und auch wirklich teilweise bis zur industriellen Maßstab.
+ Also es sieht dann aus wie so ein großer Autoshrottplatz mit Schredderanlagen  und Chemie und Gold aus dem, was geschreddert ist, rauslösen.
+ Das ist ein Prozess, der nicht ganz unspannend ist.
+ Und der ist so wichtig auch.
+ Gerade wo wir über die Zukunft und Nachhaltigkeitsziele und sowas sprechen,  ist es einfach mega wichtig, weil sowas wie seltene Erden und selbst auch Gold.
+ Und es ist ein Geschäft, also es ist nicht so, dass diese Firmen kurz vor der Pleite sind  und nur deswegen funktionieren, weil solche Enthusiasten die Nachhaltigkeit feiern sollen.
+ Die verdienen da echt Geld damit.
+ Also seltene Erden und selbst auch Gold sind halt nur begrenzt auf der Erde verfügbar.
+ Und wenn wir halt so weiter umsaunen mit solch wertvollen Materialien,  indem wir einfach immer wieder neuen Elektroschrott produzieren, ist halt Dorof.
+ Und deswegen nutzt diese Möglichkeiten, wie gesagt.
+ Es gibt nach dieser Verordnung sind elektronische Händler verpflichtet,  Geräte bis zu den entsprechenden Kantenlängen zurückzunehmen.
+ Und ihr tut da auf jeden Fall was Gutes, wenn ihr das entsprechend tut.
+ Wir könnten auch mal Mo nochmal einladen zu einer Sendung  und so ein bisschen in das Thema Open Source Hardware wieder reinbohren  und schauen wie da jetzt gerade so der Stand der Dinge ist.
+ Weil das ist ja so ein Thema fast durchaus sinnvoll und nachhaltig wirken kann  und auch aktiv entwickelt ist.
+ Also da wo sich noch einiges tut.
+ Wir hatten davon ein paar Tage mal eine etwas militante Ansicht  und haben gesagt, eigentlich muss ein Hersteller, wenn er wirklich nachhaltig arbeitet,  grundsätzlich nach 1, 2, 3, 4 Jahren Pleite gehen.
+ Und dann ist der Bedarf gedeckt, die Geräte sind so gebaut,  dass sie die nächsten 10 Jahre halten.
+ Und ich brauche den Hersteller dann nicht mehr der neue Geräte baut.
+ Das war ja durchaus ein Grund, warum es Nokia so schlecht ging,  weil die einfach zu gute Geräte gebaut haben.
+ Und ich finde, dass es da eine Bewegung braucht,  damit das jetzt nicht mehr schlimm ist, wenn das passiert,  und das gehört eigentlich, das sollte zum Konzept gehören.
+ Ja, man kann es ja natürlich nicht auf ewiges Wachstum verletzen.
+ Ich habe einen Astermarkt, ich muss vielleicht noch mal Dinge reparieren  oder Abtätzer bereitstellen und so.
+ Aber ich muss, wenn der Bedarf gedeckt ist, eigentlich ja nichts mehr herstellen.
+ Punkt.
+ Ich weiß, es ist ein bisschen sehr polarisiert.
+ Also ich nehme es mal so als Plädoyer.
+ Es wäre gut, wenn geplante Obsolescence kein Geschäftsmodell ist.
+ Genau.
+ Man braucht ja Ziele.
+ Das ist doch die...
+ Ich wollte vielleicht einfach nochmal zusammenfassenden.
+ Genau, einfach nochmal.
+ Also bringt eure alte Hardware zurück, entrümpelt,  schmeißt vielleicht auch Kabel weg, die einfach kaputt sind  und nicht mehr funktionieren und einfach euch keine Freude bereiten.
+ Also ganz nach Marie Kondo, if it doesn't spark joy,  vielleicht mal entsorgen.
+ Es schafft auch Platz.
+ Wenn es kabelsparkt, sollte man es vielleicht wegschmeißen.
+ Auch das, bevor es parkt, zumindest im gewerblichen Kontext,  regelmäßig die GGUV 3 Prüfung machen.
+ Genau.
+ Dann im Softwarebereich, guckt euch an, was ihr für Apps und Accounts habt,  schmeißt auch da Dinge weg, löscht durchaus Accounts,  macht aber vielleicht auch mal eine DSGVO Anfrage,  was die Anbieter so über euch haben.
+ Auch das kann man immer durchaus mal tun.
+ Das ist mitunter ein Prozess, der sehr weh tut,  mitunter, weil die Anbieter alles einem nicht so einfach machen,  aber auch das sind Dinge, die so einmal im Jahr kann man  zumindest mal bei so einer Handvoll von Anbietern,  wo man einen Account hat, kann man das vielleicht mal tun.
+ Apropos Accounts gibt es sie noch?
+ Gibt es sie noch?
+ Ja, es gibt sie noch.
+ Ich habe da erst kürzlich auf diesem einen Gerät in der Familie,  wo es ein neues Gerät gab.
+ Habe ich sie erst tatsächlich kürzlich entfernt.
+ Aber auch das sollte man entsprechend tun nach der Anleitung,  die ich glaube nicht vom Honkhasen selber,  aber da aus der Ecke stammeln, da gibt es hier so eine Anleitung,  dass man erst sein Account löschen sollte  und dann die Luca App entfernen, so in der Richtung.
+ Sucht er auf jeden Fall mal im Netz, da gibt es eine Anleitung zu.
+ Verlinken wir in den Schaunots.
+ Öffnet die Luca App, tippt auf der unteren Leiste auf Account,  das kreut etwas nach unten.
+ Wählt Account löschen und dann nochmal auf Account löschen  und ihr seid fertig.
+ Und danach kann man jetzt löschen.
+ So, das Finaltema "Brand heiss" und "Brand aktuell"  über das bestimmt auch ganz viele reden,  ganz viele Technik-Podcasten.
+ Deswegen lassen wir uns das nicht entgehen.
+ Ist das XC Backdoor XZ?
+ XZ ist ein Kompressionsalgorithmus,  beziehungsweise die Software, die den anwendet  und in ganz vielen anderen Software-Projekten drin steckt.
+ Wir haben das, glaube ich, schon mehrfach erwähnt  über die Zeit, dass es so Dinge gibt wie CURL,  läuft einem immer wieder über den Weg,  so meistens so kleine Projekte,  die einen ganz spezifischen Anwendungsfall haben  und nicht die man selten direkt benutzt,  sondern die immer von anderer Software,  die man selber benutzt, wieder benutzt werden.
+ Und XZ ist eines davon?
+ XZ ist eine sehr grundsätzliche Geschichte,  weil, ich glaube, der Kompressionsalgorithmus dazu,  jetzt noch nicht lügen, ist das LZMA.
+ Es gibt verschiedene Kompressionsalgorithmen da drin.
+ Einer davon ist LZMA, der sehr gerne verwendet wird  und wo die Bibliothek eigentlich so der Goldstandard dafür ist.
+ Genau, und das ist halt häufig so,  also wie CURL eben der Goldstandard für HTTP-Protokollanfragen ist.
+ Oder wie geht's?
+ Ja, das ist ja nicht auch Lipp-Curl drin, wer weiß.
+ Aber genau, und das schön ist, oder was heißt das,  wie so was kommt, ist,  dass halt Kompression wird in fast aller Software benutzt.
+ XZ bietet vor allen Dingen so on-the-fly Kompression,  das ist also so im Gegensatz zu, weiß ich nicht, so einem Format wie ZIP,  was eher dafür geeignet ist, in der Teil zu komprimieren,  ist XZ auch dazu geeignet, eben irgendwas zu komprimieren,  was kein definiertes Ende hat.
+ Also beispielsweise ein, weiß ich nicht,  Audio wird vielleicht anders komprimiert,  aber irgendwas, was man über die Leitung schickt,  was man währenddessen komprimieren will.
+ Wie so ein Durchlauferhitzer.
+ Wie so ein Durchlauferhitzer, genau, ein Durchlaufkompressor.
+ Kompressor.
+ Genau, und in einem ganz prominenten Fall,  dass das, worum es geht, wird XZ eben zur Verschlüsselung  von Verbindungen zwischen Rechnern benutzt,  wenn man eine Unterlinux SSH benutzt, also Remote irgendwie  auf ein Gerät zugreift, um es zu steuern.
+ Das macht alle IT-Welt in allen, ja, überall, das passiert überall.
+ SSH wird genauso überall benutzt und in SSH steckt XZ drin.
+ Zwingend, ich glaube nicht zwingend.
+ Wahrscheinlich nicht, also das kommt ja immer darauf an,  also wird es selber gebaut, viele große Unternehmen  machen ja nochmal so Dinge wie wir bauen das alles selber  und kleinere Unternehmen und Privatpersonen machen meistens,  dass sie das aus der Distribution nehmen,  also aus der Linux-Distribution fertig gebaut.
+ Da gibt es also ganz viele verschiedene Geschmacksrichtungen,  aber irgendwie steckt es halt dann immer mit drin.
+ Genau, was jetzt hier passiert ist, das ist auch sehr,  sehr typisch, XZ ist, die Entwicklung ist natürlich nicht abgeschlossen,  die Kompressionsalgorithmen sind alle drin,  aber irgendjemand muss das Ding halt am Laufen halten,  weil man doch mal wieder ein neues Binary bauen muss  oder man muss mal hier irgendein Security Update einspielen  oder so Kleinigkeiten, so was wird in der Regel von den Maintainern gemacht.
+ Maintainern von Open Source Projekt, das sind quasi diejenigen,  die so ein bisschen entscheiden, wann kommt die neue Version raus,  wann muss man aktiv an irgendwas arbeiten,  so ein bisschen so der Projektleiter.
+ Der große Unterschied zwischen einem Open Source Maintainer  und einem Projektleiter ist, dass ganz, ganz häufig  diese Menschen das ehrenamtlich und unbezahlt machen,  kommt doch so ein bisschen aufs Projekt an,  aber bei XZ ist es eben so, dass das irgendwie ein Mensch ist,  der das wirklich in seiner Freizeit macht und dafür nicht bezahlt wird.
+ Bei vielen anderen Projekten ist es so,  dass diese Menschen von irgendeiner Größe und Firma angestellt sind,  damit sie das auch weiter ordentlich machen.
+ Genau, hier aber eben nicht und was eben passiert ist,  ist, dass der natürlich auch noch ein anderes Leben nebenher hat  und einen anderen Job und der war schon hart am Ausbrennen vor,  oder knapp davor auszubrennen vor zwei Jahren  und das hat sich jemand, wie sich jetzt im Nachgang ausgestellt hat,  jemand bösartiges Zunutze gemacht, hat seine Hilfe angeboten.
+ Man kann das sogar heutzutage schön noch nachverfolgen,  weil das alles in der Öffentlichkeit passiert,  auf Mailing-Listen in der Regel oder in GitHub-Issues  und es ist wohl sogar so, dass andere Leute,  möglicherweise alles erfundene Personen,  die dem Angreifer hier zugeordnet sind,  Feature-Requests angestellt haben  und Druck auf dem Maintainer gemacht haben,  hier mal eine neue Version rauszubringen.
+ In dem speziellen Fall ging es um ein XZ für Java.
+ So erfundene Personen heißt natürlich einfach Fake-Profile?
+ Ja, man weiß es nicht.
+ Also Menschen, die sich mit Namen irgendwie vorstellen  und auf Mailing-Listen schreiben,  aber man macht ja jetzt keine Ausweiskontrolle, also genau.
+ Und jemand gut Herziges hat sich angeboten, da auszuhelfen  und hat wohl tatsächlich über die letzten zwei Jahre  da auch echte Arbeit reingesteckt  und tatsächlich zugearbeitet.
+ Und nachdem das Vertrauen dann jetzt da war,  hat dieser Mensch, der unter einem Pseudonym arbeitet,  mit hoher Wahrscheinlichkeit, man weiß es jetzt noch nicht,  kurz vor Ostern ein Release rausgebracht,  bei dem dann ein kleines Skript mitgeliefert wurde,  was wiederum wichtige Sachen, genau, in XZ drinsteckt,  aber nur aktiv wird, wenn man es als Teil von SSH benutzt.
+ Es war ja schon irgendwie spannend eingepackt.
+ Also es war, wenn ich es richtig mitgekriegt habe,  in einem Test, in dem Test gab es ein gutes und ein schlechtes Skript  und das schlechte sollte eigentlich, also wenn ich einen Test schreibe,  normalerweise sollte der Test es dann rauswerfen,  das schlechte Ding und dieser Test hat anderes gemacht.
+ Korrekt, so, und da der echte Maintainer, der auch wirklich gute Arbeit leistet,  auch noch mit aufgepasst hat, musste da schon der Angreifer  ein bisschen mehr Arbeit reinstecken.
+ Und der hat es aber trotzdem geschafft,  in eines der Binaries, was dann mit Debian, Unstable  und anderen experimentellen Linux-Distributionen ausgeliefert wurde,  wo eben dieses kleine Skript drinsteckt,  was dann wiederum, wenn jemand SSH mit dieser XZ Winery benutzt,  dann wird eben ein bisschen Schadcode ausgeführt, der wiederum,  und hier habe ich technisch nicht weitergelesen, was da eigentlich passiert,  aber es holt sich quasi die Master Key irgendwo aus dem Speicher  und schickt den auf einem Seitenkanal zurück.
+ Genau, der Teil ist an sich gar nicht so interessant,  da steckt jetzt auch nicht technisch so viel dahinter,  wo technisch viel dahinter steckt, ist, wie wird das versteckt.
+ Und dann ist natürlich an dem Ganzen,  und da fangen der soziale Aspekt viel, viel interessanter,  also wie hat der Mensch das reingekriegt, was bedeutet das,  und der andere ganz interessanter Aspekt, wie wurde das eigentlich entdeckt.
+ Und damit habe ich mich viel beschäftigt in den letzten Tagen,  weil ich das einfach so faszinierend fand.
+ Also es gab, wie gesagt, eine Version, ich glaube, es ist die Version 5.6.
+ 5.6 war so die erste, wo es reinkam.
+ Ja, von XZ, ah ja, und 5.6 ist noch die gute Version,  so ist es genau, und in 6 ist es drin.
+ Es ist allerdings nicht, es ist nicht im Kot,  also wenn man sich selber sein XZ baut, dann ist es nicht drin,  und wenn man eine ältere Version hat, wie sie in den meisten stabilen  Linux-Distributionen, die weltweit benutzt werden drin ist.
+ Da ist einfach die 5.6 nicht drin.
+ Genau, da ist also alles noch gut.
+ Es wurde sehr früh entdeckt, weil ein Mensch, der an Postgres arbeitet,  PostgresQL, ein weiteres Open Source Projekt,  sehr, was sehr weit verwendet wird, aber eine Datenbank,  aber eine Datenbank, die so viel Geld dahinter steckt,  weil eben Großunternehmen alle Datenbanken benutzen  und viele benutzen diese Datenbank.
+ Deswegen gibt es jetzt wiederum andere Großunternehmen,  nämlich Microsoft, Google, Amazon und viele weitere,  die eben Leute anstellen, um aktiv an Postgres zu arbeiten.
+ Also hier ist das große, der große Unterschied.
+ Man hat eigentlich zwei Menschen, die was sehr ähnliches tun,  den Maintainer von XZ, der das irgendwie freiwillig und ehrenamtlich macht  und auf der anderen Seite die Menschen, die an PostgresQL arbeiten,  die das zwar auch freiwillig tun und sicherlich auch in ihrer Freizeit,  aber eben zusätzlich noch von Großunternehmen dafür bezahlt werden,  das zu machen und auch nicht schlecht bezahlt werden, das zu machen.
+ Ich habe gerade mal geguckt, die Version 5.2 und früher ist auf jeden Fall safe.
+ Ist die Cleaner, okay, alles klar, genau.
+ Und was hier passiert ist, ist, dass also ein deutscher Softwareentwickler,  übrigens der in den USA arbeitet, Tests mit Debian Unstable und Postgres gemacht hat  und weil man an solchen Cloud-Anbietern wie Microsoft das macht und so,  da gibt es viele Statistiken, wo einfach ausgewertet wird.
+ "Uh, wird jetzt irgendwas langsamer?"  Und der hat eben festgestellt, hoch meine SSH-Logins sind ja langsamer geworden  und eben auch signifikant und allein durch die Auswertung,  wie er das dann gemacht hat, sehr, sehr technisch.
+ Er hat auch gar nicht SSH getestet, sondern was anderes,  insgesamt wahrscheinlich Postgres und hat da beim Testen SSH verwendet und dabei vieles auf.
+ Exakt, also man nennt das ja dann Flame Graphs,  das ist in Postgres sehr üblich, wo man sich anguckt,  oh, welcher Prozess hat denn hier, wie lang für was gebraucht.
+ Und in diesem Flame Graph taucht auch SSH mit drin auf,  was einen Postgresentwickler eigentlich überhaupt nicht interessiert.
+ Benutzt das als Werkzeug.
+ Genau, aber wenn das eben auf einmal signifikant länger dauert,  dann wundert man sich, was ist denn da los?
+ Und halt so als Mensch, der eben, also Postgres ist natürlich  als Datenmark auch irgendwie sehr low-level Software,  das heißt, man beschäftigt sich ständig mit den Internas von so kleinen Softwareprojekten.
+ Also als Mensch mit einer nicht vorhandenen intrinsischen Motivation,  hört man dann halt auch, man stellt fest, ja, dauert länger,  pff, ist nicht mein Projekt, mir doch egal.
+ Und auch als Mensch, der das nicht zuordnen kann.
+ Das ist halt hier schon so, dass das eben, weil es eben zufällig jemand ist,  der im Betriebssystem oder Datenbankkontext unterwegs ist,  in sowas reinguckt und dann auch noch zufällig die entsprechenden Tools benutzt,  um so was, um dem hinterhergehen zu können.
+ Hat sich vorher Spannhandler erwähnt, warum es wichtig ist,  wenigstens einen Kurklagen von Informatikwissen zu haben?
+ Korrekt, also jetzt, ohne jetzt hier irgendwie dispektierlich  oder respektlos zu klingen, aber jetzt halt ein typischer Javascript-Entwickler  und sicherlich nicht, die das Know-how haben, um von sich raus hinterher zu gehen,  warum jetzt SSH irgendwie länger braucht für Verbindungsaufbau.
+ Das ist einfach dann nicht die Kerne.
+ Ich glaube, solche oder solche.
+ Das ist ja das, was ich gerade gesagt habe.
+ Es gibt Leute mit einer gewissen intrinsischen Motivation,  die dann diese letzte Meile auch noch gehen.
+ Also ein bisschen links und rechts, wo bin ich nicht unterwegs?
+ Ich glaube, es kommt auch so ein bisschen darauf an.
+ Also, nimmst du das jetzt irgendwie als Testart,  de facto im Sinne von so, okay, das dauert irgendwie länger,  komisch oder komisch, aber es muss doch eigentlich schnell gehen  und es ist auch unser Ziel, dass es irgendwie schnell geht.
+ Und was ist jetzt?
+ Überblick und Zießt, dass das irgendwie wirklich komisch ist.
+ Aber ich glaube, was Backdoor-Entwickler daraus lernen,  ist, sie müssen ihre Backdoors viel, viel effizienter schreiben,  damit sie nicht mehr auffallen in so einem Flamengraph.
+ Denn wenn man sich die Zeiten anguckt, ist es tatsächlich so,  dass der von, weiß ich, ursprünglich hat er mal 20 Millisekunden  gebraucht und jetzt braucht er auf einmal eine halbe Sekunde, genau.
+ Also muss schon ein sehr schlechtes Backdoor-Entwickler sein.
+ Nein.
+ Und die andere, was, also einerseits geht das gerade durch alle Medien,  auch in den New York Times und so, stehen da Tests dafür,  wo sich sehr auf diesen Maintainer fokussiert wird,  der halt einer von vielen ist, wo sowas passieren kann.
+ Viele stellen auch den Postgres-Entwickler hier als Helden da,  weil er das entdeckt hat und in seiner Freizeit und bla.
+ Das ist so eben auch nicht ganz korrekt.
+ Das hat er sicherlich in seiner Freizeit gemacht,  aber es ist eben auch sein Job.
+ Und zum anderen, was mir an der Stelle noch auffällt,  ist, es wird jetzt hier so dargestellt,  als wäre das ein kompletter Zufallspund.
+ Das stimmt, es ist ein Zufallspund.
+ Aber ein Zufallspund, der bei systematischen Analysen aufgefallen ist,  und das Einzige, was hier spannend ist,  ist, dass der Kollege da auf Diebien Unstable,  also wirklich der Distribution, die Nürnungsbrot zum Einsatz kommt,  schon mal geguckt hat, wie verhält sich denn die Datenbank  mit der nächsten Version von Diebien.
+ Und man kann sich also relativ sicher sein,  dass so eine halbe Sekunde Versatz wird auffallen,  sehr, sehr schnell, sobald das in produktive Distributionen Einzug findet.
+ Also so ganz, so, hey, wir sind knapp an der großen Zeit bei Attacke der Weltgeschichte vorbeigeschrammt.
+ So ganz gehe ich da nicht mit.
+ Nein, das ist natürlich auch...
+ Wenn ich möchte, dass der Artikel gelesen wird, dann schreibe ich so.
+ Ja, korrekt.
+ Das ist nicht falsch, aber auch nicht.
+ Nichtsdestotrotz ist es eine sehr, sehr, sehr interessante Geschichte.
+ Man fragt sich auch hier wieder, ja, okay, also wenn es da Angreifer gibt,  das scheint schon ein staatlicher Angreifer zu sein,  denn anders kann man sich nicht vorstellen, dass jemand zwei Jahre Zeit nimmt,  um tatsächlich an einem Projekt mitzuarbeiten,  um dann sozusagen der Doppelspion zu sein,  der Spion zu sein, der hier seinen Backdoor einbaut.
+ Und da ist natürlich die Frage,  gibt es denn das nicht an anderer Stelle nochmal?
+ Und war vielleicht an anderer Stelle jemand, der ein effizienteres Backdoor eingebaut hat?
+ Tätig man, weiß das nicht, ja.
+ Ich nehme für mich an der Stelle auf jeden Fall wieder mit auch so Grundlagen,  Sachen wie XZ.
+ Da passiert viel in ehrenamtlicher Arbeit, ganz viel, was häufig nicht gesehen wird.
+ Und nur dann, wenn es brennt, wird es gesehen, wie viel Arbeit da eigentlich drin steckt.
+ Unterstützt eure Grundlagenprojekte auch mit Pull Request, mit guten Pull Request.
+ Und teilweise auch mit Geld, also wenn ihr könnt, lasst den Entwicklern gerne mal einen Kaffee oder so da,  gibt ja da teilweise Möglichkeiten, Spenden dazu zu lassen.
+ Ich glaube, Geld ist ein Punkt, aber das, was da drüber steht, und die nächste Abtragung,  zumindest behandelt die Leute ordentlich.
+ Es sagt, also speziell, wenn ihr da Pull Request aufmacht, wenn ihr euch fragt,  warum ist denn dieses und jenes Binary immer noch auf dieser Hornbuckel alt,  warum ist das immer noch Python 2.7, muss das noch Python 2.7 sein?
+ Ja, die Anfrage ist rechtfertigt, aber bitte seid freundlich.
+ Und denkt daran, dass derjenige, der am anderen Ende sitzt,  vielleicht gerade eigentlich in seinen Osterfällen ist und mit Kumpels steckt,  und ihr müsst da jetzt nicht unbedingt den High-Severity-Bug sonst was aufmachen,  nur weil es euch gerade behindert.
+ Hält selber mit aus, wenn ihr könnt.
+ Und ansonsten seid einfach freundlich zueinander in der Welt.
+ Ein paar freundliche Worte sind für so einen Maintainer, glaube ich, auch hilfreich  und können im richtigen Moment sehr viel Gutes bewirken.
+ Aber macht gerne auch ein bisschen Kohle locker, wenn ihr könnt.
+ Oder bezahlt man Entwickler, der dem einen Arm hilft?
+ Korrekt, wenn ihr in einer Firma seid und Geld habt, um jemanden einzustellen,  selbst wenn es keine Ahnung, ein Werkstudent ist,  der dann mit bei Open Source-Projekten aushilft.
+ Sehr, sehr, sehr wertvoll.
+ Ich denke, wir müssen dann an der Stelle auch so langsam zum Ende kommen.
+ Also sprechen wir wieder alle sehr viel schneller.
+ Ja, genau.
+ Das war Chaos im Radio in der April-Ausgabe.
+ Ihr hört uns jeden zweiten Montag im Monat unter den entsprechenden Frequenzen.
+ Unter 90,7 MHz auf UKW, 88,4 MHz in Berlin und unter DHB+ auf RFR-BB und 24,3 MHz.
+ Genau, und ansonsten könnt ihr alte Folgen nachhören unter radio.cc-p.org.
+ Und werdet euch...
+ Wenn ihr nicht die alten Folgen nachhört, sondern ich jetzt im Radio,  dann ist übermorgen, Mittwoch.
+ Stimmt, in der Machbar.
+ Wir werden fünf.
+ Ja, genau.
+Es wird Slash geben.
+ Bis dahin.
+ Und es wird gegrillt.
+ Bis dahin wünsche ich euch eine schöne Zeit, wenn wir euch dort sehen.
+ Ansonsten hören wir uns im Mai wieder.
+ Bis dahin sagen wir Tschüss.

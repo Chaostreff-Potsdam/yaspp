@@ -25,6 +25,7 @@ mkdir -p "$OUTPUT_DIR"
 WHISPER_BIN=~/workspace/whisper.cpp/build/bin/whisper-cli
 WHISPER_MODEL=~/workspace/whisper.cpp/models/ggml-small.bin
 #WHISPER_MODEL=~/workspace/whisper.cpp/models/ggml-large-v3-turbo-german-q5_1.bin
+WHISPER_VAD_MODEL=~/workspace/whisper.cpp/models/ggml-silero-v5.1.2.bin
 LANGUAGE=DE
 
 # Global variables for batch operations
@@ -84,9 +85,14 @@ transcribe_file() {
     echo "Transcribing: $(basename "$input_file")"
     local transcribe_start=$(date +%s)
 
-    # Run transcription
+    local whisper_vad_option=""
     pushd "$working_dir" > /dev/null
-    ${WHISPER_BIN} -m ${WHISPER_MODEL} -f audio.wav -np -pp -otxt -ovtt -oj -ocsv -osrt -l ${LANGUAGE} > /dev/null
+    if [ -n "$WHISPER_VAD_MODEL" ]; then
+        if [ -f "$WHISPER_VAD_MODEL" ]; then
+            whisper_vad_option="--vad -vm $WHISPER_VAD_MODEL"
+        fi
+    fi
+    ${WHISPER_BIN} -m ${WHISPER_MODEL} -f audio.wav -np -pp -otxt -ovtt -oj -ocsv -osrt ${whisper_vad_option} -l ${LANGUAGE}
     popd > /dev/null
 
     local transcribe_end=$(date +%s)
