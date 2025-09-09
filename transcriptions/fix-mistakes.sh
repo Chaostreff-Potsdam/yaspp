@@ -96,5 +96,12 @@ find "$TARGET_DIR" -type f \( -name "*.vtt" -o -name "*.srt" -o -name "*.txt" \)
     ((file_count++))
 done
 
+# remove all newlines from txt files
+find "$TARGET_DIR" -type f -name "*.txt" | while read -r txt_file; do
+    echo "Removing newlines in: $txt_file"
+    tr '\n' ' ' < "$txt_file" > "${txt_file}.tmp"
+    mv "${txt_file}.tmp" "$txt_file"
+done
+
 echo "Completed processing transcription files."
 echo "Total files processed: $file_count"
