@@ -1,182 +1,749 @@
- Herzlich Willkommen, ich fange an, Cyroxx guckt überrascht.
-Ich fange an, Chaos im Radio hier, weil es ist Montag und zwar der zweite Montag im Monat.
+ Herzlich Willkommen.
+Ich fang an.
+Cyroxx guckte überrascht.
+Ich fang an Chaos im Radio hier, weil es ist Montag und zwar der zweite Montag im Monat.
  Und deswegen sagen wir Hallo aus einer sonnigen Machbar in Voraufzeichnung.
- Am Sonntag im Monat?
- Am Sonntag im Montag.
- Vor dem Montag?
- Heute ist der Sonntag vor dem Montag.
- Ja, wir zeichnen auf.
- Wir zeichnen auf in der Machbar.
-Es scheint uns die Sonne ins Gesicht und...
- Oder auf den Lacken.
- Stimmt's ja.
- Und andere Körperteile.
- Das kann man falsch verstehen, aber nein, der Oberabend.
+Am Sonntag im Monat.
+Am Sonntag im Montag.
+ Vor dem Montag.
+Heute ist der Sonntag vor dem Montag.
+Ja, wir zeichnen auf.
+Wir zeichnen auf in der Machbar.
+Es scheint uns die Sonne ins Gesicht.
+ Oder auf den Lacken und andere Körperteile.
+Das kann man falsch verstehen, aber nein, der Oberarm.
  Wir möchten euch gerne bespaßen mit den Themen aus um und aus der Machbar herum, glaube ich, und aus dem Chaos und überhaupt.
  Digitales und Netzpolitik in und um Potsdam.
- In und um Potsdam, genau.
-Gerade keine Cyberattacken aktiv.
- So haben wir mal angefangen, um das zu machen.
- Wie war das mit den Lücken in ESP32 Chips?
-Das können dann nochmal spannend werden.
- Aber das ist heute, als wir aufzeichnen, noch nicht so laut und spannend geworden, wie es werden könnte.
+Genau, gerade keine Cyberattacken aktiv.
+So haben wir mal angefangen.
+ Wie war das mit den Lücken in ESP 230 Chips?
+Das könnte nochmal spannend werden, aber das ist heute als wir aufzeichnen noch nicht so laut und spannend geworden, wie es werden könnte.
  Ja, ich glaube, das ist ein Sturm im Wasserglas.
- Ja, ein Sturm in Dingen, auf die man Lokalzugriff braucht.
- Genau, wir haben ein Potpourri an Themen und ein paar werden schlechte Laune erzeugen.
- Und wir hoffen, dass wir das gut hin und her wechseln.
+Ja, ein Sturm, das man auf dem man Lokalzugriff braucht.
+ Wir haben ein Potpourri an Themen und ein paar werden schlechte Laune erzeugen, ein paar werden gute Laune erfolgen und wir hoffen, wir können das gut hin und her wechseln.
  Knurps möchte gerne als Assessor ein bisschen weisslos werden.
- Ein bisschen weiss.
-Für Nutzer von Arch Linux oder Manjaro Linux.
- Wenn euch beim Aktualisieren eurer Pakete zurzeit, also komische Fehlermeldungen über den Weg laufen, dass ein Community-Report nicht mehr existiert, ja, es existiert nicht mehr.
- Ja, es wurde vor einiger Zeit angekündigt, dass es abgekündigt wird.
- Und es fand am dritten oder am sechsten Dritten, also vor ein paar Tagen, statt und deswegen werfen Paketaktualisierung zurzeit Fehler.
- Es gibt bei Arch Linux auch eine Webseite, wo die Lösung drin steht, googlen helft.
- Beziehungsweise lesen unsere Shownauts, aber bis die drin sind, hat man es gekuggelt.
+ Für Nutzer von Arch Linux oder Manjaro Linux.
+Wenn euch beim Aktualisieren eurer Pakete zurzeit, also komische Fehlermeldungen über den Weg laufen, dass ein Community-Repo nicht mehr existiert, ja, es existiert nicht mehr.
+ Ja, es wurde vor einiger Zeit angekündigt, dass es abgekündigt wird und das fand am 3.
+oder am 6.
+Dritten, also vor ein paar Tagen, statt und deswegen werfen Paketaktualisierung zurzeit Fehler.
+ Es gibt bei Arch Linux auch eine Webseite, wo die Lösung drinsteht, googlen hilft.
+Beziehungsweise lesen unsere Show-Nauts, aber bis die drinsteht, hat man es gekuggelt.
  Apropos, ist das so ein Community-Repository, das von ganz vielen verwendet wird?
- Es war mal getrennt, es gab ein Extra- und ein Community-Repository.
- Mein Trainer hatte verschiedene Modus operandi oder Modi operandi, wie der Pakete gepflegt wurden.
+ Das war mal getrennt, es gab ein extra und ein Community-Repository, das verschiedene Mantenna hat, verschiedene Modus operandi oder Modi operandi, wie der Pakete gepflegt wurden.
  Und das wurde von der Weile als Community extra integriert, weil es so einen großen Unterschied dann doch nicht mehr gab.
- Das ist der Punkt und die Pakete, die früher in der Community waren, sind jetzt extra.
- Man hat da auch immer schon mal so einen Hinweis gelesen, möchtest du dieses Paket jetzt aus einem anderen Report kriegen.
+ Das ist der Punkt und die Pakete, die früher und früher Community waren, sind jetzt extra.
+ Man hat da auch immer schon mal so einen Hinweis gelesen, möchtest du dieses Paket jetzt aus einem anderen Repo kriegen.
  Und ja, jetzt haben sie Community abgeschaltet, deswegen diese Fehlermelungen.
- Die sind auch nicht schlimm, aber es geht leicht weg.
+Die sind auch nicht schlimm, aber geht leicht weg.
  Einfach Community aus der Pac-Man Konflikt entfernen und checken.
- Am besten noch mal die Suchmaschine der Wahl bedienen und dann findet man das.
- Wir sind übrigens so chaotisch, also liebe ...
- Beziehungsweise ich kann noch einen Suchbegriff liefern, Cleaning up old Repositories hilft als Suchbegriff.
- Arch, glaube ich, braucht man in dem Fall nicht mal.
- Na gut, okay, so chaotisch.
- Dass wir nicht mal gesagt haben, dass hier Cyroxx, Tassos oder Knurps und der Hannes am Mikrofon sich ...
+ Am besten nochmal die Suchmaschine der Wahl bedienen und dann findet man das.
+ Wir sind übrigens so chaotisch, also liebe Community.
+ Ich kann noch einen Suchbegriff liefern.
+Cleaning up old repositories hilft als Suchbegriff.
+Arch, glaube ich, braucht man in dem Fall nicht mal.
+ Na gut, okay.
+So chaotisch, dass wir nicht mal gesagt haben, dass hier Cyroxx, TASO oder Knurps und der Hannes am Mikrofon.
  Ach ja, richtig.
- ...
-mein Fehler.
- Wir gehen halt gleich in die Folgen.
+ Mein Fehler.
+ Wir gehen gleich in die Folgen.
  Wir gehen gleich in die Folgen, das ist auch wichtig.
  Und, dass wir auf 90,7 und 88,4 in Berlin senden, haben wir auch nicht gesagt.
  Naja, das war ein bisschen Absicht.
  Ach so.
- Ich dachte, ja, ach, na ja, ich denke immer, die Leute hören uns ja wahrscheinlich.
- Wahrscheinlich.
- Naja, genau, aber ich mein, so ein Linux-Inweis, der will ja auch raus an die Leute.
+ Ja, ach na ja, ich denke, wenn die Leute hören uns, ja, wahrscheinlich.
+ Naja, genau, aber ich mein so ein Linux-Inweis, der will ja auch raus an die Leute.
  Genau.
  Gut.
  Was auch noch raus will?
- Genau, lasst mal raus.
+ Genau.
+Lass mal raus.
  Ja, also das mit Linux, genau.
  Genau, was ich rauslassen muss, ist heute so ein bisschen Frust mit meinem E-Mail-Anbieter.
- Ich habe so ein E-Mail-Konto bei einem E-Mail-Anbieter, der nicht irgendwie mit einem G anfängt.
- Sondern woanders war auch lange Zeit irgendwie gut, aber der Service lässt immer mehr zu  wünschen übrig.
- Also, man will ja eigentlich so ein bisschen jemandem Geld geben und der macht dann irgendwie  Dinge für einen und vor allem gerade so Internetinfrastruktur, so Basisinfrastruktur  betreiben wird ja eigentlich, möchte man meinen, eher günstiger über die Zeit als  teurer.
+ Ich habe so ein E-Mail-Konto bei einem E-Mail-Anbieter, der nicht irgendwie mit einem G anfängt,  sondern woanders.
+ War auch lange Zeit irgendwie gut, aber der Service lässt immer mehr zu wünschen übrig.
+ Also, man will ja eigentlich so ein bisschen jemandem Geld geben.
+ Und der macht dann irgendwie Dinge für einen und vor allem gerade so Internetinfrastruktur,  so Basisinfrastruktur betreiben wird ja eigentlich, möchte man meinen, eher günstiger über die Zeit als teurer.
  Ja, man muss nicht mehr so viel neu lernen.
- Ja, ja.
- Aber bei Mailserver-Betremmen ist es pain, also ich verstehe, dass man dafür Geld haben  will.
+ Ja, ja, ja.
+ Und wobei ein Mail-Server betreiben ist pain, also ich verstehe, dass man dafür Geld haben will.
  Ja, ja, ja, das ist ja auch unbenommen.
- Aber also nur um die beiden Sachen gerade zu verknüpfen, ich habe ja mein eigenes Mailserver  und du hast recht, über die Zeit wird es einfacher.
- Ja.
+ Aber also nur um die beiden Sachen gerade zu verknüpfen, ich habe ja mein eigenes Mail-Server  und du hast recht, über die Zeit wird es einfacher.
  Also man möchte meinen, je länger man das betreibt, desto einfacher soll es sein.
- Ja.
- Als PR von Digim schon eingerichtet, der Rest läuft halt so vor sich hin.
- Ja.
- Aber ich sag mal so, wenn man sich Leistung von irgendwo kauft, dann soll das einfach  am besten funktionieren.
- Und jetzt habe ich aber das Problem, dass letztes Jahr schon wurde, wurde eine bestimmte Funktion  einfach reingeschränkt.
- Wir sind von so Dinge, die du nicht mehr machen kannst, oder du musst dich regelmäßig irgendwo  einloggen, damit dein Postfach oder deine Mail-Weiterleitung noch bestehen bleibt.
- Und jetzt ist es aber vor allem so, ich kriege jetzt jeden Tag eine Mail von, ach übrigens,  sie haben ihr Limit von so und so viel Megabyte überschritten.
+ Ja, aber ich sage mal so, wenn man sich Leistung von irgendwo kauft, dann soll das einfach am besten funktionieren.
+ Und jetzt habe ich aber das Problem, dass letztes Jahr schon wurde bestimmte Funktionen einfach reingeschränkt.
+ Wir sind von so Dinge, die du nicht mehr machen kannst.
+ Oder muss ich regelmäßig irgendwo einloggen, damit dein Postfach oder deine Mail-Weiterleitung noch bestehen bleibt.
+ Und jetzt ist es aber vor allem so, ich kriege jetzt jeden Tag eine Mail von,  ach übrigens, sie haben ihr Limit von so und so viel Megabyte überschritten.
  Ändern Sie das mal bitte in den nächsten vier Wochen, sonst, sonst.
  Und ich denke mir so, oh, ich habe echt keinen Bock, mich jetzt damit noch zu beschäftigen.
- Ich will doch einfach nur Mail senden und empfangen und vor allem, wenn du dann siehst  mittlerweile, also der Mail-Anbieter wurde dann auch irgendwie aufgekauft, von irgendwie  einer US-Geröße.
- Und dann die neuen Angebote für E-Mail haben dann alle irgendwie so Microsoft 365 hinten  dran und dir echt so denkst, oh, nee.
+ Ich will doch einfach nur Mail senden und empfangen und vor allem wenn du dann siehst,  mittlerweile, also der Mail-Anbieter wurde dann auch irgendwie aufgekauft von irgendwie einer US-Geröße.
+ Und dann die neuen Angebote für E-Mail haben dann alle irgendwie so Microsoft 365 hinten dran.
+ Und direkt so denkst du, oh, nee.
  Das war eigentlich nicht das Ziel.
- Genau, deswegen wird da bei mir irgendwie in den nächsten Wochen anstehen, dass ich  mir mal einen neuen Mail-Provider suchen muss.
- Ist es schon ein eigenes Domain, ziehst du ein eigenes Domain mit um, oder?
- Ja.
- Ja, okay, immerhin.
- Aber das schließt dann natürlich bestimmte andere Sachen dann auch wieder aus, weil es  gibt mehrere gute E-Mail-Anbieter, E-Mail-Provider, die das halt dann nicht anbieten, dass du  eine eigene Domain haben kannst.
+ Das war eigentlich nicht das Ziel, genau.
+ Deswegen wird da bei mir irgendwie in den nächsten Wochen anstehen,  dass ich mir immer einen neuen Mail-Provider suchen muss.
+ Das ist ein eigenes Domain, ziehst du ein eigenes Domain mit um oder?
+ Ja, ja.
+ Okay, immerhin.
+ Aber das schließt dann natürlich bestimmte andere Sachen dann auch wieder aus,  weil es gibt mehrere gute E-Mail-Anbieter, E-Mail-Provider,  die das halt dann nicht anbieten, dass du eine eigene Domain haben kannst.
  Ja, stimmt.
  Sehr, sehr viele bieten das nicht an.
- Für alle anderen, die hier zuhören und sich noch nicht so richtig damit beschäftigt haben,  ich hatte das nämlich kürzlich mit einem Service-Mitarbeiter an einem Telefon, der mich  nämlich verifizieren wollte an der Hand meiner E-Mail-Adresse, also er hat gesagt, was ist  denn deine E-Mail-Adresse?
- Und ich sag so, keine Ahnung, welch ich euch gegeben habe, aber es ist @meinnachname.de  und er meinte, wie?
- Und ich sag, na ja, also das gehört alles mir, ist egal.
- Also wenn es von @meinnachname.de und ich hoffe, die Hörer wissen, dass es sich hier  um mein Nachnamen handelt und nicht um das Wort, aber es ist also egal, wo du das hinschickst,  das kommt bei mir an.
+ Für alle anderen, die hier zuhören und sich noch nicht so richtig damit beschäftigt haben,  ich hatte das nämlich kürzlich mit einem Service-Mitarbeiter an einem Telefon,  der mich nämlich verifizieren wollte anhand meiner E-Mail-Adresse.
+ Also er hat gesagt, was ist denn deine E-Mail-Adresse?
+ Und ich sag so, keine Ahnung, welch ich euch gegeben habe, aber es ist @mynachname.de  und er hat gesagt, wie?
+ Und ich sag, das gehört alles mir.
+ Es ist egal.
+ Also wenn es von @mynachname.de und ich hoffe, die Hörer wissen,  dass es nicht um mein Nachname handelt und nicht um das Wort,  aber es ist egal, wo du das hinschickst, das kommt bei mir an.
  Also das bin ich.
- Ja.
- Wer kennt man daran, dass er @meinnachname.de, der ist sozusagen im Wildcard-Inbox.
+ Wer kennt man daran, dass er mein Nachname.de bin?
+ Das heißt, er ist sozusagen nur Wildcard-Inbox.
  Ja, genau.
- So, und das war ihm, ich glaube, er hat dann die größte Zeit des Gesprächs damit zugebracht,  darüber nachzudenken, wie so ich nicht eine E-Mail-Adresse habe.
- Ich kenne das Phänomen, und zwar als ich mich irgendwo angemeldet habe in einem, also  ich war irgendwo vor Ort, um einen Vertrag abzuschließen, wo auch die Frage war, und  wie ist ihre E-Mail-Adresse?
- Und ich meinte so, "Anbieter @meinname.ir" und so, ach ja, Mensch, interessant, sind  sie, sind sie, sind sie Kollege von uns?
+ Ich glaube, er hat dann die größte Zeit des Gesprächs damit zugebracht,  darüber nachzudenken, wie so ich nicht eine E-Mail-Adresse habe.
+ Ich kenne das Phänomen.
+ Und zwar, als ich mich irgendwo vor Ort um einen Vertrag abzuschließen,  wo auch die Frage war, und wie ist Ihre E-Mail-Adresse?
+ Und ich meinte so...
+ Dein Name?
+ Anbieter@myname.
+irgendwas.
+ Ach ja, Mensch, interessant, sind Sie Kollegen von uns?
  Ich meinte so, nee.
- Und musste dann darauf hinweisen, dass in der E-Mail-Adresse, die sie da normalerweise  haben, dass angedreht ist, dass da erst der Vorname und Nachname und dann der Anbieter  kommt.
- Genau.
- Und dass das auch eine Bewandnis hat.
- Weil jetzt für die Technik und E-Mail eher so ein Werkzeug ist, den fällt das halt nicht  auf, sondern die lesen dann halt nach einem bestimmten Muster das.
- Vor allen Dingen, wenn die Firmen beteiligt sind, da wird es ja nochmal spannend.
- Also ich musste jetzt letztens erst eine Webseite für meine Firma bauen, weil eine Firma mir  nicht geglaubt hat, dass ich auch eine habe, weil ich keine Webseite habe, ich habe gesagt,  ich habe keine Webseite, weil ich brauche die nicht.
+ Und musste dann darauf hinweisen, dass in der E-Mail-Adresse,  die Sie da normalerweise haben, dass angedreht ist,  dass da erst der Vorname und Nachname und dann der Anbieter kommt.
+ Und dass das auch eine Bewandten ist hat.
+ Aber für Leute, die jetzt für die Technik und E-Mail eher so ein Werkzeug ist,  den fällt das halt nicht auf, sondern die lesen dann halt nach einem bestimmten Muster.
+ V.a.
+wenn die Firmen beteiligt sind, da wird es hier nochmal spannend.
+ Also ich muss jetzt letztens erst eine Webseite für meine Firma bauen,  weil eine Firma mir nicht geglaubt hat, dass ich auch eine habe,  weil ich keine Webseite habe.
+ Ich habe gesagt, ich habe keine Webseite, weil ich brauche die nicht.
  Wozu?
- Ja, nee, aber wir brauchen ihre Webseite, weil wir müssen verifizieren, dass sie, okay,  gut.
+ Ja, nee, aber wir brauchen Ihre Webseite.
+ Weil wir müssen verifizieren, dass sie...
+ Okay, gut.
  Und das hat sich irgendwie so dreimal wiederholt.
  Sie haben hier dreimal nacheinander nicht geglaubt, dass ich existiere.
- Und ich habe gesagt, das war es mir zu doof, wenn eine Webseite ins Netz geballert hat.
- Gut, dann, hier ist er.
- Da gibt es doch...
- Also...
- Wenn ihr mir erst glaubt, dass ich existiere, wenn dann eine Webseite ist, die so heißt,  wie ich dann...
- Jetzt eine Textartei nicht auch getan, ich meine, es gibt ja genügend Internet-Standards,  wo man sagen kann, hier übrigens, hier ist mein Privatschlüssel, hier ist mein...
+ Und ich habe gesagt, was mir zu dofern in der Webseite ist,  ich habe das jetzt geballert.
+ Wenn ihr mir erst glaubt, dass ich existiere, wenn dann eine Webseite ist,  die so heißt, wie ich, dann mach mal...
+ Jetzt eine Textartei nicht auch getan.
+ Ich meine, es gibt ja genügend Internetstandards, wo man sagen kann,  hier übrigens, hier ist mein privater Schlüssel, hier ist mein...
  Ja, aber genau, ja, spannend.
- Ja, da war es sogar im Bereich der Informations-Technologie, aber es war spannend.
- Egal.
+ Ja, da war es sogar im Bereich der Informationstechnologie.
+ Aber es war spannend, egal.
  Genau.
- Und das spielt eine Rolle, wenn man selber E-Mail-Adressen hat bei einer eigenen Domain, weil üblicherweise  kriegt man halt eine @googlemail.de-Adresse oder so.
- Oder gmx oder...
- Oder gmx.
- Oder irgendwas anderes.
- Oder gmx.
- Oder gmx.
- Oder gmx.
- Oder gmx.
- Oder gmx.
- Oder irgendwas anderes.
- Oder gmx.
- Oder gmx.
- Oder irgendwas anderes.
- Oder gmx.
+Und das spielt eine Rolle,  wenn man selber E-Mail-Adressen hat bei einer eigenen Domain,  weil üblicherweise kriegt man halt eine @googlemail.de-Adresse oder so.
+ Oder gmx oder irgendwas anderes.
+ Oder gmx oder irgendwas anderes.
  Und wenn man...
- Oder gmx.
- Oder gmx.
- Oder gmx.
- Oder gmx.
- Oder gmx.
- Oder gmx.
- Oder gmx.
- Oder gmx.
- Oder gmx.
- Oder gmx.
- Oder gmx.
- Oder gmx.
- Oder gmx.
- Oder gmx.
- Oder gmx.
- Oder gmx.
- Oder gmx.
- Oder gmx.
- Oder gmx.
- Oder gmx.
- Oder gmx.
- Oder gmx.
- Oder gmx.
- Oder gmx.
- Oder gmx.
- Oder gmx.
- Und dann hat man natürlich immer das Problem, wenn man zu einem anderen E-Mail-Anbieter wechselt,  da gibt es ganz viele, aber so einen serösen Mail-Betreiber, der einfach nur Mailman 3 betreibt.
- Ich habe lange gesucht.
- Will ich aber auch nicht administrieren, so ein Ding?
- Na ja.
- Ich mache es seitdem, weil ich keinen gefunden habe.
+ Ja, tschuldig und drückend.
+ Oder aol, mehr kann sich jemand von aol.com-Adresse geschrieben,  wo ich auch dachte, huiuiui, die war lang unterwegs, die E-Mail, glaub ich.
+ Aber dann hat man natürlich immer das Problem,  wenn man zu einem anderen E-Mail-Anbieter wechselt,  muss man auch seine E-Mail-Adresse wechseln.
+ Und das will man als technisch versierter Mensch dann eigentlich irgendwann nicht mehr tun.
+ Deswegen zieht man eigentlich gerne seine ganze Adresse mit um,  aber das ist nicht so leicht.
+ Also Cyroxx, du hast mein Mitgefühl.
+ Richtig sportlich mit einem Mailverteiler, wenn dir auch noch umziehen soll.
+ Ja, Mailverteiler.
+ Da gibt es nicht so richtig viele Dienstleister, die da Lust drauf haben.
+ Ja, das ist richtig.
+ Es gibt schon viele, die auf die Inhalte der Mailverteiler,  also auch die Adressen Lust haben.
+ Da gibt es ganz viele, aber so einen serösen Mailbetreiber,  der einfach nur Mail-Mail treibt.
+ Ja, ich habe lange gesucht.
+ Will ich aber auch nicht administrieren so ein Ding?
+ Naja.
+ Ich mache es seitdem, weil ich keinen gefunden habe, selber.
  Es tut weh.
  Egal.
- Also, wenn nicht jemand kennt, der Mailman 3 und ich betreiben möchte, für Geld.
- Das Bescheid an...
+ Also wenn ich jemanden kenne, der Mail meint 3  und ich betreiben möchte für Geld, das Bescheid.
  An@deinnachname.de.
  Nee, nee, nee.
- Warte, da hat der Hamburger ausgedacht.
- Warte mal, da hat der Hamburger ausgedacht, da hat der Hamburger ausgedacht, da hat der Hamburger ausgedacht,  da hat der Hamburger ausgedacht, da hat der Hamburger ausgedacht, da hat der Hamburger ausgedacht,  da hat der Hamburger ausgedacht, da hat der Hamburger ausgedacht,  da hat der Hamburger ausgedacht, da hat der Hamburger ausgedacht,  da hat der Hamburger ausgedacht, da hat der Hamburger ausgedacht,  da hat der Hamburger ausgedacht, da hat der Hamburger ausgedacht,  da hat der Hamburger ausgedacht, da hat der Hamburger ausgedacht,  da hat der Hamburger ausgedacht, da hat der Hamburger ausgedacht,  da hat der Hamburger ausgedacht, da hat der Hamburger ausgedacht,  da hat der Hamburger ausgedacht,  da hat der Hamburger ausgedacht, da hat der Hamburger ausgedacht,  da hat der Hamburger ausgedacht,  da hat der Hamburger ausgedacht,  da hat der Hamburger ausgedacht,  da hat der Hamburger ausgedacht,  da hat der Hamburger ausgedacht,  da hat der Hamburger ausgedacht,  da hat der Hamburger ausgedacht,  da hat der Hamburger ausgedacht,  da hat der Hamburger ausgedacht,  da hat der Hamburger ausgedacht,  da hat der Hamburger ausgedacht,  da hat der Hamburger ausgedacht,  da hat der Hamburger ausgedacht,  da hat der Hamburger ausgedacht,  da hat der Hamburger ausgedacht,  da hat der Hamburger ausgedacht,  da hat der Hamburger ausgedacht,  da hat der Hamburger ausgedacht,  da hat der Hamburger ausgedacht,  da hat der Hamburger ausgedacht,  da hat der Hamburger ausgedacht,  da hat der Hamburger ausgedacht,  da hat der Hamburger ausgedacht,  da hat der Hamburger ausgedacht,  da hat der Hamburger ausgedacht,  da hat der Hamburger ausgedacht,  da hat der Hamburger ausgedacht,  da hat der Hamburger ausgedacht,  da hat der Hamburger ausgedacht,  da hat der Hamburger ausgedacht,  da hat der Hamburger ausgedacht,  da hat der Hamburger ausgedacht,  da hat der Hamburger ausgedacht,  da hat der Hamburger ausgedacht,  da hat der Hamburger ausgedacht,  da hat der Hamburger ausgedacht,  da hat der Hamburger ausgedacht,  da hat der Hamburger ausgedacht,  da hat der Hamburger ausgedacht,  da hat der Hamburger ausgedacht,  da hat der Hamburger ausgedacht,  da hat der Hamburger ausgedacht,  da hat der Hamburger ausgedacht,  da hat der Hamburger ausgedacht,  da hat der Hamburger ausgedacht,  da hat der Hamburger ausgedacht,  da hat der Hamburger ausgedacht,  da hat der Hamburger ausgedacht,  da hat der Hamburger ausgedacht,  da hat der Hamburger ausgedacht,  da hat der Hamburger ausgedacht,  da hat der Hamburger ausgedacht,  da hat der Hamburger ausgedacht,  da hat der Hamburger ausgedacht,  da hat der Hamburger ausgedacht,  da hat der Hamburger ausgedacht,  da hat der Hamburger ausgedacht,  da hat der Hamburger ausgedacht,  da hat der Hamburger ausgedacht,  da hat der Hamburger ausgedacht,  da hat der Hamburger ausgedacht,  da hat der Hamburger ausgedacht,  da hat der Hamburger ausgedacht,  da hat der Hamburger ausgedacht,  da hat der Hamburger ausgedacht,  da hat der Hamburger ausgedacht,  da hat der Hamburger ausgedacht,  da hat der Hamburger ausgedacht,  da hat der Hamburger ausgedacht,  da hat der Hamburger ausgedacht,  da hat der Hamburger ausgedacht,  da hat der Hamburger ausgedacht,  da hat der Hamburger ausgedacht,  da hat der Hamburger ausgedacht,  da hat der Hamburger ausgedacht,  da hat der Hamburger ausgedacht,  da hat der Hamburger ausgedacht,  da hat der Hamburger ausgedacht,  da hat der Hamburger ausgedacht,  da hat der Hamburger ausgedacht,  da hat der Hamburger ausgedacht,  da hat der Hamburger ausgedacht,  da hat der Hamburger ausgedacht,  da hat der Hamburger ausgedacht,  da hat der Hamburger ausgedacht,  da hat der Hamburger ausgedacht,  da hat der Hamburger ausgedacht,  da hat der Hamburger ausgedacht,  da hat der Hamburger ausgedacht,  da hat der Hamburger ausgedacht,  da hat der Hamburger ausgedacht,  da hat der Hamburger ausgedacht,  da hat der Hamburger ausgedacht,  da hat der Hamburger ausgedacht,  da hat der Hamburger ausgedacht,  da hat der Hamburger ausgedacht,  da hat der Hamburger ausgedacht,  da hat der Hamburger ausgedacht,  da hat der Hamburger ausgedacht,  da hat der Hamburger ausgedacht,  da hat der Hamburger ausgedacht,  da hat der Hamburger ausgedacht,  da hat der Hamburger ausgedacht,  da hat der Hamburger ausgedacht,  da hat der Hamburger ausgedacht,  da hat der Hamburger ausgedacht,  da hat der Hamburger ausgedacht,  da hat der Hamburger ausgedacht,  da hat der Hamburger ausgedacht,  da hat der Hamburger ausgedacht,  da hat der Hamburger ausgedacht,  da hat der Hamburger ausgedacht,  da hat der Hamburger ausgedacht,  da hat der Hamburger ausgedacht,  da hat der Hamburger ausgedacht,  da hat der Hamburger ausgedacht,  da hat der Hamburger ausgedacht,  da hat der Hamburger ausgedacht,  da hat der Hamburger ausgedacht,  da hat der Hamburger ausgedacht,  da hat der Hamburger ausgedacht,  da hat der Hamburger ausgedacht,  da hat der Hamburger ausgedacht,  da hat der Hamburger ausgedacht,  da hat der Hamburger ausgedacht,  da hat der Hamburger ausgedacht,  da hat der Hamburger ausgedacht,  da hat der Hamburger ausgedacht,  da hat der Hamburger ausgedacht,  da hat der Hamburger ausgedacht,  da hat der Hamburger ausgedacht,  da hat der Hamburger ausgedacht,  da hat der Hamburger ausgedacht,  da hat der Hamburger ausgedacht,  da hat der Hamburger ausgedacht,  da hat der Hamburger ausgedacht,  da hat der Hamburger ausgedacht,  da hat der Hamburger ausgedacht,  da hat der Hamburger ausgedacht,  da hat der Hamburger ausgedacht,  da hat der Hamburger ausgedacht,  da hat der Hamburger ausgedacht,  da hat der Hamburger ausgedacht,  da hat der Hamburger ausgedacht,  da hat der Hamburger ausgedacht,  da hat der Hamburger ausgedacht,  da hat der Hamburger ausgedacht,  da hat der Hamburger ausgedacht,  da hat der Hamburger ausgedacht,  da hat der Hamburger ausgedacht,  da hat der Hamburger ausgedacht,  da hat der Hamburger ausgedacht,  da hat der Hamburger ausgedacht,  da hat der Hamburger ausgedacht,  da hat der Hamburger ausgedacht,  da hat der Hamburger ausgedacht,  da hat der Hamburger ausgedacht,  da hat der Hamburger ausgedacht,  da hat der Hamburger ausgedacht,  da hat der Hamburger ausgedacht,  da hat der Hamburger ausgedacht,  da hat der Hamburger ausgedacht,  da hat der Hamburger ausgedacht,  da hat der Hamburger ausgedacht,  da hat der Hamburger ausgedacht,  da hat der Hamburger ausgedacht,  da hat der Hamburger ausgedacht,  da hat der Hamburger ausgedacht,  da hat der Hamburger ausgedacht,  da hat der Hamburger ausgedacht,  da hat der Hamburger ausgedacht,  da hat der Hamburger ausgedacht,  da hat der Hamburger ausgedacht,  da hat der Hamburger ausgedacht,  da hat der Hamburger ausgedacht,  da hat der Hamburger ausgedacht,  da hat der Hamburger ausgedacht,  da hat der Hamburger ausgedacht,  da hat der Hamburger ausgedacht,  da hat der Hamburger ausgedacht,  da hat der Hamburger ausgedacht,  da hat der Hamburger ausgedacht,  da hat der Hamburger ausgedacht,  da hat der Hamburger ausgedacht,  da hat der Hamburger ausgedacht,  da hat der Hamburger ausgedacht,  da hat der Hamburger ausgedacht,  da hat der Hamburger ausgedacht,  da hat der Hamburger ausgedacht,  da hat der Hamburger ausgedacht,  da hat der Hamburger ausgedacht,  da hat der Hamburger ausgedacht,  da hat der Hamburger ausgedacht,  da hat der Hamburger ausgedacht,  da hat der Hamburger ausgedacht,  da hat der Hamburger ausgedacht,  da hat der Hamburger ausgedacht,  da hat der Hamburger ausgedacht,  da hat der Hamburger ausgedacht,  da hat der Hamburger ausgedacht,  da hat der Hamburger ausgedacht,  da hat der Hamburger ausgedacht,  da hat der Hamburger ausgedacht,  da hat der Hamburger ausgedacht,  da hat der Hamburger ausgedacht,  da hat der Hamburger ausgedacht,  da hat der Hamburger ausgedacht,  da hat der Hamburger ausgedacht,  da hat der Hamburger ausgedacht,  da hat der Hamburger ausgedacht,  da hat der Hamburger ausgedacht,  da hat der Hamburger ausgedacht,  da hat der Hamburger ausgedacht,  da hat der Hamburger ausgedacht,  da hat der Hamburger ausgedacht,  da hat der Hamburger ausgedacht,  da hat der Hamburger ausgedacht,  da hat der Hamburger ausgedacht,  da hat der Hamburger ausgedacht,  da hat der Hamburger ausgedacht,  da hat der Hamburger ausgedacht,  da hat der Hamburger ausgedacht,  da hat der Hamburger ausgedacht,  da hat der Hamburger ausgedacht,  da hat der Hamburger ausgedacht,  da hat der Hamburger ausgedacht,  da hat der Hamburger ausgedacht,  da hat der Hamburger ausgedacht,  da hat der Hamburger ausgedacht,  da hat der Hamburger ausgedacht,  da hat der Hamburger ausgedacht,  da hat der Hamburger ausgedacht,  da hat der Hamburger ausgedacht,  da hat der Hamburger ausgedacht,  da hat der Hamburger ausgedacht,  da hat der Hamburger ausgedacht,  da hat der Hamburger ausgedacht,  da hat der Hamburger ausgedacht,  da hat der Hamburger ausgedacht,  da hat der Hamburger ausgedacht,  da hat der Hamburger ausgedacht,  da hat der Hamburger ausgedacht,  da hat der Hamburger ausgedacht,  da hat der Hamburger ausgedacht,  da hat der Hamburger ausgedacht,  da hat der Hamburger ausgedacht,  da hat der Hamburger ausgedacht,  da hat der Hamburger ausgedacht,  da hat der Hamburger ausgedacht,  da hat der Hamburger ausgedacht,  da hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  dann hat der Hamburger ausgedacht,  Bis zum nächsten Mal.
+ Warte, warte, der Hamburger Ausweis.
+ An der Radio-Ad-CCC-Munus-P.org.
+ Ich werde es ja auch kriegen.
+ Ja, stimmt.
+ Richtig, ja, guter Plan, ja.
+ Sonst kann man, das ist auch unsere Webseite.
+ Da könnt ihr sehen, dass wir existieren.
+ Radio.CCC-Munus-P.org.
+ Das sind wir zumindest ein Vergangenheitsform von uns.
+ Okay, ich möchte noch was Schönes sagen.
+ Apropos Zeit, genau.
+ Genau, apropos Zeit, hast du mich doppelt.
+ Weil ich will ja, also, ja doch, ich mache jetzt halt einfach Werbung  für was, weil ich gar nicht weiß, ob sich das lohnt.
+ Ich habe als kleiner Junge mich immer gefreut  über Digital-Uren von Casio.
+ Und in meinem, in meinem Kopf hatten die auch immer diese  Digital-Ure von Casio mit 100m Wassertiefe,  wo das M, glaube ich, nicht für Meter steht,  sondern weiß ich nicht.
+ Und Casio hat diese Digital-Uren neu aufgelegt.
+ Sie hat jetzt Bluetooth.
+ Sie sieht aber genauso aus wie das Original.
+ Und ich glaube, das Einzige, was sie jetzt,  was sie sonst, oder eine der wenigen Sachen,  die sie noch geändert haben, ist, dass man,  wenn man auf den Beleuchtungsknopf drückt,  dass das Licht dann drei Sekunden anbleibt  und nicht so lange, wie man da drauf drückt.
+ Und es ist alles, es ist alles schön und sieht einfach  noch genauso aus wie damals.
+ Und hat halt, zählt halt jetzt noch Schritte.
+ Also, sonst kann es auch nix.
+ Also, es ist halt wirklich nur eine Digital-Ure  mit ein bisschen Bluetooth innen drin.
+ Aber was macht das Bluetooth jetzt nochmal?
+ Zählt Schritte und übermittelt das dann irgendeine gurgige App.
+ Ach so.
+ Wie zum Beispiel Gadget Bridge, vielleicht?
+ Noch nicht.
+ Also, Casio-Uren sind mit in Gadget Bridge drin.
+ Aber steht auch oben drüber.
+ So, alles so ein bisschen, weil jedes Mal,  wenn man synchronisiert, wird der State resetted  auf der Uhr und so.
+ Also, Casio macht da wahrscheinlich komische Sachen.
+ Na ja, sie können halt uhren.
+ Genau, das wollte ich mal loswerden.
+ Also, dass die, dass die Casio ABL100 WI.
+ Und davon gibt es übrigens auch eine Pack-Man-Edition.
+ Aber sie sieht aus wie früher.
+ Ja, ja.
+ Also, sie haben irgendwie, es gibt ja Leute,  die so Reviews machen, die sagen,  ja, da wurden Dinge dran verbessert.
+ Also, das ist halt so, ja, der Tag hat jetzt zwei Buchstaben.
+ Nicht mehr drei und solche Geschichten.
+ Sie triggert höher und tiefer nicht.
+ Ich glaube, ich habe zwei Exemplare davon.
+ Irgendwo in der Schule verloren.
+ Zum Missfall in meiner Eltern damals.
+ Aber natürlich auch, da bin ich nicht glücklich darüber.
+ Aber wie der Tag hat nur noch zwei Buchstaben?
+ Das ist doch im amerikanischen Raum eigentlich schwierig dann.
+ Also, ich glaube, ich bin mir nicht mehr ganz sicher.
+ Es gab wohl eine Sache, wo der Tag früher anders hieß als heute.
+ Weiß ich nicht mehr.
+ Genau, ja.
+ Das YouTube ist voll von Reviews,  weil noch andere Leute sich so drüber freuen, wie ich mich.
+ So.
+ Ja, jetzt wieder zu schlechteren Themen.
+ Ist ja die Side-Box.
+ Moment, ich bin da ein schlechtes Thema.
+ Das ist der Weise, ich brüsk von mir.
+ Ja, was sind das für Zeiten, in denen wir leben?
+ Ja, wir müssen, wir kommen auch diese Sendung nicht ganz umhin,  um einmal über den großen Teich zu schauen, zu unserem großen Bruder.
+ Nein, das ist vielleicht ein bisschen zu viel gesagt.
+ Aber ja, der Kampf gegen Woke geht weiter.
+ Die Kulturrevolution.
+ Ja, ja, ja.
+ Also, es werden irgendwie Fotos von Inola Gay gelöscht.
+ Er ist jetzt vielleicht auch kein besonderes,  auf munterndes Thema, aber das kursieren ja so lange Listen von Begriffen,  die die Forschenden in den USA irgendwie einfach mal bitte vermeiden sollten  und nicht mehr reinschreiben sollten in ihre Paper.
+ Vielleicht kurz ein Hintergrund, was ist Inola Gay?
+ Das ist der Bomber, der damals die Atombombe abgeworfen hat.
+ Ja, genau, die erste.
+ Im produktiven, also, das ist vielleicht ein falsches Wort,  Kampfeinsatz.
+ Und da geht jetzt gerade eine große Lösch.
+ Da wird irgendwie gerade alles gelöscht bei der US-Administration,  was irgendwie Woke ist.
+ Und bei Inola Gay, da steht es ja angeblich ja quasi schon im Namen mit Gay.
+ Ja, und ansonsten viele Inhalte, die gelöscht werden  auf den US-Webseiten der US-Administration zu einen möglichen Themen.
+ Auch das soziale und auch persönlich und Frauengesundheit betreffend auch.
+ Also, das ist einfach furchtbar, was da so passiert.
+ Genau, und selbst Glasfaser ist Woke die neue Chefin einer US-Bundesbehörde.
+ Rund um Telekommunikation hat quasi die Wildtechnologie offen sein.
+ Und zwar geht es darum, es gibt irgendwie ein Programm namens BEAT mit BEAD geschrieben.
+ Als Akronym, wo es darum geht, auch im ländlichen Raum der USA Haushalte anzubinden.
+ An Internet, an breitbandiges Internet.
+ Und diese Fokussierung auf Glasfaser, dass man ja Glasfaser vor allem da fördert  und nur Glasfaser und nicht noch andere Technologien, das ist ja quasi Woke.
+ So was hatten wir hier doch auch mal, dass jemand in der Regierung meinte,  dass man lieber bei Kupfer bleiben sollte, statt auf Glasfaser zu gehen.
+ Wir haben ja gemerkt, was wir davon hatten.
+ Aber nur mal so als Rückfrage, weil ich mich ja nie mit so was beschäftige.
+ Also, da hat irgendjemand gesagt, hey, Woke ist blöd.
+ Und deswegen glöschen wir jetzt alles, was irgendwas mit Woke zu tun hat.
+ Aber das wurde nicht besonders kompetent ausgeführt, deswegen wurden auch Dinge einfach gelöscht,  weil da halt irgendwie die falschen Wörter im Titel drin stehen.
+ Unter anderem Enola, Gay, das Flugzeug, was hier nicht nichts mit Woke zu tun hat.
+ Ist das richtig zusammengefasst?
+ Ich glaube, die Glasfasern haben noch mal einen anderen Hintergrund.
+ Ich glaube, mit den Glasfasern geht es wirklich so um Technologieoffenheit.
+ Ach so, die beiden ja auch.
+ Genau, das sind zwei verschiedene Themen an der Stelle, die da, genau.
+ Ja, so, okay.
+ Aber letztendlich, ich meine, wir müssen jetzt nicht unbedingt diesen Sprachgebrauch zu sehr reproduzieren,  aber alles, was irgendwie gegen die Gedankenwelt der Rechten in den USA ist,  wird ja sowieso da so bezeichnet.
+ Und man geht da auf jeden Fall entschieden gegen vor und zerstört so einiges da gerade.
+ Das ist sehr unschön.
+ Ja, dafür werden andere Dinge gefördert.
+ Zum Beispiel?
+ AI zum Beispiel, wie bekloppt.
+ AI goes great again.
+ Ja, lass uns doch mal wieder über AI sprechen.
+ Ja, also, kurze Zusammenfassung der letzten Ereignisse.
+ Es gibt zum einen eine künstliche Intelligenz,  die in Behörden als Chatbot agieren wird und Mitarbeiter ersetzen soll.
+ Das ist mal super spannend.
+ Also, bis jetzt, wenn Firmen oder Anbieter von Dienstleistungen,  nein, ich sage jetzt keinen Namen, Chatbots eingeführt haben,  habe ich als Nutzer immer irgendwie keine gute Nutzer-Experience gehabt.
+ Das war immer nervig, weil dann redest du erst eine Viertelstunde mit einer Maschine,  und bist du der Maschine erklärt hast, nein,  du kannst mein Problem jetzt gerade wirklich nicht lösen.
+ Du hast eine Person, und irgendwann kommt eine Person,  und du radest dein Problem weggelöst.
+ Aber diese Viertelstunde ist erstmal weg.
+ Und zwar grundsätzlich, da gibt es ja auch andere Entwicklungen,  wo man diese Viertelstunde verlängert, verkürzt,  wie auch immer als Druckmittel einsetzt,  um möglichst viele Anfragen loszuwerden, die ihn nur nerven, von Kunden.
+ Na gut.
+ Ich weiß jetzt nicht, ob ich bei einer Behörde,  wenn ich ein echtes Anliegen habe,  ein großes Interesse und einen großen Mehrwert dadurch gewinnen,  mit so einem Chatbot aus der Industrie zu sprechen.
+ Aber egal, wir sind gespannt.
+ Ich glaube, die klassische Antwort ist, es kommt darauf an.
+ Und es ist halt immer noch ein riesengroßer Hype.
+ Das ist halt am Ende auch ein Unterschied,  ob das jetzt eine Firma macht,  die tatsächlich Interessen von Unternehmen verfolgt,  oder ob es der Staat selber anfängt.
+ Und grundsätzlich hat meistens der Staat  eine etwas andere Herangehensweise als Unternehmen, aber egal.
+ Aber in den USA verschwimmt das ja gerade eh.
+ Also ich meine, die Trennung ist ja da so ein bisschen aufgehoben.
+ Das Nächste ist, dass es eine KI geben soll,  die automatisch entscheidet, wer weiterarbeiten darf und wer nicht.
+ Das finde ich super spannend,  weil die KI mit dem, was wir bis jetzt dazu tun haben,  die sind hauptsächlich dazu geeignet,  auf gute Formulierungen optimiert zu sein.
+ Das heißt Chypitalier und Co.
+machen gute Formulierungen.
+ Das heißt, wenn ich dann gut formulieren kann,  dann behalte ich mein Job und wenn ich es nicht kann,  dann verliere ich den Halt.
+ Was tendenziell eine spannende Herangehensweise ist,  wenn man es mit Menschen zutun hat.
+ Weil es gibt Menschen, die machen richtig guten Job,  die können aber nicht gut formulieren und umgekehrt.
+ Es gibt Menschen, die können super formulieren,  aber der Job, den die machen, na meine Güte.
+ Kannst du zum 5 Minuten in einer Woche?
+ Richtig, genau.
+ Und deswegen ist auch an dieser Stelle, ich weiß nicht,  ob das ein Einsatz für KI ist, zumindest zum jetzigen Zeitpunkt.
+ Aber lass mal probieren.
+ Du sprichst da vielleicht so in die Richtung,  es gab ja jetzt kürzlich diese Verfügung,  dass doch bitte alle Mitarbeitenden der US-Behörden  in der Woche bitte mal eine Mail schreiben sollen,  was sie denn so diese Woche gemacht haben.
+ Ist schon klar, dass wenn man viele von diesen Mails kriegt,  dass man die nicht mehr dediziert einzeln aufbereiten und aufreagieren kann.
+ Aber willst du denn deine Mitarbeiter überwachen,  die Qualität deiner Mitarbeiter beurteilen?
+ Ich glaube, diese Diskussion gab es vor einiger Zeit schon  bei Einzelhandelsketten Aldi, Lidl und Co.
+ Es war schon lange ausdiskutiert und eigentlich nicht.
+ Aber na ja, gute wir werden es sehen.
+ Alle Menschen haben Management-Style  und sehr kontrollierende Management-Style  wie von vor einiger Zeit.
+ Aber von daher glaube ich jetzt mal ausreichend  in dieser Sphäre gewählt.
+ Ich habe hier einen anderen Ansatz von KI.
+ Achso, na einerseits hat ich, ich habe den Vergnügen  in meinem Job auch viel, mich mit neuen Entwicklungen  auseinandersetzen zu dürfen.
+ Und das heißt eben nicht nur irgendwie lesen und gucken  und so, sondern auch alles mal auszuprobieren.
+ Eine Sache, die ich nicht ausprobieren konnte,  die ich aber interessant fand, war so die Frage,  hey, in den News geht es ja darum,  was wäre es jetzt hier besser mit KI?
+ Ist es China oder ist es die USA?
+ Zum großen Teil beschäftigt man sich ja mit DeepSeek  aus China und OpenAI, Google  und ein bisschen noch Facebook oder Meta aus den USA.
+ Ich glaube jetzt gestern wirbelte auch an mir vorbei,  dass Alibaba irgendwie sein eigenes Sprachmodell rausgebracht hat,  bla bla bla, also tausende Sprachmodelle.
+ Und meine Frage war aber, hey, was gibt es denn in Europa  und in Deutschland?
+ Was man vielleicht so ab und an mal hört,  ist das Sprachmodell von Mistral  oder Mistral selbst, ist das glaube ich genannt  und ich hoffe, das ist richtig ausgesprochen.
+ Es sieht aus wie ein...
+ Mistral, genau, scheint wohl aus Frankreich zu sein,  die machen auch ein paar Dinge  und in Deutschland gibt es auch eins,  ein Sprachmodell LLM, large language model,  ALEP, ALFA, auch hier wieder mit PH geschrieben, ALEP, ALEP, ALFA.
+ Das entsteht wohl in der Nähe von Heidelberg,  von ein paar Menschen gefördert.
+ Heidelberg, wer sich ein bisschen auskennt in der deutschen IT,  ist gleich um die Ecke von SAP,  also neben wahrscheinlich wird da Geld von dort kommen.
+ Also, finde ich jetzt sehr spekulativ an der Stelle,  wobei es geografisch in der Nähe liegt.
+ Du warst noch nicht da, oder?
+ Nein, keine, also doch, ich war schon mal in der Gegend,  aber ich habe mir jetzt da nicht die Finanzströme angeschaut.
+ Ich sage mal so, ohne Quellen wäre mir das etwas sehr spekulativ.
+ Gut, können wir spekulativ lassen, aber ja, weshalb...
+ Also, ich sehe jetzt zum Beispiel auch eher so,  dass Forschung und Entwicklung kommt wohl eher so in Richtung,  aus Richtung der Universität Duisburg-Essen und der TU Darmstadt.
+ Zumindest einer der Gründe kommt auch aus Kreisruhr vom Kitt.
+ Das ist jetzt wiederum in der Nähe von Heidelberg.
+ Okay.
+ Und weshalb das sicherlich irgendwann mal für unser eins interessant werden wird,  ist, wenn die Verwaltung und die deutsche Regierung  endlich viel, viel, viel Geld auf KI wirft,  dann wird es ja wohl ein deutsches Modell werden,  weil so ist es normal, ob das jetzt gut ist oder schlecht.
+ Digitale Souveränität, was?
+ Genau, wollen wir gar nicht irgendwie großartig ausführen,  aber so wird es halt sein.
+ Und das heißt, wenn uns KI in der Verwaltung begegnen wird,  wird es wohl dieses Aleph Alpha sein.
+ Es kommt in nächster Zeit noch ein neues hoch.
+ Genau, leider halt auch nicht offen,  zumindest soweit ich das rausfinde konnte.
+ Also, wenn man ja zum Beispiel mit DeepSfeak oder den Metamodellen, Lama und so weiter  durchaus auch auf dem eigenen Rechner rumspielen kann,  ging das mit Aleph Alpha nicht.
+ Oder ich habe es nicht entdeckt, nicht gefunden,  was meistens ein gutes Zeichen ist.
+ Dass du Dinge nicht findest?
+ Das ist meistens ein gutes Zeichen dafür,  dass es nicht offene Dinge sind.
+ Eigentlich bin ich ganz gut empfinden.
+ Ich bin nicht gut empfinden, aber empfinden bin ich ganz gut.
+ Übrigens, Ostern steht vor der Tür der nächsten Monat?
+ Ja, mal gucken, ob ich die Eier vom letzten Jahr finde.
+ Genau, so viel also zu deutschen LLMs und europäischen.
+ Ich habe übrigens Chachapiti danach gefragt.
+ Sag mir mal, ob ich irgendwo offen verfügbare Dinge zu Aleph Alpha finde?
+ Ja, so ungefähr.
+ Genau, wer da mehr weiß, auch bitte eine Mail an radio@cct-p.org.
+ Also, ich habe mal gesehen,  dass Vosch und Lidl offensichtlich da Geldrenke werfen, deren Topf.
+ Ja, genau, Schwarz, also die Schwarzgruppe.
+ Das kann man auch immer mal wiederholen.
+ Hinter der Schwarzgruppe verbirgt sich eine Lidl- und Kaufland.
+ Von der Schwarzgruppe und Schwarz hat eine recht große IT.
+ Die stecken viel Geld rein,  weil sie eben auch versuchen, ihr Businessmodell umzukrempeln.
+ Und passt auch wieder zurück zu unserem komischen E-Mail-Thema.
+ Also, Schwarz hat eine eigene Top-Level-Domain, Punkt Schwarz.
+ Das heißt, man hätte E-Mails aller "mein Name @Schwarz" haben können.
+ Aber da geht halt so viel kaputt,  weil alle erwarten, dass da irgendein Punkt in der Domain steht.
+ Das ist halt da doch wieder nicht ging.
+ Und deswegen haben die Mitarbeiter von schwarz@mail.schwarz.
+ Ja, genau, und da vielleicht kommt da auch noch was von denen.
+ Ja, von schwarz.
+ Genau, das war das Thema.
+ Und dann würde ich gerne, weil es noch so ein bisschen,  bevor wir ein bisschen Musik machen, noch in das andere einsteigen, ganz kurz.
+ Ich habe mich damit beschäftigt, wie man eigentlich Konversationen transkribiert.
+ Also, wie man jetzt irgendwie Sprache in Text umwandelt.
+ Wenn das Monologe sind, das ist mittlerweile sehr, sehr einfach geworden.
+ Da gibt es viele Möglichkeiten, um irgendwie lokal auf dem eigenen Rechner einfach in den Mikrofon zu babbeln.
+ Und da kommt dann Text raus, das funktioniert hervorragend.
+ Ich möchte fast sagen, wenn man nicht zu viele Fremdwörter benutzt.
+ Das Modell der Wahl ist häufig Whisper.
+ Das erste Modell, was mir überhaupt aufgefallen ist von OpenAI.
+ Also, als Whisper erschienen ist, ist mir das erstmal klar geworden, dass das OpenAI gibt.
+ Das war also bevor GPT den Hype ausgelöst hat.
+ Und das Modell funktioniert immer noch ganz, ganz super.
+ Kann man sich aussuchen, in welcher Sprache man transkribieren will und wie gut das werden soll.
+ Und je mehr Rechenpower man draufhürft, desto besser wird das Modell.
+ Das ist also sozusagen ein gelöstes Problem, möchte ich jetzt mal so behaupten.
+ Was allerdings noch nicht so richtig gut gelöst ist, aus meiner Sicht, ist, Konversationen zu transkribieren.
+ Also, was wir nach mehreren Leuten in Mikrofonen sprechen.
+ Das war jetzt in den letzten Wochen ein bisschen mein kleines Seitenprojekt.
+ Und zwar die Idee, okay, kann man dann nicht einfach ein Meeting transkribieren  und dann nachher die Meeting Notes von einem Large Language Modell machen lassen.
+ Und mal gucken, was dabei rauskommt.
+ Ich gehe aber schon am Transkribieren, weil es natürlich irgendwie nötig ist,  dass man zuweisen kann, wer was gesagt hat.
+ Und wenn ich jetzt einfach mit Whisper irgendwie die Audiodatei transkribieren lasse,  dann sehe ich, dass Whisper irgendwie herausfindet, dass die Sätze von unterschiedlichen Menschen kommen,  allein daran, dass es ein New Line gibt nach so einem Satz oder weiß ich nicht.
+ Also, auch wenn man sich so unterbricht, Whisper kriegt das irgendwie mit,  aber Whisper gibt mir das zumindest mit den Tools, die ich benutzt habe,  gibt mir das nicht aus, die Information.
+ Heißt also, ich musste doch noch ein anderes Tool drüberwerfen.
+ Das Tool der Wahl nennt sich Pi Anode, was gar nicht transkribiert,  sondern einfach nur, so zu sagen, vermutlich irgendwo je Transformation macht  und dann herausfindet, in welchen Frequenzen wurde gesprochen.
+ Und dann habe ich, also wenn ich meine Audiodatei habe, schmeiß ich die zuerst in Whisper,  da kriege ich ganz viel Text und danach kriege ich, schmeiß ich es in Pi Anode  und da kriege ich dann Timestamps.
+ Und da steht halt einfach nur von Sekunde 1 bis Sekunde 5,3, hat Person 1 gesprochen.
+ Und dann kannst du das dann wiederum abgleichen mit dem, was Whisper ausspuckt  und dann kriegst du was zusammen, was so grob das Gespräch reflektiert.
+ Allerdings war für mich sehr, sehr spannend, wie es dann doch wieder scheitert,  weil natürlich irgendwie, wenn mal ein Wort falsch erkannt wird,  das ist in der Regel für die Verständlichkeit nicht so schwierig.
+ Also wenn Whisper nicht 100 Prozent funktioniert, das macht nichts.
+ Wenn aber mehr Personen an der Konversation teilnehmen, als tatsächlich da waren.
+ Was sich ja dann manchmal überschneidet auch.
+ Oder halt ein Dialog auf einmal nur von einer Person gesagt wurde, weil ist halt so.
+ Das macht die Verständlichkeit halt richtig kaputt.
+ Es scheint noch nicht so richtig Produktion zu werden, was erklärt,  warum Kollegen in der Podcast-Szene sich noch darauf verlassen,  mit Tonspuren zu haben.
+ Genau, das wäre also eine Möglichkeit.
+ Oder es gibt halt...
+ Habt ihr gerade so auf Honig, lebt ihr davon, dass es verschiedene Tonspuren hat  und hier spreche ich eine Spur?
+ Genau, und dann halt die, das will ich nochmal in der Zukunft recherchieren,  was denn die Großen machen, also Dobby, Amazon und Google haben alle so Services,  die kann man anmieten, dann macht man es halt in der Cloud.
+ Ich nehme an, da die es verkaufen, funktioniert es besser.
+ Genau, auch hier Hinweise an die bekannte E-Mail-Adresse.
+ Ja, wollen wir vielleicht ein bisschen Musik machen, kurz nach Halbzeit?
+ Ja, genau, da sich Cyroxx das letzte Mal so über die vorangehende Elektromusik gefreut hat,  habe ich von demselben Artist noch mal was gefunden.
+ Es geht nicht ganz so voran, aber trotzdem hören wir mal rein.
+ Und zwar Dirk Dehler, haben wir letztes Mal schon mal gehört,  hat wieder was Elektronisches gemacht, ein Lied namens "Impulsion".
+ Und vom Album "Mélange" auch wieder ein Creative Commons Titel.
+ Deswegen können wir das hier spielen und wir hören uns gleich wieder.
+ [Musik]  [Musik]  [Musik]  Ganz sonnige Musik bei Chaos im Radio, irgendwie von Dirk Dehler.
+ Wir wollen weiter über lustige Dinge sprechen, KI haben wir mehr als abgearbeitet heute.
+ Deswegen sprechen wir jetzt mal was anderes.
+ Es geht es Schlag auf Schlag.
+ [Lachen]  Ja, lass uns zum Beispiel mal ganz kurz reden über den Asteroid 2024 YR4.
+ Ist das nicht Elon Musk's Sohn?
+ Ach nee, der heißt anders.
+ Der heißt anders, genau.
+ Und nein.
+ Es gibt gute Nachrichten.
+ Wir haben nicht alle Sterben.
+ Mit einer Gewissen wahrscheinlich.
+ Also zumindest nicht in einigen Jahrzehnten durch außerirdische Einflüsse.
+ Es gibt gute Nachrichten.
+ Ich weiß gar nicht, ob wir das beim letzten Mal schon erwähnt hatten.
+ Diese Asteroids, da war zwischenzeitlich mal die Frage,  wird der bei uns auf der Erde einschlagen oder nicht?
+ Und weil das Ding ist irgendwie so, irgendwas zwischen 40 und 90 Meter groß,  wurde Ende letzten Jahres entdeckt und da war die Gefahr groß.
+ Kann er auf der Erde einschlagen?
+ Die gute Nachricht ist, nee, ist mittlerweile sehr unwahrscheinlich geworden  nach neueren Messungen und Berechnungen.
+ Mittlerweile ist die Wahrscheinlichkeit entstanden Ende Februar  nur noch bei 0,0027 Prozent,  das er uns trifft irgendwann in den nächsten 10, 20 Jahren.
+ Um Mond schon höher, ne?
+ Die Wahrscheinlichkeit für den Mond ist ein bisschen gestiegen,  da ist es momentan bei 1,7 Prozent.
+ Spannend.
+ Fun Fact am Rande, wusstet ihr,  dass es immer noch regelmäßig jemand den Tesla Roadster entdeckt,  der da Spaceman, der hier um die Sonne mit uns kreist.
+ Um den Mars doch, glaube ich?
+ Der ist auf irgendeiner Bahn, auf einer erdnahen Umlaufbahn,  aber er kreist nicht um die Erde, sondern mit uns um die Sonne.
+ Ah, okay.
+ Und weil das war, wer sich erinnert, das war die erste,  oder eine der ersten erfolgreichen Raketenstaats von SpaceX,  hat diesen Tesla mit einem Dummy drinsitzend in den Weltraum gebracht  und der kreist da jetzt so mit rum,  weil er aber nicht um die Erde kreist,  wird er nicht von den Trackern erfasst,  die sich um Weltraumschrott gewann, wo man immer mal ausweichen muss.
+ Ist aber auch nicht so richtig ein Asteroid  und ist auch in einer komischen Größenkategorie so als Auto.
+ Deswegen wird er regelmäßig wieder entdeckt von jemandem,  der sagt, er kommt uns aber gefährlich nahe  und dann muss das immer wieder zurückgezogen werden,  das war wieder der Tesla.
+ Bei dem Artikel, ich glaube, wir haben hier einen Artikel,  ich glaube, Fr.
+Frankfurt Rundschau.
+ Den ersten Satz unterm Bild finde ich spannend.
+ Der Asteroid wird weiter von Teleskopen beobachtet.
+ Das sorgt dafür, dass er eine Einschlagwahrscheinlichkeit sehr deutlich sinkt.
+ Nein, wie hieß es früher in Bayern,  vom Wiegen wird die Sau nicht fett.
+ Ich glaube nicht, dass die Beobachtung für irgendwas sorgt.
+ Es handelt sich um allerkleinste Teilchen,  wo wir dann in der Quantenwelt wären.
+ Weil wir ihn so intensiv angucken,  deswegen wechselt er seine Bahn.
+ Wir beobachten ihn mit Hochenergie-Lasern.
+ Das ist kein Konzept.
+ Es gab tatsächlich teilweise Nachrichten,  bei der jetzigen Entfernung  könnte man den an diversen Ecken anleuchten  und dann würde seine Bahn so ändern,  dass sich die Wahrscheinlichkeiten erinnern.
+ Dann lasst uns noch mal andere Dinge anleuchten.
+ Ördische Themen.
+ Die elektronische Patientenakte steht hier schon wieder.
+ Wenn das mal kein aufreger Thema wird.
+ Ich hatte immer noch nicht widersprungen.
+ Erstens, wie der sprecht da,  wäre da vielleicht zu nennen,  hatten wir hier schon mal erwähnt.
+ Die elektronische Patientenakte, da gab es ja Ende letzten Jahres  beim Kongress entsprechende Vorträge dazu,  was für Sicherheitsprobleme, Sicherheitslücken ist da.
+ Die elektronische Patientenakte  ist ja jetzt momentan noch in der Pilotphase  in einigen Testregionen  und sollte ja eigentlich jetzt bereits zum 15.
+Februar  in den Regelbetrieb übergehen.
+ Das wurde jetzt aber aufgrund der gefundenen Lücken  erstmal verschoben.
+ Auf jetzt mittlerweile April wurde das ursprünglich verschoben.
+ Wird jetzt aber wahrscheinlich sich noch weiter hinziehen,  weil man im Moment sagt,  okay, erst mal müssen diese Lücken,  die der Chaos Computer Club da gefunden hat,  geschlossen werden, bevor wir da in den normalen Betrieb übergehen,  ist soweit es irgendwie geht,  eine positive Entwicklung, sage ich mal,  dass man jetzt nicht sagt so...
+ Sag mal so, es freut den Ingenieur.
+ Der Ingenieur sagt, fertig ist, wenn es fertig ist,  und wenn nicht vorher.
+ Und deswegen ist es im Prinzip eine positive Entwicklung,  dass man es halt erst dann ausrollt.
+ Die Lücken, die gefunden wurden im letzten Jahr.
+ Ja, also man darf vorsichtig gespannt sein,  wie das jetzt weitergeht,  oder ob nicht gewisse Teile, die eigentlich auch noch kritisch wären,  ob die dann trotzdem noch drin bleiben,  weil es wäre zu kompliziert, das auszubauen,  und man dann einfach ein Gesetz macht.
+ Ja, das ist da, der Rest ist halt per Gesetz sicher verboten.
+ Weil ich meine, den Trick kennen wir ja von D-E-Mail.
+ Und ja, ich meine...
+ Genau, und Dinge, die einen SPD-Gesundheitsminister  Karl Lauterbach mal gesagt hat,  heißt ja nicht, dass das fortbestehen bleibt  unter der neuen Bundesregierung, die uns demnächst droht.
+ Da können die Dinge ja dann vielleicht schon wieder  ein bisschen anders aussehen,  weil wir müssen ja mal mehr innovativ und weniger Bürokratie.
+ Gibt ja unter anderem dieses Video von Friedrich Merz  zusammen mit Frank Thelen, wo sie da halt irgendwie auch sagen,  wir müssen mehr Innovation wagen,  und dieser ganzen Datenschutz ist ja auch so ein bisschen hinderlich.
+ So, sehr sinngemäß.
+ Die Digitalisierung "First Bedenken Second" und solche Sätze.
+ Sagst du noch mal?
+ Digitalisierung "First Bedenken Second" war das mal hinten, oder?
+ Das war FDP, ja, genau.
+ Die zum Wiederholten Male nicht mehr dabei partei im Deutschen Bundestag, aber...
+ Übrigens hier mal Gerhard Baum ist seit unserer letzten Aufnahme verstorben.
+ Wenn ihr nicht kennt, das war einmal unser Innenminister,  ist aber sehr lange her.
+ Er ist mit über 90 gestorben, war noch sehr lange sehr frisch.
+ Deshalb komme ich gerade auf ihn, der ist von der FDP.
+ FDP ist aber von diesem Flügel,  weshalb ich mal fälschlicherweise möchte ich fast sagen,  als Erstwähler FDP angekreuzt habe.
+ Es gab ja mal so diesen Zweig der FDP,  der sich sehr stark auf Bürgerrechte fokussiert hat.
+ Der letzte bekannte Personen in dem Zusammenhang war Sabine Leuthäuser-Schnarrenberger,  die einige schöne Sachen, wenn es um Vorratsdatenspeicherung durchgebracht hat.
+ Genau, und Gerhard Baum kam auch aus diesem Flügel.
+ Der ist im hohen Alter jetzt und war bis zum Ende, glaube ich, noch sehr sehr verstorben.
+ Ja, so viel dazu.
+ Es gab mal so einen Flügel, spannend.
+ Ja, mittlerweile eher nicht mehr.
+ Der wurde gestürzt jetzt.
+ Geht mehr so ein Geld jetzt.
+ Gut, lokaleres Thema haben wir hier noch.
+ Die Smart City Potsdam.
+ Wir kommen, glaube ich, gerade drauf.
+ Wir haben letzte Woche, der letzte Monat, über Mesh-Testik gesprochen,  wer sie noch erinnert.
+ Ich bastle immer noch rum, ich habe es auch gerade wieder in der Hand.
+ Und ein Begriff, der zwischendurch runtergefallen ist,  rausgefallen ist aus unseren Mündern war Laura Wahn.
+ Und das ist noch ein bisschen weiterverbreitet,  als dieses Mesh-Testik-Projekt.
+ Das gibt es auch schon länger.
+ Weil es das schon deutlich länger gibt.
+ Genau, das sind verschiedene Sensoren,  auf definierten Frequenzen ihre Sensor-Werte funken.
+ Und die Stadt Potsdam selber hat eben auch eine Laura Wahn-Installation,  um es mal so zu nennen.
+ Und die fließt jetzt mit in die urbane Datenplattform Potsdam.
+ Wir sind also hier beim Bereich Smart City Potsdam.
+ Wer so ein bisschen sich mit Kommunalpolitik beschäftigt,  nicht nur in Potsdam, sondern auch anderswo wird rausfinden.
+ Ja, also viel Geld, was immer so unter Digitalisierung für Kommunen rumging,  ging, wurde in diese Smart City Projekte überall gesteckt.
+ Also da gibt es wirklich viele, viele, viele Städte,  die gerade Geld in Smart City pumpen.
+ Und bei den meisten bedeutet das irgendwie,  ja, wir machen irgendwas mit öffentlichen Nahverkehr.
+ Irgendeine Karte, worauf man den sieht.
+ Oder wir, weiß ich nicht, bauen digitale Anzeigen irgendwo hin in die Stadt.
+ Und ein Begriff, der auch ganz oft fällt,  ist eben dieses urbane Datenplattform.
+ Furchtbar hat deutscher irgendwie Begriff.
+ Genau, und es gibt eben auch urbane Datenplattform -potsdam.de.
+ Da findet man zum Beispiel raus, wie die Schulbezirke sind und so weiter.
+ Und wo welche Bäume stehen, da kommen irgendwann vielleicht auch mal die Lora-Daten rein.
+ Das ist dann zum Beispiel ja, wo stehen Lampen, also Straßenbeleuchtung und so was.
+ Und das ist also alles, was man vielleicht schon mal gesehen hat unter opendata.potsdam,  kommt eben dann irgendwann die urbane Datenplattform.
+ Genau, das wollten wir uns mal losgehen.
+ Die geht tatsächlich auch in kürze, in wenigen Tagen in den Pilotbetrieb, offenbar.
+ Und zwar gibt's da, am 13.3.
+gibt's da eine Informationsveranstaltung, steht auch auf der Seite.
+ Und zwar von 13.00 Uhr bis 14.30 Uhr im Potsdam Lab,  in der Wissenschaftsetage des Bildungsforum Potsdam am Kanal 47.
+ Dollarstack, nach der Sendung.
+ Genau, und ein Kernsatz ist da.
+ Klicken Sie sich mit uns durch die urbane Datenplattform im Pilotbetrieb  und bringen Sie Ihre Ideen zur Anwendung direkt ein.
+ Ja, so kann die urbane Datenplattform von Anfang an  im Dialog und nah an den Bedürfnissen Potsdam zugehend nicht gemacht werden.
+ Also, man kann sich einbringen unter der Woche, am frühen Nachmittag.
+ Das produziert jede Menge Ausschlüsse, lasst es mich so formulieren.
+ Also, ich hab da leider irgendwie gerade keine Zeit.
+ Also, ich geh dahin.
+Hast du da Zeit?
+ Ich wette, ich kann argumentieren, warum das für meinen Arbeitgeber wichtig ist.
+ Das fänd ich tatsächlich spannend, weil, ganz ehrlich, ohne Scheiß,  für mich klingt das so mit urbane Datenplattform.
+ Und wir haben ja eigentlich das Open Data Portal.
+ Es klingt für mich so ein bisschen wie alter Wein in neuen Schläuchen.
+ Ja, das ist ja.
+ Also, ich hab da eine große Skepsis, wie viel man sich jetzt davon erwarten soll  oder wie viel davon eigentlich nur ist.
+ Wir dürfen es nicht mehr Open Data Plattformen nennen,  sondern wir müssen jetzt irgendwie neue Plattformen aufbauen, weil Fördermittel.
+ Ja, ja, ja.
+ Da ist richtig gelesen, dass die Open Data Plattform Potsdam da ja mit reinwandern  in diese urbane Datenplattformen.
+ So klingt's zumindest.
+ Also, ich werde das für euch rausfinden.
+ Hoffentlich doch.
+ Das geht erst mal gut aus.
+ Genau, also, so unsere Meinung ist ja Open Data gut.
+ Ja, auf jeden Fall.
+ Wollen wir haben?
+ Mit der Umsetzung, dann sagen wir mal,  da kann man wahrscheinlich noch was verbessern.
+ Ja, ich finde halt gespannt, dass es da wie viele Knoten gibt  und Geldweiß.
+ Und ich hab keine Ahnung, wo und ich nix mitgekriegt.
+ Genau, also die...
+ Ich bin ja doch dort mit dem Zimmer beschäftige.
+ Ich hab, genau, ich hab vorhin recherchiert, wie viele Lora-Knoten es denn gibt.
+ Und tatsächlich ist das auch das Einzige, was ich irgendwie sofort finden konnte  bei urbane Datenplattformen-Potsdam-Punktee,  nämlich, dass es irgendwie 600 Sensoren gibt.
+ Und...
+ 469.
+ Danke.
+ 469.
+ Ah, du hast es gerade offen.
+ Ah ja, sehr gut, genau.
+ Und 44 Geldweiß und 10 Gruppen.
+ Ja.
+ Und mehr halt leider nicht.
+ Also mehr findet man zumindest da von dieser Seite aus nicht.
+ Nun kann es halt einfach nur sein, dass das gerade in diesem Umstrukturieren,  dass das da irgendwie verschwunden ist.
+ Aber ansonsten halt sehr frustrierend,  dass gerade die Open Data-Plattformen dann auf einmal...
+ dass man da die Daten nicht findet.
+ Genau, weil ich hätte gerne gewusst, welche Sensoren sind es denn nun,  aber findet man halt...
+ Vielleicht findet man sie ja nach dem 13.
+Dritten.
+ Genau.
+ Die Hoffnung stirbt zuletzt.
+ Also wir sind gespannt.
+ Wir sind gespannt.
+ Thema auf Wiedervorlage.
+ Ja.
+ Und...
+ Genau.
+ Jetzt gibt noch was zu feiern.
+ Ja.
+ Dairocks.
+ Was gibt es zu feiern?
+ Was gibt es zu feiern?
+ Keine Ahnung.
+ Was gibt es zu feiern?
+ Ich muss mal ins Bett gucken.
+ Ach so, ja, der ist ja...
+ Ha, natürlich.
+ Das ist ja eines meiner Lieblingsthemen.
+ Open Source Hardware.
+ Ha, ha.
+ Vor 50 Jahren war das erste Treffen vom Homebrew Computer Club.
+ Den ich in meinen Vorträgen zu Open Source Hardware  wirklich gerne als Beispiel anführe für...
+ Nein, nein, Open Source Hardware ist kein neues Thema.
+ Guck mal, die gab es schon in 70er Jahren.
+ Das war auch der Club, wo Wozniak seinen Apple 1 vorgestellt hat.
+ Ja, genau.
+ Richtig.
+ Das war im Prinzip so ein bisschen wie heute im X-Hine.
+ Die haben sich da getroffen und durften alle ein Mikro-Kontroller mit nach Hause nehmen.
+ Und ich weiß noch, mein Vater hatte zu der Zeit offensichtlich damit schon was zu tun,  auch wenn wir nie darüber spezifisch geredet hatten.
+ Spannend.
+ Der hatte nämlich so einen Bausatz mit einem...
+ Ich glaube, es war der VMI-Bus und einem 8085-Prozessor.
+ Er hatte der auf dem Dachboden.
+ Da hat er so in seiner Freizeit dran rumgeschraubt.
+ Spannend.
+ Okay.
+ Und das war halt ein Beispiel dafür, dass man zu der Zeit mit den Bauplänen von Hardware  noch anders und offener umgegangen ist.
+ Und in dem Artikel bei Heise zu diesem Thema steht auch so ein bisschen dann die Entwicklung drin.
+ Es gab Leute, die fanden das Geschäft schädigend so offen damit umzugehen.
+ Daraufhin hat sich dann auch diese Kurve zu, wie verdienen Geld damit, dass Hardware geschlossen ist  und nicht verfügbar, also die Bauplänen nicht verfügbar sind.
+ Die hat sich da leider daran angeschlossen.
+ Also das kommt auch aus einer Zeit, muss man sagen, wo Software noch publiziert wurde,  in dem der Code in Zeitungen abgedruckt worden ist.
+ Und dann hat man sich das sozusagen abgeschrieben auf seiner eigenen Plattform.
+ Dass man ja in der Inhalt einer 8-Zoll-Kette ohne weiteres Einerzeitung abgedruckt werden konnte.
+ Genau.
+ 8-Zoll, das ist ja...
+ Ja, ich hab noch eines.
+ Aber da sind noch die neuen iPhones auch wieder bei 8-Zoll.
+ Und an der HTW gibt es einen Laufwerk dafür.
+ Ich weiß das.
+ Ja, genau.
+ Ja, Verzeihung.
+ Ja, kommt vor.
+ So, spannend.
+ Okay, und dann, wo wir einmal bei offenen Dingen sind.
+ So, spiele ich jetzt erst noch ein bisschen Musik oder quatsch mal gleich weiter?
+ Was sagt denn die Zeit?
+ Zählen.
+ Ah, komm, dann rede ich direkt weiter.
+ Offen, ihr wisst, wir haben schon öfter darüber geredet über so offene und halboffene Geräte.
+ So ganz, ganz so grünen wie damals, was das angeht, was diesen Aspekt angeht.
+ Das ist natürlich heute nicht mehr.
+ Aber man kann zumindest sich noch mit offener Software beschäftigen.
+ Auf Telefonen, also Android-Telefone, iPhones ist natürlich in der Regel sehr, sehr weit weg von offener Software.
+ Weil man sich darauf verlassen muss, dass Google und Apple das irgendwie so machen, wie man das will.
+ Aber ein paar Telefone gibt es ja noch, die kann man schon vom Hersteller erlaubt mit eigener Software bespielen.
+ Zum Beispiel Fairphones sind dafür bekannt.
+ Aber auch noch ein paar andere Telefone.
+ Hintergrund ist also der, wenn man denn seine Hände an ein Betriebssystem bekommt, was auf der Hardware läuft,  dann kann man das mit dem entsprechenden Wissenvoraussetz natürlich irgendwie auf das Telefon aufspielen und dann damit mehr oder weniger gut leben.
+ Und die meisten anderen Hersteller, iPhones und die typischen Google-Telefone und so weiter, die lassen das gar nicht zu.
+ Da gibt es dann irgendwelche Sicherheitsmechanismen, die verhindern, dass man da selber irgendwas drauf machen kann.
+ Und dann gibt es noch diese Grauzone von Telefonen, wo sich die Hersteller nicht genug angestrengt haben, dass sie die Sicherheitsmechanismen auch funktionieren.
+ Und um diese Grauzone hat sich also eine große Community entwickelt von Menschen, die selber Android entwickeln bzw.
+das ein bisschen anders ausstatten.
+ Das ist so wie bei Linux, da gibt es ja auch irgendwie einen gemeinsamen Kernel, aber dann ganz, ganz viele unterschiedliche Guis und so weiter.
+ Da gibt es Arch Linux und Ubuntu und weiß ich nicht.
+Und so ähnlich ist es bei Android eben auch.
+ Da gibt es verschiedene Roms, so heißen die dann.
+ Wir hatten früher mal "Syroge Mod" oder so ähnlich, hieß der, der heißt mittlerweile "Linage".
+ Und es gibt dann ganz, ganz viele Leute, die sich damit beschäftigt haben, wie kriege ich das denn auf meinen Telefonen,  wenn sich keiner an Samsung nicht genug angestrengt hat, das zu verhindern.
+ Und ich war kürzlich völlig baff, weil ich wegen dieser Merch-Testig-Geräte, die wollen alle noch einen Telefon nebenan,  damit man da die Nachrichten dann auf dem Telefon abrufen kann.
+ Und da habe ich also mein altes Telefon wieder aus dem Schrank geholt.
+ Das war ein BQ Aquaris X2 Pro, kann man heutzutage nicht mehr kaufen.
+ Gibt es nirgends, wo es ein spanisches, ein spanischer Hersteller, später glaube ich vietnamesisch, wurde noch ein paar mal verkauft.
+ Habe ich damals gekauft, weil es eben aus Europa kam.
+ Da hat sich nicht so besonders gut verkauft, gab eben so eine spanische Community drumherum.
+ Und ich hatte irgendwann das mal geöffnet, also softwaretechnisch geöffnet und konnte dann da mein eigenes Android drauf spielen.
+ Hat da ein Android 8, glaube ich, drauf, eben von Linage.
+ Und ich machte das an, habe das mit dem Merch-Testig-Gerät verbunden und deswegen auch Internet gegeben.
+ Und dann meinte ich, oh, ich habe ein Update.
+ Wieso hat dieses Telefon, das man nicht mehr gebraucht, auf ebay kaufen kann?
+ Also es gibt es einfach nicht mehr.
+ Das Telefon ist, glaube ich, von 2018.
+ Genau, von 2018 und hat jetzt ein Update auf Android 13 bekommen.
+ Also irgendein Zauberer, ich weiß nicht, Dank geht raus, an Unbekannt.
+ Hat Android 13 auf dieses Telefon portiert, was mir absolut unbegreiflich ist, wie das geht.
+ Weil es hat halt auch irgendwelche komische Hardware-Innen drin.
+ Zum Media and Tech-Prozessoren und so weiter.
+ Und ich habe dann Android 13 drauf installiert und damit ist es jetzt auf dem gleichen Stand wie mein Fairphone 4,  was doch ein bisschen neuer ist.
+ Und hatte ich schon mehrfach erzählt in der Episode, wo wir, oder in mehreren Episoden,  natürlich ohne die ganzen Google-Anteile im Android.
+ Und darauf möchte ich jetzt nochmal verweisen, auch da hat sich einiges getan.
+ Es haben sich Leute hingesetzt und haben diesen ganzen Google-Stack, die Google Play Services und so weiter alles ersetzt.
+ Das Projekt, was da am meisten Drive hat, nennt sich Micro G.
+ Und das Schöne ist, wenn man jetzt so eine Standardkombination eben diesen Lineage-Rom mit Micro G haben möchte  und dem App-Store, also ganz viele lustige Begriffe heute, da kommen also die Apps her.
+ Alles nur freie Apps im App-Store.
+ Ach, da kommen die Apps her.
+ Und die bringen nicht das Storch.
+ Genau.
+ Und das heißt da auf Lineage.MicroG.org kann man sich also so das eigene Telefon unterstützt.
+ Aber da gibt es viele, viele, die unterstützt sind.
+ Kann man das also direkt installieren.
+ Dann hat man ein Android-Telefon ohne Google.
+ Und ich bin mittlerweile buff.
+ Ich habe das nebenbei noch eben jetzt ein bisschen benutzt.
+ Ich habe mittlerweile wirklich viele, viele Alternativen für Apps, die einem das Leben leichter machen.
+ Also man kann, glaube ich, mittlerweile ganz gut mit einem Telefon ohne Google leben.
+ Und tatsächlich ist es eben so, dass die Google-Apps mittlerweile ganz schön fett und machen halt diese Telefone sehr, sehr langsam.
+ Und das heißt, wenn man ein Telefon von 2018 oder ich habe auch noch ein Motorola Moto G5 von 2016,  das kann man, also der Telefon, die unter 200 Euro gekostet haben damals,  kann man also durchaus benutzen heutzutage zum Telefonieren und modernen im Websurf.
+ Was übrigens mit einem iPhone aus dieser Zeit nicht mehr geht.
+ Da nehme ich da irgendwann die Zertifikate ablaufen.
+ Okay, aber bestimmte Apps machen ja immer mal dann doch noch Probleme meist?
+ Genau.
+ Und damit wollte ich mich jetzt nochmal beschäftigen.
+ So typisch sind Banking-Apps, die dann nicht laufen wollen.
+ Also da gibt es so Security-Frameworks, die unten drunter hängen, die sagen halt, der Banking-App, hey, ich bin überhaupt gar ein autidentifiziertes Google-Handy.
+ Deshalb starten wir lieber nicht, weil das könnte hier ein böser Mensch sein.
+ Das ist so die Vorgabe, was die Hersteller von Banking-Apps behaupten, warum das so ist.
+ Aber wenn man einmal das ganze Telefon und alles hat, dann kann man auch sowas vermutlich ganz gut vortäuschen.
+ Ich habe mich damit noch nicht beschäftigt, aber theoretisch müsste es gehen,  dass man jetzt eben auch eine Banking-App dann als von einem funktionierenden Telefon runter holen kann sozusagen  und auf das ent-Google-Telefon drauf spielen.
+ Und dann funktioniert auch das.
+ Also gute Zeiten für offene Standards und offene Telefone und offene Software.
+ Das gefällt mir, wie in welche Richtung das geht und macht echt Spaß.
+ Und am Rande will ich nur erwähnen, dass es gibt noch einen weiteren kommerziellen Anbieter, der so ein bisschen die Ecke schlägt.
+ Ich möchte die nicht empfehlen, aber ich möchte es zumindest erwähnt haben, dass es die gibt.
+ Die E-Foundation, also der Buchstabe E, weiß nicht, wer sich das ausgedacht hat, dass man die Firma nennt, aber okay.
+ Die machen also das volle Telefonprogrammen, man kann zum Beispiel das Fairphone schon kaufen mit IOS  und dann kriegt man halt ein Android mit irgendeinem Next-Cloud-Gramm, wo was dann alles synchronisiert  und was sich dann anfühlt, wie so ein fertiges Google-Telefon.
+ Nur halt, dass keine Google, nicht so viel Google-Software drunter hat.
+ Genau, ganz viel von mir, offenes Android, top.
+ Dann haben wir vielleicht mal auch noch einen Punkt, wo ihr aktiv werden könnt für zum Thema Energiewende.
+ Da sei hier an dieser Stelle mal darauf verwiesen auf eine neue Petition an den Bundestag  von der Initiative Balkonsola, aber zum Beispiel auch unterstützt vom Akku-Doctor, nennt der sich,  unter anderem auf YouTube.
+ Und zwar geht es da um eine Petition, um so kleinen Speicher für zu Hause attraktiver zu machen,  um die einzubenden in unser Energienetz, damit wir sie sinnvoll nutzen können,  als Ergänzung zu zum Beispiel auch so groß speichern, die wir halt brauchen,  um unser Energienetz einfach noch weiter robust zu machen und auch entsprechend dezentraler zu machen.
+ Und zwar nennt sich die Petition "netzdienliche Zwischenspeicherung erneuerbarer Energien durch Kleinspeicher".
+ Und finden könnt ihr die, indem ihr folgende Website aufruft,  und zwar Balkon.solarschreckstrich-petition2, und die zwei als Zahl geschrieben.
+ Also Balkon.solarschreckstrich-petition2.
+ Und dort findet ihr weitere Infos dazu und auch ein Link zu der Bundestagspetition.
+ Schaut da gerne mal vorbei, die Zeichnungsfrist ist bis in den April hinein,  aber man muss ja ein bestimmtes Quorum erreichen, also zeichnet da gerne mal mit.
+ Das ist gelebte Demokratie.
+ Ich stecke nicht so tief drin, aber ich habe mitgekriegt, dass bekannte,  einfach ein Speicher an ihr Balkonkraftwerk anhängen wollten.
+ Und ja, man kann das anmelden im Markenstammdatenregister,  woraufhin arbeiten, schreiben das Netzbetreiber, was kommt,  man möge das mal separat anmelden, und dann muss eine Elektrik, das schon wieder abnehmen, und, und, und.
+ Also wenn man in so einem Balkonkraftwerk im Moment ein Speicher anklemmen möchte,  ist nicht so einfach, wie man sich das vielleicht denkt.
+ Also nicht einfach steckerein Batterie dran fertig, sondern...
+ Widgets im Sommer wieder, wieder relevant.
+ Im Sommer kommt aus vielen Balkonkraftwerken sehr, sehr viel Strom raus für so einen normalen Haushalt.
+ Und das wäre schon ganz cool, wenn man den dann auch in der Nacht noch benutzen könnte.
+ Richtig.
+Also ich habe tatsächlich meine Batterien jetzt wieder rausgeholt über den Winter.
+ Kaum hat er nicht, weil da kommt nicht genug runter.
+ Aber im Sommer reichen ist es schon ganz nett,  wenn man den Strom, der am Tag runterballert, auch nachts noch verwenden kann.
+ Ja, ja, auch generell halt dieses, es ist ja nicht so, dass wir zu wenig Strom hätten,  wenn man dieses Flatterstrom sonst so was, sondern wir haben eigentlich tatsächlich sogar zu viel,  und teilweise müssen ja die Anlagen auch runter geregelt werden.
+ Und je, je besser wir halt die bestehenden Speicher nutzen können, auch so kleine Speicher, umso besser.
+ Dass wir die Anlagen runter regeln, ist auch ein Diskussionsthema für die Ewigkeit,  zwischen den Betreibern und Solarzellenbesitzern.
+ Bei extra 3 gibt es dann eine lustige Folge zu, von einem Supermarkt,  dessen Solarzellen abgeschaltet werden, wenn die Sonne scheint.
+ Weil dann die Sonne scheint.
+ Gut.
+Ja, da gibt es ein bisschen was zu holen.
+ Genau.
+Ansonsten würde ich sagen, glaube ich, das war es von unserem monatlichen Update für diesmal.
+ Wir freuen uns, wenn ihr auch beim nächsten Mal wieder einschaltet.
+ Genau.
+Und der Knobst wird uns eh wieder schneller laufen lassen.
+ Deswegen lassen wir einfach zum Ausschwingen eine weitere Stück Musik gelaufen.
+ Und dann, vielleicht hört ihr es ganz, vielleicht auch nicht.
+ Doch, ihr hört das Ganze.
+ Oh, ihr hört da auch im Hintergrund schon Geräusche für die Ewigkeit.
+ Willkommen.
+ Und genau, dann viele Grüße aus der jetzt doch langsam dunkler werdenden Machbar-Sondag.
+ Wir hören uns wieder im April, am zweiten Montag, im April, richtig.
+ Ja, im zweiten Montag, im April von 21 bis 22 Uhr hier auf im Freien Radio Potsdam,  auf 90,7 MHz in Potsdam, 88,4 in Berlin oder auf DAB Plus.
+ Und ihr findet unsere Radio.z10-p.org.
+ Und zum Abschluss hört ihr jetzt von Broke for Free, den Titel Night Owl,  wie immer aus dem Free Music Archive.
+ Bis zum nächsten Mal.
 Tschüss.
+ Tschüss.
+ (Dynamische Musik)  (Dynamische Musik)  (Dynamische Musik)  (Dynamische Musik)  (Dynamische Musik)  (Dynamische Musik) 
