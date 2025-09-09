@@ -1,686 +1,725 @@
- Dumm die dumm.
-Herzlich willkommen zur März Ausgabe von Chaos im Radio.
+ Dumm die dumm herzlich willkommen zur März Ausgabe von Chaos im Radio.
 Heute mit dabei sind der Knurps.
- Moin moin.
-Endlich wieder der Cyroxx.
-Hallo.
- Diesmal live von den Farben und der Hannes.
-Hallo.
-Und liebe Zauber und der Gini.
- Hallo Gini.
+ Endlich wieder der Cyroxx.
+Hallo, ist mal live von der Farbe.
+Und der Hannes.
+ Und die bezaubernde Gini.
 Hallo Gini.
-Tja Edim, was gibt es noch?
+Was gibt es noch?
 Waffeln.
- Heute gibt es keine Waffeln.
-Waffeln.
-Waffeln.
+Heute gibt es keine Waffeln.
+ Waffeln.
 Waffeln.
 Waffeln.
 Waffeln.
 Anspielung auf den Waffelsraum.
- Ja, ist der Waffeln.
+Ja, ist der Waffel.
 Genau.
-Wir haben Sie am letzten Podcast Folge, wie auch immer angekündigt,  das war "Trag des offenen Hexpaces" am zweiten Dritten.
-Ja, zweiter Dritter, genau eine Woche her.
- Aber wir nehmen mal ein bisschen Feuer auf.
+ Wir haben uns am letzten Podcast-Folge, wie auch immer angekündigt, das war "Tag des offenen Hexbases" am zweiten, dritten.
+ Ja, zweiter, dritter, genau eine Woche her.
+Aber wir nehmen ein bisschen Feuer auf.
 Also quasi nicht mehr als eine Woche her.
  Ich bin jetzt schon verwirrt.
 Schön.
-Ja, und die Machbar oder ja, das ist ja der Hexpaces die Machbar, oder?
- Ich bin richtig verwirrt, Leute.
-Ich war auch offen.
+Ja, und die Machbar oder ja, das ist ja der Hexbass, ist die Machbar, oder?
+ Ich bericht ich aber, Leute.
 Es gab Waffeln.
-Es war eine kleine Runde hinter Leuten.
- Was gab es noch?
+Es gab kleine, runde, nette Leute.
+Was gab es noch?
 Reparierte Laptops?
-Total großartig.
-Ja, wir haben gehackt am Tag des offenen Hexpaces.
- Ich hab Mehl gehackt.
-Du hast Mehl gehackt.
-Wirklich lieber Schokolade hacken sollen, oder?
- Wir sind voller gewesen.
-Ja, aber wie hakt man Mehl?
-Ja, das würdest du begann wissen.
- Das hätte da sein müssen, ja.
-Darf ich meine Leidensgeschichte erzählen?
-Ja, gleich, aber ich hab mein Mixer hier auch vergessen.
- Dann muss er noch irgendwo liegen.
+ Total wurschtig.
+Ja, wir haben gehackt am Tag des offenen Hexbases.
+Ich habe mir gehackt.
+ Du hast mir gehackt.
+Ich hätte lieber Schokolade hacken sollen, oder?
+Wir sind voller gewesen.
+ Ja, aber wie hackt man mir?
+Ja, das würdest du begegnen wissen.
+Da hättest du da sein müssen.
+ Darf ich meine Leidensgeschichte erzählen?
+Ja, gleich.
+Aber ich habe mein Mixer hier auch vergessen.
+ Dann wird es auch noch irgendwo liegen.
 Okay, jetzt darfst du deine Leidensgeschichte erzählen.
- Ich habe am Tag des offenen Hexpaces zwei Sachen gemacht hier in der Machbar.
- Das erste war Hardware Hacking.
-Und zwar habe ich seit Monaten einen relativ günstigen,  irgendwas Laptop von 2015 oder so mit mir rumgeschleppt.
-Ich wollte den mal irgendjemanden zur Verfügung stellen,  der den braucht, also keine Ahnung, die Jungs und Mädels von, wie heißen sie, HPI, die Kinderkurse?
- Kodadojo?
+ Ich habe am Tag des offenen Hexbases zwei Sachen gemacht hier in der Machbar.
+Das erste war Hardware Hacking.
+ Und zwar habe ich seit Monaten einen relativ günstigen, irgendwas, Laptop von 2015 oder so mit mir rumgeschleppt.
+ Ich wollte mal irgendjemanden zur Verfügung stellen, der den braucht.
+Also keine Ahnung, die Jungs und Mädels von...
+ Na, wie heißen sie?
+HPI, die Kinderkurse...
+Kodadojo?
 Das Kodadojo, danke.
-Ja, es ist nicht nur HPI, aber...
-Genau, aber der Potsdamer Abtab 2 ist ja im großen Tags vom HPI.
- Genau, den wollte ich eventuell so einen Laptop hengeben, der ging und dann hatte ich den zu Hause und wollte nochmal einen abschließenden Check machen  und drück auf den Knopf und nix geht, nix passiert.
-So, irgendwie vorne die LEDs gingen kurz an und gingen wieder aus und das war kein Bildschirm.
+Das ist nicht nur HPI, aber...
+ Genau, aber der Potsdamer ab der Zweig ist ja im großen Platz vom HPI.
+ Genau, den wollte ich eventuell so einen Laptop hingeben.
+Der ging und dann hatte ich den zu Hause  und wollte nochmal einen abschließenden Check machen und drück auf den Knopf und nichts geht.
+ Nichts passiert.
+So, irgendwie vorne die LEDs gingen kurz an und gingen wieder aus und das war es.
  Ganz viel nichts.
-Ganz viel nichts.
-So, und dann habe ich den halt, wie man das so macht, einmal auseinander genommen,  was schon schmerzhaft war, weil dieser Hersteller das nicht so macht, dass man die auseinander nehmen kann.
- Man hat aber irgendwie geklappt, aber auch nix kaputt gemacht, haben wieder zusammengesetzt, keine Änderung, wenig überrascht.
- So, und dann habe ich über mehrere Monate mit recherchieren und immer mal wieder dran rumzubillen, festgestellt, oha, eine leere Mainboard-Batterie könnte das Problem sein.
- Also, bei den Geräten, die ich sonst so kenne, heißt das eigentlich nur, dass die Uhrzeit nicht mehr geht, wenn die Mainboard-Batterie leer ist  oder irgendeine Hand sage kommt, die Hilfe deiner Mainboard-Batterie ist leer.
- Also, beim Starten mal F1 und dann geht es weiter.
-- Exakt.
-Also, so eine kleine Knopfzelle, aber nein, bei diesem Modell ist es so, der geht dann nicht mehr an.
- Was ganz schön dramatisch ist, finde ich so, das ist schon geplante Obsolistenz, finde ich.
- So, noch dazu war das natürlich eine fest eingelötete Knopfzelle, die auch wirklich alles einmal auseinander nehmen musste, um dieses Ding da rauszuholen.
+ Ganz viel nichts.
+So, und dann habe ich den halt, wie man das so macht, einmal auseinandergenommen,  was schon schmerzhaft war, weil dieser Hersteller das nicht so macht, dass man die auseinandernehmen kann.
+ Man hat aber irgendwie geklappt, aber auch nichts kaputt gemacht, haben wieder zusammengesetzt, keine Änderung, wenig überrascht.
+ So, und dann habe ich über mehrere Monate mit recherchieren und immer mal wieder dran rumzubillen, festgestellt.
+ Oha, eine leere Mainboard-Batterie könnte das Problem sein.
+ Also bei den Geräten, die ich sonst so kenne, heißt das eigentlich nur, dass die Uhrzeit nicht mehr geht,  wenn die Mainboard-Batterie leer ist oder irgendeine Hand sei gekommen, die Hilfe deiner Mainboard-Batterie ist leer.
+ Oder das ist beim Starten mal F1 und dann geht es weiter.
+ Exakt.
+Also so eine kleine Knopfzelle, aber nein, bei diesem Modell ist es so, der geht dann nicht mehr an.
+ Was ganz schön dramatisch ist, finde ich so.
+Das ist schon geplante Obsolistenz, finde ich.
+ So, noch dazu war das natürlich eine fest eingelötete Knopfzelle, die auch wirklich alles einmal auseinander nehmen musstest, um dieses Ding da rauszuholen.
  Und dann habe ich mich da mit dem Löten noch schwer getan.
- Naja, keine Ahnung, jedenfalls am Tag des Off-Night-Hacks-Bases habe ich mir fest vorgenommen, das zu schaffen.
- Und ich habe es geschafft und der ging auf einmal an und ich hatte damit nach Monaten das rumzubillen, nicht damit gerechnet, der angeht.
+ Naja, keine Ahnung, jedenfalls am Tag des Auf-Nen-Hacks-Bases habe ich fest vorgenommen, das zu schaffen.
+ Und ich habe es geschafft und der ging auf einmal an und ich hatte damit nach Monaten das rumzubillens nicht damit gerechnet, dass der angeht.
  Und dann ging das alles und das war eigentlich alles so schön.
-- Ein schönes Erfaxerlebnis.
-- Ja.
- Und heute war ein anderer Laptop kaputt von einem anderen Hersteller.
- Der ging an mit dem Hinweis, dass der Lüfter-Fan-Error, something, something, also habe ich den auch aufgemacht.
- Und das erste, was mich da anblickte, nachdem ich drei Schrauben gelöst habe, war eine Knopfzelle, die man einfach so hätte wechseln können.
- Nicht schön.
-- Das ist gemein.
- Naja, den habe ich dann geputzt im Gegensatz.
-- Aber der Lüfter war eingelötet.
+ Ein schönes Erfax-Erlebnis.
+ Ja, und heute war ein anderer Laptop kaputt, von einem anderen Hersteller, der ging an mit dem Hinweis, dass der Lüfter-Fan-Error "something, something".
+ Also habe ich den auch aufgemacht und das erste, was mich da anblickte, nachdem ich drei Schrauben gelöst habe, war eine Knopfzelle, die man einfach so hätte wechseln können.
+ Nicht so schön.
+ Ist das gemein?
+ Naja, den habe ich dann geputzt, dann ging auch wieder alles gut.
+ Aber der Lüfter war eingelötet.
  Der Lüfter war eingelötet.
  Ja, und das andere wollte ich auch noch loswerden, war nämlich unser Podcast Publishing.
- Wenn hier alles gut läuft, dann hört man diese Folge auch mal wieder übers Internet.
- Nicht nur über Radio.
- Weil ich ein Skript geschrieben habe, was das in das andere Skript reinbaut, was unseren Feed erzeugt.
- Ein Go-Skript.
-- Ein Go-Skript, genau.
+ Wenn hier alles gut läuft, dann hört man diese Folge auch mal wieder übers Internet, nicht nur übers Radio.
+ Weil ich ein Skript geschrieben habe, was das in das andere Skript rein baut, was unseren Feed erzeugt.
+ Ein Go-Skript?
+ Ein Go-Skript, genau.
  Was ich durchgelesen habe und dachte, oh ja, ich sollte mal Go lernen, um meinen professionellen Background zu erweitern.
- Irgendwann mal.
- Okay, womit bringt ihr da ein Go in Verbindung?
-- Mit einem Hamster.
- Ist das ein Hamster?
-- Ach so, das kann sein.
-- Ein Gopher.
+ Kannst du irgendwann mal?
+ Womit bringt dir dein Go in Verbindung?
+ Mit einem Hamster, es ist ein Hamster.
+ Ach so, das kann sein.
+ Ein Go-Fahr, ja.
  Das sieht ähnlich aus wie ein Hamster war.
-- Also bei Go denke ich an Tooling, an DevOps, an Skripte.
+ Also bei Go denke ich an Tooling, an DevOps, an Skripte.
  Noch was?
-- Schnell, Performance.
+ Schnell, Performance.
  Also zumindest nett, parallelisierbar.
-- Ich muss an Rust denken dabei.
+ Ich muss an Rust denken dabei.
  Vielleicht Go denke ich an Rust.
-- Ja, aber ich glaube, es sind schon unterschiedliche Anwendungsfälle.
- Also ich meine, die meisten denken wahrscheinlich an Google, dachte ich so, weil Go die Google Sprache ist.
- Manchmal auch furchtbarer Name für eine Programmiensprache.
-Zwei Buchstaben sind eine ganz schlechte Idee.
+ Aber ich glaube, es sind schon unterschiedliche Anwendungsfälle.
+ Also ich meine, die meisten denken wahrscheinlich an Google, dachte ich so, weil Go die Google-Sprache ist.
+ Manchmal auch furchtbarer Name für eine Programmiersprache.
+ Zwei Buchstaben sind eine ganz schlechte Idee.
  Im Besondere, wenn du im Internet nach Dingen suchst, wie mache ich Dinge in Go?
  Oder ich habe ein Problem mit Go.
-- Ein Rollstuhl, bitte schön.
+ Ein Rollstuhl, bitte schön.
  Deswegen heißt es meistens Go lang.
-- Ja.
- Und ich glaube, weshalb du das mit DevOps irgendwie assoziest, ist, dass das so die Kernscripting-Sprache in Kubernetes ist.
- Aha, das kann sein, das nutzen wir auch.
- Genau, also das ist ja mittlerweile im Deployment relativ üblich,  da Kubernetes als Plattform zu benutzen, weil Container reißt und so weiter.
+ Und ich glaube, weshalb du das mit DevOps irgendwie assoziierst, ist, dass das so die Kernskripting-Sprache in Kubernetes ist.
+ Ah, das kann sein.
+ Ah, das sitzen wir auch.
+ Genau, also so irgendwie, das ist ja mittlerweile im Deployment relativ üblich.
+ Da irgendwie Kubernetes als Plattform zu benutzen, weil Container reißt und so weiter.
  Und da sind so kleine Mini-Services und so sind gerne mal in Go geschrieben.
  Genau, deswegen gibt es Go.
- Ich weiß nicht, ob es jetzt wirklich, ich glaube, wenn man es runterkompiliert, ist es tatsächlich relativ flott.
- Die Sprache an sich, ich habe vorhin schon gesagt, das einzige, was ich an der Programmiensprache nicht mag, ist die Programmiensprache.
- Also die Sonntags- und so ein paar Paradigmen, die sie da übernehmen, sind furchtbar.
+ Ich weiß nicht, ob es jetzt wirklich, also ich glaube, wenn man es runterkompiliert, ist es tatsächlich hier relativ flott.
+ Die Sprache an sich.
+ Ich habe vorhin schon gesagt, das einzige, was ich an der Programmiersprache nicht mag, ist die Programmiersprache.
+ Also die Sündtags und so ein paar Paradigmen, die Sie da übernehmen, sind furchtbar.
  Also finde ich für meinen Geschmack, ich komme aus der C-Welt und habe auch lange irgendwie Python gemacht und C++ und so weiter.
- Es ist sehr verbose, also man muss so Error-Handling, da haben die ihr eigenes, ihre eigenes Manifesto,  das halt, du musst explizit immer gucken, was macht hier,  kam hier wirklich Error zurück oder ist Error nil, das macht dann immer so ein "if er nil" hast du durch den ganzen Code überall drin stehen.
- Exceptions gibt es nicht, Vererbung gibt es nicht, das ist auch nicht wirklich objektorientiert, aber auch nicht wirklich was anderes.
- Also das ist ein bisschen komisch.
+ Das ist sehr verbose.
+ So Error-Handling, da haben die ihr eigenes, ihre eigenes Manifesto.
+ Das halt, du musst explizit immer gucken, was macht hier, kam hier wirklich Error, ein Error zurück oder ist Error nil.
+ Das macht dann immer so ein "if er nil" hast du durch den ganzen Code überall drin stehen.
+ Exceptions gibt es nicht, Vererbungen gibt es nicht.
+ Es ist auch nicht wirklich objektorientiert, aber auch nicht wirklich was anderes.
+ Also ein bisschen komisch.
  Aber all das ist es wert, weil alles drum herum halt einfach super durchdacht ist.
- Also was man eben früher so in C++ und Python vielleicht schon eher bei C++ nicht mitgedacht hat,  war ja, wie kümmest du dich denn um Versionierung, wie kümmest du dich um Dependency Management?
+ Also da war es man eben früher so in C++ und Python vielleicht schon eher, weil C++ nicht mitgedacht hat war.
+ Wie kümmest du dich denn um Versionierung, wie kümmest du dich um Dependency Management?
  Und dann gibt es halt irgendwie immer fünf verschiedene Standards, die jemand drum herum gebastelt hat, mit denen man jetzt Dependency Management macht.
- Also bei Python ist es ja häufig Pip, irgendwie bei C++ gibt es von jedem was anderes und nichts funktioniert.
+ Also bei Python ist es ja häufig pip.
+ Irgendwie bei C++ gibt es von jedem was anderes und nichts funktioniert.
  Und bei Go ist es halt einfach eingebaut und das ist tatsächlich über Git und GitHub Repositories im Wesentlichen realisiert.
- Also die Version deines Modules, was du einbindest, ist halt einfach ein Tag in deinem Git Repository  und du schreibst oben tatsächlich ganz klar einfach den Link zu dem Git Repository rein, von dem du das Modul konsumierst.
- Und wenn das Git Repository in einem bestimmten Format angelegt ist, was jetzt auch irgendwie super lesbar ist und alles gut funktioniert,  dann hast du damit deine Abhängigkeiten erledigt und dann kannst du es in die Sprache eingebaut,  wie da jetzt irgendwie Updates funktionieren von Abhängigkeiten und wie das gecached wird,  dass du nicht alles jedes Mal neu baust und so ein Kram.
-Also das haben sie richtig gut gemacht.
- Und testen ist ähnlich gut eingebaut, auch hier ist die Sonntags wieder furchtbar, aber kannst du halt statt Go Run, gibst du halt Go Test ein und dann führt dir deine Testgases aus.
- Das passt super und dadurch, dass das alles, das Setup relativ einfach ist, ist halt die Anzahl von verfügbaren Libraries relativ hoch.
+ Also die Version deines Modules, was du einbindest, ist halt einfach ein Tag in deinem Git Repository.
+ Du schreibst oben tatsächlich ganz klar einfach den Link zu dem Git Repository rein, von dem du das Modul konsumierst.
+ Und wenn das Git Repository in einem bestimmten Format angelegt ist, was jetzt auch irgendwie super lesbar ist und alles gut funktioniert,  dann hast du damit deine Abhängigkeiten erledigt.
+ Und dann kannst du es in die Sprache eingebaut, wie da jetzt irgendwie Updates funktionieren von Abhängigkeiten und wie das gecached wird,  dass du nicht alles jedes Mal neu baust und so ein Kram, also das haben sie richtig gut gemacht.
+ Und testen ist ähnlich gut eingebaut.
+ Auch hier ist die Sonntags wieder furchtbar, aber kannst du halt statt Go Run, gibst du halt Go Test ein und dann führt er deine Testgases aus.
+ Das passt super.
+ Und dadurch, dass das alles das Setup relativ einfach ist, ist halt die Anzahl von verfügbaren Libraries relativ hoch.
  Kann man viel mitmachen.
- Apropos Libraries oder Pakete, wie sieht das da so aus mit, wie sinnvoll oder wie furchtbar sind die da so geschneidert.
- Ist das sinnvoll oder hat man da so ähnlich wie bei Node.js so ein Left Pad Problem,  dass man irgendwie so für simple Dinge einzelne Pakete hat und viele Modulherben dann davon, kannst du da irgendwelche Erfahrungen?
+ Vor Libraries oder Pakete, wie sieht das da so aus, wie sinnvoll oder wie furchtbar sind, die da so geschneidert.
+ Ist das sinnvoll oder hat man da so ähnlich wie bei Node.js so ein Left-Pad-Problem,  dass man irgendwie so für simple Dinge einzelne Pakete hat und viele Modul erben.
+ Dann kannst du da irgendwie Erfahrungen...
  Also es ist nicht ganz so extrem wie bei Node.js.
-Also halt das typische, ich will zwei Zahlen zusammen addieren, das gibt's da nicht,  aber mir ist auch schon aufgefallen, dass auch in Go lang, also immer wenn dependency management sehr einfach ist,  fangen die Leute an halt ihren Kram nicht mehr selber zu schreiben, sondern auch die einfachsten Sachen zu konsumieren.
- Die Standard Library ist auch relativ klein, also zum Beispiel vielen, die so Dublin-Link-Lists und so, die holst du dir dann meistens aus irgendwelchen Abhängigkeiten.
+ Also herz es typisch hier, ich will zwei Zahlen zusammen addieren, das gibt es da nicht.
+ Aber mir ist auch schon aufgefallen, dass auch in Go lang...
+ Also immer wenn dependency-Management sehr einfach ist, fangen die Leute an halt die Entkram nicht mehr selber zu schreiben,  sondern auch die einfachsten Sachen zu konsumieren.
+ Die Standard-Library ist auch relativ klein.
+ Also zum Beispiel fehlen die so Dubli-Link-Lists und so, die holst du dir dann meistens aus irgendwelchen Abhängigkeiten.
  Also es ist nicht ganz so schlimm wie bei Node.js, aber es kann schon überborden.
- Also wenn du da auf Projekte kommst, die halt da nicht so acht drauf geben, dann kann es schon sein, dass du dir sehr, sehr, sehr, sehr viele Abhängigkeiten mit reinholst.
- Und wenn dann Leute dann versuchen, alles möglichst wegzumodularisieren und als Abhängigkeit irgendwie darzustellen, damit dann halt das Ergebnis irgendwie vielleicht kleiner und schneller ist.
- Ob das überhaupt ihr zutrifft, ist dann vielleicht nochmal die andere Frage möglich, aber ich hab jetzt keine Ahnung von Go.
- Also das kann ja alles passieren, das Gute ist, halt am Ende kannst du Go runterkompilieren, das ist das, was mir in Python immer enorm gegen den Strich ging,  dass es so schwierig ist, ein executable irgendwie zu delivern.
- Also so als typischer Linux-Nutzer brauchst du es nicht, wozu sollst du das auch runterkompilieren, wenn der ePython auf dem Rechner hast, aber so unter Windows wird es ja eigentlich irgendwie eine Ex haben.
- Und manchmal ist es auch unter Linux ganz nett und halt die Möglichkeit in Go irgendwie Tools und sinnvolle Binarys zu bauen,  die weniger als, weiß ich nicht, 100 Kilobyte groß sind, das geht out of the box.
- Also machst halt Go-Build und dann filtern die Binary raus.
+ Also wenn du da auf Projekte kommst, die halt da nicht so acht drauf geben,  dann kann es schon sein, dass du dir sehr, sehr, sehr viele Abhängigkeiten mit reinholst.
+ Und wenn dann Leute dann versuchen, alles möglichst wegzumodularisieren und als Abhängigkeit irgendwie darzustellen,  damit dann halt das Ergebnis irgendwie vielleicht kleiner und schneller ist.
+ Ob das überhaupt die Zutrift ist, ist dann vielleicht nochmal die andere Frage möglicherweise.
+ Ich habe jetzt keine Ahnung von Go.
+ Also das kann ja alles passieren.
+Das Gute ist, am Ende kannst du Go runterkompilieren.
+ Das ist das, was mir in Python immer enorm gegen den Strich ging,  dass es so schwierig ist, ein Executable irgendwie zu delivern.
+ Also so als typischer Linux-Nutzer brauchst du es nicht.
+ Wozu sollst du das auch runterkompilieren, wenn du e-Python auf dem Rechner hast.
+ Aber so unter Windows wird es ja eigentlich eine Ex haben.
+ Und manchmal ist es auch unter Linux ganz nett.
+ Und halt die Möglichkeit in Go irgendwie Tools und sinnvolle Binarys zu bauen,  die weniger als, weiß ich nicht, 100 Kilobyte groß sind, das geht out of the box.
+ Also machst halt Go-Build und dann fällt da ein Binary raus.
  Cross-Compilation für andere Plattformen und so ist alles mit eingebaut.
  Also das sind auch Dinge, die einfach sehr gut funktionieren.
- Und das ist dann auch wurscht, wie viele Dependencies hinten dran sind.
- Solange das halt halbwegs gut modularisiert ist, findet der compiler schon heraus, was er braucht und was nicht.
- Kann aber sein, dass halt das runterladen und so einmal am Anfang sehr lange dauert, wenn jemand Dependencies hat.
- Aber an sich würdest du sagen, so was, was du damit gekriegt hast, ist ein an sich gutes Ökosystem, wie es ja so schön heißt?
- Genau, genau.
-Also ja, durchaus.
-Und bisher habe ich immer alles gefunden.
- Also meistens ist es so, wenn ich jetzt irgendwie versuche, rausfinden, hey, modernes Software Projekt X, gibt es da irgendwie eine Library?
- Dann finde ich meistens zuerst die Python Library.
+ Und das ist dann auch wurscht, wie viele Dependencies hinten dran sind,  dass halt halbwegs gut modularisiert ist, findet der compiler schon heraus, was er braucht und was nicht.
+ Kann aber sein, dass das runterladen und so einmal am Anfang sehr lange dauert,  wenn jemand die Dependencies hat.
+ Aber an sich würdest du sagen, so was du damit gekriegt hast,  ist ein an sich gutes Ökosystem, wie es ja so schon heißt.
+ Genau, also durchaus.
+ Und bisher habe ich immer alles gefunden.
+ Also meistens ist es so, wenn ich jetzt irgendwie versuche rausfinde,  hey, modernes Software Projekt X gibt es da irgendwie eine Library,  dann finde ich meistens zuerst die Python Library.
  Und dann als nächstes aber auch schon eine Go-Library, die meistens ganz gut sind.
- Und wenn nicht, kriegt man es auch ganz gut schnell selber gehackt.
- Genau, also ich bin ein Fan von.
-Es geht für insbesondere ab der Größe, wo es dann bei Python schwierig wird.
- So die Mittelgroßen des großen Projektes.
-Da funktioniert Go, finde ich noch ganz gut.
+ Und wenn nicht, kriegt man es auch ganz gut, schnell selber gehackt.
+ Okay.
+ Genau, also ich bin da Fan von.
+ Es geht für insbesondere ab der Größe, wo es dann bei Python schwierig wird.
+ So die Mittelgroßen des großen Projektes, da funktioniert Go, finde ich noch ganz gut.
  Ja, ich weiß nicht, wenn ich eine Datenbank baue, benutze ich weiterhin C und C++.
  Genau, aber das wollte ich immer loswerden.
- So und unser kleines, weil ich halt relativ viel als Hobby in Go arbeite, habe ich unser kleines Podcast Publishing Skript in Go geschrieben, was dann dem anderen Python Skript hinwirft, was es eigentlich tun soll.
+ So, und unser kleines, weil ich halt relativ viel als Hobby in Go-Arbeiter habe,  ich habe unser kleines Podcast-Publishing-Skript in Go geschrieben,  was dann dem anderen Python-Skript hinwirft, was das eigentlich tun soll.
  Weil wir modern sind, ist alles in Docker gebraten.
- Ich habe es doch gereist, weil ich halt hier kein Python auf meinem Rechner habe und das wollte auch ziemlich viel gedönt.
+ Was, was, was?
+ Ich habe es doch gereist.
+ Oh mein Gott.
+ Ja, weil ich halt hier kein Python auf meinem Rechner habe.
+ Und das wollte auch ziemlich viel gedöns.
  Also kein Python in der Version, die dieses Skript hinterhaben wollte.
- Auch was mir bei Python sehr oft auffällt, dass sich schon noch auch in der Standardbibliothek Dinge relativ häufig ändern.
- Bei zwischen Version 3, 6 und 3, 8 funktioniert auf einmal was nicht mehr.
-Das fand ich mal komisch.
+ Auch was, was mir bei Python sehr oft auffällt,  dass sich schon noch auch in der Standardbibliothek Dinge relativ häufig ändern,  auch bei zwischen, weiß ich nicht, einer Version 3, 6 und 3, 8.
+ Funktioniert auf einmal was nicht mehr, das fand ich immer komisch.
  Das ist mir bei Go jetzt auch noch nicht passiert.
  Oder ich hatte Pech.
- Ich hätte gesagt, es kommen eher Dinge dazu.
-Ja, es werden auch mal Sachen als verhaltet markiert, aber die geht eigentlich.
- Ich glaube, der Argument-Parser, den gibt es zweimal, oder kann das sein?
- Gibt es einen ARK-Pars und einen Pars-ARK oder was?
-Irgendwo bin ich mal drüber gefallen.
+ Also es kommen, ich hätte gesagt, es kommen eher Dinge dazu.
+ Ja, es werden auch mal Sachen als Faltet markiert, weil, ja, aber die geht eigentlich.
+ Ich glaube, der Argumentpaar ist allerdings zweimal, oder?
+Kann das sein?
+ Gibt es einen Argpaar und einen Paar-Arg oder so was?
+ Irgendwo bin ich mal drüber gefallen.
  Ja, kann sein.
- Solange nicht mehr so schlimm wie bei PHP.
- Entschuldigung, das ist aber auch die Toten, wenn ihr freundet.
+ Also lange nicht mehr so schlimm wie bei PHP.
+ Schuldigung.
+ Das ist aber auch die Toten, wenn ihr freundet.
  Zurecht.
- Gut, okay, also das heißt, wir haben da ein paar Neuerungen in der Art und Weise, wie wir dann unseren Workflow,  keine Ahnung, gibt es ein gutes deutsches Wort für Workflow.
- Arbeitsablauf.
- Arbeitsablauf, wo?
- Prozesse.
- Wie wir es hinkriegen, da irgendwie eine Tondatei zur Verfügung zu stellen, damit ihr euch das Zeit zu verrägen nachhören könnt.
+ Gut, okay, also das heißt, wir haben da ein paar Neuerungen in der Art und Weise,  wie wir dann unseren Workflow, keine Ahnung, gibt es ein gutes deutsches Wort für Workflow.
+ Aber es ist am Lauf.
+ Aber es ist am Lauf, wo?
+ Prozess.
+ Oh.
+ Wie wir es hinkriegen, da irgendwie eine Tondatei zur Verfügung zu stellen,  damit ihr euch das Zeitsoberäum nachhören könnt.
  Und wir haben dann verbunden, gerade eine oder an Go quasi gehört.
  Ja.
- Habt ihr sonst noch irgendwelche schicken Sachen am Tag des?
- Ja, ich hatte das Ding, was ich mir schon ganz lange vorgenommen hatte.
- Und das war es ganz lange in meiner kleinen roten Tasche, der nicht angefangenen Projekte lag.
- Und dann habe ich es rausgekratzt und den Tag des offenen Hackerspaces genutzt, um mal wenigstens eins anzufangen.
+ Habt ihr sonst noch irgendwelche schicken Sachen am Tag?
+ Ja, ich hatte das Ding, was ich mir schon ganz lange vorgenommen hatte  und das war es ganz lange in meiner kleinen roten Tasche,  der nicht angefangenen Projekte lag, war rausgekratzt  und den Tag des offenen Hackerspaces genutzt, um mal wenigstens eins anzufangen.
  Und das war ein DMR-Hotspot.
  DMR.
- DMR, musst du erklären.
- Jetzt muss ich erst mal wieder abgucken.
- Aber das Sprich hat man doch auch am Tag schon.
+ Das musst du erklären.
+ Jetzt muss ich erst mal wieder abgerissen.
+ Aber das Gespräch hat man doch auch am Tag schon.
  Ja, ich habe es noch nicht nachgeschlagen.
- Es ist im Prinzip ein digitales Funk-Protokoll.
+ Also es ist im Prinzip ein digitales Funk-Protokoll.
  DMR, schauen wir nochmal.
- R steht wahrscheinlich irgendwas wie Radio.
- Digital Mobile Radio, das war es.
- Okay.
+ Ja, steht wahrscheinlich irgendwas wie Radio?
+ Ja, Digital Mobile Radio, das war es.
+ Genau, also im Prinzip ein Amateur-Funk auf digital.
  Und das Gerät dazu habe ich schon länger.
- Und wenn man in der Nähe eines Brandmeister-Relais ist, Brandmeister ist ein großes Netzwerk von verschiedenen, ich sage mal, Basisstationen, Relaisstationen, die dann wieder über das Internet verknüppert sind, dann ist der Chick.
- Und dann kann man Reichweite so durchaus mal 7, 8, 9, 12 Kilometer bis zum nächsten Relais funken und wird von da aus dann ins Internet vermittelt zu dahin, wo der andere ist, oder die andere, oder auch Gruppenrufe, die da möglich sind.
- Und wenn man nicht in der Nähe von so einem Relais ist, dann gibt es die Möglichkeit sich ein Hotspot zu setzen, das ist im Endeffekt ein kleiner Raspberry Pi und ein Platinchen oben drauf mit zwei Antennen oder eine Antenne, je nachdem ob man Duplex oder nur höheren oder sprechen gleichzeitig haben möchte.
- Und da habe ich mich mal mit der Software so ein bisschen auseinandergesetzt.
- Und ja, am Ende des Tag des offenen Hexpays hatte ich mein DMR Hotspot auf dem Raspberry Pi drauf.
- Cool.
-Und dieses DMR ist das irgendwie ein bestimmter Frequenzbereich und damit verbunden ein konkretes Protokoll oder ist es quasi nur ein Dienst, den man dann in diesem Frequenzspektrum da irgendwie verwenden kann.
- Weißt du das?
- Ja, das ist so ein Funkstandard.
-Also im Prinzip ist das so eine Kombination aus Frequenzen, in denen man das üblicherweise spielt oder spielen darf als Amateurfunker.
- Das heißt, die sind dann exklusiv für DMR an der Stelle oder?
- Weiß ich jetzt gar nicht.
-Also das ist so ein Bereich in dem man das üblicherweise tut.
- Wenn man gerade nicht Amateurfunker ist, dann kann man auch als Firma oder als Veranstaltung bei der Bundesnetzeventur da, glaube ich, Frequenzzuteilung erwerben.
- Also klar, es braucht eine Frequenz.
-Und dazu gehört dann aber auch die digitale Modulation, die da oben drauf moduliert wird auf diese Frequenzen.
- Und was jetzt genau DMR ist, ich nutze das, aber ich habe mich noch nicht so tief damit beschäftigt, um genau zu wissen, wie weit es geht.
- Man muss ja irgendwo anfangen und der Einstieg ist jetzt gemacht.
- Also meine Frage zieht so ein bisschen darauf ab, ich habe halt keine Ahnung von so Digitalfunk oder diesen Digitalfunk für Amateur, was du gerade meintest.
- Und deswegen hintergrund war es so ein bisschen, ob man da quasi einfach so einen Frequenzbereich für diesen digitalen Amateurfunk hat und wo es einfach verschiedene Dienste gibt oder ob das quasi die einzelnen Dienste auf verschiedene Frequenzen sind.
- Also am Ende ist es eine Kombination aus beiden.
-Und das Thema für sich, man kann sich da renden und monatelang mit nichts anderem beschäftigen und hat es immer noch nicht völlig durchgestiegen.
- Ja, bei mir ist das so ein kleines Randthema, dass ich immer mal wieder vorholt und dann immer wieder ein Stückchen weiter reinbohrt, wie es geht.
- Aber wie gesagt, so die nächste Hürde war jetzt dieser kleine Hotspot, um auch mal zu Hause ein bisschen zu experimentieren, ohne gleich einen großen Relais-Standort etablierend zu müssen im Netz.
+ Und wenn man in der Nähe eines Brandmeister-Relais ist,  Brandmeister ist ein großes Netzwerk von verschiedenen,  ich sage mal, Basisstationen, Relistationen,  die dann wieder über das Internet verknüppert sind,  dann ist der Chick und dann kann man Reichweite so,  durchaus mal 7, 8, 9, 12 Kilometer,  bis zum nächsten Relais funken  und wird von da aus dann ins Internet vermittelt,  zu dahin, wo der andere ist, oder die andere,  oder auch Gruppenrufe, die da möglich sind.
+ Und wenn man nicht in der Nähe von unserem Relais ist,  dann gibt es die Möglichkeit, sich ein Hotspot zu setzen.
+ Das ist im Endeffekt ein kleiner Raspberry Pi  und ein Platinchen oben drauf mit zwei Antennen,  oder einer Antenne, je nachdem, ob man duplex  oder nur höheren oder sprechen gleichzeitig haben möchte.
+ Und da habe ich mich mal mit der Software so ein bisschen  auseinandergesetzt.
+ Und ja, am Ende des Tags des offenen Hexpaces  hatte ich mein DMR Hotspot auf dem Raspberry Pi drauf.
+ Ja, cool.
+ Und dieses DMR ist das irgendwie  ein bestimmter Frequenzbereich  und damit verbunden ein konkretes Protokoll,  oder ist es quasi nur ein Dienst,  den man dann in diesem Frequenzspektrum  da irgendwie verwenden kann, weißt du das?
+ Ja, es ist so ein Funkstandard.
+ Also im Prinzip ist es so eine Kombination aus Frequenzen,  in denen man das üblicherweise spielt,  oder spielt ein Dach als Amateurfunker.
+ Das heißt, die sind dann exklusiv für dem R an der Stelle?
+ Ich weiß es jetzt gar nicht.
+ Also das ist so ein Bereich, in dem man das üblicherweise tut.
+ Wenn man grad nicht Amateurfunker ist,  dann kann man auch als Firma oder als Veranstaltung  bei der Bundesseatsagentur da, glaube ich,  Frequenz-Zurteilungen erwerben.
+ Also ja, klar, es braucht eine Frequenz.
+ Und dazu gehört dann aber auch die digitale Modulation,  die da umdrauf moduliert wird auf diese Frequenzen.
+ Und was jetzt genau die MR ist,  ich nutze das, aber ich habe mich noch nicht so tief damit beschäftigt,  um genau zu wissen, wie weit es geht.
+ Man muss ja irgendwo anfangen, quasi.
+ Richtig.
+ Und der Einstieg ist jetzt gemacht.
+ Also meine Frage zieht ihr so ein bisschen darauf ab.
+ Ich hab halt keine Ahnung von so Digitalfunk,  oder diesen Digitalfunk für Amateur,  was du gerade meintest.
+ Und deswegen, Hintergrund war so ein bisschen,  ob man da quasi einfach so einen Frequenzbereich  für diesen digitalen Amateurfunk hat  und wo es einfach verschiedene Dienste gibt,  oder ob das quasi die einzelnen Dienste  auf verschiedene Frequenzen sind.
+ Ja, also am Ende ist es eine Kombination aus beiden.
+ Und das Thema für sich, man kann sich da renden  und moneterlang mit nichts anderem beschäftigen  und hat es immer noch nicht völlig durchgestiegen.
+ Also bei mir ist das so ein kleines Randthema,  dass man mal wieder vorholt  und dann immer wieder ein Stück Kinder weiter rein bohr,  wie es geht.
+ Ja, schick.
+ Aber wie gesagt, so die nächste Hürde war jetzt  dieser kleine Hotspot, um auch mal zu Hause ein bisschen  zu experimentieren, ohne gleich einen großen Relais-Standort  etablierend zu müssen im Netz.
+ Ja.
  Und da geht es jetzt dann weiter.
- Ja, ich glaube wir sind gespannt auf weitere Erkenntnisse damit.
+ Ja.
+ Ich glaube, wir sind gespannt auf weitere Erkenntnisse damit.
  Ich auch.
-Kann ich versprechen, dass es bei der nächsten Sendung schon was gibt oder wird es noch ein Thema, aber irgendwann gibt es was.
- Ja, also so war das jetzt auch nicht gemeint.
-Ich kenne das ja auch mit meinen eigenen Privatprojekten.
- Es ist halt manchmal so einfach monatelang einfach nichts und dann findet man mal wieder Zeit.
- Und dann funktioniert es auf einmal.
-Ja, in dem Fall, also dieses Ding, das ist halt ein Camp-Rum.
-Ja, ich hätte auch meinen...
+ Das kann ich versprechen,  dass es bei der nächsten Sendung schon was gibt.
+ Das ist ein Randthema, aber irgendwann gibt es was.
+ Ja, ja.
+ So war das jetzt auch nicht gemeint.
+ Ich kenne das ja auch mit meinen eigenen Privatprojekten.
+ Es ist halt manchmal so einfach monatelang einfach nichts  und dann findet man mal wieder Zeit.
+ Dann funktioniert es auf einmal.
+ In dem Fall.
+ Also dieses Ding, das ist halt ein Camp-Rum.
+ Ja, ich hätte auch meinen...
  Du dich auch sein Camp-Rum?
-Nee, ja, immer noch.
-Ich hatte auch mein Handy-Display vor dem Camp gekauft oder so.
- Und dann habe ich es irgendwie im Januar, habe ich es dann eingebracht.
- Das ist ja auch eine rote Tasche mit angefangenen Projekten oder wir müssten mal Projekten...
- Ja, ich hätt es mal in der Electro-Schrottkiste, aber ja.
- Ich habe die Tasche noch nicht sogar vergrößert, aber jetzt wo der große Laptop raus ist, ist da Platz drin.
- Ja, ich habe immer noch die ganzen e-Paper-Displays da drin.
- Ach, die wollte ich auch mal machen, ja.
- So, lass uns doch mal ein bisschen Musik rein spielen zwischenzeitlich.
-Musik klingt gut, ja.
- Da wollte ich doch extra hier Musik im Free Music Archive rausgesucht haben.
- Genau, wie ihr wisst, spielen wir Musik unter Creative Commons Lizenzen.
- Heute hören wir sozusagen live aus dem Free Music Archive von Masteredit, den Titel "Clash".
-Bis gleich.
+ Nee, ja, immer noch.
+ Ich hatte auch mal den Handy-Display vor dem Camp gekauft  und dann habe ich es irgendwie im Januar eingebracht.
+ Hast du auch eine rote Tasche mit angefangenen Projekten  oder wir müssten mal Projekten?
+ Ja, ich nenne es mal eine Electro-Schrottkiste, aber ja.
+ Ich habe die Tasche noch nicht sogar vergrößert.
+ Aber jetzt wohl der große Laptop raus ist.
+ Ja, siehst du.
+ Da ist der Platz drin.
+ Ich habe immer noch die ganzen e-Paper-Displays da drin.
+ Ach, die wollte ich auch mal machen.
+ Ja.
+ So, lass uns doch mal ein bisschen Musik rein spielen  zwischenzeitlich.
  Musik klingt gut, ja.
- Musik klingt gut, ja.
- Musik klingt gut, ja.
- Musik klingt gut, ja.
- Musik klingt gut, ja.
- Musik klingt gut, ja.
- Musik klingt gut, ja.
- Musik klingt gut, ja.
- Musik klingt gut, ja.
- Musik klingt gut, ja.
- Hallo und willkommen zurück zu Kasum Radio.
- Es ist der zweite Montag im Monat.
- Zahler, ich will gar nicht, dass ich das sage, aber ich will das mal sagen.
- Genau, deswegen hört ihr uns im freien Radio Potsdam auf 90,7 MHz UKW, gibt es UKW noch?
- Keine Ahnung und in Berlin auf 88,4 MHz und ansonsten hört ihr uns im digitalen auf der W+ unter FR-BB und 24/3.
- Fantastisch.
-Wir haben auch kurz mal herausgefunden, warum das so heißt, ne?
- Ja, weil es irgendwie drei Tage die Woche ist.
- Ja, bestimmt.
- Genau, dann könnt ihr uns außerdem jetzt auch wieder bestimmt unter radio.ccc-p.org  Zeit zu verrehen nachhören als Podcast.
- Wenn ihr uns dazu gratulieren wollt, schreibt doch gerne auf Mastodon unter cccp@kaus.social  oder schreibt uns ein liebe E-Mail an Radio@ccc-p.org  Und was man vielleicht auch noch miterwähnen kann, ist, das erwähnen wir vielleicht viel zu selten,  dass immer Mittwochs ab 19 Uhr hier in der Machbar im Freiland, immer Haus 5, ist immer unser Chaos-Treff,  dem man gerne hinkommen kann.
- Genau, hier sind auch sonst andere Veranstaltungen in der Machbar, ist aber nicht immer das Chaos.
- Manchmal sind auch einfach Näherinnen da oder Näher.
+ Da wollte ich doch extra hier Musik im Free-Music-Archiv rausgesucht haben.
+ Genau, wie ihr wisst, spielen wir Musik  unter Creative Commons-Dizenz.
+ Und heute erheulen wir sozusagen live aus dem Free-Music-Archiv  von "Mastered It" den Titel "Clash".
+ Bis gleich.
+ Willkommen zurück zu Kasum Radio.
+ Es ist der zweite Monat im Monat.
+ Ich will gar nicht, dass ich das sage, aber ich will das sagen.
+ Genau, deswegen hört ihr unseren freien Radio Potsdam  auf 90,7 MHz UKW.
+ Gibt es UKW noch?
+ Keine Ahnung.
+ Und in Berlin auf 88,4 MHz.
+ Und ansonsten hört ihr uns im digitalen  DAW+ unter FR-BB und 24 drastisch.
+ Wir haben auch kurz mal rausgefunden, warum das so heißt,  wenn es irgendwie drei Tage die Woche ist.
+ Ja, total.
+ Genau, dann könnt ihr uns außerdem jetzt auch wieder bestimmt  unter radio.ccc-p.org.
+ Teilzuverhehen nachhören, als Mast-Hu-Hu-Hu.
+ Wenn ihr uns dazu gratulieren wollt, schreibt doch gerne  auf Mastodon unter cccp@chaos.social  oder schreibt uns eine liebe E-Mail an Radio@ccc-p.org.
+ Und was man vielleicht auch noch mit erwähnen kann,  ist, das erwähnen wir vielleicht hier zu selten,  dass immer Mittwochs ab 19 Uhr hier in der Machbar im Freiland  im Haus 5 ist immer unser Chaos-Treff,  dem man gerne hinkommen kann.
  Genau.
- Oder Holz.
- Genau.
- Menschen.
- Freier Werkstatt.
- Machbar.
+ Hier sind auch sonst andere Veranstaltungen in der Machbar  ist, aber nicht immer das Chaos.
+ Manchmal sind auch einfach Näherinnen da oder Näher  oder Holzmenschen.
+ Freier Werkstatt, Machbar.
  Genau.
  Jo, ein ernstes Thema sollte angesprochen werden.
  Das mache ich nicht.
- Du bist hier nicht für die ernsten Themen zuständig, oder wie darf ich das sehen?
- Es gibt man ums Hand relativ viele Polizei in Berlin, habe ich gehört.
- Und es gab tatsächlich auch eine Festnahme, die mindestens bundesweit für Aufmerksamkeit gesorgt hat,  nämlich Daniela Kletter, die zur ARF, zur roten Armee-Fraktion gehört, wurde jetzt kürzlich festgenommen in Berlin.
- War jetzt gehört zur letzten Generation der ARF, glaube ich, oder zur dritten Generation.
- Und lebte jetzt offenbar lange Jahre unerkannt, offenbar in Berlin, ohne Mietvertrag.
- Was erlauben Sie sich?
- Ja, das war nur ein Randthema, aber ich habe ein Zeitungsartikel in den letzten Tagen, wo es dann irgendwie geht,  "Lass sie da ohne Mietvertrag gewohnt hat, na, ist so was."  Die Bar bezahlt, oder?
- Ich habe mir den Artikel jetzt nicht durchgelesen, weil ganz ehrlich, das ist so ein Randdetail.
- Also ja, wenn du im Untergrund lebst oder wenn du nicht willst, dass man dich findet,  dann hast du in Normalfall, glaube ich, keinen Mietvertrag, der zufälligerweise auf deinen Namen läuft.
+ Du bist ja nicht für die ernsten Themen zuständig,  oder wie darf ich das verstehen?
+ Es gibt mir ums Hand relativ viele Polizei in Berlin,  habe ich gehört.
+ Und es gab tatsächlich auch eine Festnahme,  die mindestens bundesweit für Aufmerksamkeit gesorgt hat,  nämlich Daniela Kletter, die zur ARF, zur Roten Armee-Fraktion gehört,  wurde jetzt kürzlich festgenommen in Berlin.
+ War jetzt gehört zur letzten Generation der ARF, glaube ich,  oder zur dritten Generation.
+ Und lebte jetzt offenbar lange Jahre unerkannt,  offenbar in Berlin, ohne Mietvertrag.
+ Was?
+ Was erlauben Sie sich, ja?
+ Also, ja, das war nur ein Randthema,  aber es gab irgendwie ein Zeitungsartikel in den letzten Tagen,  wo es dann irgendwie ging,  dass sie da ohne Mietvertrag gewohnt hat.
+ Na, ist so was.
+ Die Bar bezahlt, oder?
+ Ich habe mir den Artikel jetzt nicht durchgelesen, weil ganz ehrlich,  das ist so ein Randdetail.
+ Also, ja, wenn du im Untergrund lebst,  oder wenn du nicht willst, dass man dich findet,  dann hast du in Normalfall, glaube ich,  keinen Mietvertrag, der zufälligerweise auf deinen Namen läuft.
  Egal.
- Gut, jedenfalls gab es da eine Festnahme, und das steht ja auch im Zusammenhang mit,  es wurde ja nach drei Angehörigen der ARF gefahndet, und Daniela Kletter ist halt eine davon,  und die anderen beiden sind nach wie vor noch nicht gefasst.
- Die haben bestimmt irgendwann eine WhatsApp-Gruppe zusammen.
+Gut, jedenfalls gab es da eine Festnahme,  und das steht ja auch im Zusammenhang mit,  es wurde ja insgesamt nach drei Angehörigen der ARF gefahndet,  und Daniela Klett ist halt eine davon,  und die anderen beiden sind nach wie vor noch nicht gefasst.
+ Ja, bestimmt irgendwo eine WhatsApp-Gruppe zusammen.
  Telegram.
  Weiß ich nicht.
-Aber deswegen ist auf jeden Fall in Berlin gerade jede Menge los.
- Die Ermittlungsbehörden versuchen offenbar den Ermittlungsdruck hochzuhalten.
- Es gab zum Beispiel am Markt Grafendamm, in einer Wagensiedlung gab es da auch eine Durchsuchung,  da wurde auch ein Wagenbeschlagnahm beispielsweise.
- Teilweise in der Berichterstattung wird zitiert, dass sich die niedersächsische Polizei,  die die Ermittlungen führt, dass sie sich wohl in Berlin nicht ganz so rühmlich aufführen,  und dass sie auch wohl vor den Berliner Behörden auch, dass sie dann nicht ganz so viel Informationen mit denen teilen.
- Ja, okay, gut.
-Aber warum sprechen wir jetzt hier in dem Rahmen davon?
- Und zwar weil Daniela Kletter aufgrund von Gesichtserkennung, also dass ihr Aufenthaltsort,  also dass sie da wieder erkannt wurde, aufgrund von Gesichtserkennung.
- Und wir hatten jetzt im Vorgespräch schon festgestellt, dass zum Beispiel der Hannes da auch ein bisschen mehr Hintergrund-Infos bekommen hat.
- Also nicht Hintergrund-Infos.
- Genau, es sind keine geheimen Quellen, sondern du hattest, glaube ich, irgendwie mitgekriegt so ein paar Details, die auch veröffentlicht waren in anderen Medien.
+ Nein, aber deswegen ist auf jeden Fall in Berlin gerade jede Menge los.
+ Also, die Ermittlungsbehörden versuchen offenbar,  den Ermittlungsdruck hochzuhalten.
+ Gab es zum Beispiel am Marktgraffendamm,  gab es in einer Wagensiedlung auch eine Durchsuchung,  oder wurde auch ein Wagenbeschlagnamen beispielsweise.
+ Ja, und teilweise in der Berichterstattung  wird zitiert, dass sich die niedersächsische Polizei,  die hier die Ermittlungen führt,  dass die sich wohl in Berlin nicht ganz so rümlich wohl aufführen,  und dass die auch wohl vor den Berliner Behörden auch,  dass sie dann nicht ganz so viel Informationen mit den Teilen,  ja, okay, gut.
+ Aber warum sprechen wir jetzt hier in dem Rahmen davon?
+ Und zwar, weil Daniela Klett aufgrund von Gesichtserkennung,  also, dass ihr Aufenthaltsort,  also, dass sie da wieder erkannt wurde,  aufgrund von Gesichtserkennung.
+ Und wir hatten jetzt im Vorgespräch schon festgestellt,  dass zum Beispiel der Hannes da auch ein bisschen mehr Hintergrund-Infos bekommen hat.
+ Also, nicht Hintergrund-Infos.
+ Das sind doch die Geheimen.
+ Genau, es sind keine Geheimen, sondern du hattest, glaube ich,  irgendwie mitgekriegt so ein paar Details,  die auch veröffentlicht waren in anderen Medien.
  Erzähl doch mal lieber Hannes.
  Genau, ich erzähl doch mal.
-Es gibt einen wunderschönen Podcast, einen unterhaltsamen Podcast zu dem Thema.
+ Es gibt einen wunderschönen Podcast,  einen unterhaltsamen Podcast zu dem Thema.
  Der nennt sich "Legion".
-Es ist, ich glaube, eine Kooperation aus RBB und NDR, also einer von diesen vielen tollen Podcasts der unserer öffentlich-rechtlichen Sender.
- Und genau, und in diesem Podcast ging es ursprünglich mal um Anonymous, wohl vor zwei Jahren oder so.
- Die haben da ein bisschen recherchiert und haben versucht, wer steht dahinter, wer meldet das an und so weiter.
-Gibst du, ich hab das nie gehört.
- Aber in dem Zusammenhang haben die letztes Jahr von einem der Menschen, die sie da interviewt haben, den sie in dem Podcast Sebastian nennen,  haben sie einen Hinweis bekommen, dass der von einer anderen Person erfahren hat, Daniela Kletter ist unterwegs und wohnt in Köln.
- Und jetzt gibt es da 90 Minuten lange Story, die die beiden aufrollen, wie jetzt dieser Sebastian auf diese Idee kommt und was da dran ist.
- Und letztendlich, das kann ich glaube ich schon spoilern, weil die meisten das jetzt wissen, hat man also keine Daniela Kletter in Köln gefunden, sondern in Berlin.
- Und zwar, weil das auch nicht die Gesuchte war, die Sebastian da kennengelernt hat und es war auch total unklar, ob der sich das jetzt alles ausgedacht hat oder ob er selber irgendwie ein bisschen paranoid war oder keine Ahnung.
- Was auch immer seine Hintergründe gewesen sein mögen, ja.
- Genau, aber im Kontext dieser Recherchen, die da angestellt worden sind, wurde eben moderne Gesichtserkennungssoftware benutzt und zwar die, die die eigentlich auch allen zur Verfügung steht, wo man einfach sagt, hier, ich schmeiß mal ein Foto rein und such mal das Internet durch nach allen anderen Fotos, die das gleiche Gesicht zeigen.
- Ja, ich glaube der Dienst, der da genutzt wurde, war PimEis?
- Ja, der, der zugeschlagen hat, war glaube ich das, ja, es gibt noch einen von Amazon, glaube ich, der hat wohl nicht die richtigen Ergebnisse gebracht, aber ja.
- Okay, also wie man sich das so ein bisschen vorstellen muss, ist also der eine oder andere kennt vielleicht die Google-Bildersuche oder die Rückwärtssuche.
- Und in ähnlicher Form gibt es dann dementsprechend Dienste, wie zum Beispiel PimEis und andere, die halt gezielt den Anwendungsfreihaben, dass es da um Gesichter gehen soll und das wieder erkennt von Gesichtern.
- Hoffentlich sind da, glaube ich, die Gesichter aus Social Networks oder die Datenbilder aus Social Networks rausgenommen, weil die weder Facebook, ja, der Meta-Konzern noch Google oder Twitter haben da Interesse dran, weil sie das nicht vermarkten können, aber es existieren ja auch so viele Fotos im Internet.
- Genau, und in dem Zusammenhang ist wohl auf der Suche, sind wohl Bilder aus einem Caprera-Verein aufgetaucht.
-Und das war wohl so, dass sich die Frau Kletter da in den Vorjahren, also in den späten 2010ern in dem Verein aufgehalten hat und dort eben auch häufiger mal auf Fotos aufgetaucht ist.
- Das waren noch alte Fotos?
+ Ich glaube, eine Kooperation aus RBB und NDR,  also einer von diesen vielen tollen Podcasts,  der unsere öffentlich-rechtlichen Sender.
+ Und genau, und in diesem Podcast ging es ursprünglich mal um Anonymous,  wohl vor zwei Jahren oder so.
+ Die haben da ein bisschen recherchiert und haben versucht,  wer steht dahinter, wer meldet das an und so weiter.
+ Gebt es zu, ich habe das nie gehört.
+ Aber in dem Zusammenhang haben die letztes Jahr  von einem der Menschen, die sie da interviewt haben,  den sie in dem Podcast Sebastian nennt,  haben sie einen Hinweis bekommen,  dass der von einer anderen Person erfahren hat,  Daniela Kletter ist unterwegs und wohnt in Köln.
+ Und jetzt gibt es da 90 Minuten lange Story,  die die beiden aufrollen, wie jetzt dieser Sebastian auf diese Idee kommt  und was da dran ist.
+ Und letztendlich, das kann ich glaube ich schon spoilern,  weil die meisten das jetzt wissen,  hat man also keine Daniela Kletter in Köln gefunden,  sondern in Berlin.
+ Und zwar weil das auch nicht die Gesuchte war,  die Sebastian da kennengelernt hat.
+ Und es war auch total unklar, ob der sich das jetzt alles ausgedacht hat  oder ob er selber irgendwie ein bisschen paranoid war  oder keine Ahnung.
+ War es auch immer seine Hintergründe gewesen sein?
+ Genau, aber im Kontext dieser Recherchen,  die da angestellt worden sind,  wurde eben moderne Gesichtserkennungssoftware benutzt.
+ Und zwar die, die die eigentlich auch allen zur Verfügung steht,  wo man einfach sagt, hier, ich schmeiß mal ein Foto rein  und such mal das Internet durch nach allen anderen Fotos,  die das gleiche Gesicht zeigen.
+ Ja, ich glaube der Dienst, der ja genutzt wurde, war PimEis.
+ Also der, der zugeschlagen hat, war glaube ich das.
+ Ja, es gibt noch einen von Amazon, glaube ich.
+ Der hat wohl nicht die richtigen Ergebnisse gebracht, aber ja.
+ Okay.
+ Und also wie man sich das so ein bisschen vorstellen muss,  also der ein oder andere kennt vielleicht die Google-Bildersuche  oder die Rückwärtssuche.
+ Und in ähnlicher Form gibt es dann dementsprechend Dienste,  wie zum Beispiel PimEis und andere,  die halt gezielt den Anwendungsverhaben,  dass es da um Gesichter gehen soll  und das wieder erkennt von Gesichtern.
+ Hoffentlich sind da, glaube ich, die Gesichter aus Social Networks  oder die Datenbilder aus Social Networks rausgenommen,  weil die weder Facebook, ja, der Meta-Konzern noch Google  oder Twitter haben da Interesse dran,  weil sie das nicht vermarkten können,  aber es existieren ja auch so viele Fotos im Internet.
+ Genau, und in dem Zusammenhang ist wohl auf der Suche,  sind wohl Bilder aus einem Caprera-Verein aufgetaucht.
+ Ja, ja.
+ Und das war wohl so, dass sich die Frau Kletter da in den Vorjahren,  also in den späten 2010er in dem Verein aufgehalten hat  und dort eben auch häufiger mal auf Fotos aufgetaucht ist.
+ Das waren auch alte Fotos?
  Das waren relativ alte Fotos, ja.
-Und ich glaube, das ist auch das Spannende.
-Die Lehre, die sicherlich auch für uns interessant ist oder für jeden interessant sein sollte, die Gefahr ist gar nicht so sehr, dass man jetzt sofort irgendwo auf einem Bild entdeckt wird, was gerade gemacht wird oder so dieses typische Hollywood-Szenario, wo irgendwie die CIA, die Kamera von allen Bahnhöfen anzeigt und rausfindet, vor zwei Minuten war der Gesuchte da oder da.
- Darum geht es gar nicht so sehr, sondern wie man immer wieder betonen kann, dass Internet vergisst nichts, speziell wenn man an Kinder denkt, an seine eigenen oder die in der Familie.
- Was man da jetzt hoch lädt, das ist für immer da und das kann auch immer wieder gefunden werden.
-Und solche Tools, wie eben so Gesichtserkennungs-Tools, die kramen das alles wieder raus.
- Es gibt zwar natürlich das Recht auf Vergessenwerden, dass man sagen kann, ich möchte nicht, dass gewisse Sachen nicht in den Suchmaschinen auftauchen, weil das irgendwie für mich negative Konsequenzen hat.
- Aber ich sage mal so, das erfordert ja letztendlich aber auch, dass du es zum Beispiel zu tun hast mit Diensten, die sich da wohl verhalten.
- Wenn interessierte Quellen da Foto-Datenbanken anliegen, dann hat man da wenige Handhands.
-So etwas wie Google und so funktioniert ganz gut, aber irgendwelche staatlichen Akteure oder auch Privatpersonen geben, die aus welchen Motiven auch immer da vielleicht größere Datenbanken anlegen mit Fotos.
- Also es ist ein bisschen spekulativ, aber es liegt ja durchaus nah.
- Die Sache ist halt auch, dass dieses Recht auf Vergessen auf ein solch hellen Spiel durchzusetzen ist.
- Ich denke, wo es halt funktioniert, ist so, dass du, wenn du mal in irgendeinem Kontext, in einem komischen Zeitungsartikel, in irgendeinem komischen Shitstorm gelandet bist, dass dann nicht jeder Arbeitgeber gleich beim ersten Google sofort wieder auf diesen Text kommt.
- Da ist sicherlich das Recht auf Vergessen und dass das von Google durchaus auch umgesetzt wird.
-Das funktioniert da so halbwegs, aber es hilft jetzt nicht für jemanden, der tatsächlich nach dir sucht oder nach Dreck in deiner Vergangenheit wühlt oder ähnliches.
- Genau, so, das war die Geschichte um Danila Kletter.
-Wolltest du da noch aus dem...
- Eine Frage könnte ja durchaus sein, warum braucht es denn offenbar Privatmenschen, die da irgendwie so einen Gesichtserkennungsdienst benutzen und warum...
+ Und ich glaube, das ist auch das Spannende.
+ Die Lehre, die sicherlich auch für uns interessant ist  oder für jeden interessant sein sollte,  die Gefahr ist gar nicht so sehr,  dass man jetzt sofort irgendwo auf einem Bild entdeckt wird,  was gerade gemacht wird oder so dieses typische Hollywood-Szenario,  wo irgendwie die CIA, die Kamera,  es von allen Bahnhöfen anzeigt und rausfindet,  vor zwei Minuten war der Gesuchte da oder da.
+ Darum geht es gar nicht so sehr,  sondern wie man immer wieder betonen kann,  das Internet vergisst nichts,  so speziell, wenn man an Kinder denkt,  an seine eigenen oder die in der Familie.
+ Was man da jetzt hoch lädt, das ist für immer da  und das kann auch immer wiedergefunden werden  mit Tools, wie eben so Gesichtserkennungstools,  die kramen das alles wieder raus.
+ Es gibt zwar natürlich das Recht auf vergessen werden,  dass man sagen kann, ich möchte nicht,  dass gewisse Sachen nicht in den Suchmaschinen auftauchen,  weil das irgendwie für mich negative Konsequenzen hat.
+ Aber ich sage mal so, das erfordert ja letztendlich,  aber auch, dass du es zum Beispiel zu tun hast,  die sich da wohl verhalten.
+ Wenn interessierte Quellen da Fotodatenbanken anlegen,  dann hat man da weniger und weniger Handhaber.
+ So was wie Google und so funktioniert ganz gut,  aber irgendwelche staatlichen Akteure  oder auch Privatpersonen geben,  die aus welchen Motiven auch immer da  vielleicht größere Daten anlegen mit Fotos.
+ Es ist ein bisschen spekulativ, aber es liegt ja durchaus nahe.
+ Die Sache ist halt auch, dass dieses Recht auf vergessen  auf ein sehr schnellen Spiel durchzusetzen ist.
+ Ich denke, wo es halt funktioniert, ist so,  dass du, wenn du mal in irgendeinem Kontext,  in einem komischen Zeitungsartikeln,  in irgendeinem komischen Shitstorm gelandet bist,  dass dann nicht jeder Arbeitgeber  gleich beim ersten Google sofort wieder auf diesen Text kommt,  da ist sicherlich das Recht auf vergessen,  und dass das von Google durchaus auch umgesetzt wird.
+ Das funktioniert da so halbwegs,  aber es hilft jetzt nicht für jemanden,  der tatsächlich nach dir sucht  oder nach Dreckl in deiner Vergangenheit wühlt oder ähnliches.
+ Genau, so, das war die Geschichte um Daniela Klett.
+ Wolltest du da noch aus dem...
+ Nadib, eine Frage könnte ja durchaus sein,  warum braucht es denn offenbar Privatmenschen,  Menschen, die da irgendwie  so einen Gesichtserkennungsdienst benutzen und warum...
  Warum kann die Polizei das denn nicht machen?
+ Also auf keinen Fall mehr das mal hier.
+ Ich fühle sich die gute, rechtschaffende Bürgerin,  die das bitte möchte, dass sie das auch machen.
  Warum machen die das nicht?
-Weil die das nicht dürfen oder zumindest nicht nur teilweise?
- Also, natürlich, wir wurden jetzt schon die ersten Forderungen laut mit, naja, okay, da zeigt sich wieder mal, die Sicherheitsbehörden sind mit viel zu wenig Rechten ausgestattet und eigentlich müssen wir doch jetzt mal das, was andere Menschen auch können, weil sie es tun, müssen die Polizeibehörden doch jetzt auch mal dürfen.
- Und da zeigt sich, ja, also unter bestimmten Rahmenbedingungen darf Gesichtserkennung schon benutzt werden, aber halt jetzt nicht einfach so wahllos, weil wir wollen ja, es gibt ja nicht ohne Grund gewisse Schranken, die uns davor schützen sollen, dass wir eben nicht einfach mal so auf Schritt und Tritt überwacht werden können von unseren Sicherheitsbehörden.
- Hat ja durchaus auch historische Gründe, warum man das nicht können soll.
- Na ja, so muss ich sagen.
- Also, ich meine, weil die Folge wäre dann natürlich, dass man eben gerade nicht mehr sich so frei bewegen könnte.
- Wir erinnern uns da vielleicht mal an diese Gesichtserkennungsversuche am Südkreuz, über die wir ja, glaube ich, auch schon mal gesprochen hatten hier, wo dann mit, zum einen natürlich mit einer irigen hohen Fehlerquote handiert wurde.
- Also, was in relativem Zahlen sieht das zwar gut aus, aber die Anzahl der Fehlalarm einfach riesig ist und natürlich auf der anderen Seite ist es diese Kameraüberwachung und Gesichtserkennung im öffentlichen Raum, der man sich dann, wie stärker das wird, einfach nicht entziehen kann.
- Und wurde dann natürlich auch entsprechende negative Effekte auch für die Gesellschaft an sich hasst, dass du dich eben nicht so frei bewegen kannst generell.
- Also, die Frage ist, wollen wir in einer repressiven Gesellschaft leben oder wollen wir in einer Gesellschaft leben, in der man sich grundsätzlich frei bewegen kann?
- Ja, ich find's auch nicht so gut.
- Warte noch, Avocado di Abolli, wie heißt das?
- Die torfliche Avocado.
- Avocatos di Abolli, die Anwältin des Zäufels.
- Ich guck mir gerade Essenfotos an, das ist ein Problem.
+ Warum machen die das nicht?
+ Weil die das nicht dürfen oder zumindest nicht,  nur teilweise.
+ Also, natürlich, wir wurden jetzt schon  die ersten Forderungen laut mit...
+ Na ja, okay, da zeigt sich wieder mal,  die Sicherheitsbehörden sind mit viel zu wenig Rechten ausgestattet  und eigentlich müssen wir doch jetzt mal das,  was andere Menschen auch können,  weil sie es tun,  müssen die Polizeibehörden doch jetzt auch mal dürfen.
+ Und da zeigt sich, ja, also unter bestimmten,  unter bestimmten Rahmenbedingungen darf  Gesichtserkennung schon benutzt werden,  aber halt jetzt nicht einfach so, nicht einfach so wahllos.
+ Also, weil wir wollen ja, es gibt ja nicht ohne Grund  gewisse Schranken, die uns davor schützen sollen,  dass wir eben nicht auf, einfach mal so,  auf Schritt und Tritt überwacht werden können  von unseren Sicherheitsbehörden.
+ Hat ja durchaus auch historische Gründe,  warum man das nicht können soll.
+ Also ja, so muss ich es sagen.
+ Also, ich meine, das ist, weil die Folge wäre dann natürlich,  dass man eben gerade nicht mehr sich so frei bewegen könnte.
+ Wir erinnern uns da vielleicht mal an diese Versuche,  an diese Gesichtserkennungsversuche am Südkreuz,  über die wir ja, glaube ich, auch schon mal gesprochen hatten hier,  wo dann mit, zum einen natürlich,  mit einer irigen hohen Fehlerquote handiert wurde.
+ Also, was in relativem Zahlen sieht das zwar gut aus,  aber die Anzahl der Fehlalarm einfach riesig ist.
+ Und natürlich, auf der anderen Seite,  ist es diese Kameraüberwachung  und Gesichtserkennung im öffentlichen Raum,  der man sich dann, wie stärker das wird,  einfach nicht entziehen kann.
+ Und wurde dann natürlich auch entsprechende Effekte,  wurde dann natürlich dann auch entsprechende negative Effekte  auch für die Gesellschaft an sich hasst,  dass du eben nicht so frei bewegen kannst generell.
+ Also, die Frage ist, wollen wir in einer repressiven Gesellschaft leben.
+ Oder wollen wir in einer Gesellschaft leben,  in der man sich grundsätzlich frei bewegen kann.
+ Ich find's auch nicht so gut.
+ Ich wollte nur Avocado di Avoli.
+ Wie heißt das?
+ (Gelächter)  Avocado.
+ Avocados di Avoli.
+ Die Anwältin des Teufels.
+ Ich guck mich an der Essensfotos an, das ist ein Problem.
  Hat da jemand Hunger?
  Ja.
- Also, ich kann es zum Abendbrot machen, aber ich glaube, es werden mir gar ne Bürger mehr.
- Aber sehr schonmal so friedens.
- Gesichtserkennung ist ja auch schon krass.
- Hat ich mal von euch vorletztens versucht, ein neues Deutschlandticket zu kaufen bei der Bahn?
+ Ich würde nicht ganz richtig zum Armbrot machen.
+ Ich glaube, es werden mir gar eine Bürger mehr.
+ Aber sehr schonmal so vielens.
+ Gesichtserkennung ist ja auch schon krass,  aber hatte ich mal von euch vorletztens  mal versucht, ein neues Deutschlandticket zu kaufen bei der Bahn?
  Ein neues Deutschlandticket?
- Ne.
- Also, ich hab mal ein Zeit, seit letztem Jahr, mein Ticket...
- Ja, sehr froh, ich war letztens eins kaufen.
- Und sorry, das ist so leichtes D-Wail-Thema, aber man muss sich jetzt immer...
+ Nee.
+ Nee, also ich hab mal ein Zeit, seit letztem Jahr...
+ Ja, sei froh.
+ Ich war letztens eins kaufen.
+ Und sorry, das ist so leichtes D-Wail-Thema.
+ Aber man muss sich jetzt immer...
 wie bitte?
- Die Railing-Deutsche-Bahn.
- Ja, darüber konnte ich auch eine Geschichte erzählen wegen dem Streik, aber nein.
- Und ich wollte halt schnell ein Deutschlandticket kaufen, hatte ich schon ein paar mal gemacht.
- Aber ich hab das immer so ein bisschen opt-in, opt-out so gemacht, aber man das halt braucht doch nicht.
- Und stattdessen halt den München an der Straßenbahn und hatte noch vier Minuten bis zur nächsten Bahn.
- Hat nicht geklappt, hat auch nicht in den 14 Minuten bis zur übernächsten Bahn geklappt.
+ D-Wail-Wing-Deutsche-Bahn.
+ Ja, darüber konnte ich auch eine Geschichte erzählen wegen dem Streik.
+ Aber nein.
+ Und ich wollte halt schnell ein Deutschlandticket kaufen.
+ Hatt ich schon ein paar mal gemacht, aber ich hab es immer so ein bisschen  opt-in, opt-out so gemacht, aber man das halt braucht doch nicht.
+ Und stattdessen halt den München an der Straßenbahn.
+ Und hatte noch vier Minuten bis zur nächsten Bahn.
+ Hat nicht geklappt.
+ Hat auch nicht in den 14 Minuten bis zur übernächsten Bahn geklappt.
  Und zwar wollen die jetzt, dass du dich verifizierst.
+ Ja, stimmt.
  Und da haben sie halt nur so zwei Dienste, die das irgendwie machen.
- Und das lässt sich halt in den Online-Making irgendwie einloggen mit Weremir oder mit Tink.
- Und Weremir auf alle Fälle.
- Das gibt halt irgendwie, das gibt halt eine Online-Daten ein und loggt dich halt ins Online-Making ein.
+ Und du lässt dich halt in den Online-Making irgendwie einloggen  mit Vérymy oder mit Tink.
+ Tink und Vérymy auf alle Fälle.
+ Das gibt halt irgendwie, lasst sich halt, gibt in der Online-Daten ein  und loggt dich halt ins Online-Making ein.
  Das fand ich super sketchy.
- Dann gab's Lade, ein Bild von deinem Personalausfall ist hoch.
+ Dann gab es Lade, ein Bild von deinem Personalausfall ist hoch.
  Fand ich auch nicht so gut.
  Und dann war irgendwas mit digitaler wallet und macht das so.
  Und das hat alles nicht funktioniert.
  Also klickst du halt auf die Links drauf.
  Aber erst war ich noch so, nein, nein, nein, nein, nein.
- Ich will nicht, dass ich noch eine wallet irgendwie auf meinem Handy hab.
- Ich hab doch eine und außerdem gibt's auch die offizielle Ausweis-App und so.
- Warum kann man denn das nicht nehmen und so vom Start.
+ Ich will nicht, dass ich noch eine wallet irgendwie auf meinem Handy habe.
+ Ich habe doch eine und außerdem gibt es auch die offizielle Ausweis-App  und so, warum kann man denn das nicht nehmen und so, vom Start.
  Und das hat auf alle Fälle nichts funktioniert.
- Ich hab mir dann ein Papier-Ticket am Automaten gekauft,  weil man kann ja auch am Automaten in der Bahn kein Deutschland-Ticket kaufen.
- Ich hab eine normale Wochenkarte gekauft.
- Aber das war halt nur so ein Freundin, wo ich so auch so dachte,  ich will doch nur ein Ticket haben, wo mein Name draufsteht.
- Warum muss ich da für meine Online-Banking-Daten irgendwo eingehen?
+ Ich habe mir dann ein Papier-Ticket am Automaten gekauft,  weil man kann ja auch am Automaten in der Bahn kein Deutschland-Ticket kaufen.
+ Ich habe mir eine normale Wochenkarte gekauft.
+ Aber das war nur so ein Freundin, wo ich so auch so dachte,  ich will doch nur ein Ticket haben, wo mein Name draufsteht.
+ Warum muss ich da für meine Online-Making-Daten irgendwo eingehen?
  Das finde ich immer noch so sketchy, ehrlich gesagt.
  Das ist ja häufig bei so Crash-Hairing-Anbietern.
- Es ist ähnlich, dass man sich da sehr naggig machen muss, damit man das machen kann.
- Das ist das letzte Mal, dass ich mein Personal-Ausweis ein Bild hochladen sollte.
- Das war, als ich kurz darauf viel Geld für den nicht existierenden E-Ball-Kleinanzeigen-Kangestand losgeworden bin.
+ Es ist ähnlich, dass man sich da sehr naggig machen muss,  damit man das machen kann.
+ Das letzte Mal, dass ich mein Personal ausweis, ein Bild hochladen sollte,  das war, als ich kurz darauf viel Geld für den nicht existierenden e-mail-Kleinenzeichen-Gangstand losgeworden bin.
  Ja, das ist so ein typisches Game, ja.
  Seitdem bin ich da ein bisschen.
  Ja, genau.
- Ich hatte da nur lose recherchiert, aber irgendwie gab es auch schon ein paar Sicherheitspannen bei diesen Anbietern in der Vergangenheit.
+ Ja, ich spiele halt auch mal, weil ich hätte nur lose recherchiert,  aber irgendwie gab es auch schon ein paar Masikkeitspannen oder so bei diesen Anbietern in der Vergangenheit.
  Da fühlt man sich halt ja auch...
- Ja, Weremie, insbesondere diese ID-Wallet von Weremie, die war ja durchaus schon mal ein Thema.
+ Ja, Weremie, insbesondere diese ID-Wallet von Weremie,  die war ja durchaus schon mal ein Thema.
  Unter anderem bei Lilith Wittmann beispielsweise.
  Ja, dann war das das, genau.
- Irgendwas hatte halt geklingelt und dann dachte ich so, ja, eigentlich möchte ich das nicht.
- Also ich habe es auch nicht mehr geschafft.
- Ich glaube, wir haben da sogar eine Folge zu einer ID-Wallet.
- Das steigte ein paar jährchen her.
+ Also irgendwas hat er halt geklingelt, und dann dachte ich so,  ja, eigentlich möchte ich das nicht.
+ Also ich habe es auch nicht mehr beschafft, aber...
+ Ich glaube, wir haben da sogar eine Frage zu.
+ Folgt drüber, ja, wahrscheinlich.
+ Das steigt schon ein paar Jahrechen her.
  22 war das auf jeden Fall Thema.
- Ja, wir haben 24, das ist schon zwei Jahre her.
- Aber wie gesagt, ich finde das halt super komisch, weil irgendwie es gibt ja auch noch andere Lösungen, also dachte ich zumindest halt.
- Also es gibt ja auch so, muss man ja gerade die komischste ID-Wallet ever irgendwie dafür nehmen.
- Für so einen großen Konzern wie die Bahnen muss man anscheinend aber...
+ Ja, wir haben 24, das ist schon zwei Jahre her, ja.
+ Aber wie gesagt, ich finde, das ist halt super komisch,  weil irgendwie es gibt ja auch noch andere Lösungen,  also dachte ich zumindest halt, also es gibt ja auch so...
+ Muss man ja gerade die komischste ID-Wallet ever irgendwie dafür nehmen?
+ Für so einen großen Konzern wie die Bahn muss man anscheinend aber...
  Ja, da gehen ja die Diskussion gerade drauf und runter, was die sinnvolle Variante ist.
- Und ich glaube, am Ende kondensieren diese ganzen Diskussionen immer wieder auf den E-Person, oder?
- Naja, am besten Fall, ja.
- Und ich glaube, da war ja das Problem, dass nicht jeder Dienst darf den verwenden,  sondern du musst dann wiederum bei welcher Behörde auch immer dafür authentifiziert sein, dass du diesen Dienst benutzen darfst.
- Na, wenn ich im Gericht entsinne, war das doch die Bundesdruckerei, wo du dann halt erst mal einen sehr aufwendigen und auch kostspieligen Prozess halt durchlaufen musst.
- Also du kannst jetzt nicht einfach mal so sagen, okay, ich möchte jetzt hier gerne in meine Website Verifikation einbauen  und möchte das jetzt mal über den E-Person laufen lassen, da steckt ein größerer Prozess dahinter.
- Vorbei auch da gibt es wieder Dienstleister, die NexCloud unsere Segelferenz lässt jetzt Authentifizierung mit dem E-Person zu,  weil ich mal wissen wollte, wie es geht und ja, es geht.
+ Und ich glaube, am Ende kondensieren diese ganzen Diskussionen immer wieder auf den Ehepaar so, oder?
+ Ja, na ja, am besten Fall, ja.
+ Und ich glaube, da war ja das Problem, dass nicht jeder den...
+ Nicht jeder Dienst darf den verwenden,  sondern du musst denn wiederum bei welcher Behörde auch immer dafür authentifiziert sein,  dass du diesen Dienst benutzen darfst.
+ Na, wenn ich mir richten würde, war das doch die Bundesdruckerei,  wo du dann halt erst mal einen sehr aufwendigen und auch kostspieligen Prozess halt durchlaufen musst.
+ Also du kannst es nicht einfach so...
+ Du kannst jetzt nicht einfach mal so sagen, okay,  ich möchte jetzt hier gern in meine Website Verifikation einbauen  und möchte das jetzt mal über den Ehepaar so laufen lassen.
+ Da stecken größere Prozesse dahinter.
+ Wobei auch da gibt es immer wieder Dienstlöster, die...
+ Nextcloud unsere Segelferenz lässt jetzt Authentifizierung mit dem Ehepaar so zu,  weil ich mal wissen wollte, wie es geht und ja, es geht.
  Okay.
  Und wie läuft das dann?
-Also nimmt man dann diese Ausfass-App am Handy oder wie geht das?
+ Also nimmt man dann diese Ausweis im Handy oder wie geht das?
  Ja, genau.
- Ja, weil das, das finde ich noch am sichersten einstufen, dass das das so als Kartenleser nimmst und so und das geht ja auch echt gut.
- Aber ja, also da bin ich mal wieder so ein bisschen, also eigentlich finde ich es schön, dass es geht, aber auch bei einer Krankenkasse letztes,  da raucht ich auch nochmal eine andere App um das dann halt einzulesen und so.
+ Ja, weil das für dich noch am sichersten einstufen,  dass das so als Kartenleser nimmst und so und das geht ja auch echt gut.
+ Aber ja, also da bin ich mal wieder so ein bisschen...
+ Also eigentlich find ich es schön, dass es geht, aber auch bei einer Krankenkasse letztes,  da raucht ich auch nochmal eine andere App um das dann halt einzulesen und so.
  Krankenkasse, das ist natürlich nochmal eine ganz andere Story.
- Wer da mal versucht hat, die Rezept aufzusehen.
- Das habe ich noch nicht versucht, nein, willst du, du musst erzählen.
- Ja, wir machen so ganz große Themenwanderung.
- Was völlig okay ist, ich wollte es nur erwähnen.
- Ja, also wer es noch nicht weiß, die E-Rezepte kann, E-Rezepte kann man ja heute mit seiner Gesundheitskarte einfach einlösen.
- Also man geht zur Apotheke, sagt da hier ist meine Gesundheitskarte und dann steht darauf bzw.
-da von irgendeiner Cloud wahrscheinlich abgerufen,  welche E-Rezepte gerade hinterlegt sind.
- Das funktioniert, aber wenn man für andere Personen zum Beispiel eine E-Rezepte abholen, einlösen möchte oder einfach nur sehen möchte,  welche Rezepte gerade hinterlegt sind, gibt es eben auch eine App.
+ Wer da mal versucht hat, die Rezept aufzusetzen.
+ Das hab ich noch nicht versucht, nein, willst du das?
+ Du musst erzählen.
+ Wir machen so eine ganz große Themenwanderung.
+ Was völlig okay ist, ich wollte es nur erwähnt haben.
+ Ja, also die, wer es noch nicht weiß, die E-Rezepte kann...
+ E-Rezepte kann man ja heute mit seiner Gesundheitskarte einfach einlösen.
+ Also man geht zur Apotheke, sagt da hier ist meine Gesundheitskarte und dann steht darauf,  beziehungsweise wird da von irgendeiner Claude wahrscheinlich abgerufen,  welche E-Rezepte gerade hinterlegt sind.
+ Das funktioniert.
+ Aber wenn man für andere Personen zum Beispiel eine E-Rezepte abholen,  einlösen möchte oder einfach nur sehen möchte, welche Rezepte gerade hinterlegt sind,  gibt es eben auch eine App.
  Die ist nicht zwingend erforderlich, aber fand ich ganz interessant, wollte ich mal ausprobieren.
  Also von anderen Personen sehen möchte, was da spannend ist.
- Du kannst sozusagen für deinen Sohn, kannst du zum Beispiel halt ohne seine Karte rumzuschleppen, irgendwie das einlösen.
+ Du kannst sozusagen für deinen Sohn, kannst du zum Beispiel halt ohne seine Karte rumzuschleppen,  irgendwie das einlösen.
  Das kann alles ganz praktisch sein, ja, keine Ahnung.
- Aber um halt einmal zu hinterlegen, dass du das bist, der diese E-Rezepte benutzen darf, brauchst du je nach Krankenkasse natürlich andere Apps.
- Und es sind in der Regel nicht die Apps, die du schon installiert hast, sondern noch mal die Krankenkasse Ident-App oder so,  die dann wiederum verlangen, dass du doch am besten eine Gesundheitskarte nach neuem Standard so und so hast,  die auch wieder als Verifizierung, also irgendwie die, die du an deinen Telefon halten kannst, oder eben den E-Perl so.
- Und dazu brauchst du dann natürlich die E-Ausweis-App, zwei E-Ausweis-Zwei, das heißt ja.
- Das soll sich ja wo ändern, habe ich gehört, aber.
+ Aber um halt einmal zu hinterlegen, dass du das bist, der diese E-Rezepte benutzen darf,  brauchst du je nach Krankenkasse natürlich andere Apps.
+ Und es sind in der Regel nicht die Apps, die du schon installiert hast,  sondern noch mal die Krankenkasse Ident App oder so,  die dann wiederum verlangen, dass du doch am besten eine Gesundheitskarte  nach neuem Standard so und so hast, die auch wieder als Verifizierung,  also irgendwie die, die du an deinem Telefon halten kannst,  oder eben den E-Person.
+ Und dazu brauchst du dann natürlich die E-Ausweis-App.
+ E-Ausweis 2 heißt ja...
+ Das soll sich ja wo ändern, habe ich gehört, aber...
  Und das wiederum hat bei mir nicht funktioniert.
- Also ich bin da in so einer Endlussschleife von Crashing der App und war nochmal im Moment gekommen.
+ Also ich bin da in so eine Endlussschleife von Crashing der App  und war da noch mal in den Moment gekommen.
  Genau, und das war wohl auch ein bekanntes Phänomen.
- Also ich habe da irgendwie als technische versierter Mensch eine Stunde meines Lebens vergeutet, um am Ende nichts zu können.
+ Also ich habe da irgendwie als technisch versierter Mensch  eine Stunde meines Lebens vergeutet, um am Ende nichts zu können.
  Schön.
- Aber ja.
  Herzlichen Glückwunsch.
- Ja, öfter so als technisch versierter Mensch.
- Und dann hier möchte ich noch eine Sache zum E-Rezept, mit dem mir so Mindblown war.
- Also wenn du ein E-Rezept von deinem Arzt, deiner Ärztin ausgestellt bekommst, dann kannst du das nicht sofort abholen.
- Es sei denn es ist ein, und jetzt falsche Terminologie, der Arzt markiert das als das super wichtiges Rezept.
- Das muss sofort abholbar sein.
- Dann kannst du für den an diesem Tag vorgesehene Sofort-Apotheke, kannst du da hingehen und das gleich abholen.
- Und jeder anderen Apotheke und bei jedem anderen Rezept wartest du in der Regel zwei Tage, bis das synchronisiert wird.
+ Und dann hier möchte ich noch eine Sache zum E-Rezept,  mit dem mir so Mindblown war, also wenn du ein E-Rezept von deinem Arzt,  deiner Ärztin ausgestellt bekommst, dann kannst du das nicht sofort abholen.
+ Es sei denn es ist ein, und jetzt falsche Terminologie, der Arzt markiert das,  als das ist ein super wichtiges Rezept, das muss sofort abholbar sein.
+ Dann kannst du für den an diesem Tag vorgesehene "Sofortapotheke"  kannst du da hingehen und das gleich abholen.
+ Bei jeder anderen Apotheke und bei jedem anderen Rezept  wartest du in der Regel zwei Tage, bis das synchronisiert wird.
  Ach so lange, ich dachte es so ein paar Minuten.
  Nee, nee.
- Und das heißt, sie haben da noch irgendwelche Service-Prioritäten hinterlegt und keine Ahnung, das alles wurde dich fragst.
- Wieso, wieso?
- Du kannst dann trotzdem noch das abholen, indem du deinen Arzt darum bittest, dir das E-Rezept, den QR-Code zu auszudrucken.
- Dann ist das gleichgültig.
+ Und das heißt, sie haben dann auch irgendwelche Service-Prioritäten hinterlegt  und keine Ahnung, es ist alles, wo du dich fragst, wieso, wieso.
+ Du kannst dann trotzdem noch das abholen, indem du deinen Arzt darum bittest,  dir das E-Rezept, den QR-Code zu auszudrucken, dann ist das gleichgültig.
  Da weigern sich aber viele, weil die das selber nicht wissen oder keine Ahnung.
- Und ich habe die Vorzimmerdame bei meinem Hausarzt angeguckt, wie ein Auto, als sie meinte, sie muss jetzt zwei Tage warten, bis ich meine Rezepte abholen kann.
- Antibiotika am Fest oder so?
- Ist doch, aber verstehe ich nicht.
- Ist doch digital?
+ Und ich habe meine, habe die Vorzimmerdame bei meinem Hausarzt angeguckt,  wie ein Auto, als sie meinte, ich muss jetzt zwei Tage warten,  ob ich meine Rezepte hier abholen kann.
+ Archibiotika am besten.
+ Das ist doch aber, verstehe ich nicht.
+ Ist doch digital.
  Ja, und mit Papier machen die gar nix.
- Also, da besteht natürlich auch noch Lernbedarf bei den Praxen, aber ja, es ist schon sehr, sehr spannend.
- Naja, ich war froh, dass ich letztens beim Kinderarzt ein echtes Papierrezept gekriegt habe.
- Was sie eigentlich nicht mehr machen dürfen.
- Eigentlich dürfen nur noch Privatpatienten.
- Egal, es hat funktioniert und ich bin drunter, gehen in die Apotheke und dann mitnehmen und fertig.
- Also, ich meine, die Idee für, ich brauche regelmäßig Medikamente zum Beispiel.
- Und das ist ganz schön, dass ich dafür nicht jedes Mal zum Arzt trennen muss, nur um halt meine Medikamente nachzufrischen.
- Das geht, ne?
- Ich habe denen halt, hey, ich möchte gerne Wiederholungsmedikament das wieder abholen, dann kriege ich das ohne dahin zu gehen.
+ Also da besteht natürlich auch noch Lernbedarf bei den Praxen,  aber ja, es ist schon sehr, sehr spannend.
+ Ich war froh, dass ich letztens beim Kinderarzt ein echtes Papierezept gekriegt habe.
+ Was sie eigentlich gar nicht mehr machen dürfen.
+ Eigentlich dürfen sie nur noch privat partieren.
+ Und dann gehen sie in die Apotheke, die sie mitnehmen und fertig.
+ Also ich meine, die Idee für, ich brauche regelmäßig Medikamente zum Beispiel.
+ Und das ist ganz schön, dass ich dafür nicht jedes Mal zum Arzt trennen muss,  nur um halt meine Medikamente nachzufrischen.
+ Das geht, ich schreibe denen halt, hey, ich möchte gerne Wiederholungsmedikament das wieder abholen  und dann kriege ich das ohne dahin zu gehen.
  Das ist ja nicht verkehrt.
- Aber natürlich im Moment auch nur innerhalb eines Quartals, weil so oft musst du deine Karte da reinstecken.
+ Aber natürlich im Moment auch nur innerhalb eines Quartals,  weil so oft musst du deine Grate da reinstecken.
  Aber ansonsten ist die Umsetzung noch ein bisschen krenkelt.
- Ja, und generell die Technik an sich, wie das umgesetzt ist, ist teilweise auch da auch einige große Fragezeichen.
- Auch was für Sicherheit und auch persönliche, also wir sind von Gesundheitsdaten, sind einfach mal höchstsensible Daten auch.
+ Ja ja, und generell die Technik an sich, wie das umgesetzt ist,  ist teilweise hat da auch einige große Fragezeichen, auch was für Sicherheit.
+ Und auch persönliche, also wir sind von Gesundheitsdaten,  sind einfach mal höchstsensible Daten auch.
  Und auch da gibt es durchaus einige Schwächen.
- Es gab, man ist die letzte oder vielleicht sogar schon vorletztes Jahr, beim Chaos Computer Club in Berlin,  gab es einen Vortrag von Flübcke im Rahmen des Datengartens.
- Und zwar, wie funktioniert das Ehrezept, wo mal so ein bisschen die technischen Details hinter dem Ehrezept auch erklärt werden.
+ Es gab, war das die letzte oder vielleicht sogar schon vorletztes Jahr,  beim Chaos Computer Club in Berlin,  gab es einen Vortrag von Flüppke im Rahmen des Datengartens,  und zwar wie funktioniert das E-Rezept, wo mal so ein bisschen die technischen Details  hinter dem E-Rezept auch erklärt werden.
  Da kann man gerne mal reinschauen.
  Es findet sich auch unter anderem auf media.cc.de.
- Und wenn ihr diese Folge als Podcast hört, online, dann steht es auch in den Schaunen.
- Also jetzt gerade, wir sind die Schaunen uns reingetragen.
- Es steht ja dann quasi nachher direkt da, indem es durch 3 Milliarden Großzeilen durchgerührt wurde.
+ Und wenn ihr diese Folge als Podcast hört online, dann steht es auch in den Schaunen.
+ Also jetzt gerade, wir sind die Schaunen uns eingetragen.
+ Es steht ja dann quasi nachher direkt da, indem es durch 3 Mrd.
+Großzeilen durchgewürzt wird.
  Wir sind hier nicht bei NordJayers, haben wir ja schon vorhin geklärt.
  Das sind nur 300.
- Nein, ich habe mich nicht noch verlassen.
- Wir haben jetzt einen großen Bogen geschlagen von RF und Gesichtserkennung über E-Person, Deutschland-Tickets bis hin zum Ehrezept.
- Also alles, was irgendwie mit Identität zu tun hat.
- Ja, und stellen auch teilweise fest, dass mit diesen digitalen Infrastrukturen Deutschland jetzt nicht unbedingt so vorbereitet ist,  aber das wussten wir vielleicht auch schon vorher.
- Ja, andererseits ist es, ich denke mal so in vielen Ländern ist es halt auch sehr Harnbüchen möglichst schnell umgesetzt.
- Und da sind, das wäre schön, da irgendwie einen gesunden Mittelweg zu finden.
- Aber ich bin grundsätzlich auch ganz dankbar, dass nicht alles sofort bei AWS und Microsoft in die Cloud hochgeladen wird,  mit einem MD5-Hash verschlüsselt.
+ Nein, wir haben jetzt einen großen Bogen geschlagen von RF- und Gesichtserkennung  über E-Person, Deutschland-Tickets bis hin zum E-Rezept.
+ Also alles, was irgendwie mit Identität...
+ Identität.
+ ...die Identität zu tun hat.
+ Ja, und dann auch teilweise fest, dass mit diesen digitalen Infrastrukturen  Deutschland jetzt nicht unbedingt so vorbereiter ist, aber das wussten wir ja vielleicht auch schon vorher.
+ Ja, andererseits, ich denke mal so in vielen Ländern ist es halt auch sehr Harnbüchen möglichst schnell umgesetzt.
+ Und da sind...
+das wäre schön, da irgendwie einen gesunden Mittelweg zu finden,  aber ich bin grundsätzlich auch ganz dankbar, dass nicht alles sofort bei AWS und Microsoft  in die Cloud hochgeladen wird, mit einem MD5-Hash-Verschlüssel.
  Was dir fehlt, ist eine Souveräne Cloud.
- Eine Souveräne Cloud bitte.
+ Das ist aber das Cloud, bitte.
  Apropos Souveräne Cloud, das klingt ja irgendwie nach Schokolade.
  Wow, wow.
  Ich möchte jetzt jetzt gerne wissen, ich habe keine Ahnung, worum es geht, bei diesem Thema.
- Du bist heiß drauf, weil wir haben hier in unserem Vorbereitungspad, wo wir immer unsere Themen sammeln, steht nämlich neben RF und Co,  steht nämlich noch was anderes drin, was irgendwie mit Schokolade zu tun hat.
+ Genau, du bist heiß drauf, weil wir haben hier in unserem Vorbereitungspad, wo wir immer unsere Themen sammeln,  steht nämlich neben RF und Co, steht nämlich noch was anderes drin, was irgendwie mit Schokolade zu tun hat.
  Warte, ich kann nicht prime, ich kann nicht prime.
- Also stell dir vor, du wohnst in Glasgow oder irgendwo in UK und du läufst so durchs Internet und dann siehst du so eine richtig tolle Anzeige.
- Willi Wonkers Chocolate Wunderland oder irgendwie so eine Chocolate Experience.
+ Also still dir vor, du wohnst in Glasgow oder irgendwo in UK und du läufst so durchs Internet  und dann siehst du so eine richtig tolle Anzeige.
+ Willy Wonka's Chocolate Wonderland oder irgendwie so ein Chocolate-Experience.
  Und du guckst die Fotos an und die sehen wahnsinnig magisch aus.
  Also da sind halt ganz viele tolle Dekorationen, leicht gedimpftes Gesicht, Schokolade.
- Und du denkst so, oh ja geil, das klick ich mir für mich und meine Kinder, es ist halt nur in dem einen Wochenende oder so.
- Da haben wir alle hin und vielleicht fahren auch noch Leute aus London extra dahin, weil das so toll aussieht.
+ Und du denkst so, oh ja geil, das klick ich mir für mich und meine Kinder, es ist halt immer in dem einen Wochenende oder so.
+ Und da fahren wir alle hin und vielleicht fahren auch noch Leute aus London extra dahin, weil das so toll aussieht.
  Also wirklich sehr, sehr bunt, sehr vielfältig, also wirklich so.
- So aus wie Disneyland nur für Willi Wonkers.
- So ein bisschen so Disneyland auf LSD.
- Ja und dann fährst du da halt hin und hast halt richtig viel Geld für deinen Tickets ausgegeben.
+ Es sah aus wie Disneyland nur für Willy Wonka, so ein bisschen so Disneyland auf LSD.
+ Ja, und dann fährst du da halt hin und hast halt richtig viel Geld für deinen Ticket ausgegeben.
  Und kommst da hin und da stehst du in einer leeren Lagerhalle.
- Warte, warte.
- Ich glaube, es war so ein Regenbogen-Deko-Ding, was da stand und ein Lolli.
- Und irgendwie zwei Leute, wie halt Elfen oder so was, wie die Dinger heißen.
- Ne, wie hießen die Dinger bei Willi Wonkers?
+ Das war nicht leer.
+ Warte, warte, ich glaube, es war so ein Regenbogen-Deko-Ding, was da stand  und ein Lolli und so wie zwei Leute, wie halt Elfen oder so was, wie die Dinger heißen.
+ Ne, wie hießen die Dinger bei Willy Wonka?
  Da war was.
- Genau, gekleidet sind und, naja.
- Umpalumpas heißt es.
- Umpalumpas, genau.
- Und auch eigentlich ein komischer Bezei, das ist nicht auch super rassistisch.
- Na ja, egal.
- Also kann man, glaube ich, bestimmt irgendwie nachlesen im Wikipedia-Ticket zu Willi Wonker  und ein bisschen mit Charlie und die Schokoladenfarbrik.
+ Genau, gekleidet sind und, na ja.
+ Um Parlumpas.
+ Um Parlumpas, genau.
+ Und auch eigentlich ein komischer Bezei, das ist nicht auch super rassistisch, na ja, egal.
+ Also kann man glaube ich bestimmt irgendwie nachlesen im Wikipedia-Ticket zu Willy Wonka  und ein bisschen mit Charlie und die Schokoladenfabrik.
  Na ja, und was passiert halt denn dann?
  Leute werden natürlich wütend.
  Also es kam halt immer mehr Leute.
- Moment, Moment, Moment.
- Na ja, erzähl du weiter.
+ Moment, Moment.
+ Erzähl du weiter.
  Ich wollte dir auch nur so was im Ende geben, aber du kannst gerne.
  Ach so, ne.
  Mach, mach, mach du.
- Ich übergebe an die Starbucks.
- Ich wollte dich jetzt gar nicht so unterbrechen.
- Weil ich wollte vielleicht noch so ein bisschen illustrieren.
- Also du hast dann halt eben so den Willi, der tatsächlich auch gar nicht Wonker heißt,  aus Gründen.
- Du hast dann so Umpalumpas und du hast dann irgendwie so gibt es eine Schokoladenfabrik  und da wird dann irgendwie, da ist dann irgendwie so eine komische Anordnung,  wie aus dem Chemiebaukasten, so mit diesen ganzen Glastrichtern und Röhrchen und so.
- Und das sieht alles ein bisschen dürftig aus.
+ Ich übergebe an Starbucks.
+ Ich wollte dich jetzt gar nicht so unterbrechen, aber ich wollte vielleicht noch so ein bisschen illustrieren.
+ Also du hast dann halt eben so den Willy, der tatsächlich auch gar nicht Willy Wonka heißt,  aus Gründen.
+ Du hast dann so um Parlumpas und du hast dann irgendwie so, gibt es eine Schokoladenfabrik  und da wird dann irgendwie, da ist dann irgendwie so eine komische Anordnung,  so mit, wie aus dem Chemiebaukasten, so mit, so mit diesen ganzen Glastrichtern und Röhrchen und so.
+ Und das sieht alles ein bisschen, das sieht alles ein bisschen dürftig aus.
  Es gibt auch noch eine Brücke über so einen Schokoladenfluss beispielsweise,  was aber auch so ein bisschen aussieht wie dreckiges Wasser, wie es wohl hieß.
- Du hast auch so ein paar andere Deko noch mit irgendwie so Pilze,  die da irgendwie so eine verlorne Ansammlung an Pilzen,  die da irgendwie als eine große Skulptur da irgendwie rumsteht.
- Aber ansonsten klingt ein bisschen wie Willi Wonker auf den Fisch bestellt.
- Ja, ein bisschen sehr.
+ Du hast auch, hast auch so ein bisschen, so ein paar andere Deko noch mit irgendwie so Pilze,  die da irgendwie so ein, also so eine verlorene Ansammlung an Pilzen,  die da irgendwie als eine große Skulptur da irgendwie rumstehen.
+ Aber ansonsten klingt ein bisschen wie Willy Wonka auf den Fisch bestellt.
+ Ja.
  Ein bisschen sehr.
- Also du musst dir halt das irgendwie...
- Oder Themen, egal.
- Ja, genau.
- Aber halt wirklich so und dann hast du dann mal irgendwie,  dann hängt dann irgendwie an der Wand vielleicht noch so ein farbiger Stofffetzen,  wo dann irgendwie so ein Haus irgendwie drauf, also wirklich so komplett verloren,  irgendwie so eine Art Hintergrund, was das sein soll oder was danach aussieht.
- Und dann kommt dann noch dazu die Schauspielerin,  haben dann entsprechend ihre Rollen, also der Willi.
- Und dann haben wir da Umpa Lumpas oder einzelne Umpa Lumpas.
- Und dann gibt es noch irgendwie ein Spiegel und hinter diesem Spiegel,  also die Kinder werden dann da durchgeführt mit ihren Eltern  und dann wird er irgendwie Dinge erzählt und man kann irgendwie Fotos machen.
- Und dann kommt man da zu einem Spiegel und dann sagt der Willi, ja, hier, pass auf.
- Und oh, was ist das?
- Und dann kommt da irgendwie so eine schwarz gekleidete Figur mit Maske.
+ Ein bisschen sehr.
+ Also, du musst, du musst dir halt das irgendwie...
+ Team, egal.
+ Ja, genau, aber halt wirklich so und dann hast du dann mal irgendwie,  dann hängt dann irgendwie an der Wand vielleicht noch so ein farbiger Stofffetzen,  wo dann irgendwie so ein Haus irgendwie drauf, also wirklich so komplett verloren,  irgendwie so eine Art Hintergrund, was das sein soll oder was danach aussieht.
+ Und dann kommt dann noch dazu die Schauspielerin,  haben dann, haben dann entsprechend ihre Rollen, also der Willy,  und dann haben wir da Umpalumpas oder einzelne Umpalumpas.
+ Und dann gibt es noch irgendwie ein Spiegel und hinter diesem Spiegel,  also die Kinder werden dann da durchgeführt mit ihren Eltern  und dann wird irgendwie Dinge erzählt und man kann irgendwie Fotos machen.
+ Und dann kommt man da zu einem Spiegel und dann sagt der Willy, ja, hier, pass auf.
+ Und, oh, was ist das?
+Und dann kommt da irgendwie so eine schwarz gekleidete Figur mit Maske.
  Also wirklich, du kannst das Gesicht nicht sehen, sondern so mit Maske total gruselig vor.
- Und dann ist das The Unknown.
- Eine Figur, die ist in Willi Wonker beziehungsweise Charlie und die Schokolade...
+ Und dann ist das the unknown.
+ Eine Figur, die ist in Willy Wonka bzw.
+Charlie und die Schokolade...
  Ich kann mich nicht erinnern.
  Exakt.
+Die ist da einfach schlichtweg nicht gibt.
  Die ist da einfach schlichtweg nicht gibt.
  Okay.
  So.
- Für ein Haufen Geld, was?
+ Für einen Haufen Geld, was?
  Für 35 Pfund.
  Ja, 35 Pfund pro Person.
- Geil.
- Ja.
  Und es gab nicht mal Schokolade.
  Die Kinder bekamen eine Jellybean.
- Ein, ne?
- Also wenn ihr nicht was Jelly...
+Ein, ne?
+ Also wenn ihr jetzt etwas Jelly...
  Ja, sehr klein.
- Irgendwie so oder man könnte vielleicht auch so mit Tiktok oder so,  für die Größe ungefähr, eine Jellybean und ein Viertelbecher Limonade.
- Viertelbecher Limonade.
- Ja.
- Ein Viertelbecher Limonade.
- Und diese gesamte Willi's Chocolate Experience hat halt irgendwie so 2 Minuten gedauert.
+ Irgendwie so oder man könnte vielleicht auch so mit Tiktok oder so für die Größe ungefähr.
+ Eine Jellybean und ein Viertelbecher Limonade.
+ Viertel?
+ Ja, ein Viertelbecher Limonade.
+ Und diese gesamte Willys-Chocolate-Experience hat halt irgendwie so 2 Minuten gedauert.
  Also da bist du halt einfach einmal durchgelaufen.
  Hast dann irgendwie die paar wenigen Dinge, die es da irgendwie gab, dir angeguckt.
  Hast deine Kinder traumatisiert durch The Unknown.
  Also da gibt es auch entsprechende Videos, die kursieren oder dann auch in der...
- Das ist mir geil mitbekommen.
+ Das ist richtig geil mitbekommen.
  Wie dann halt die Kinder auch einfach weinen.
  Also wirklich weinen.
  Also natürlich, es ist halt ein bisschen horrormäßig.
  Ja, natürlich.
- Und du erwartest halt irgendwie eine kinderfreundliche Veranstaltung.
+ Und du kommst dann, also erwartest halt irgendwie eine kinderfreundliche Veranstaltung.
  Und dann kommt dann halt sowas.
- Und also ein Lies ist ein großer...
- Ja, schwierig.
+ Und also ein riesengroßer, ja...
+ Schwierig.
  Da haben wir ein paar Bilder aus dem Guardian in den Show Notes verlinkt.
  Genau.
- Und klingt so ein bisschen wie das Festival 2017.
- Feierfest 2017.
- Ja.
- Ja, naja, das geilste fand ich ja noch.
- Das waren natürlich Leute wütend.
- Dann musst du sogar die Polizei kommen.
- Ich glaub, wir haben angefangen auch Refans zu machen.
- Und was ich auch noch interessant fand,  der Veranstalter hatten ja auch diesen Darstellern,  die halt diese Schauspielersachen spielen sollten.
- Den hatten die auch Quatsch erzählt.
- Und Wora Nagswieger, wer war schuld?
- Na, die hatten ja nicht Quatsch erzählt.
+ Und klingt so ein bisschen wie eine Festival 2017.
+ Firefest 2017.
+ Ja, naja, und das geilste, fand ich ja noch, war natürlich Leute wütend.
+ Da musst du sogar die Polizei kommen.
+ Ich glaub, hier hat man angefangen, auch Refans zu machen.
+ Und was ich auch noch interessant fand, der Veranstalter hatten ja auch diesen Darstellern,  die halt diese Schauspielersachen spielen sollten.
+ Den hatten die auch Quatcha erzählt.
+ Und Wuranakzweger, wer war schuld?
+ Na, die hatten ja nicht Quatcha erzählt.
  Also die haben halt einen Tag vorher, haben die halt so ein 15-seitiges Skript bekommen,  das sie halt lernen sollten.
  Und das war halt teilweise echt viel, echt viel.
- Ja, aber die hatten ja gar nicht ihre ganzen, also die Special Effects und Props,  die den versprochen, oder waren ja auch alle nicht da.
+ Die hatten ja gar nicht ihre ganzen, also die Special Effects und Props,  die den versprochen oder waren ja auch alle nicht da.
  Die kamen ja in so ein halblieres.
- Also wirklich wie Feier.
+ Also wirklich wie Fire, ja.
  Ja.
  Und statt einer Bubble Machine gab es zum Beispiel auch keine Bubble Machine,  sondern halt so Nebel.
  Seifenblasen.
- Ja, statt Seifenblasen gab es dann halt Nebel,  was halt auch so nicht vorgesehen war.
+ Ja, statt der Seifenblasen gab es dann halt Nebel,  was halt auch so nicht vorgesehen war.
  Genau.
  Wer war schuld wieder?
  Beim Advertisement?
  Die böse KI mal wieder.
  Die böse KI.
- Ja, es waren nämlich alles Bilder,  waren natürlich AI-generated.
+ Ja, das waren nämlich alles Bilder, waren natürlich AI generated.
  Ja, das sieht man ganz gut.
- Das Skript war AI-generiert.
- So kam zum Beispiel auch die Unknown rein.
+ Das Skript war AI generiert.
+ So kann zum Beispiel auch die Unknown rein.
  Ach so, ist ja klar.
  Sie konnten es natürlich nicht Willy Wonka nennen,  weil Markenschutzrechte und beispielsweise deswegen,  deswegen hieß es zum Beispiel auch noch Willys Chocolate Experience.
- Und das Unternehmen hat sich zum Beispiel auch,  hat zum Beispiel auch gemeint,  dass ein Grund, warum das jetzt nicht so war,  wie es hätte eigentlich sein sollen,  dass sie wohl Probleme mit einem Lieferanten gehabt haben,  der eigentlich diese fotorealistische Tapete  oder Wanddekoration hätte liefern sollen,  dass die halt nicht rechtzeitig kamen.
- Aber man hat sicher offenbar dennoch dafür entschieden,  also es wurde halt irgendwie innerhalb von 24 Stunden vorher,  bevor es eröffnet wurde,  wurde diese Halle überhaupt erstmal dekoriert.
+ Und das Unternehmen hat sich zum Beispiel auch,  hat zum Beispiel auch gemeint,  dass ein Grund, warum das jetzt nicht so war,  wie es hätte eigentlich sein sollen,  dass sie Probleme mit einem Lieferanten gehabt haben,  der eigentlich diese fotorealistische Tapete  oder Wanddekoration hätte liefern sollen,  dass die halt nicht rechtzeitig kamen.
+ Aber man hat sich ja offenbar dennoch dafür entschieden,  also es wurde halt irgendwie innerhalb von 24 Stunden vorher,  bevor es eröffnet wurde,  wurde diese Halle überhaupt erstmal dekoriert.
  Ja, ja.
- Es gab übrigens auch noch, zusätzlich noch eine mickrige kleine Hüpfburg.
+ Es gab übrigens auch noch zusätzlich noch eine mickrige kleine Hüpfburg.
  Okay, okay.
- Ja, wie Fire, also das ist ja wirklich das Gleiche,  irgendwie mit Low Effort, aber viel Marketing.
- Das klingt wieder so wie so eine Generation Marketing.
- Wir erschlagen alles, was technologisch nicht losbar ist,  einfach mit Marketing.
- Wir werfen schöne KI-generierte Bilder drauf und dann wird das schon passen.
- Also ich habe ja auch den Link zum Fire-Festival,  da habe ich auch in die Show Notes gepackt.
- Da gibt es auch eine sehr schöne Dokumentation drüber,  die ich empfehlen kann,  wenn man ein bisschen mit auf nem Mund vorm Fernseher sitzen will.
+ Ja, Befire, also das ist ja wirklich das Gleiche,  irgendwie mit Low Effort, aber viel Marketing.
+ Das klingt wieder so wie so Generation Marketing.
+ Wir erschlagen alles, was technologisch nicht losbar ist,  einfach mit Marketing, wir werfen schöne KI generierte Bilder drauf  und dann wird das schon passen.
+ Also ich habe ja auch den Link zum Feierfestival,  wer das nicht kennt, habe ich auch in die Show Notes gepackt.
+ Da gibt es auch eine sehr schöne Dokumentation drüber,  die ich empfehlen kann,  wenn man ein bisschen mit offener Mundform fernsel sitzen will.
  Ja, also vielleicht kann man noch kurz sagen,  ein Festival, das in den höchsten Tönen angepriesen und gelobt,  also angepriesen wurde, auch mit, ich glaube,  so Prominente, die das vorab beworben haben.
  Ohne KI noch?
- Riesen-Line-Up, da haben da auch irgendwie die größten Stars.
- Also das einzig Gute an diesem Fire-Ding war eigentlich,  dass sie im Wesentlichen das Geld von Leuten genommen haben,  die sehr viel Geld hatten,  weil es auch eine sehr, sehr teure Veranstaltung war.
- Das war irgendwie 10.000 oder so, ne?
+ Riesen-Line-Up, also sie haben da auch irgendwie die größten Stars.
+ Also das einzig Gute an diesem Feierdingen war eigentlich,  dass sie im Wesentlichen das Geld von Leuten genommen haben,  die sehr viel Geld hatten.
+ Weil es auch eine sehr, sehr teure Veranstaltung war.
+ Das war ein bisschen ein Tausend oder so, ne?
  Ja, genau.
  Und dann haben sie halt diese ganzen Hochkarätigen Kützer,  die haben alle kurz vorher abgesagt,  dass sie gesehen haben, was der Zustand von dem allen ist.
- Und die Leute sind da alle irgendwie angereist  und sind dann auf einem Parkplatz,  wenn noch nicht fertig war, mit dem Partyxyklos gelandet.
- Echtes Festival.
- Und das exklusive Essen und so,  was da versprochen wurde, war dann eher nicht so hochwertig.
- Genau, und da war es wohl so,  dass der Gründer des Ganzen, der hat auch bis zum Ende behauptet,  dass alles gut läuft,  wenn schon alle Leute, die da mit dran gearbeitet haben,  irgendwie Muffensausen hatten, dass das richtig fies sind.
- Wenn es anfängt, nicht gut zu laufen, musst du halt mehr Marketing machen.
+ Und die Leute sind da alle irgendwie angereist  und sind dann auf einem Parkplatz,  wenn er nicht fertig war,  mit dem Party-Ksi-Close gehandelt.
+ Und das exklusive Essen und so,  das da versprochen wurde,  war dann eher nicht so hochwertig.
+ Genau, da war es wohl so,  dass der Gründer des Ganzen,  der hat auch bis zum Ende behauptet,  dass alles gut läuft.
+ Also wenn schon alle Leute,  die da mit dran gearbeitet haben,  irgendwie Muffensausen hatten,  dass das richtig fies sind.
+ Wenn es anfängt, nicht gut zu laufen musste,  halt mehr Marketing machen.
  Ja, genau.
  Am Ende ist alles gut.
  Und wenn es nicht gut ist, dann ist es noch nicht das Ende.
- Wir wissen, wir sind ja seit 3 Millionen Millionen.
- Aber der Satz stimmt ja sogar teilweise mal nicht mal.
- Ja, es gibt ja auch Fire Festival 2.
- Ist das so ähnlich wie Titanic 2?
- Alles passiert nochmal, nur anders.
+ Wissen wir ihr?
+ Ich weiß immer nicht mal.
+ Ja, es gibt ja auch "Fire Festival 2".
+ Ist das so ähnlich wie "Titanic 2"?
+ Alles passiert nochmal.
+ Nur anders.
  So, wir haben genug gequatscht  und hören uns im April wieder.
- Wir sind auch Leute, die wollen in die Machbare heilen.
- Das war übrigens gerade mein Nachbar.
+ Wir sind auch Leute,  wollen in die Machbare heilen.
+ Das war übrigens mein Nachbar.
+ Ich bin gespannt.
  Vielleicht brennt dein Haus.
- So, wir hören uns im April wieder  und freuen uns darauf,  wenn ihr mal schaut, ob wir unseren Podcast öffentlich haben.
- Und dann schreibt uns doch an radio-cct-p.org  oder hört uns einfach nächstes Jahr, nächsten Monat wieder.
- Am 2.
-Monat, im Freien Radio Potsdam.
- Zum Abschluss gehen wir mit Musik raus  und hören von Beat Mechanic Electron.
+ Genau, wir hören uns im April wieder.
+ Und freuen uns darauf,  wenn ihr mal schaut,  ob wir unseren Podcast wir öffentlich haben.
+ Und dann schreibt uns doch  an radioeccct-p.org  Oder hört uns einfach  nächstes Jahr, nächsten Monat wieder.
+ Am zweiten Montag, im freien Radio Potsdam.
+ So sieht es aus.
+ Und zum Abschluss gehen wir mit Musik raus  und hören von Beat Mechanic  über die Technik.
+ Und wir hören von Beat Mechanic  Elektron.
  Tschüss!
- * Musik *  * Musik *  * Musik *  * Musik *  * Musik *  * Musik * 

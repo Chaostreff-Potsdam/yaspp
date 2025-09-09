@@ -1,2999 +1,4652 @@
 WEBVTT
 
-00:00:00.000 --> 00:00:10.000
- Herzlich Willkommen. Ich fang an. Cyroxx guckte überrascht. Ich fang an Chaos im Radio hier, weil es ist Montag und zwar der zweite Montag im Monat.
+00:00:00.580 --> 00:00:09.930
+ Herzlich Willkommen, ich fange an, Cyroxx guckt überrascht. Ich fange an, Chaos im Radio hier, weil es ist Montag und zwar der zweite Montag im Monat.
 
-00:00:10.000 --> 00:00:17.000
- Und deswegen sagen wir Hallo aus einer sonnigen Machbar in Voraufzeichnung. Am Sonntag im Monat. Am Sonntag im Montag.
+00:00:09.930 --> 00:00:14.370
+ Und deswegen sagen wir Hallo aus einer sonnigen Machbar in Voraufzeichnung.
 
-00:00:17.000 --> 00:00:24.000
- Vor dem Montag. Heute ist der Sonntag vor dem Montag. Ja, wir zeichnen auf. Wir zeichnen auf in der Machbar. Es scheint uns die Sonne ins Gesicht.
+00:00:14.370 --> 00:00:15.560
+ Am Sonntag im Monat?
 
-00:00:24.000 --> 00:00:32.000
- Oder auf den Lacken und andere Körperteile. Das kann man falsch verstehen, aber nein, der Oberarm.
+00:00:15.560 --> 00:00:17.240
+ Am Sonntag im Montag.
 
-00:00:32.000 --> 00:00:44.000
+00:00:17.240 --> 00:00:18.310
+ Vor dem Montag?
+
+00:00:18.310 --> 00:00:19.810
+ Heute ist der Sonntag vor dem Montag.
+
+00:00:19.810 --> 00:00:20.800
+ Ja, wir zeichnen auf.
+
+00:00:20.800 --> 00:00:25.270
+ Wir zeichnen auf in der Machbar. Es scheint uns die Sonne ins Gesicht und...
+
+00:00:25.270 --> 00:00:26.380
+ Oder auf den Lacken.
+
+00:00:26.380 --> 00:00:27.690
+ Stimmt's ja.
+
+00:00:27.690 --> 00:00:28.840
+ Und andere Körperteile.
+
+00:00:28.840 --> 00:00:32.810
+ Das kann man falsch verstehen, aber nein, der Oberabend.
+
+00:00:32.810 --> 00:00:44.120
  Wir möchten euch gerne bespaßen mit den Themen aus um und aus der Machbar herum, glaube ich, und aus dem Chaos und überhaupt.
 
-00:00:44.000 --> 00:00:52.000
- Digitales und Netzpolitik in und um Potsdam. Genau, gerade keine Cyberattacken aktiv. So haben wir mal angefangen.
+00:00:44.120 --> 00:00:46.870
+ Digitales und Netzpolitik in und um Potsdam.
 
-00:00:52.000 --> 00:01:06.000
- Wie war das mit den Lücken in ESP 230 Chips? Das könnte nochmal spannend werden, aber das ist heute als wir aufzeichnen noch nicht so laut und spannend geworden, wie es werden könnte.
+00:00:46.870 --> 00:00:50.110
+ In und um Potsdam, genau. Gerade keine Cyberattacken aktiv.
 
-00:01:06.000 --> 00:01:14.000
- Ja, ich glaube, das ist ein Sturm im Wasserglas. Ja, ein Sturm, das man auf dem man Lokalzugriff braucht.
+00:00:50.110 --> 00:00:52.580
+ So haben wir mal angefangen, um das zu machen.
 
-00:01:14.000 --> 00:01:29.000
- Wir haben ein Potpourri an Themen und ein paar werden schlechte Laune erzeugen, ein paar werden gute Laune erfolgen und wir hoffen, wir können das gut hin und her wechseln.
+00:00:52.580 --> 00:01:00.270
+ Wie war das mit den Lücken in ESP32 Chips? Das können dann nochmal spannend werden.
 
-00:01:29.000 --> 00:01:33.000
+00:01:00.270 --> 00:01:05.660
+ Aber das ist heute, als wir aufzeichnen, noch nicht so laut und spannend geworden, wie es werden könnte.
+
+00:01:05.660 --> 00:01:09.450
+ Ja, ich glaube, das ist ein Sturm im Wasserglas.
+
+00:01:09.450 --> 00:01:13.600
+ Ja, ein Sturm in Dingen, auf die man Lokalzugriff braucht.
+
+00:01:13.600 --> 00:01:22.720
+ Genau, wir haben ein Potpourri an Themen und ein paar werden schlechte Laune erzeugen.
+
+00:01:22.720 --> 00:01:28.680
+ Und wir hoffen, dass wir das gut hin und her wechseln.
+
+00:01:28.680 --> 00:01:33.410
  Knurps möchte gerne als Assessor ein bisschen weisslos werden.
 
-00:01:33.000 --> 00:01:47.000
- Für Nutzer von Arch Linux oder Manjaro Linux. Wenn euch beim Aktualisieren eurer Pakete zurzeit, also komische Fehlermeldungen über den Weg laufen, dass ein Community-Repo nicht mehr existiert, ja, es existiert nicht mehr.
+00:01:33.410 --> 00:01:37.240
+ Ein bisschen weiss. Für Nutzer von Arch Linux oder Manjaro Linux.
 
-00:01:47.000 --> 00:01:59.000
- Ja, es wurde vor einiger Zeit angekündigt, dass es abgekündigt wird und das fand am 3. oder am 6. Dritten, also vor ein paar Tagen, statt und deswegen werfen Paketaktualisierung zurzeit Fehler.
+00:01:37.240 --> 00:01:46.740
+ Wenn euch beim Aktualisieren eurer Pakete zurzeit, also komische Fehlermeldungen über den Weg laufen, dass ein Community-Report nicht mehr existiert, ja, es existiert nicht mehr.
 
-00:01:59.000 --> 00:02:10.000
- Es gibt bei Arch Linux auch eine Webseite, wo die Lösung drinsteht, googlen hilft. Beziehungsweise lesen unsere Show-Nauts, aber bis die drinsteht, hat man es gekuggelt.
+00:01:46.740 --> 00:01:50.770
+ Ja, es wurde vor einiger Zeit angekündigt, dass es abgekündigt wird.
 
-00:02:10.000 --> 00:02:18.000
+00:01:50.770 --> 00:01:58.950
+ Und es fand am dritten oder am sechsten Dritten, also vor ein paar Tagen, statt und deswegen werfen Paketaktualisierung zurzeit Fehler.
+
+00:01:58.950 --> 00:02:03.980
+ Es gibt bei Arch Linux auch eine Webseite, wo die Lösung drin steht, googlen helft.
+
+00:02:03.980 --> 00:02:09.690
+ Beziehungsweise lesen unsere Shownauts, aber bis die drin sind, hat man es gekuggelt.
+
+00:02:09.690 --> 00:02:17.520
  Apropos, ist das so ein Community-Repository, das von ganz vielen verwendet wird?
 
-00:02:18.000 --> 00:02:29.000
- Das war mal getrennt, es gab ein extra und ein Community-Repository, das verschiedene Mantenna hat, verschiedene Modus operandi oder Modi operandi, wie der Pakete gepflegt wurden.
+00:02:17.520 --> 00:02:21.750
+ Es war mal getrennt, es gab ein Extra- und ein Community-Repository.
 
-00:02:29.000 --> 00:02:34.000
+00:02:21.750 --> 00:02:28.770
+ Mein Trainer hatte verschiedene Modus operandi oder Modi operandi, wie der Pakete gepflegt wurden.
+
+00:02:28.770 --> 00:02:33.840
  Und das wurde von der Weile als Community extra integriert, weil es so einen großen Unterschied dann doch nicht mehr gab.
 
-00:02:34.000 --> 00:02:38.000
- Das ist der Punkt und die Pakete, die früher und früher Community waren, sind jetzt extra.
+00:02:33.840 --> 00:02:38.260
+ Das ist der Punkt und die Pakete, die früher in der Community waren, sind jetzt extra.
 
-00:02:38.000 --> 00:02:44.000
- Man hat da auch immer schon mal so einen Hinweis gelesen, möchtest du dieses Paket jetzt aus einem anderen Repo kriegen.
+00:02:38.260 --> 00:02:44.090
+ Man hat da auch immer schon mal so einen Hinweis gelesen, möchtest du dieses Paket jetzt aus einem anderen Report kriegen.
 
-00:02:44.000 --> 00:02:52.000
- Und ja, jetzt haben sie Community abgeschaltet, deswegen diese Fehlermelungen. Die sind auch nicht schlimm, aber geht leicht weg.
+00:02:44.090 --> 00:02:49.170
+ Und ja, jetzt haben sie Community abgeschaltet, deswegen diese Fehlermelungen.
 
-00:02:52.000 --> 00:02:56.000
+00:02:49.170 --> 00:02:51.830
+ Die sind auch nicht schlimm, aber es geht leicht weg.
+
+00:02:51.830 --> 00:02:56.110
  Einfach Community aus der Pac-Man Konflikt entfernen und checken.
 
-00:02:56.000 --> 00:03:00.000
- Am besten nochmal die Suchmaschine der Wahl bedienen und dann findet man das.
+00:02:56.110 --> 00:03:00.200
+ Am besten noch mal die Suchmaschine der Wahl bedienen und dann findet man das.
 
-00:03:00.000 --> 00:03:04.000
- Wir sind übrigens so chaotisch, also liebe Community.
+00:03:00.200 --> 00:03:03.360
+ Wir sind übrigens so chaotisch, also liebe ...
 
-00:03:04.000 --> 00:03:12.000
- Ich kann noch einen Suchbegriff liefern. Cleaning up old repositories hilft als Suchbegriff. Arch, glaube ich, braucht man in dem Fall nicht mal.
+00:03:03.360 --> 00:03:10.090
+ Beziehungsweise ich kann noch einen Suchbegriff liefern, Cleaning up old Repositories hilft als Suchbegriff.
 
-00:03:12.000 --> 00:03:21.000
- Na gut, okay. So chaotisch, dass wir nicht mal gesagt haben, dass hier Cyroxx, TASO oder Knurps und der Hannes am Mikrofon.
+00:03:10.090 --> 00:03:12.000
+ Arch, glaube ich, braucht man in dem Fall nicht mal.
 
-00:03:21.000 --> 00:03:22.000
+00:03:12.000 --> 00:03:14.860
+ Na gut, okay, so chaotisch.
+
+00:03:14.860 --> 00:03:21.390
+ Dass wir nicht mal gesagt haben, dass hier Cyroxx, Tassos oder Knurps und der Hannes am Mikrofon sich ...
+
+00:03:21.390 --> 00:03:22.310
  Ach ja, richtig.
 
-00:03:22.000 --> 00:03:24.000
- Mein Fehler.
+00:03:22.310 --> 00:03:24.180
+ ... mein Fehler.
 
-00:03:24.000 --> 00:03:26.000
- Wir gehen gleich in die Folgen.
+00:03:24.180 --> 00:03:25.290
+ Wir gehen halt gleich in die Folgen.
 
-00:03:26.000 --> 00:03:27.000
+00:03:25.290 --> 00:03:27.010
  Wir gehen gleich in die Folgen, das ist auch wichtig.
 
-00:03:27.000 --> 00:03:33.000
+00:03:27.010 --> 00:03:32.780
  Und, dass wir auf 90,7 und 88,4 in Berlin senden, haben wir auch nicht gesagt.
 
-00:03:33.000 --> 00:03:35.000
+00:03:32.780 --> 00:03:34.820
  Naja, das war ein bisschen Absicht.
 
-00:03:35.000 --> 00:03:36.000
+00:03:34.820 --> 00:03:35.210
  Ach so.
 
-00:03:36.000 --> 00:03:39.000
- Ja, ach na ja, ich denke, wenn die Leute hören uns, ja, wahrscheinlich.
+00:03:35.210 --> 00:03:38.480
+ Ich dachte, ja, ach, na ja, ich denke immer, die Leute hören uns ja wahrscheinlich.
 
-00:03:39.000 --> 00:03:45.000
- Naja, genau, aber ich mein so ein Linux-Inweis, der will ja auch raus an die Leute.
+00:03:38.480 --> 00:03:39.160
+ Wahrscheinlich.
 
-00:03:45.000 --> 00:03:47.000
+00:03:39.160 --> 00:03:45.500
+ Naja, genau, aber ich mein, so ein Linux-Inweis, der will ja auch raus an die Leute.
+
+00:03:45.500 --> 00:03:47.900
  Genau.
 
-00:03:47.000 --> 00:03:49.000
+00:03:47.900 --> 00:03:48.810
  Gut.
 
-00:03:49.000 --> 00:03:50.000
+00:03:48.810 --> 00:03:49.800
  Was auch noch raus will?
 
-00:03:50.000 --> 00:03:52.000
- Genau. Lass mal raus.
+00:03:49.800 --> 00:03:52.960
+ Genau, lasst mal raus.
 
-00:03:52.000 --> 00:03:58.000
+00:03:52.960 --> 00:03:58.370
  Ja, also das mit Linux, genau.
 
-00:03:58.000 --> 00:04:03.000
+00:03:58.370 --> 00:04:03.380
  Genau, was ich rauslassen muss, ist heute so ein bisschen Frust mit meinem E-Mail-Anbieter.
 
-00:04:03.000 --> 00:04:11.000
- Ich habe so ein E-Mail-Konto bei einem E-Mail-Anbieter, der nicht irgendwie mit einem G anfängt,
+00:04:03.380 --> 00:04:10.820
+ Ich habe so ein E-Mail-Konto bei einem E-Mail-Anbieter, der nicht irgendwie mit einem G anfängt.
 
-00:04:11.000 --> 00:04:13.000
- sondern woanders.
+00:04:10.820 --> 00:04:20.330
+ Sondern woanders war auch lange Zeit irgendwie gut, aber der Service lässt immer mehr zu
 
-00:04:13.000 --> 00:04:21.000
- War auch lange Zeit irgendwie gut, aber der Service lässt immer mehr zu wünschen übrig.
+00:04:20.330 --> 00:04:21.330
+ wünschen übrig.
 
-00:04:21.000 --> 00:04:25.000
- Also, man will ja eigentlich so ein bisschen jemandem Geld geben.
+00:04:21.330 --> 00:04:26.300
+ Also, man will ja eigentlich so ein bisschen jemandem Geld geben und der macht dann irgendwie
 
-00:04:25.000 --> 00:04:29.000
- Und der macht dann irgendwie Dinge für einen und vor allem gerade so Internetinfrastruktur,
+00:04:26.300 --> 00:04:30.000
+ Dinge für einen und vor allem gerade so Internetinfrastruktur, so Basisinfrastruktur
 
-00:04:29.000 --> 00:04:36.000
- so Basisinfrastruktur betreiben wird ja eigentlich, möchte man meinen, eher günstiger über die Zeit als teurer.
+00:04:30.000 --> 00:04:34.900
+ betreiben wird ja eigentlich, möchte man meinen, eher günstiger über die Zeit als
 
-00:04:36.000 --> 00:04:38.000
+00:04:34.900 --> 00:04:35.900
+ teurer.
+
+00:04:35.900 --> 00:04:37.990
  Ja, man muss nicht mehr so viel neu lernen.
 
-00:04:38.000 --> 00:04:39.000
- Ja, ja, ja.
+00:04:37.990 --> 00:04:38.980
+ Ja, ja.
 
-00:04:39.000 --> 00:04:43.000
- Und wobei ein Mail-Server betreiben ist pain, also ich verstehe, dass man dafür Geld haben will.
+00:04:38.980 --> 00:04:42.880
+ Aber bei Mailserver-Betremmen ist es pain, also ich verstehe, dass man dafür Geld haben
 
-00:04:43.000 --> 00:04:46.000
+00:04:42.880 --> 00:04:43.870
+ will.
+
+00:04:43.870 --> 00:04:45.460
  Ja, ja, ja, das ist ja auch unbenommen.
 
-00:04:46.000 --> 00:04:51.000
- Aber also nur um die beiden Sachen gerade zu verknüpfen, ich habe ja mein eigenes Mail-Server
+00:04:45.460 --> 00:04:50.750
+ Aber also nur um die beiden Sachen gerade zu verknüpfen, ich habe ja mein eigenes Mailserver
 
-00:04:51.000 --> 00:04:54.000
+00:04:50.750 --> 00:04:53.620
  und du hast recht, über die Zeit wird es einfacher.
 
-00:04:54.000 --> 00:04:58.000
+00:04:53.620 --> 00:04:54.680
+ Ja.
+
+00:04:54.680 --> 00:04:57.890
  Also man möchte meinen, je länger man das betreibt, desto einfacher soll es sein.
 
-00:04:58.000 --> 00:05:07.000
- Ja, aber ich sage mal so, wenn man sich Leistung von irgendwo kauft, dann soll das einfach am besten funktionieren.
+00:04:57.890 --> 00:04:58.880
+ Ja.
 
-00:05:07.000 --> 00:05:13.000
- Und jetzt habe ich aber das Problem, dass letztes Jahr schon wurde bestimmte Funktionen einfach reingeschränkt.
+00:04:58.880 --> 00:05:01.100
+ Als PR von Digim schon eingerichtet, der Rest läuft halt so vor sich hin.
 
-00:05:13.000 --> 00:05:15.000
- Wir sind von so Dinge, die du nicht mehr machen kannst.
+00:05:01.100 --> 00:05:02.090
+ Ja.
 
-00:05:15.000 --> 00:05:22.000
- Oder muss ich regelmäßig irgendwo einloggen, damit dein Postfach oder deine Mail-Weiterleitung noch bestehen bleibt.
+00:05:02.090 --> 00:05:06.470
+ Aber ich sag mal so, wenn man sich Leistung von irgendwo kauft, dann soll das einfach
 
-00:05:22.000 --> 00:05:25.000
- Und jetzt ist es aber vor allem so, ich kriege jetzt jeden Tag eine Mail von,
+00:05:06.470 --> 00:05:07.470
+ am besten funktionieren.
 
-00:05:25.000 --> 00:05:31.000
- ach übrigens, sie haben ihr Limit von so und so viel Megabyte überschritten.
+00:05:07.470 --> 00:05:12.400
+ Und jetzt habe ich aber das Problem, dass letztes Jahr schon wurde, wurde eine bestimmte Funktion
 
-00:05:31.000 --> 00:05:35.000
+00:05:12.400 --> 00:05:13.400
+ einfach reingeschränkt.
+
+00:05:13.400 --> 00:05:16.730
+ Wir sind von so Dinge, die du nicht mehr machen kannst, oder du musst dich regelmäßig irgendwo
+
+00:05:16.730 --> 00:05:22.000
+ einloggen, damit dein Postfach oder deine Mail-Weiterleitung noch bestehen bleibt.
+
+00:05:22.000 --> 00:05:26.510
+ Und jetzt ist es aber vor allem so, ich kriege jetzt jeden Tag eine Mail von, ach übrigens,
+
+00:05:26.510 --> 00:05:31.340
+ sie haben ihr Limit von so und so viel Megabyte überschritten.
+
+00:05:31.340 --> 00:05:35.210
  Ändern Sie das mal bitte in den nächsten vier Wochen, sonst, sonst.
 
-00:05:35.000 --> 00:05:39.000
+00:05:35.210 --> 00:05:39.840
  Und ich denke mir so, oh, ich habe echt keinen Bock, mich jetzt damit noch zu beschäftigen.
 
-00:05:39.000 --> 00:05:45.000
- Ich will doch einfach nur Mail senden und empfangen und vor allem wenn du dann siehst,
+00:05:39.840 --> 00:05:45.390
+ Ich will doch einfach nur Mail senden und empfangen und vor allem, wenn du dann siehst
 
-00:05:45.000 --> 00:05:51.000
- mittlerweile, also der Mail-Anbieter wurde dann auch irgendwie aufgekauft von irgendwie einer US-Geröße.
+00:05:45.390 --> 00:05:49.740
+ mittlerweile, also der Mail-Anbieter wurde dann auch irgendwie aufgekauft, von irgendwie
 
-00:05:51.000 --> 00:05:57.000
- Und dann die neuen Angebote für E-Mail haben dann alle irgendwie so Microsoft 365 hinten dran.
+00:05:49.740 --> 00:05:50.860
+ einer US-Geröße.
 
-00:05:57.000 --> 00:05:59.000
- Und direkt so denkst du, oh, nee.
+00:05:50.860 --> 00:05:56.970
+ Und dann die neuen Angebote für E-Mail haben dann alle irgendwie so Microsoft 365 hinten
 
-00:05:59.000 --> 00:06:01.000
+00:05:56.970 --> 00:05:59.810
+ dran und dir echt so denkst, oh, nee.
+
+00:05:59.810 --> 00:06:01.000
  Das war eigentlich nicht das Ziel.
 
-00:06:01.000 --> 00:06:02.000
- Das war eigentlich nicht das Ziel, genau.
+00:06:01.000 --> 00:06:05.910
+ Genau, deswegen wird da bei mir irgendwie in den nächsten Wochen anstehen, dass ich
 
-00:06:02.000 --> 00:06:05.000
- Deswegen wird da bei mir irgendwie in den nächsten Wochen anstehen,
+00:06:05.910 --> 00:06:08.350
+ mir mal einen neuen Mail-Provider suchen muss.
 
-00:06:05.000 --> 00:06:08.000
- dass ich mir immer einen neuen Mail-Provider suchen muss.
+00:06:08.350 --> 00:06:11.620
+ Ist es schon ein eigenes Domain, ziehst du ein eigenes Domain mit um, oder?
 
-00:06:08.000 --> 00:06:11.000
- Das ist ein eigenes Domain, ziehst du ein eigenes Domain mit um oder?
+00:06:11.620 --> 00:06:12.620
+ Ja.
 
-00:06:11.000 --> 00:06:12.000
- Ja, ja.
+00:06:12.620 --> 00:06:13.610
+ Ja, okay, immerhin.
 
-00:06:12.000 --> 00:06:13.000
- Okay, immerhin.
+00:06:13.610 --> 00:06:17.800
+ Aber das schließt dann natürlich bestimmte andere Sachen dann auch wieder aus, weil es
 
-00:06:13.000 --> 00:06:16.000
- Aber das schließt dann natürlich bestimmte andere Sachen dann auch wieder aus,
+00:06:17.800 --> 00:06:22.710
+ gibt mehrere gute E-Mail-Anbieter, E-Mail-Provider, die das halt dann nicht anbieten, dass du
 
-00:06:16.000 --> 00:06:21.000
- weil es gibt mehrere gute E-Mail-Anbieter, E-Mail-Provider,
+00:06:22.710 --> 00:06:24.390
+ eine eigene Domain haben kannst.
 
-00:06:21.000 --> 00:06:24.000
- die das halt dann nicht anbieten, dass du eine eigene Domain haben kannst.
-
-00:06:24.000 --> 00:06:25.000
+00:06:24.390 --> 00:06:25.390
  Ja, stimmt.
 
-00:06:25.000 --> 00:06:27.000
+00:06:25.390 --> 00:06:26.900
  Sehr, sehr viele bieten das nicht an.
 
-00:06:27.000 --> 00:06:31.000
+00:06:26.900 --> 00:06:31.170
  Für alle anderen, die hier zuhören und sich noch nicht so richtig damit beschäftigt haben,
 
-00:06:31.000 --> 00:06:35.000
- ich hatte das nämlich kürzlich mit einem Service-Mitarbeiter an einem Telefon,
+00:06:31.170 --> 00:06:36.590
+ ich hatte das nämlich kürzlich mit einem Service-Mitarbeiter an einem Telefon, der mich
 
-00:06:35.000 --> 00:06:39.000
- der mich nämlich verifizieren wollte anhand meiner E-Mail-Adresse.
+00:06:36.590 --> 00:06:39.880
+ nämlich verifizieren wollte an der Hand meiner E-Mail-Adresse, also er hat gesagt, was ist
 
-00:06:39.000 --> 00:06:41.000
- Also er hat gesagt, was ist denn deine E-Mail-Adresse?
+00:06:39.880 --> 00:06:40.870
+ denn deine E-Mail-Adresse?
 
-00:06:41.000 --> 00:06:48.000
- Und ich sag so, keine Ahnung, welch ich euch gegeben habe, aber es ist @mynachname.de
+00:06:40.870 --> 00:06:48.170
+ Und ich sag so, keine Ahnung, welch ich euch gegeben habe, aber es ist @meinnachname.de
 
-00:06:48.000 --> 00:06:50.000
- und er hat gesagt, wie?
+00:06:48.170 --> 00:06:49.140
+ und er meinte, wie?
 
-00:06:50.000 --> 00:06:52.000
- Und ich sag, das gehört alles mir.
+00:06:49.140 --> 00:06:52.500
+ Und ich sag, na ja, also das gehört alles mir, ist egal.
 
-00:06:52.000 --> 00:06:53.000
- Es ist egal.
+00:06:52.500 --> 00:06:56.960
+ Also wenn es von @meinnachname.de und ich hoffe, die Hörer wissen, dass es sich hier
 
-00:06:53.000 --> 00:06:56.000
- Also wenn es von @mynachname.de und ich hoffe, die Hörer wissen,
+00:06:56.960 --> 00:07:02.850
+ um mein Nachnamen handelt und nicht um das Wort, aber es ist also egal, wo du das hinschickst,
 
-00:06:56.000 --> 00:07:01.000
- dass es nicht um mein Nachname handelt und nicht um das Wort,
+00:07:02.850 --> 00:07:03.850
+ das kommt bei mir an.
 
-00:07:01.000 --> 00:07:04.000
- aber es ist egal, wo du das hinschickst, das kommt bei mir an.
-
-00:07:04.000 --> 00:07:05.000
+00:07:03.850 --> 00:07:04.840
  Also das bin ich.
 
-00:07:05.000 --> 00:07:07.000
- Wer kennt man daran, dass er mein Nachname.de bin?
+00:07:04.840 --> 00:07:05.830
+ Ja.
 
-00:07:07.000 --> 00:07:09.000
- Das heißt, er ist sozusagen nur Wildcard-Inbox.
+00:07:05.830 --> 00:07:09.600
+ Wer kennt man daran, dass er @meinnachname.de, der ist sozusagen im Wildcard-Inbox.
 
-00:07:09.000 --> 00:07:10.000
+00:07:09.600 --> 00:07:10.600
  Ja, genau.
 
-00:07:10.000 --> 00:07:16.000
- Ich glaube, er hat dann die größte Zeit des Gesprächs damit zugebracht,
+00:07:10.600 --> 00:07:16.700
+ So, und das war ihm, ich glaube, er hat dann die größte Zeit des Gesprächs damit zugebracht,
 
-00:07:16.000 --> 00:07:19.000
+00:07:16.700 --> 00:07:20.240
  darüber nachzudenken, wie so ich nicht eine E-Mail-Adresse habe.
 
-00:07:19.000 --> 00:07:21.000
- Ich kenne das Phänomen.
+00:07:20.240 --> 00:07:25.820
+ Ich kenne das Phänomen, und zwar als ich mich irgendwo angemeldet habe in einem, also
 
-00:07:21.000 --> 00:07:28.000
- Und zwar, als ich mich irgendwo vor Ort um einen Vertrag abzuschließen,
+00:07:25.820 --> 00:07:29.610
+ ich war irgendwo vor Ort, um einen Vertrag abzuschließen, wo auch die Frage war, und
 
-00:07:28.000 --> 00:07:30.000
- wo auch die Frage war, und wie ist Ihre E-Mail-Adresse?
+00:07:29.610 --> 00:07:30.600
+ wie ist ihre E-Mail-Adresse?
 
-00:07:30.000 --> 00:07:31.000
- Und ich meinte so...
+00:07:30.600 --> 00:07:38.100
+ Und ich meinte so, "Anbieter @meinname.ir" und so, ach ja, Mensch, interessant, sind
 
-00:07:31.000 --> 00:07:32.000
- Dein Name?
+00:07:38.100 --> 00:07:39.890
+ sie, sind sie, sind sie Kollege von uns?
 
-00:07:32.000 --> 00:07:35.000
- Anbieter@myname. irgendwas.
-
-00:07:35.000 --> 00:07:40.000
- Ach ja, Mensch, interessant, sind Sie Kollegen von uns?
-
-00:07:40.000 --> 00:07:41.000
+00:07:39.890 --> 00:07:40.890
  Ich meinte so, nee.
 
-00:07:41.000 --> 00:07:43.000
- Und musste dann darauf hinweisen, dass in der E-Mail-Adresse,
+00:07:40.890 --> 00:07:44.650
+ Und musste dann darauf hinweisen, dass in der E-Mail-Adresse, die sie da normalerweise
 
-00:07:43.000 --> 00:07:46.000
- die Sie da normalerweise haben, dass angedreht ist,
+00:07:44.650 --> 00:07:48.670
+ haben, dass angedreht ist, dass da erst der Vorname und Nachname und dann der Anbieter
 
-00:07:46.000 --> 00:07:49.000
- dass da erst der Vorname und Nachname und dann der Anbieter kommt.
+00:07:48.670 --> 00:07:49.670
+ kommt.
 
-00:07:49.000 --> 00:07:51.000
- Und dass das auch eine Bewandten ist hat.
+00:07:49.670 --> 00:07:50.670
+ Genau.
 
-00:07:51.000 --> 00:07:56.000
- Aber für Leute, die jetzt für die Technik und E-Mail eher so ein Werkzeug ist,
+00:07:50.670 --> 00:07:51.670
+ Und dass das auch eine Bewandnis hat.
 
-00:07:56.000 --> 00:07:59.000
- den fällt das halt nicht auf, sondern die lesen dann halt nach einem bestimmten Muster.
+00:07:51.670 --> 00:07:56.970
+ Weil jetzt für die Technik und E-Mail eher so ein Werkzeug ist, den fällt das halt nicht
 
-00:07:59.000 --> 00:08:02.000
- V.a. wenn die Firmen beteiligt sind, da wird es hier nochmal spannend.
+00:07:56.970 --> 00:07:59.690
+ auf, sondern die lesen dann halt nach einem bestimmten Muster das.
 
-00:08:02.000 --> 00:08:06.000
- Also ich muss jetzt letztens erst eine Webseite für meine Firma bauen,
+00:07:59.690 --> 00:08:02.680
+ Vor allen Dingen, wenn die Firmen beteiligt sind, da wird es ja nochmal spannend.
 
-00:08:06.000 --> 00:08:10.000
- weil eine Firma mir nicht geglaubt hat, dass ich auch eine habe,
+00:08:02.680 --> 00:08:08.140
+ Also ich musste jetzt letztens erst eine Webseite für meine Firma bauen, weil eine Firma mir
 
-00:08:10.000 --> 00:08:12.000
- weil ich keine Webseite habe.
+00:08:08.140 --> 00:08:12.250
+ nicht geglaubt hat, dass ich auch eine habe, weil ich keine Webseite habe, ich habe gesagt,
 
-00:08:12.000 --> 00:08:14.000
- Ich habe gesagt, ich habe keine Webseite, weil ich brauche die nicht.
+00:08:12.250 --> 00:08:14.450
+ ich habe keine Webseite, weil ich brauche die nicht.
 
-00:08:14.000 --> 00:08:15.000
+00:08:14.450 --> 00:08:15.440
  Wozu?
 
-00:08:15.000 --> 00:08:17.000
- Ja, nee, aber wir brauchen Ihre Webseite.
+00:08:15.440 --> 00:08:19.800
+ Ja, nee, aber wir brauchen ihre Webseite, weil wir müssen verifizieren, dass sie, okay,
 
-00:08:17.000 --> 00:08:19.000
- Weil wir müssen verifizieren, dass sie...
+00:08:19.800 --> 00:08:20.790
+ gut.
 
-00:08:19.000 --> 00:08:20.000
- Okay, gut.
-
-00:08:20.000 --> 00:08:22.000
+00:08:20.790 --> 00:08:22.020
  Und das hat sich irgendwie so dreimal wiederholt.
 
-00:08:22.000 --> 00:08:25.000
+00:08:22.020 --> 00:08:24.640
  Sie haben hier dreimal nacheinander nicht geglaubt, dass ich existiere.
 
-00:08:25.000 --> 00:08:28.000
- Und ich habe gesagt, was mir zu dofern in der Webseite ist,
+00:08:24.640 --> 00:08:29.050
+ Und ich habe gesagt, das war es mir zu doof, wenn eine Webseite ins Netz geballert hat.
 
-00:08:28.000 --> 00:08:30.000
- ich habe das jetzt geballert.
+00:08:29.050 --> 00:08:31.030
+ Gut, dann, hier ist er.
 
-00:08:30.000 --> 00:08:37.000
- Wenn ihr mir erst glaubt, dass ich existiere, wenn dann eine Webseite ist,
+00:08:31.030 --> 00:08:33.070
+ Da gibt es doch...
 
-00:08:37.000 --> 00:08:39.000
- die so heißt, wie ich, dann mach mal...
+00:08:33.070 --> 00:08:34.490
+ Also...
 
-00:08:39.000 --> 00:08:41.000
- Jetzt eine Textartei nicht auch getan.
+00:08:34.490 --> 00:08:37.360
+ Wenn ihr mir erst glaubt, dass ich existiere, wenn dann eine Webseite ist, die so heißt,
 
-00:08:41.000 --> 00:08:45.000
- Ich meine, es gibt ja genügend Internetstandards, wo man sagen kann,
+00:08:37.360 --> 00:08:38.350
+ wie ich dann...
 
-00:08:45.000 --> 00:08:48.000
- hier übrigens, hier ist mein privater Schlüssel, hier ist mein...
+00:08:38.350 --> 00:08:43.890
+ Jetzt eine Textartei nicht auch getan, ich meine, es gibt ja genügend Internet-Standards,
 
-00:08:48.000 --> 00:08:50.000
+00:08:43.890 --> 00:08:47.350
+ wo man sagen kann, hier übrigens, hier ist mein Privatschlüssel, hier ist mein...
+
+00:08:47.350 --> 00:08:49.300
  Ja, aber genau, ja, spannend.
 
-00:08:50.000 --> 00:08:53.000
- Ja, da war es sogar im Bereich der Informationstechnologie.
+00:08:49.300 --> 00:08:54.480
+ Ja, da war es sogar im Bereich der Informations-Technologie, aber es war spannend.
 
-00:08:53.000 --> 00:08:55.000
- Aber es war spannend, egal.
-
-00:08:55.000 --> 00:08:57.000
- Genau. Und das spielt eine Rolle,
-
-00:08:57.000 --> 00:08:59.000
- wenn man selber E-Mail-Adressen hat bei einer eigenen Domain,
-
-00:08:59.000 --> 00:09:04.000
- weil üblicherweise kriegt man halt eine @googlemail.de-Adresse oder so.
-
-00:09:04.000 --> 00:09:07.000
- Oder gmx oder irgendwas anderes.
-
-00:09:07.000 --> 00:09:08.000
- Oder gmx oder irgendwas anderes.
-
-00:09:08.000 --> 00:09:09.000
- Und wenn man...
-
-00:09:09.000 --> 00:09:11.000
- Ja, tschuldig und drückend.
-
-00:09:11.000 --> 00:09:14.000
- Oder aol, mehr kann sich jemand von aol.com-Adresse geschrieben,
-
-00:09:14.000 --> 00:09:18.000
- wo ich auch dachte, huiuiui, die war lang unterwegs, die E-Mail, glaub ich.
-
-00:09:18.000 --> 00:09:20.000
- Aber dann hat man natürlich immer das Problem,
-
-00:09:20.000 --> 00:09:22.000
- wenn man zu einem anderen E-Mail-Anbieter wechselt,
-
-00:09:22.000 --> 00:09:24.000
- muss man auch seine E-Mail-Adresse wechseln.
-
-00:09:24.000 --> 00:09:29.000
- Und das will man als technisch versierter Mensch dann eigentlich irgendwann nicht mehr tun.
-
-00:09:29.000 --> 00:09:32.000
- Deswegen zieht man eigentlich gerne seine ganze Adresse mit um,
-
-00:09:32.000 --> 00:09:33.000
- aber das ist nicht so leicht.
-
-00:09:33.000 --> 00:09:35.000
- Also Cyroxx, du hast mein Mitgefühl.
-
-00:09:35.000 --> 00:09:38.000
- Richtig sportlich mit einem Mailverteiler, wenn dir auch noch umziehen soll.
-
-00:09:38.000 --> 00:09:39.000
- Ja, Mailverteiler.
-
-00:09:39.000 --> 00:09:42.000
- Da gibt es nicht so richtig viele Dienstleister, die da Lust drauf haben.
-
-00:09:42.000 --> 00:09:43.000
- Ja, das ist richtig.
-
-00:09:43.000 --> 00:09:45.000
- Es gibt schon viele, die auf die Inhalte der Mailverteiler,
-
-00:09:45.000 --> 00:09:47.000
- also auch die Adressen Lust haben.
-
-00:09:47.000 --> 00:09:50.000
- Da gibt es ganz viele, aber so einen serösen Mailbetreiber,
-
-00:09:50.000 --> 00:09:52.000
- der einfach nur Mail-Mail treibt.
-
-00:09:52.000 --> 00:09:55.000
- Ja, ich habe lange gesucht.
-
-00:09:55.000 --> 00:09:57.000
- Will ich aber auch nicht administrieren so ein Ding?
-
-00:09:57.000 --> 00:09:58.000
- Naja.
-
-00:09:58.000 --> 00:10:00.000
- Ich mache es seitdem, weil ich keinen gefunden habe, selber.
-
-00:10:00.000 --> 00:10:01.000
- Es tut weh.
-
-00:10:01.000 --> 00:10:02.000
+00:08:54.480 --> 00:08:55.600
  Egal.
 
-00:10:02.000 --> 00:10:04.000
- Also wenn ich jemanden kenne, der Mail meint 3
+00:08:55.600 --> 00:08:56.590
+ Genau.
 
-00:10:04.000 --> 00:10:07.000
- und ich betreiben möchte für Geld, das Bescheid.
+00:08:56.590 --> 00:09:00.410
+ Und das spielt eine Rolle, wenn man selber E-Mail-Adressen hat bei einer eigenen Domain, weil üblicherweise
 
-00:10:07.000 --> 00:10:10.000
+00:09:00.410 --> 00:09:04.680
+ kriegt man halt eine @googlemail.de-Adresse oder so.
+
+00:09:04.680 --> 00:09:05.680
+ Oder gmx oder...
+
+00:09:05.680 --> 00:09:06.670
+ Oder gmx.
+
+00:09:06.670 --> 00:09:07.670
+ Oder irgendwas anderes.
+
+00:09:07.670 --> 00:09:08.670
+ Oder gmx.
+
+00:09:08.670 --> 00:09:09.660
+ Oder gmx.
+
+00:09:09.660 --> 00:09:10.660
+ Oder gmx.
+
+00:09:10.660 --> 00:09:11.660
+ Oder gmx.
+
+00:09:11.660 --> 00:09:12.650
+ Oder gmx.
+
+00:09:12.650 --> 00:09:13.650
+ Oder irgendwas anderes.
+
+00:09:13.650 --> 00:09:14.650
+ Oder gmx.
+
+00:09:14.650 --> 00:09:15.640
+ Oder gmx.
+
+00:09:15.640 --> 00:09:16.640
+ Oder irgendwas anderes.
+
+00:09:16.640 --> 00:09:17.640
+ Oder gmx.
+
+00:09:17.640 --> 00:09:18.640
+ Und wenn man...
+
+00:09:18.640 --> 00:09:19.630
+ Oder gmx.
+
+00:09:19.630 --> 00:09:20.630
+ Oder gmx.
+
+00:09:20.630 --> 00:09:21.630
+ Oder gmx.
+
+00:09:21.630 --> 00:09:22.620
+ Oder gmx.
+
+00:09:22.620 --> 00:09:23.620
+ Oder gmx.
+
+00:09:23.620 --> 00:09:24.620
+ Oder gmx.
+
+00:09:24.620 --> 00:09:25.610
+ Oder gmx.
+
+00:09:25.610 --> 00:09:26.610
+ Oder gmx.
+
+00:09:26.610 --> 00:09:27.610
+ Oder gmx.
+
+00:09:27.610 --> 00:09:28.600
+ Oder gmx.
+
+00:09:28.600 --> 00:09:29.600
+ Oder gmx.
+
+00:09:29.600 --> 00:09:30.600
+ Oder gmx.
+
+00:09:30.600 --> 00:09:31.600
+ Oder gmx.
+
+00:09:31.600 --> 00:09:32.590
+ Oder gmx.
+
+00:09:32.590 --> 00:09:33.590
+ Oder gmx.
+
+00:09:33.590 --> 00:09:34.590
+ Oder gmx.
+
+00:09:34.590 --> 00:09:36.150
+ Oder gmx.
+
+00:09:36.150 --> 00:09:37.150
+ Oder gmx.
+
+00:09:37.150 --> 00:09:38.150
+ Oder gmx.
+
+00:09:38.150 --> 00:09:39.140
+ Oder gmx.
+
+00:09:39.140 --> 00:09:40.140
+ Oder gmx.
+
+00:09:40.140 --> 00:09:41.130
+ Oder gmx.
+
+00:09:41.130 --> 00:09:42.130
+ Oder gmx.
+
+00:09:42.130 --> 00:09:43.130
+ Oder gmx.
+
+00:09:43.130 --> 00:09:44.120
+ Oder gmx.
+
+00:09:44.120 --> 00:09:45.120
+ Oder gmx.
+
+00:09:45.120 --> 00:09:46.120
+ Und dann hat man natürlich immer das Problem, wenn man zu einem anderen E-Mail-Anbieter wechselt,
+
+00:09:46.120 --> 00:09:52.090
+ da gibt es ganz viele, aber so einen serösen Mail-Betreiber, der einfach nur Mailman 3 betreibt.
+
+00:09:52.090 --> 00:09:54.090
+ Ich habe lange gesucht.
+
+00:09:54.090 --> 00:09:57.070
+ Will ich aber auch nicht administrieren, so ein Ding?
+
+00:09:57.070 --> 00:09:58.070
+ Na ja.
+
+00:09:58.070 --> 00:10:00.060
+ Ich mache es seitdem, weil ich keinen gefunden habe.
+
+00:10:00.060 --> 00:10:01.060
+ Es tut weh.
+
+00:10:01.060 --> 00:10:02.060
+ Egal.
+
+00:10:02.060 --> 00:10:06.170
+ Also, wenn nicht jemand kennt, der Mailman 3 und ich betreiben möchte, für Geld.
+
+00:10:06.170 --> 00:10:08.160
+ Das Bescheid an...
+
+00:10:08.160 --> 00:10:10.160
  An@deinnachname.de.
 
-00:10:10.000 --> 00:10:11.000
+00:10:10.160 --> 00:10:11.160
  Nee, nee, nee.
 
-00:10:11.000 --> 00:10:12.000
- Warte, warte, der Hamburger Ausweis.
+00:10:11.160 --> 00:10:13.150
+ Warte, da hat der Hamburger ausgedacht.
 
-00:10:12.000 --> 00:10:15.000
- An der Radio-Ad-CCC-Munus-P.org.
+00:10:13.150 --> 00:10:17.140
+ Warte mal, da hat der Hamburger ausgedacht, da hat der Hamburger ausgedacht, da hat der Hamburger ausgedacht,
 
-00:10:15.000 --> 00:10:16.000
- Ich werde es ja auch kriegen.
+00:10:17.140 --> 00:10:21.130
+ da hat der Hamburger ausgedacht, da hat der Hamburger ausgedacht, da hat der Hamburger ausgedacht,
 
-00:10:16.000 --> 00:10:17.000
- Ja, stimmt.
+00:10:21.130 --> 00:10:23.130
+ da hat der Hamburger ausgedacht, da hat der Hamburger ausgedacht,
 
-00:10:17.000 --> 00:10:18.000
- Richtig, ja, guter Plan, ja.
+00:10:23.130 --> 00:10:25.130
+ da hat der Hamburger ausgedacht, da hat der Hamburger ausgedacht,
 
-00:10:18.000 --> 00:10:21.000
- Sonst kann man, das ist auch unsere Webseite.
+00:10:25.130 --> 00:10:27.120
+ da hat der Hamburger ausgedacht, da hat der Hamburger ausgedacht,
 
-00:10:21.000 --> 00:10:23.000
- Da könnt ihr sehen, dass wir existieren.
+00:10:27.120 --> 00:10:29.120
+ da hat der Hamburger ausgedacht, da hat der Hamburger ausgedacht,
 
-00:10:23.000 --> 00:10:25.000
- Radio.CCC-Munus-P.org.
+00:10:29.120 --> 00:10:31.110
+ da hat der Hamburger ausgedacht, da hat der Hamburger ausgedacht,
 
-00:10:25.000 --> 00:10:30.000
- Das sind wir zumindest ein Vergangenheitsform von uns.
+00:10:31.110 --> 00:10:33.110
+ da hat der Hamburger ausgedacht, da hat der Hamburger ausgedacht,
 
-00:10:30.000 --> 00:10:32.000
- Okay, ich möchte noch was Schönes sagen.
+00:10:33.110 --> 00:10:35.100
+ da hat der Hamburger ausgedacht, da hat der Hamburger ausgedacht,
 
-00:10:32.000 --> 00:10:33.000
- Apropos Zeit, genau.
+00:10:35.100 --> 00:10:37.100
+ da hat der Hamburger ausgedacht,
 
-00:10:33.000 --> 00:10:35.000
- Genau, apropos Zeit, hast du mich doppelt.
+00:10:37.100 --> 00:10:41.090
+ da hat der Hamburger ausgedacht, da hat der Hamburger ausgedacht,
 
-00:10:35.000 --> 00:10:39.000
- Weil ich will ja, also, ja doch, ich mache jetzt halt einfach Werbung
+00:10:41.090 --> 00:10:43.090
+ da hat der Hamburger ausgedacht,
 
-00:10:39.000 --> 00:10:41.000
- für was, weil ich gar nicht weiß, ob sich das lohnt.
+00:10:43.090 --> 00:10:45.080
+ da hat der Hamburger ausgedacht,
 
-00:10:41.000 --> 00:10:45.000
- Ich habe als kleiner Junge mich immer gefreut
+00:10:45.080 --> 00:10:47.080
+ da hat der Hamburger ausgedacht,
 
-00:10:45.000 --> 00:10:47.000
- über Digital-Uren von Casio.
+00:10:47.080 --> 00:10:49.680
+ da hat der Hamburger ausgedacht,
 
-00:10:47.000 --> 00:10:51.000
- Und in meinem, in meinem Kopf hatten die auch immer diese
+00:10:49.680 --> 00:10:51.670
+ da hat der Hamburger ausgedacht,
 
-00:10:51.000 --> 00:10:55.000
- Digital-Ure von Casio mit 100m Wassertiefe,
+00:10:51.670 --> 00:10:53.650
+ da hat der Hamburger ausgedacht,
 
-00:10:55.000 --> 00:10:58.000
- wo das M, glaube ich, nicht für Meter steht,
+00:10:53.650 --> 00:10:55.630
+ da hat der Hamburger ausgedacht,
 
-00:10:58.000 --> 00:11:00.000
- sondern weiß ich nicht.
+00:10:55.630 --> 00:10:57.610
+ da hat der Hamburger ausgedacht,
 
-00:11:00.000 --> 00:11:04.000
- Und Casio hat diese Digital-Uren neu aufgelegt.
+00:10:57.610 --> 00:10:59.600
+ da hat der Hamburger ausgedacht,
 
-00:11:04.000 --> 00:11:06.000
- Sie hat jetzt Bluetooth.
+00:10:59.600 --> 00:11:01.650
+ da hat der Hamburger ausgedacht,
 
-00:11:06.000 --> 00:11:09.000
- Sie sieht aber genauso aus wie das Original.
+00:11:01.650 --> 00:11:03.650
+ da hat der Hamburger ausgedacht,
 
-00:11:09.000 --> 00:11:12.000
- Und ich glaube, das Einzige, was sie jetzt,
+00:11:03.650 --> 00:11:05.640
+ da hat der Hamburger ausgedacht,
 
-00:11:12.000 --> 00:11:14.000
- was sie sonst, oder eine der wenigen Sachen,
+00:11:05.640 --> 00:11:07.640
+ da hat der Hamburger ausgedacht,
 
-00:11:14.000 --> 00:11:16.000
- die sie noch geändert haben, ist, dass man,
+00:11:07.640 --> 00:11:09.630
+ da hat der Hamburger ausgedacht,
 
-00:11:16.000 --> 00:11:18.000
- wenn man auf den Beleuchtungsknopf drückt,
+00:11:09.630 --> 00:11:11.630
+ da hat der Hamburger ausgedacht,
 
-00:11:18.000 --> 00:11:20.000
- dass das Licht dann drei Sekunden anbleibt
+00:11:11.630 --> 00:11:13.620
+ da hat der Hamburger ausgedacht,
 
-00:11:20.000 --> 00:11:22.000
- und nicht so lange, wie man da drauf drückt.
+00:11:13.620 --> 00:11:15.620
+ da hat der Hamburger ausgedacht,
 
-00:11:22.000 --> 00:11:24.000
- Und es ist alles, es ist alles schön und sieht einfach
+00:11:15.620 --> 00:11:17.610
+ da hat der Hamburger ausgedacht,
 
-00:11:24.000 --> 00:11:26.000
- noch genauso aus wie damals.
+00:11:17.610 --> 00:11:19.610
+ da hat der Hamburger ausgedacht,
 
-00:11:26.000 --> 00:11:28.000
- Und hat halt, zählt halt jetzt noch Schritte.
+00:11:19.610 --> 00:11:21.600
+ da hat der Hamburger ausgedacht,
 
-00:11:28.000 --> 00:11:29.000
- Also, sonst kann es auch nix.
+00:11:21.600 --> 00:11:23.590
+ da hat der Hamburger ausgedacht,
 
-00:11:29.000 --> 00:11:31.000
- Also, es ist halt wirklich nur eine Digital-Ure
+00:11:23.590 --> 00:11:25.590
+ da hat der Hamburger ausgedacht,
 
-00:11:31.000 --> 00:11:34.000
- mit ein bisschen Bluetooth innen drin.
+00:11:25.590 --> 00:11:27.580
+ da hat der Hamburger ausgedacht,
 
-00:11:34.000 --> 00:11:36.000
- Aber was macht das Bluetooth jetzt nochmal?
+00:11:27.580 --> 00:11:29.580
+ da hat der Hamburger ausgedacht,
 
-00:11:36.000 --> 00:11:38.000
- Zählt Schritte und übermittelt das dann irgendeine gurgige App.
+00:11:29.580 --> 00:11:31.570
+ da hat der Hamburger ausgedacht,
 
-00:11:38.000 --> 00:11:39.000
- Ach so.
+00:11:31.570 --> 00:11:33.570
+ da hat der Hamburger ausgedacht,
 
-00:11:39.000 --> 00:11:41.000
- Wie zum Beispiel Gadget Bridge, vielleicht?
+00:11:33.570 --> 00:11:35.560
+ da hat der Hamburger ausgedacht,
 
-00:11:41.000 --> 00:11:42.000
- Noch nicht.
+00:11:35.560 --> 00:11:37.560
+ da hat der Hamburger ausgedacht,
 
-00:11:42.000 --> 00:11:46.000
- Also, Casio-Uren sind mit in Gadget Bridge drin.
+00:11:37.560 --> 00:11:39.610
+ da hat der Hamburger ausgedacht,
 
-00:11:46.000 --> 00:11:48.000
- Aber steht auch oben drüber.
+00:11:39.610 --> 00:11:41.610
+ da hat der Hamburger ausgedacht,
 
-00:11:48.000 --> 00:11:50.000
- So, alles so ein bisschen, weil jedes Mal,
+00:11:41.610 --> 00:11:43.600
+ da hat der Hamburger ausgedacht,
 
-00:11:50.000 --> 00:11:52.000
- wenn man synchronisiert, wird der State resetted
+00:11:43.600 --> 00:11:45.600
+ da hat der Hamburger ausgedacht,
 
-00:11:52.000 --> 00:11:54.000
- auf der Uhr und so.
+00:11:45.600 --> 00:11:47.600
+ da hat der Hamburger ausgedacht,
 
-00:11:54.000 --> 00:11:56.000
- Also, Casio macht da wahrscheinlich komische Sachen.
+00:11:47.600 --> 00:11:49.590
+ da hat der Hamburger ausgedacht,
 
-00:11:56.000 --> 00:11:58.000
- Na ja, sie können halt uhren.
+00:11:49.590 --> 00:11:51.590
+ da hat der Hamburger ausgedacht,
 
-00:11:58.000 --> 00:12:00.000
- Genau, das wollte ich mal loswerden.
+00:11:51.590 --> 00:11:53.580
+ da hat der Hamburger ausgedacht,
 
-00:12:00.000 --> 00:12:03.000
- Also, dass die, dass die Casio ABL100 WI.
+00:11:53.580 --> 00:11:55.580
+ da hat der Hamburger ausgedacht,
 
-00:12:03.000 --> 00:12:05.000
- Und davon gibt es übrigens auch eine Pack-Man-Edition.
+00:11:55.580 --> 00:11:57.580
+ da hat der Hamburger ausgedacht,
 
-00:12:05.000 --> 00:12:07.000
- Aber sie sieht aus wie früher.
+00:11:57.580 --> 00:11:59.570
+ da hat der Hamburger ausgedacht,
 
-00:12:07.000 --> 00:12:08.000
- Ja, ja.
+00:11:59.570 --> 00:12:01.570
+ da hat der Hamburger ausgedacht,
 
-00:12:08.000 --> 00:12:10.000
- Also, sie haben irgendwie, es gibt ja Leute,
+00:12:01.570 --> 00:12:03.560
+ da hat der Hamburger ausgedacht,
 
-00:12:10.000 --> 00:12:12.000
- die so Reviews machen, die sagen,
+00:12:03.560 --> 00:12:05.560
+ da hat der Hamburger ausgedacht,
 
-00:12:12.000 --> 00:12:14.000
- ja, da wurden Dinge dran verbessert.
+00:12:05.560 --> 00:12:07.550
+ da hat der Hamburger ausgedacht,
 
-00:12:14.000 --> 00:12:17.000
- Also, das ist halt so, ja, der Tag hat jetzt zwei Buchstaben.
+00:12:07.550 --> 00:12:09.550
+ da hat der Hamburger ausgedacht,
 
-00:12:17.000 --> 00:12:19.000
- Nicht mehr drei und solche Geschichten.
+00:12:09.550 --> 00:12:11.550
+ da hat der Hamburger ausgedacht,
 
-00:12:19.000 --> 00:12:21.000
- Sie triggert höher und tiefer nicht.
+00:12:11.550 --> 00:12:13.540
+ da hat der Hamburger ausgedacht,
 
-00:12:21.000 --> 00:12:23.000
- Ich glaube, ich habe zwei Exemplare davon.
+00:12:13.540 --> 00:12:15.540
+ da hat der Hamburger ausgedacht,
 
-00:12:23.000 --> 00:12:25.000
- Irgendwo in der Schule verloren.
+00:12:15.540 --> 00:12:17.530
+ da hat der Hamburger ausgedacht,
 
-00:12:25.000 --> 00:12:27.000
- Zum Missfall in meiner Eltern damals.
+00:12:17.530 --> 00:12:19.530
+ da hat der Hamburger ausgedacht,
 
-00:12:27.000 --> 00:12:29.000
- Aber natürlich auch, da bin ich nicht glücklich darüber.
+00:12:19.530 --> 00:12:21.530
+ da hat der Hamburger ausgedacht,
 
-00:12:29.000 --> 00:12:31.000
- Aber wie der Tag hat nur noch zwei Buchstaben?
+00:12:21.530 --> 00:12:23.520
+ da hat der Hamburger ausgedacht,
 
-00:12:31.000 --> 00:12:35.000
- Das ist doch im amerikanischen Raum eigentlich schwierig dann.
+00:12:23.520 --> 00:12:25.520
+ da hat der Hamburger ausgedacht,
 
-00:12:35.000 --> 00:12:38.000
- Also, ich glaube, ich bin mir nicht mehr ganz sicher.
+00:12:25.520 --> 00:12:27.590
+ da hat der Hamburger ausgedacht,
 
-00:12:38.000 --> 00:12:42.000
- Es gab wohl eine Sache, wo der Tag früher anders hieß als heute.
+00:12:27.590 --> 00:12:29.540
+ da hat der Hamburger ausgedacht,
 
-00:12:42.000 --> 00:12:44.000
- Weiß ich nicht mehr.
+00:12:29.540 --> 00:12:31.560
+ da hat der Hamburger ausgedacht,
 
-00:12:44.000 --> 00:12:45.000
- Genau, ja.
+00:12:31.560 --> 00:12:33.560
+ da hat der Hamburger ausgedacht,
 
-00:12:45.000 --> 00:12:48.000
- Das YouTube ist voll von Reviews,
+00:12:33.560 --> 00:12:35.550
+ da hat der Hamburger ausgedacht,
 
-00:12:48.000 --> 00:12:51.000
- weil noch andere Leute sich so drüber freuen, wie ich mich.
+00:12:35.550 --> 00:12:37.540
+ da hat der Hamburger ausgedacht,
 
-00:12:51.000 --> 00:12:52.000
- So.
+00:12:37.540 --> 00:12:39.540
+ da hat der Hamburger ausgedacht,
 
-00:12:52.000 --> 00:12:55.000
- Ja, jetzt wieder zu schlechteren Themen.
+00:12:39.540 --> 00:12:41.530
+ da hat der Hamburger ausgedacht,
 
-00:12:55.000 --> 00:12:57.000
- Ist ja die Side-Box.
+00:12:41.530 --> 00:12:43.520
+ da hat der Hamburger ausgedacht,
 
-00:12:57.000 --> 00:12:59.000
- Moment, ich bin da ein schlechtes Thema.
+00:12:43.520 --> 00:12:45.520
+ da hat der Hamburger ausgedacht,
 
-00:12:59.000 --> 00:13:03.000
- Das ist der Weise, ich brüsk von mir.
+00:12:45.520 --> 00:12:47.510
+ da hat der Hamburger ausgedacht,
 
-00:13:03.000 --> 00:13:07.000
- Ja, was sind das für Zeiten, in denen wir leben?
+00:12:47.510 --> 00:12:49.510
+ da hat der Hamburger ausgedacht,
 
-00:13:07.000 --> 00:13:11.000
- Ja, wir müssen, wir kommen auch diese Sendung nicht ganz umhin,
+00:12:49.510 --> 00:12:51.500
+ da hat der Hamburger ausgedacht,
 
-00:13:11.000 --> 00:13:15.000
- um einmal über den großen Teich zu schauen, zu unserem großen Bruder.
+00:12:51.500 --> 00:12:53.490
+ da hat der Hamburger ausgedacht,
 
-00:13:15.000 --> 00:13:18.000
- Nein, das ist vielleicht ein bisschen zu viel gesagt.
+00:12:53.490 --> 00:12:55.490
+ da hat der Hamburger ausgedacht,
 
-00:13:18.000 --> 00:13:22.000
- Aber ja, der Kampf gegen Woke geht weiter.
+00:12:55.490 --> 00:12:57.480
+ da hat der Hamburger ausgedacht,
 
-00:13:22.000 --> 00:13:24.000
- Die Kulturrevolution.
+00:12:57.480 --> 00:12:59.470
+ da hat der Hamburger ausgedacht,
 
-00:13:24.000 --> 00:13:26.000
- Ja, ja, ja.
+00:12:59.470 --> 00:13:01.470
+ da hat der Hamburger ausgedacht,
 
-00:13:26.000 --> 00:13:30.000
- Also, es werden irgendwie Fotos von Inola Gay gelöscht.
+00:13:01.470 --> 00:13:03.830
+ da hat der Hamburger ausgedacht,
 
-00:13:30.000 --> 00:13:32.000
- Er ist jetzt vielleicht auch kein besonderes,
+00:13:03.830 --> 00:13:05.820
+ da hat der Hamburger ausgedacht,
 
-00:13:32.000 --> 00:13:37.000
- auf munterndes Thema, aber das kursieren ja so lange Listen von Begriffen,
+00:13:05.820 --> 00:13:07.810
+ da hat der Hamburger ausgedacht,
 
-00:13:37.000 --> 00:13:43.000
- die die Forschenden in den USA irgendwie einfach mal bitte vermeiden sollten
+00:13:07.810 --> 00:13:09.790
+ da hat der Hamburger ausgedacht,
 
-00:13:43.000 --> 00:13:45.000
- und nicht mehr reinschreiben sollten in ihre Paper.
+00:13:09.790 --> 00:13:11.780
+ da hat der Hamburger ausgedacht,
 
-00:13:45.000 --> 00:13:47.000
- Vielleicht kurz ein Hintergrund, was ist Inola Gay?
+00:13:11.780 --> 00:13:13.770
+ da hat der Hamburger ausgedacht,
 
-00:13:47.000 --> 00:13:54.000
- Das ist der Bomber, der damals die Atombombe abgeworfen hat.
+00:13:13.770 --> 00:13:15.750
+ da hat der Hamburger ausgedacht,
 
-00:13:54.000 --> 00:13:56.000
- Ja, genau, die erste.
+00:13:15.750 --> 00:13:17.900
+ da hat der Hamburger ausgedacht,
 
-00:13:56.000 --> 00:14:00.000
- Im produktiven, also, das ist vielleicht ein falsches Wort,
+00:13:17.900 --> 00:13:19.900
+ da hat der Hamburger ausgedacht,
 
-00:14:00.000 --> 00:14:02.000
- Kampfeinsatz.
+00:13:19.900 --> 00:13:21.890
+ da hat der Hamburger ausgedacht,
 
-00:14:02.000 --> 00:14:06.000
- Und da geht jetzt gerade eine große Lösch.
+00:13:21.890 --> 00:13:23.890
+ da hat der Hamburger ausgedacht,
 
-00:14:06.000 --> 00:14:10.000
- Da wird irgendwie gerade alles gelöscht bei der US-Administration,
+00:13:23.890 --> 00:13:25.880
+ da hat der Hamburger ausgedacht,
 
-00:14:10.000 --> 00:14:12.000
- was irgendwie Woke ist.
+00:13:25.880 --> 00:13:27.870
+ da hat der Hamburger ausgedacht,
 
-00:14:12.000 --> 00:14:18.000
- Und bei Inola Gay, da steht es ja angeblich ja quasi schon im Namen mit Gay.
+00:13:27.870 --> 00:13:29.870
+ da hat der Hamburger ausgedacht,
 
-00:14:18.000 --> 00:14:23.000
- Ja, und ansonsten viele Inhalte, die gelöscht werden
+00:13:29.870 --> 00:13:31.860
+ da hat der Hamburger ausgedacht,
 
-00:14:23.000 --> 00:14:29.000
- auf den US-Webseiten der US-Administration zu einen möglichen Themen.
+00:13:31.860 --> 00:13:33.860
+ da hat der Hamburger ausgedacht,
 
-00:14:29.000 --> 00:14:34.000
- Auch das soziale und auch persönlich und Frauengesundheit betreffend auch.
+00:13:33.860 --> 00:13:35.850
+ da hat der Hamburger ausgedacht,
 
-00:14:34.000 --> 00:14:37.000
- Also, das ist einfach furchtbar, was da so passiert.
+00:13:35.850 --> 00:13:37.840
+ da hat der Hamburger ausgedacht,
 
-00:14:37.000 --> 00:14:47.000
- Genau, und selbst Glasfaser ist Woke die neue Chefin einer US-Bundesbehörde.
+00:13:37.840 --> 00:13:39.840
+ da hat der Hamburger ausgedacht,
 
-00:14:47.000 --> 00:14:52.000
- Rund um Telekommunikation hat quasi die Wildtechnologie offen sein.
+00:13:39.840 --> 00:13:41.830
+ da hat der Hamburger ausgedacht,
 
-00:14:52.000 --> 00:14:58.000
- Und zwar geht es darum, es gibt irgendwie ein Programm namens BEAT mit BEAD geschrieben.
+00:13:41.830 --> 00:13:43.830
+ da hat der Hamburger ausgedacht,
 
-00:14:58.000 --> 00:15:04.000
- Als Akronym, wo es darum geht, auch im ländlichen Raum der USA Haushalte anzubinden.
+00:13:43.830 --> 00:13:45.820
+ da hat der Hamburger ausgedacht,
 
-00:15:04.000 --> 00:15:07.000
- An Internet, an breitbandiges Internet.
+00:13:45.820 --> 00:13:47.810
+ da hat der Hamburger ausgedacht,
 
-00:15:07.000 --> 00:15:13.000
- Und diese Fokussierung auf Glasfaser, dass man ja Glasfaser vor allem da fördert
+00:13:47.810 --> 00:13:49.810
+ da hat der Hamburger ausgedacht,
 
-00:15:13.000 --> 00:15:17.000
- und nur Glasfaser und nicht noch andere Technologien, das ist ja quasi Woke.
+00:13:49.810 --> 00:13:51.920
+ da hat der Hamburger ausgedacht,
 
-00:15:17.000 --> 00:15:21.000
- So was hatten wir hier doch auch mal, dass jemand in der Regierung meinte,
+00:13:51.920 --> 00:13:53.910
+ da hat der Hamburger ausgedacht,
 
-00:15:21.000 --> 00:15:24.000
- dass man lieber bei Kupfer bleiben sollte, statt auf Glasfaser zu gehen.
+00:13:53.910 --> 00:13:55.910
+ da hat der Hamburger ausgedacht,
 
-00:15:24.000 --> 00:15:30.000
- Wir haben ja gemerkt, was wir davon hatten.
+00:13:55.910 --> 00:13:57.900
+ da hat der Hamburger ausgedacht,
 
-00:15:30.000 --> 00:15:35.000
- Aber nur mal so als Rückfrage, weil ich mich ja nie mit so was beschäftige.
+00:13:57.900 --> 00:13:59.890
+ da hat der Hamburger ausgedacht,
 
-00:15:35.000 --> 00:15:39.000
- Also, da hat irgendjemand gesagt, hey, Woke ist blöd.
+00:13:59.890 --> 00:14:01.880
+ da hat der Hamburger ausgedacht,
 
-00:15:39.000 --> 00:15:44.000
- Und deswegen glöschen wir jetzt alles, was irgendwas mit Woke zu tun hat.
+00:14:01.880 --> 00:14:03.880
+ da hat der Hamburger ausgedacht,
 
-00:15:44.000 --> 00:15:48.000
- Aber das wurde nicht besonders kompetent ausgeführt, deswegen wurden auch Dinge einfach gelöscht,
+00:14:03.880 --> 00:14:05.870
+ da hat der Hamburger ausgedacht,
 
-00:15:48.000 --> 00:15:51.000
- weil da halt irgendwie die falschen Wörter im Titel drin stehen.
+00:14:05.870 --> 00:14:07.860
+ da hat der Hamburger ausgedacht,
 
-00:15:51.000 --> 00:15:55.000
- Unter anderem Enola, Gay, das Flugzeug, was hier nicht nichts mit Woke zu tun hat.
+00:14:07.860 --> 00:14:09.850
+ da hat der Hamburger ausgedacht,
 
-00:15:55.000 --> 00:15:57.000
- Ist das richtig zusammengefasst?
+00:14:09.850 --> 00:14:11.850
+ da hat der Hamburger ausgedacht,
 
-00:15:57.000 --> 00:15:59.000
- Ich glaube, die Glasfasern haben noch mal einen anderen Hintergrund.
+00:14:11.850 --> 00:14:13.840
+ da hat der Hamburger ausgedacht,
 
-00:15:59.000 --> 00:16:02.000
- Ich glaube, mit den Glasfasern geht es wirklich so um Technologieoffenheit.
+00:14:13.840 --> 00:14:15.830
+ da hat der Hamburger ausgedacht,
 
-00:16:02.000 --> 00:16:04.000
- Ach so, die beiden ja auch.
+00:14:15.830 --> 00:14:17.880
+ da hat der Hamburger ausgedacht,
 
-00:16:04.000 --> 00:16:08.000
- Genau, das sind zwei verschiedene Themen an der Stelle, die da, genau.
+00:14:17.880 --> 00:14:19.960
+ da hat der Hamburger ausgedacht,
 
-00:16:08.000 --> 00:16:09.000
- Ja, so, okay.
+00:14:19.960 --> 00:14:21.940
+ da hat der Hamburger ausgedacht,
 
-00:16:09.000 --> 00:16:16.000
- Aber letztendlich, ich meine, wir müssen jetzt nicht unbedingt diesen Sprachgebrauch zu sehr reproduzieren,
+00:14:21.940 --> 00:14:23.920
+ da hat der Hamburger ausgedacht,
 
-00:16:16.000 --> 00:16:22.000
- aber alles, was irgendwie gegen die Gedankenwelt der Rechten in den USA ist,
+00:14:23.920 --> 00:14:25.900
+ da hat der Hamburger ausgedacht,
 
-00:16:22.000 --> 00:16:25.000
- wird ja sowieso da so bezeichnet.
+00:14:25.900 --> 00:14:27.890
+ da hat der Hamburger ausgedacht,
 
-00:16:25.000 --> 00:16:30.000
- Und man geht da auf jeden Fall entschieden gegen vor und zerstört so einiges da gerade.
+00:14:27.890 --> 00:14:30.030
+ da hat der Hamburger ausgedacht,
 
-00:16:30.000 --> 00:16:32.000
- Das ist sehr unschön.
+00:14:30.030 --> 00:14:32.000
+ da hat der Hamburger ausgedacht,
 
-00:16:32.000 --> 00:16:33.000
- Ja, dafür werden andere Dinge gefördert.
+00:14:32.000 --> 00:14:33.980
+ da hat der Hamburger ausgedacht,
 
-00:16:33.000 --> 00:16:34.000
- Zum Beispiel?
+00:14:33.980 --> 00:14:35.950
+ da hat der Hamburger ausgedacht,
 
-00:16:34.000 --> 00:16:36.000
- AI zum Beispiel, wie bekloppt.
+00:14:35.950 --> 00:14:38.020
+ da hat der Hamburger ausgedacht,
 
-00:16:36.000 --> 00:16:37.000
- AI goes great again.
+00:14:38.020 --> 00:14:39.980
+ da hat der Hamburger ausgedacht,
 
-00:16:37.000 --> 00:16:40.000
- Ja, lass uns doch mal wieder über AI sprechen.
+00:14:39.980 --> 00:14:41.940
+ da hat der Hamburger ausgedacht,
 
-00:16:40.000 --> 00:16:44.000
- Ja, also, kurze Zusammenfassung der letzten Ereignisse.
+00:14:41.940 --> 00:14:44.000
+ da hat der Hamburger ausgedacht,
 
-00:16:44.000 --> 00:16:47.000
- Es gibt zum einen eine künstliche Intelligenz,
+00:14:44.000 --> 00:14:46.000
+ da hat der Hamburger ausgedacht,
 
-00:16:47.000 --> 00:16:52.000
- die in Behörden als Chatbot agieren wird und Mitarbeiter ersetzen soll.
+00:14:46.000 --> 00:14:47.990
+ da hat der Hamburger ausgedacht,
 
-00:16:52.000 --> 00:16:53.000
- Das ist mal super spannend.
+00:14:47.990 --> 00:14:49.990
+ da hat der Hamburger ausgedacht,
 
-00:16:53.000 --> 00:16:57.000
- Also, bis jetzt, wenn Firmen oder Anbieter von Dienstleistungen,
+00:14:49.990 --> 00:14:51.980
+ da hat der Hamburger ausgedacht,
 
-00:16:57.000 --> 00:17:00.000
- nein, ich sage jetzt keinen Namen, Chatbots eingeführt haben,
+00:14:51.980 --> 00:14:53.980
+ da hat der Hamburger ausgedacht,
 
-00:17:00.000 --> 00:17:05.000
- habe ich als Nutzer immer irgendwie keine gute Nutzer-Experience gehabt.
+00:14:53.980 --> 00:14:55.970
+ da hat der Hamburger ausgedacht,
 
-00:17:05.000 --> 00:17:08.000
- Das war immer nervig, weil dann redest du erst eine Viertelstunde mit einer Maschine,
+00:14:55.970 --> 00:14:57.970
+ da hat der Hamburger ausgedacht,
 
-00:17:08.000 --> 00:17:10.000
- und bist du der Maschine erklärt hast, nein,
+00:14:57.970 --> 00:14:59.960
+ da hat der Hamburger ausgedacht,
 
-00:17:10.000 --> 00:17:12.000
- du kannst mein Problem jetzt gerade wirklich nicht lösen.
+00:14:59.960 --> 00:15:01.960
+ da hat der Hamburger ausgedacht,
 
-00:17:12.000 --> 00:17:14.000
- Du hast eine Person, und irgendwann kommt eine Person,
+00:15:01.960 --> 00:15:03.950
+ da hat der Hamburger ausgedacht,
 
-00:17:14.000 --> 00:17:16.000
- und du radest dein Problem weggelöst.
+00:15:03.950 --> 00:15:05.950
+ da hat der Hamburger ausgedacht,
 
-00:17:16.000 --> 00:17:18.000
- Aber diese Viertelstunde ist erstmal weg.
+00:15:05.950 --> 00:15:07.940
+ da hat der Hamburger ausgedacht,
 
-00:17:18.000 --> 00:17:21.000
- Und zwar grundsätzlich, da gibt es ja auch andere Entwicklungen,
+00:15:07.940 --> 00:15:09.940
+ da hat der Hamburger ausgedacht,
 
-00:17:21.000 --> 00:17:24.000
- wo man diese Viertelstunde verlängert, verkürzt,
+00:15:09.940 --> 00:15:11.940
+ da hat der Hamburger ausgedacht,
 
-00:17:24.000 --> 00:17:26.000
- wie auch immer als Druckmittel einsetzt,
+00:15:11.940 --> 00:15:13.930
+ da hat der Hamburger ausgedacht,
 
-00:17:26.000 --> 00:17:30.000
- um möglichst viele Anfragen loszuwerden, die ihn nur nerven, von Kunden.
+00:15:13.930 --> 00:15:15.930
+ da hat der Hamburger ausgedacht,
 
-00:17:30.000 --> 00:17:31.000
- Na gut.
+00:15:15.930 --> 00:15:17.920
+ da hat der Hamburger ausgedacht,
 
-00:17:31.000 --> 00:17:33.000
- Ich weiß jetzt nicht, ob ich bei einer Behörde,
+00:15:17.920 --> 00:15:19.920
+ da hat der Hamburger ausgedacht,
 
-00:17:33.000 --> 00:17:35.000
- wenn ich ein echtes Anliegen habe,
+00:15:19.920 --> 00:15:21.910
+ da hat der Hamburger ausgedacht,
 
-00:17:35.000 --> 00:17:38.000
- ein großes Interesse und einen großen Mehrwert dadurch gewinnen,
+00:15:21.910 --> 00:15:23.910
+ da hat der Hamburger ausgedacht,
 
-00:17:38.000 --> 00:17:40.000
- mit so einem Chatbot aus der Industrie zu sprechen.
+00:15:23.910 --> 00:15:26.100
+ da hat der Hamburger ausgedacht,
 
-00:17:40.000 --> 00:17:41.000
- Aber egal, wir sind gespannt.
+00:15:26.100 --> 00:15:28.240
+ da hat der Hamburger ausgedacht,
 
-00:17:41.000 --> 00:17:44.000
- Ich glaube, die klassische Antwort ist, es kommt darauf an.
+00:15:28.240 --> 00:15:30.170
+ da hat der Hamburger ausgedacht,
 
-00:17:44.000 --> 00:17:48.000
- Und es ist halt immer noch ein riesengroßer Hype.
+00:15:30.170 --> 00:15:32.270
+ da hat der Hamburger ausgedacht,
 
-00:17:48.000 --> 00:17:50.000
- Das ist halt am Ende auch ein Unterschied,
+00:15:32.270 --> 00:15:34.250
+ da hat der Hamburger ausgedacht,
 
-00:17:50.000 --> 00:17:52.000
- ob das jetzt eine Firma macht,
+00:15:34.250 --> 00:15:36.230
+ da hat der Hamburger ausgedacht,
 
-00:17:52.000 --> 00:17:56.000
- die tatsächlich Interessen von Unternehmen verfolgt,
+00:15:36.230 --> 00:15:38.210
+ da hat der Hamburger ausgedacht,
 
-00:17:56.000 --> 00:17:58.000
- oder ob es der Staat selber anfängt.
+00:15:38.210 --> 00:15:40.190
+ da hat der Hamburger ausgedacht,
 
-00:17:58.000 --> 00:18:00.000
- Und grundsätzlich hat meistens der Staat
+00:15:40.190 --> 00:15:42.590
+ da hat der Hamburger ausgedacht,
 
-00:18:00.000 --> 00:18:04.000
- eine etwas andere Herangehensweise als Unternehmen, aber egal.
+00:15:42.590 --> 00:15:44.580
+ da hat der Hamburger ausgedacht,
 
-00:18:04.000 --> 00:18:06.000
- Aber in den USA verschwimmt das ja gerade eh.
+00:15:44.580 --> 00:15:46.580
+ da hat der Hamburger ausgedacht,
 
-00:18:06.000 --> 00:18:09.000
- Also ich meine, die Trennung ist ja da so ein bisschen aufgehoben.
+00:15:46.580 --> 00:15:48.570
+ da hat der Hamburger ausgedacht,
 
-00:18:09.000 --> 00:18:13.000
- Das Nächste ist, dass es eine KI geben soll,
+00:15:48.570 --> 00:15:50.560
+ da hat der Hamburger ausgedacht,
 
-00:18:13.000 --> 00:18:17.000
- die automatisch entscheidet, wer weiterarbeiten darf und wer nicht.
+00:15:50.560 --> 00:15:52.550
+ da hat der Hamburger ausgedacht,
 
-00:18:17.000 --> 00:18:19.000
- Das finde ich super spannend,
+00:15:52.550 --> 00:15:54.550
+ da hat der Hamburger ausgedacht,
 
-00:18:19.000 --> 00:18:21.000
- weil die KI mit dem, was wir bis jetzt dazu tun haben,
+00:15:54.550 --> 00:15:56.540
+ da hat der Hamburger ausgedacht,
 
-00:18:21.000 --> 00:18:23.000
- die sind hauptsächlich dazu geeignet,
+00:15:56.540 --> 00:15:58.530
+ da hat der Hamburger ausgedacht,
 
-00:18:23.000 --> 00:18:25.000
- auf gute Formulierungen optimiert zu sein.
+00:15:58.530 --> 00:16:00.530
+ da hat der Hamburger ausgedacht,
 
-00:18:25.000 --> 00:18:28.000
- Das heißt Chypitalier und Co. machen gute Formulierungen.
+00:16:00.530 --> 00:16:02.520
+ da hat der Hamburger ausgedacht,
 
-00:18:28.000 --> 00:18:30.000
- Das heißt, wenn ich dann gut formulieren kann,
+00:16:02.520 --> 00:16:04.510
+ da hat der Hamburger ausgedacht,
 
-00:18:30.000 --> 00:18:32.000
- dann behalte ich mein Job und wenn ich es nicht kann,
+00:16:04.510 --> 00:16:06.510
+ da hat der Hamburger ausgedacht,
 
-00:18:32.000 --> 00:18:34.000
- dann verliere ich den Halt.
+00:16:06.510 --> 00:16:08.500
+ da hat der Hamburger ausgedacht,
 
-00:18:34.000 --> 00:18:38.000
- Was tendenziell eine spannende Herangehensweise ist,
+00:16:08.500 --> 00:16:10.810
+ da hat der Hamburger ausgedacht,
 
-00:18:38.000 --> 00:18:40.000
- wenn man es mit Menschen zutun hat.
+00:16:10.810 --> 00:16:12.790
+ da hat der Hamburger ausgedacht,
 
-00:18:40.000 --> 00:18:42.000
- Weil es gibt Menschen, die machen richtig guten Job,
+00:16:12.790 --> 00:16:14.760
+ da hat der Hamburger ausgedacht,
 
-00:18:42.000 --> 00:18:44.000
- die können aber nicht gut formulieren und umgekehrt.
+00:16:14.760 --> 00:16:16.740
+ da hat der Hamburger ausgedacht,
 
-00:18:44.000 --> 00:18:46.000
- Es gibt Menschen, die können super formulieren,
+00:16:16.740 --> 00:16:18.720
+ da hat der Hamburger ausgedacht,
 
-00:18:46.000 --> 00:18:48.000
- aber der Job, den die machen, na meine Güte.
+00:16:18.720 --> 00:16:20.830
+ da hat der Hamburger ausgedacht,
 
-00:18:48.000 --> 00:18:50.000
- Kannst du zum 5 Minuten in einer Woche?
+00:16:20.830 --> 00:16:22.810
+ da hat der Hamburger ausgedacht,
 
-00:18:50.000 --> 00:18:51.000
- Richtig, genau.
+00:16:22.810 --> 00:16:24.800
+ da hat der Hamburger ausgedacht,
 
-00:18:51.000 --> 00:18:54.000
- Und deswegen ist auch an dieser Stelle, ich weiß nicht,
+00:16:24.800 --> 00:16:26.780
+ da hat der Hamburger ausgedacht,
 
-00:18:54.000 --> 00:18:57.000
- ob das ein Einsatz für KI ist, zumindest zum jetzigen Zeitpunkt.
+00:16:26.780 --> 00:16:28.770
+ da hat der Hamburger ausgedacht,
 
-00:18:57.000 --> 00:18:59.000
- Aber lass mal probieren.
+00:16:28.770 --> 00:16:30.750
+ da hat der Hamburger ausgedacht,
 
-00:18:59.000 --> 00:19:01.000
- Du sprichst da vielleicht so in die Richtung,
+00:16:30.750 --> 00:16:32.790
+ da hat der Hamburger ausgedacht,
 
-00:19:01.000 --> 00:19:03.000
- es gab ja jetzt kürzlich diese Verfügung,
+00:16:32.790 --> 00:16:34.770
+ da hat der Hamburger ausgedacht,
 
-00:19:03.000 --> 00:19:06.000
- dass doch bitte alle Mitarbeitenden der US-Behörden
+00:16:34.770 --> 00:16:36.740
+ da hat der Hamburger ausgedacht,
 
-00:19:06.000 --> 00:19:08.000
- in der Woche bitte mal eine Mail schreiben sollen,
+00:16:36.740 --> 00:16:38.720
+ da hat der Hamburger ausgedacht,
 
-00:19:08.000 --> 00:19:10.000
- was sie denn so diese Woche gemacht haben.
+00:16:38.720 --> 00:16:40.770
+ da hat der Hamburger ausgedacht,
 
-00:19:10.000 --> 00:19:13.000
- Ist schon klar, dass wenn man viele von diesen Mails kriegt,
+00:16:40.770 --> 00:16:42.880
+ da hat der Hamburger ausgedacht,
 
-00:19:13.000 --> 00:19:17.000
- dass man die nicht mehr dediziert einzeln aufbereiten und aufreagieren kann.
+00:16:42.880 --> 00:16:44.880
+ da hat der Hamburger ausgedacht,
 
-00:19:17.000 --> 00:19:19.000
- Aber willst du denn deine Mitarbeiter überwachen,
+00:16:44.880 --> 00:16:46.880
+ da hat der Hamburger ausgedacht,
 
-00:19:19.000 --> 00:19:23.000
- die Qualität deiner Mitarbeiter beurteilen?
+00:16:46.880 --> 00:16:48.870
+ da hat der Hamburger ausgedacht,
 
-00:19:23.000 --> 00:19:26.000
- Ich glaube, diese Diskussion gab es vor einiger Zeit schon
+00:16:48.870 --> 00:16:50.870
+ da hat der Hamburger ausgedacht,
 
-00:19:26.000 --> 00:19:29.000
- bei Einzelhandelsketten Aldi, Lidl und Co.
+00:16:50.870 --> 00:16:52.870
+ da hat der Hamburger ausgedacht,
 
-00:19:29.000 --> 00:19:32.000
- Es war schon lange ausdiskutiert und eigentlich nicht.
+00:16:52.870 --> 00:16:54.860
+ da hat der Hamburger ausgedacht,
 
-00:19:32.000 --> 00:19:34.000
- Aber na ja, gute wir werden es sehen.
+00:16:54.860 --> 00:16:56.860
+ da hat der Hamburger ausgedacht,
 
-00:19:34.000 --> 00:19:36.000
- Alle Menschen haben Management-Style
+00:16:56.860 --> 00:16:58.860
+ da hat der Hamburger ausgedacht,
 
-00:19:36.000 --> 00:19:38.000
- und sehr kontrollierende Management-Style
+00:16:58.860 --> 00:17:00.850
+ da hat der Hamburger ausgedacht,
 
-00:19:38.000 --> 00:19:40.000
- wie von vor einiger Zeit.
+00:17:00.850 --> 00:17:02.850
+ da hat der Hamburger ausgedacht,
 
-00:19:40.000 --> 00:19:44.000
- Aber von daher glaube ich jetzt mal ausreichend
+00:17:02.850 --> 00:17:04.850
+ da hat der Hamburger ausgedacht,
 
-00:19:44.000 --> 00:19:46.000
- in dieser Sphäre gewählt.
+00:17:04.850 --> 00:17:06.840
+ da hat der Hamburger ausgedacht,
 
-00:19:46.000 --> 00:19:49.000
- Ich habe hier einen anderen Ansatz von KI.
+00:17:06.840 --> 00:17:08.840
+ da hat der Hamburger ausgedacht,
 
-00:19:49.000 --> 00:19:55.000
- Achso, na einerseits hat ich, ich habe den Vergnügen
+00:17:08.840 --> 00:17:10.840
+ da hat der Hamburger ausgedacht,
 
-00:19:55.000 --> 00:19:59.000
- in meinem Job auch viel, mich mit neuen Entwicklungen
+00:17:10.840 --> 00:17:12.830
+ da hat der Hamburger ausgedacht,
 
-00:19:59.000 --> 00:20:01.000
- auseinandersetzen zu dürfen.
+00:17:12.830 --> 00:17:14.830
+ da hat der Hamburger ausgedacht,
 
-00:20:01.000 --> 00:20:04.000
- Und das heißt eben nicht nur irgendwie lesen und gucken
+00:17:14.830 --> 00:17:16.830
+ da hat der Hamburger ausgedacht,
 
-00:20:04.000 --> 00:20:07.000
- und so, sondern auch alles mal auszuprobieren.
+00:17:16.830 --> 00:17:18.820
+ da hat der Hamburger ausgedacht,
 
-00:20:07.000 --> 00:20:10.000
- Eine Sache, die ich nicht ausprobieren konnte,
+00:17:18.820 --> 00:17:20.820
+ da hat der Hamburger ausgedacht,
 
-00:20:10.000 --> 00:20:12.000
- die ich aber interessant fand, war so die Frage,
+00:17:20.820 --> 00:17:22.820
+ da hat der Hamburger ausgedacht,
 
-00:20:12.000 --> 00:20:15.000
- hey, in den News geht es ja darum,
+00:17:22.820 --> 00:17:24.810
+ da hat der Hamburger ausgedacht,
 
-00:20:15.000 --> 00:20:17.000
- was wäre es jetzt hier besser mit KI?
+00:17:24.810 --> 00:17:26.810
+ da hat der Hamburger ausgedacht,
 
-00:20:17.000 --> 00:20:20.000
- Ist es China oder ist es die USA?
+00:17:26.810 --> 00:17:28.810
+ da hat der Hamburger ausgedacht,
 
-00:20:20.000 --> 00:20:25.000
- Zum großen Teil beschäftigt man sich ja mit DeepSeek
+00:17:28.810 --> 00:17:30.800
+ da hat der Hamburger ausgedacht,
 
-00:20:25.000 --> 00:20:28.000
- aus China und OpenAI, Google
+00:17:30.800 --> 00:17:32.800
+ da hat der Hamburger ausgedacht,
 
-00:20:28.000 --> 00:20:31.000
- und ein bisschen noch Facebook oder Meta aus den USA.
+00:17:32.800 --> 00:17:34.800
+ da hat der Hamburger ausgedacht,
 
-00:20:31.000 --> 00:20:34.000
- Ich glaube jetzt gestern wirbelte auch an mir vorbei,
+00:17:34.800 --> 00:17:36.790
+ da hat der Hamburger ausgedacht,
 
-00:20:34.000 --> 00:20:37.000
- dass Alibaba irgendwie sein eigenes Sprachmodell rausgebracht hat,
+00:17:36.790 --> 00:17:38.790
+ da hat der Hamburger ausgedacht,
 
-00:20:37.000 --> 00:20:39.000
- bla bla bla, also tausende Sprachmodelle.
+00:17:38.790 --> 00:17:40.790
+ da hat der Hamburger ausgedacht,
 
-00:20:39.000 --> 00:20:42.000
- Und meine Frage war aber, hey, was gibt es denn in Europa
+00:17:40.790 --> 00:17:43.130
+ da hat der Hamburger ausgedacht,
 
-00:20:42.000 --> 00:20:44.000
- und in Deutschland?
+00:17:43.130 --> 00:17:45.120
+ da hat der Hamburger ausgedacht,
 
-00:20:44.000 --> 00:20:46.000
- Was man vielleicht so ab und an mal hört,
+00:17:45.120 --> 00:17:47.120
+ da hat der Hamburger ausgedacht,
 
-00:20:46.000 --> 00:20:49.000
- ist das Sprachmodell von Mistral
+00:17:47.120 --> 00:17:49.110
+ da hat der Hamburger ausgedacht,
 
-00:20:49.000 --> 00:20:51.000
- oder Mistral selbst, ist das glaube ich genannt
+00:17:49.110 --> 00:17:51.100
+ da hat der Hamburger ausgedacht,
 
-00:20:51.000 --> 00:20:53.000
- und ich hoffe, das ist richtig ausgesprochen.
+00:17:51.100 --> 00:17:53.100
+ da hat der Hamburger ausgedacht,
 
-00:20:53.000 --> 00:20:55.000
- Es sieht aus wie ein...
+00:17:53.100 --> 00:17:55.090
+ da hat der Hamburger ausgedacht,
 
-00:20:55.000 --> 00:20:58.000
- Mistral, genau, scheint wohl aus Frankreich zu sein,
+00:17:55.090 --> 00:17:57.080
+ da hat der Hamburger ausgedacht,
 
-00:20:58.000 --> 00:21:00.000
- die machen auch ein paar Dinge
+00:17:57.080 --> 00:17:59.080
+ da hat der Hamburger ausgedacht,
 
-00:21:00.000 --> 00:21:02.000
- und in Deutschland gibt es auch eins,
+00:17:59.080 --> 00:18:01.070
+ da hat der Hamburger ausgedacht,
 
-00:21:02.000 --> 00:21:05.000
- ein Sprachmodell LLM, large language model,
+00:18:01.070 --> 00:18:03.060
+ da hat der Hamburger ausgedacht,
 
-00:21:05.000 --> 00:21:10.000
- ALEP, ALFA, auch hier wieder mit PH geschrieben, ALEP, ALEP, ALFA.
+00:18:03.060 --> 00:18:05.060
+ da hat der Hamburger ausgedacht,
 
-00:21:10.000 --> 00:21:13.000
- Das entsteht wohl in der Nähe von Heidelberg,
+00:18:05.060 --> 00:18:07.050
+ da hat der Hamburger ausgedacht,
 
-00:21:13.000 --> 00:21:15.000
- von ein paar Menschen gefördert.
+00:18:07.050 --> 00:18:09.040
+ da hat der Hamburger ausgedacht,
 
-00:21:15.000 --> 00:21:17.000
- Heidelberg, wer sich ein bisschen auskennt in der deutschen IT,
+00:18:09.040 --> 00:18:11.040
+ da hat der Hamburger ausgedacht,
 
-00:21:17.000 --> 00:21:19.000
- ist gleich um die Ecke von SAP,
+00:18:11.040 --> 00:18:13.090
+ da hat der Hamburger ausgedacht,
 
-00:21:19.000 --> 00:21:22.000
- also neben wahrscheinlich wird da Geld von dort kommen.
+00:18:13.090 --> 00:18:15.080
+ da hat der Hamburger ausgedacht,
 
-00:21:22.000 --> 00:21:26.000
- Also, finde ich jetzt sehr spekulativ an der Stelle,
+00:18:15.080 --> 00:18:17.070
+ da hat der Hamburger ausgedacht,
 
-00:21:26.000 --> 00:21:29.000
- wobei es geografisch in der Nähe liegt.
+00:18:17.070 --> 00:18:19.060
+ da hat der Hamburger ausgedacht,
 
-00:21:29.000 --> 00:21:31.000
- Du warst noch nicht da, oder?
+00:18:19.060 --> 00:18:21.050
+ da hat der Hamburger ausgedacht,
 
-00:21:31.000 --> 00:21:33.000
- Nein, keine, also doch, ich war schon mal in der Gegend,
+00:18:21.050 --> 00:18:23.050
+ da hat der Hamburger ausgedacht,
 
-00:21:33.000 --> 00:21:36.000
- aber ich habe mir jetzt da nicht die Finanzströme angeschaut.
+00:18:23.050 --> 00:18:25.040
+ da hat der Hamburger ausgedacht,
 
-00:21:36.000 --> 00:21:40.000
- Ich sage mal so, ohne Quellen wäre mir das etwas sehr spekulativ.
+00:18:25.040 --> 00:18:27.030
+ da hat der Hamburger ausgedacht,
 
-00:21:40.000 --> 00:21:46.000
- Gut, können wir spekulativ lassen, aber ja, weshalb...
+00:18:27.030 --> 00:18:29.020
+ da hat der Hamburger ausgedacht,
 
-00:21:46.000 --> 00:21:49.000
- Also, ich sehe jetzt zum Beispiel auch eher so,
+00:18:29.020 --> 00:18:31.010
+ da hat der Hamburger ausgedacht,
 
-00:21:49.000 --> 00:21:54.000
- dass Forschung und Entwicklung kommt wohl eher so in Richtung,
+00:18:31.010 --> 00:18:33.000
+ da hat der Hamburger ausgedacht,
 
-00:21:54.000 --> 00:21:59.000
- aus Richtung der Universität Duisburg-Essen und der TU Darmstadt.
+00:18:33.000 --> 00:18:35.000
+ da hat der Hamburger ausgedacht,
 
-00:21:59.000 --> 00:22:02.000
- Zumindest einer der Gründe kommt auch aus Kreisruhr vom Kitt.
+00:18:35.000 --> 00:18:37.060
+ da hat der Hamburger ausgedacht,
 
-00:22:02.000 --> 00:22:04.000
- Das ist jetzt wiederum in der Nähe von Heidelberg.
+00:18:37.060 --> 00:18:39.050
+ da hat der Hamburger ausgedacht,
 
-00:22:04.000 --> 00:22:05.000
- Okay.
+00:18:39.050 --> 00:18:41.040
+ da hat der Hamburger ausgedacht,
 
-00:22:05.000 --> 00:22:11.000
- Und weshalb das sicherlich irgendwann mal für unser eins interessant werden wird,
+00:18:41.040 --> 00:18:43.030
+ da hat der Hamburger ausgedacht,
 
-00:22:11.000 --> 00:22:15.000
- ist, wenn die Verwaltung und die deutsche Regierung
+00:18:43.030 --> 00:18:45.020
+ da hat der Hamburger ausgedacht,
 
-00:22:15.000 --> 00:22:18.000
- endlich viel, viel, viel Geld auf KI wirft,
+00:18:45.020 --> 00:18:47.010
+ da hat der Hamburger ausgedacht,
 
-00:22:18.000 --> 00:22:21.000
- dann wird es ja wohl ein deutsches Modell werden,
+00:18:47.010 --> 00:18:49.000
+ da hat der Hamburger ausgedacht,
 
-00:22:21.000 --> 00:22:24.000
- weil so ist es normal, ob das jetzt gut ist oder schlecht.
+00:18:49.000 --> 00:18:50.990
+ da hat der Hamburger ausgedacht,
 
-00:22:24.000 --> 00:22:25.000
- Digitale Souveränität, was?
+00:18:50.990 --> 00:18:52.980
+ da hat der Hamburger ausgedacht,
 
-00:22:25.000 --> 00:22:28.000
- Genau, wollen wir gar nicht irgendwie großartig ausführen,
+00:18:52.980 --> 00:18:54.970
+ da hat der Hamburger ausgedacht,
 
-00:22:28.000 --> 00:22:29.000
- aber so wird es halt sein.
+00:18:54.970 --> 00:18:57.370
+ da hat der Hamburger ausgedacht,
 
-00:22:29.000 --> 00:22:34.000
- Und das heißt, wenn uns KI in der Verwaltung begegnen wird,
+00:18:57.370 --> 00:18:59.370
+ da hat der Hamburger ausgedacht,
 
-00:22:34.000 --> 00:22:37.000
- wird es wohl dieses Aleph Alpha sein.
+00:18:59.370 --> 00:19:01.360
+ da hat der Hamburger ausgedacht,
 
-00:22:37.000 --> 00:22:40.000
- Es kommt in nächster Zeit noch ein neues hoch.
+00:19:01.360 --> 00:19:03.360
+ da hat der Hamburger ausgedacht,
 
-00:22:40.000 --> 00:22:44.000
- Genau, leider halt auch nicht offen,
+00:19:03.360 --> 00:19:05.360
+ da hat der Hamburger ausgedacht,
 
-00:22:44.000 --> 00:22:46.000
- zumindest soweit ich das rausfinde konnte.
+00:19:05.360 --> 00:19:07.350
+ dann hat der Hamburger ausgedacht,
 
-00:22:46.000 --> 00:22:51.000
- Also, wenn man ja zum Beispiel mit DeepSfeak oder den Metamodellen, Lama und so weiter
+00:19:07.350 --> 00:19:09.350
+ dann hat der Hamburger ausgedacht,
 
-00:22:51.000 --> 00:22:54.000
- durchaus auch auf dem eigenen Rechner rumspielen kann,
+00:19:09.350 --> 00:19:11.340
+ dann hat der Hamburger ausgedacht,
 
-00:22:54.000 --> 00:22:56.000
- ging das mit Aleph Alpha nicht.
+00:19:11.340 --> 00:19:13.340
+ dann hat der Hamburger ausgedacht,
 
-00:22:56.000 --> 00:22:59.000
- Oder ich habe es nicht entdeckt, nicht gefunden,
+00:19:13.340 --> 00:19:15.330
+ dann hat der Hamburger ausgedacht,
 
-00:22:59.000 --> 00:23:01.000
- was meistens ein gutes Zeichen ist.
+00:19:15.330 --> 00:19:17.330
+ dann hat der Hamburger ausgedacht,
 
-00:23:01.000 --> 00:23:03.000
- Dass du Dinge nicht findest?
+00:19:17.330 --> 00:19:19.330
+ dann hat der Hamburger ausgedacht,
 
-00:23:03.000 --> 00:23:05.000
- Das ist meistens ein gutes Zeichen dafür,
+00:19:19.330 --> 00:19:21.320
+ dann hat der Hamburger ausgedacht,
 
-00:23:05.000 --> 00:23:06.000
- dass es nicht offene Dinge sind.
+00:19:21.320 --> 00:19:23.320
+ dann hat der Hamburger ausgedacht,
 
-00:23:06.000 --> 00:23:07.000
- Eigentlich bin ich ganz gut empfinden.
+00:19:23.320 --> 00:19:25.310
+ dann hat der Hamburger ausgedacht,
 
-00:23:07.000 --> 00:23:10.000
- Ich bin nicht gut empfinden, aber empfinden bin ich ganz gut.
+00:19:25.310 --> 00:19:27.310
+ dann hat der Hamburger ausgedacht,
 
-00:23:10.000 --> 00:23:13.000
- Übrigens, Ostern steht vor der Tür der nächsten Monat?
+00:19:27.310 --> 00:19:29.310
+ dann hat der Hamburger ausgedacht,
 
-00:23:13.000 --> 00:23:15.000
- Ja, mal gucken, ob ich die Eier vom letzten Jahr finde.
+00:19:29.310 --> 00:19:31.300
+ dann hat der Hamburger ausgedacht,
 
-00:23:15.000 --> 00:23:21.000
- Genau, so viel also zu deutschen LLMs und europäischen.
+00:19:31.300 --> 00:19:33.300
+ dann hat der Hamburger ausgedacht,
 
-00:23:21.000 --> 00:23:24.000
- Ich habe übrigens Chachapiti danach gefragt.
+00:19:33.300 --> 00:19:35.290
+ dann hat der Hamburger ausgedacht,
 
-00:23:24.000 --> 00:23:29.000
- Sag mir mal, ob ich irgendwo offen verfügbare Dinge zu Aleph Alpha finde?
+00:19:35.290 --> 00:19:37.290
+ dann hat der Hamburger ausgedacht,
 
-00:23:29.000 --> 00:23:31.000
- Ja, so ungefähr.
+00:19:37.290 --> 00:19:39.280
+ dann hat der Hamburger ausgedacht,
 
-00:23:31.000 --> 00:23:38.000
- Genau, wer da mehr weiß, auch bitte eine Mail an radio@cct-p.org.
+00:19:39.280 --> 00:19:41.280
+ dann hat der Hamburger ausgedacht,
 
-00:23:38.000 --> 00:23:40.000
- Also, ich habe mal gesehen,
+00:19:41.280 --> 00:19:43.280
+ dann hat der Hamburger ausgedacht,
 
-00:23:40.000 --> 00:23:43.000
- dass Vosch und Lidl offensichtlich da Geldrenke werfen, deren Topf.
+00:19:43.280 --> 00:19:45.380
+ dann hat der Hamburger ausgedacht,
 
-00:23:43.000 --> 00:23:46.000
- Ja, genau, Schwarz, also die Schwarzgruppe.
+00:19:45.380 --> 00:19:47.340
+ dann hat der Hamburger ausgedacht,
 
-00:23:46.000 --> 00:23:50.000
- Das kann man auch immer mal wiederholen.
+00:19:47.340 --> 00:19:49.310
+ dann hat der Hamburger ausgedacht,
 
-00:23:50.000 --> 00:23:57.000
- Hinter der Schwarzgruppe verbirgt sich eine Lidl- und Kaufland.
+00:19:49.310 --> 00:19:51.520
+ dann hat der Hamburger ausgedacht,
 
-00:23:57.000 --> 00:24:00.000
- Von der Schwarzgruppe und Schwarz hat eine recht große IT.
+00:19:51.520 --> 00:19:53.520
+ dann hat der Hamburger ausgedacht,
 
-00:24:00.000 --> 00:24:03.000
- Die stecken viel Geld rein,
+00:19:53.520 --> 00:19:55.520
+ dann hat der Hamburger ausgedacht,
 
-00:24:03.000 --> 00:24:06.000
- weil sie eben auch versuchen, ihr Businessmodell umzukrempeln.
+00:19:55.520 --> 00:19:57.520
+ dann hat der Hamburger ausgedacht,
 
-00:24:06.000 --> 00:24:11.000
- Und passt auch wieder zurück zu unserem komischen E-Mail-Thema.
+00:19:57.520 --> 00:19:59.510
+ dann hat der Hamburger ausgedacht,
 
-00:24:11.000 --> 00:24:15.000
- Also, Schwarz hat eine eigene Top-Level-Domain, Punkt Schwarz.
+00:19:59.510 --> 00:20:01.510
+ dann hat der Hamburger ausgedacht,
 
-00:24:15.000 --> 00:24:21.000
- Das heißt, man hätte E-Mails aller "mein Name @Schwarz" haben können.
+00:20:01.510 --> 00:20:03.510
+ dann hat der Hamburger ausgedacht,
 
-00:24:21.000 --> 00:24:23.000
- Aber da geht halt so viel kaputt,
+00:20:03.510 --> 00:20:05.510
+ dann hat der Hamburger ausgedacht,
 
-00:24:23.000 --> 00:24:27.000
- weil alle erwarten, dass da irgendein Punkt in der Domain steht.
+00:20:05.510 --> 00:20:07.510
+ dann hat der Hamburger ausgedacht,
 
-00:24:27.000 --> 00:24:29.000
- Das ist halt da doch wieder nicht ging.
+00:20:07.510 --> 00:20:09.500
+ dann hat der Hamburger ausgedacht,
 
-00:24:29.000 --> 00:24:35.000
- Und deswegen haben die Mitarbeiter von schwarz@mail.schwarz.
+00:20:09.500 --> 00:20:11.500
+ dann hat der Hamburger ausgedacht,
 
-00:24:35.000 --> 00:24:39.000
- Ja, genau, und da vielleicht kommt da auch noch was von denen.
+00:20:11.500 --> 00:20:13.500
+ dann hat der Hamburger ausgedacht,
 
-00:24:39.000 --> 00:24:41.000
- Ja, von schwarz.
+00:20:13.500 --> 00:20:15.500
+ dann hat der Hamburger ausgedacht,
 
-00:24:41.000 --> 00:24:43.000
- Genau, das war das Thema.
+00:20:15.500 --> 00:20:17.500
+ dann hat der Hamburger ausgedacht,
 
-00:24:43.000 --> 00:24:45.000
- Und dann würde ich gerne, weil es noch so ein bisschen,
+00:20:17.500 --> 00:20:19.490
+ dann hat der Hamburger ausgedacht,
 
-00:24:45.000 --> 00:24:49.000
- bevor wir ein bisschen Musik machen, noch in das andere einsteigen, ganz kurz.
+00:20:19.490 --> 00:20:21.490
+ dann hat der Hamburger ausgedacht,
 
-00:24:49.000 --> 00:24:54.000
- Ich habe mich damit beschäftigt, wie man eigentlich Konversationen transkribiert.
+00:20:21.490 --> 00:20:23.490
+ dann hat der Hamburger ausgedacht,
 
-00:24:54.000 --> 00:24:58.000
- Also, wie man jetzt irgendwie Sprache in Text umwandelt.
+00:20:23.490 --> 00:20:25.490
+ dann hat der Hamburger ausgedacht,
 
-00:24:58.000 --> 00:25:02.000
- Wenn das Monologe sind, das ist mittlerweile sehr, sehr einfach geworden.
+00:20:25.490 --> 00:20:27.480
+ dann hat der Hamburger ausgedacht,
 
-00:25:02.000 --> 00:25:09.000
- Da gibt es viele Möglichkeiten, um irgendwie lokal auf dem eigenen Rechner einfach in den Mikrofon zu babbeln.
+00:20:27.480 --> 00:20:29.480
+ dann hat der Hamburger ausgedacht,
 
-00:25:09.000 --> 00:25:12.000
- Und da kommt dann Text raus, das funktioniert hervorragend.
+00:20:29.480 --> 00:20:31.480
+ dann hat der Hamburger ausgedacht,
 
-00:25:12.000 --> 00:25:16.000
- Ich möchte fast sagen, wenn man nicht zu viele Fremdwörter benutzt.
+00:20:31.480 --> 00:20:33.480
+ dann hat der Hamburger ausgedacht,
 
-00:25:16.000 --> 00:25:20.000
- Das Modell der Wahl ist häufig Whisper.
+00:20:33.480 --> 00:20:35.480
+ dann hat der Hamburger ausgedacht,
 
-00:25:20.000 --> 00:25:25.000
- Das erste Modell, was mir überhaupt aufgefallen ist von OpenAI.
+00:20:35.480 --> 00:20:37.470
+ dann hat der Hamburger ausgedacht,
 
-00:25:25.000 --> 00:25:29.000
- Also, als Whisper erschienen ist, ist mir das erstmal klar geworden, dass das OpenAI gibt.
+00:20:37.470 --> 00:20:39.470
+ dann hat der Hamburger ausgedacht,
 
-00:25:29.000 --> 00:25:32.000
- Das war also bevor GPT den Hype ausgelöst hat.
+00:20:39.470 --> 00:20:41.470
+ dann hat der Hamburger ausgedacht,
 
-00:25:32.000 --> 00:25:36.000
- Und das Modell funktioniert immer noch ganz, ganz super.
+00:20:41.470 --> 00:20:43.470
+ dann hat der Hamburger ausgedacht,
 
-00:25:36.000 --> 00:25:42.000
- Kann man sich aussuchen, in welcher Sprache man transkribieren will und wie gut das werden soll.
+00:20:43.470 --> 00:20:45.460
+ dann hat der Hamburger ausgedacht,
 
-00:25:42.000 --> 00:25:47.000
- Und je mehr Rechenpower man draufhürft, desto besser wird das Modell.
+00:20:45.460 --> 00:20:47.460
+ dann hat der Hamburger ausgedacht,
 
-00:25:47.000 --> 00:25:51.000
- Das ist also sozusagen ein gelöstes Problem, möchte ich jetzt mal so behaupten.
+00:20:47.460 --> 00:20:49.460
+ dann hat der Hamburger ausgedacht,
 
-00:25:51.000 --> 00:25:56.000
- Was allerdings noch nicht so richtig gut gelöst ist, aus meiner Sicht, ist, Konversationen zu transkribieren.
+00:20:49.460 --> 00:20:51.460
+ dann hat der Hamburger ausgedacht,
 
-00:25:56.000 --> 00:25:59.000
- Also, was wir nach mehreren Leuten in Mikrofonen sprechen.
+00:20:51.460 --> 00:20:53.460
+ dann hat der Hamburger ausgedacht,
 
-00:25:59.000 --> 00:26:05.000
- Das war jetzt in den letzten Wochen ein bisschen mein kleines Seitenprojekt.
+00:20:53.460 --> 00:20:55.450
+ dann hat der Hamburger ausgedacht,
 
-00:26:05.000 --> 00:26:09.000
- Und zwar die Idee, okay, kann man dann nicht einfach ein Meeting transkribieren
+00:20:55.450 --> 00:20:57.450
+ dann hat der Hamburger ausgedacht,
 
-00:26:09.000 --> 00:26:12.000
- und dann nachher die Meeting Notes von einem Large Language Modell machen lassen.
+00:20:57.450 --> 00:20:59.450
+ dann hat der Hamburger ausgedacht,
 
-00:26:12.000 --> 00:26:14.000
- Und mal gucken, was dabei rauskommt.
+00:20:59.450 --> 00:21:01.450
+ dann hat der Hamburger ausgedacht,
 
-00:26:14.000 --> 00:26:19.000
- Ich gehe aber schon am Transkribieren, weil es natürlich irgendwie nötig ist,
+00:21:01.450 --> 00:21:03.450
+ dann hat der Hamburger ausgedacht,
 
-00:26:19.000 --> 00:26:22.000
- dass man zuweisen kann, wer was gesagt hat.
+00:21:03.450 --> 00:21:05.440
+ dann hat der Hamburger ausgedacht,
 
-00:26:22.000 --> 00:26:28.000
- Und wenn ich jetzt einfach mit Whisper irgendwie die Audiodatei transkribieren lasse,
+00:21:05.440 --> 00:21:07.440
+ dann hat der Hamburger ausgedacht,
 
-00:26:28.000 --> 00:26:34.000
- dann sehe ich, dass Whisper irgendwie herausfindet, dass die Sätze von unterschiedlichen Menschen kommen,
+00:21:07.440 --> 00:21:09.440
+ dann hat der Hamburger ausgedacht,
 
-00:26:34.000 --> 00:26:41.000
- allein daran, dass es ein New Line gibt nach so einem Satz oder weiß ich nicht.
+00:21:09.440 --> 00:21:11.440
+ dann hat der Hamburger ausgedacht,
 
-00:26:41.000 --> 00:26:45.000
- Also, auch wenn man sich so unterbricht, Whisper kriegt das irgendwie mit,
+00:21:11.440 --> 00:21:13.430
+ dann hat der Hamburger ausgedacht,
 
-00:26:45.000 --> 00:26:49.000
- aber Whisper gibt mir das zumindest mit den Tools, die ich benutzt habe,
+00:21:13.430 --> 00:21:15.430
+ dann hat der Hamburger ausgedacht,
 
-00:26:49.000 --> 00:26:51.000
- gibt mir das nicht aus, die Information.
+00:21:15.430 --> 00:21:17.430
+ dann hat der Hamburger ausgedacht,
 
-00:26:51.000 --> 00:26:54.000
- Heißt also, ich musste doch noch ein anderes Tool drüberwerfen.
+00:21:17.430 --> 00:21:19.430
+ dann hat der Hamburger ausgedacht,
 
-00:26:54.000 --> 00:26:59.000
- Das Tool der Wahl nennt sich Pi Anode, was gar nicht transkribiert,
+00:21:19.430 --> 00:21:21.430
+ dann hat der Hamburger ausgedacht,
 
-00:26:59.000 --> 00:27:03.000
- sondern einfach nur, so zu sagen, vermutlich irgendwo je Transformation macht
+00:21:21.430 --> 00:21:23.470
+ dann hat der Hamburger ausgedacht,
 
-00:27:03.000 --> 00:27:06.000
- und dann herausfindet, in welchen Frequenzen wurde gesprochen.
+00:21:23.470 --> 00:21:25.450
+ dann hat der Hamburger ausgedacht,
 
-00:27:06.000 --> 00:27:10.000
- Und dann habe ich, also wenn ich meine Audiodatei habe, schmeiß ich die zuerst in Whisper,
+00:21:25.450 --> 00:21:27.420
+ dann hat der Hamburger ausgedacht,
 
-00:27:10.000 --> 00:27:14.000
- da kriege ich ganz viel Text und danach kriege ich, schmeiß ich es in Pi Anode
+00:21:27.420 --> 00:21:29.400
+ dann hat der Hamburger ausgedacht,
 
-00:27:14.000 --> 00:27:16.000
- und da kriege ich dann Timestamps.
+00:21:29.400 --> 00:21:31.510
+ dann hat der Hamburger ausgedacht,
 
-00:27:16.000 --> 00:27:24.000
- Und da steht halt einfach nur von Sekunde 1 bis Sekunde 5,3, hat Person 1 gesprochen.
+00:21:31.510 --> 00:21:33.490
+ dann hat der Hamburger ausgedacht,
 
-00:27:24.000 --> 00:27:29.000
- Und dann kannst du das dann wiederum abgleichen mit dem, was Whisper ausspuckt
+00:21:33.490 --> 00:21:35.480
+ dann hat der Hamburger ausgedacht,
 
-00:27:29.000 --> 00:27:34.000
- und dann kriegst du was zusammen, was so grob das Gespräch reflektiert.
+00:21:35.480 --> 00:21:37.460
+ dann hat der Hamburger ausgedacht,
 
-00:27:34.000 --> 00:27:39.000
- Allerdings war für mich sehr, sehr spannend, wie es dann doch wieder scheitert,
+00:21:37.460 --> 00:21:39.450
+ dann hat der Hamburger ausgedacht,
 
-00:27:39.000 --> 00:27:42.000
- weil natürlich irgendwie, wenn mal ein Wort falsch erkannt wird,
+00:21:39.450 --> 00:21:41.440
+ dann hat der Hamburger ausgedacht,
 
-00:27:42.000 --> 00:27:45.000
- das ist in der Regel für die Verständlichkeit nicht so schwierig.
+00:21:41.440 --> 00:21:43.420
+ dann hat der Hamburger ausgedacht,
 
-00:27:45.000 --> 00:27:48.000
- Also wenn Whisper nicht 100 Prozent funktioniert, das macht nichts.
+00:21:43.420 --> 00:21:45.730
+ dann hat der Hamburger ausgedacht,
 
-00:27:48.000 --> 00:27:54.000
- Wenn aber mehr Personen an der Konversation teilnehmen, als tatsächlich da waren.
+00:21:45.730 --> 00:21:47.710
+ dann hat der Hamburger ausgedacht,
 
-00:27:54.000 --> 00:27:56.000
- Was sich ja dann manchmal überschneidet auch.
+00:21:47.710 --> 00:21:49.700
+ dann hat der Hamburger ausgedacht,
 
-00:27:56.000 --> 00:28:01.000
- Oder halt ein Dialog auf einmal nur von einer Person gesagt wurde, weil ist halt so.
+00:21:49.700 --> 00:21:51.680
+ dann hat der Hamburger ausgedacht,
 
-00:28:01.000 --> 00:28:04.000
- Das macht die Verständlichkeit halt richtig kaputt.
+00:21:51.680 --> 00:21:53.670
+ dann hat der Hamburger ausgedacht,
 
-00:28:04.000 --> 00:28:08.000
- Es scheint noch nicht so richtig Produktion zu werden, was erklärt,
+00:21:53.670 --> 00:21:55.650
+ dann hat der Hamburger ausgedacht,
 
-00:28:08.000 --> 00:28:12.000
- warum Kollegen in der Podcast-Szene sich noch darauf verlassen,
+00:21:55.650 --> 00:21:57.640
+ dann hat der Hamburger ausgedacht,
 
-00:28:12.000 --> 00:28:14.000
- mit Tonspuren zu haben.
+00:21:57.640 --> 00:21:59.740
+ dann hat der Hamburger ausgedacht,
 
-00:28:14.000 --> 00:28:16.000
- Genau, das wäre also eine Möglichkeit.
+00:21:59.740 --> 00:22:01.710
+ dann hat der Hamburger ausgedacht,
 
-00:28:16.000 --> 00:28:17.000
- Oder es gibt halt...
+00:22:01.710 --> 00:22:03.680
+ dann hat der Hamburger ausgedacht,
 
-00:28:17.000 --> 00:28:21.000
- Habt ihr gerade so auf Honig, lebt ihr davon, dass es verschiedene Tonspuren hat
+00:22:03.680 --> 00:22:05.730
+ dann hat der Hamburger ausgedacht,
 
-00:28:21.000 --> 00:28:23.000
- und hier spreche ich eine Spur?
+00:22:05.730 --> 00:22:07.730
+ dann hat der Hamburger ausgedacht,
 
-00:28:23.000 --> 00:28:29.000
- Genau, und dann halt die, das will ich nochmal in der Zukunft recherchieren,
+00:22:07.730 --> 00:22:09.720
+ dann hat der Hamburger ausgedacht,
 
-00:28:29.000 --> 00:28:33.000
- was denn die Großen machen, also Dobby, Amazon und Google haben alle so Services,
+00:22:09.720 --> 00:22:11.720
+ dann hat der Hamburger ausgedacht,
 
-00:28:33.000 --> 00:28:35.000
- die kann man anmieten, dann macht man es halt in der Cloud.
+00:22:11.720 --> 00:22:13.710
+ dann hat der Hamburger ausgedacht,
 
-00:28:35.000 --> 00:28:38.000
- Ich nehme an, da die es verkaufen, funktioniert es besser.
+00:22:13.710 --> 00:22:15.700
+ dann hat der Hamburger ausgedacht,
 
-00:28:38.000 --> 00:28:41.000
- Genau, auch hier Hinweise an die bekannte E-Mail-Adresse.
+00:22:15.700 --> 00:22:17.700
+ dann hat der Hamburger ausgedacht,
 
-00:28:42.000 --> 00:28:45.000
- Ja, wollen wir vielleicht ein bisschen Musik machen, kurz nach Halbzeit?
+00:22:17.700 --> 00:22:19.690
+ dann hat der Hamburger ausgedacht,
 
-00:28:45.000 --> 00:28:52.000
- Ja, genau, da sich Cyroxx das letzte Mal so über die vorangehende Elektromusik gefreut hat,
+00:22:19.690 --> 00:22:21.690
+ dann hat der Hamburger ausgedacht,
 
-00:28:52.000 --> 00:28:56.000
- habe ich von demselben Artist noch mal was gefunden.
+00:22:21.690 --> 00:22:23.680
+ dann hat der Hamburger ausgedacht,
 
-00:28:56.000 --> 00:29:02.000
- Es geht nicht ganz so voran, aber trotzdem hören wir mal rein.
+00:22:23.680 --> 00:22:25.670
+ dann hat der Hamburger ausgedacht,
 
-00:29:02.000 --> 00:29:05.000
- Und zwar Dirk Dehler, haben wir letztes Mal schon mal gehört,
+00:22:25.670 --> 00:22:27.670
+ dann hat der Hamburger ausgedacht,
 
-00:29:05.000 --> 00:29:09.000
- hat wieder was Elektronisches gemacht, ein Lied namens "Impulsion".
+00:22:27.670 --> 00:22:29.660
+ dann hat der Hamburger ausgedacht,
 
-00:29:09.000 --> 00:29:13.000
- Und vom Album "Mélange" auch wieder ein Creative Commons Titel.
+00:22:29.660 --> 00:22:31.650
+ dann hat der Hamburger ausgedacht,
 
-00:29:13.000 --> 00:29:17.000
- Deswegen können wir das hier spielen und wir hören uns gleich wieder.
+00:22:31.650 --> 00:22:33.650
+ dann hat der Hamburger ausgedacht,
 
-00:29:39.000 --> 00:29:46.000
- [Musik]
+00:22:33.650 --> 00:22:35.640
+ dann hat der Hamburger ausgedacht,
 
-00:30:09.000 --> 00:30:18.000
- [Musik]
+00:22:35.640 --> 00:22:37.640
+ dann hat der Hamburger ausgedacht,
 
-00:30:39.000 --> 00:31:07.000
- [Musik]
+00:22:37.640 --> 00:22:39.690
+ dann hat der Hamburger ausgedacht,
 
-00:31:07.000 --> 00:31:12.000
- Ganz sonnige Musik bei Chaos im Radio, irgendwie von Dirk Dehler.
+00:22:39.690 --> 00:22:41.690
+ dann hat der Hamburger ausgedacht,
 
-00:31:12.000 --> 00:31:18.000
- Wir wollen weiter über lustige Dinge sprechen, KI haben wir mehr als abgearbeitet heute.
+00:22:41.690 --> 00:22:43.680
+ dann hat der Hamburger ausgedacht,
 
-00:31:18.000 --> 00:31:20.000
- Deswegen sprechen wir jetzt mal was anderes.
+00:22:43.680 --> 00:22:45.660
+ dann hat der Hamburger ausgedacht,
 
-00:31:20.000 --> 00:31:22.000
- Es geht es Schlag auf Schlag.
+00:22:45.660 --> 00:22:47.650
+ dann hat der Hamburger ausgedacht,
 
-00:31:22.000 --> 00:31:25.000
- [Lachen]
+00:22:47.650 --> 00:22:49.640
+ dann hat der Hamburger ausgedacht,
 
-00:31:25.000 --> 00:31:32.000
- Ja, lass uns zum Beispiel mal ganz kurz reden über den Asteroid 2024 YR4.
+00:22:49.640 --> 00:22:51.620
+ dann hat der Hamburger ausgedacht,
 
-00:31:32.000 --> 00:31:34.000
- Ist das nicht Elon Musk's Sohn?
+00:22:51.620 --> 00:22:53.610
+ dann hat der Hamburger ausgedacht,
 
-00:31:34.000 --> 00:31:36.000
- Ach nee, der heißt anders.
+00:22:53.610 --> 00:22:55.650
+ dann hat der Hamburger ausgedacht,
 
-00:31:36.000 --> 00:31:38.000
- Der heißt anders, genau.
+00:22:55.650 --> 00:22:57.610
+ dann hat der Hamburger ausgedacht,
 
-00:31:38.000 --> 00:31:40.000
- Und nein.
+00:22:57.610 --> 00:22:59.570
+ dann hat der Hamburger ausgedacht,
 
-00:31:40.000 --> 00:31:45.000
- Es gibt gute Nachrichten.
+00:22:59.570 --> 00:23:01.850
+ dann hat der Hamburger ausgedacht,
 
-00:31:45.000 --> 00:31:48.000
- Wir haben nicht alle Sterben.
+00:23:01.850 --> 00:23:03.880
+ dann hat der Hamburger ausgedacht,
 
-00:31:48.000 --> 00:31:50.000
- Mit einer Gewissen wahrscheinlich.
+00:23:03.880 --> 00:23:05.870
+ dann hat der Hamburger ausgedacht,
 
-00:31:50.000 --> 00:31:57.000
- Also zumindest nicht in einigen Jahrzehnten durch außerirdische Einflüsse.
+00:23:05.870 --> 00:23:07.860
+ dann hat der Hamburger ausgedacht,
 
-00:31:57.000 --> 00:31:59.000
- Es gibt gute Nachrichten.
+00:23:07.860 --> 00:23:09.840
+ dann hat der Hamburger ausgedacht,
 
-00:31:59.000 --> 00:32:01.000
- Ich weiß gar nicht, ob wir das beim letzten Mal schon erwähnt hatten.
+00:23:09.840 --> 00:23:11.830
+ dann hat der Hamburger ausgedacht,
 
-00:32:01.000 --> 00:32:05.000
- Diese Asteroids, da war zwischenzeitlich mal die Frage,
+00:23:11.830 --> 00:23:13.820
+ dann hat der Hamburger ausgedacht,
 
-00:32:05.000 --> 00:32:09.000
- wird der bei uns auf der Erde einschlagen oder nicht?
+00:23:13.820 --> 00:23:15.810
+ dann hat der Hamburger ausgedacht,
 
-00:32:09.000 --> 00:32:14.000
- Und weil das Ding ist irgendwie so, irgendwas zwischen 40 und 90 Meter groß,
+00:23:15.810 --> 00:23:17.890
+ dann hat der Hamburger ausgedacht,
 
-00:32:14.000 --> 00:32:19.000
- wurde Ende letzten Jahres entdeckt und da war die Gefahr groß.
+00:23:17.890 --> 00:23:19.890
+ dann hat der Hamburger ausgedacht,
 
-00:32:19.000 --> 00:32:21.000
- Kann er auf der Erde einschlagen?
+00:23:19.890 --> 00:23:21.880
+ dann hat der Hamburger ausgedacht,
 
-00:32:21.000 --> 00:32:24.000
- Die gute Nachricht ist, nee, ist mittlerweile sehr unwahrscheinlich geworden
+00:23:21.880 --> 00:23:23.880
+ dann hat der Hamburger ausgedacht,
 
-00:32:24.000 --> 00:32:27.000
- nach neueren Messungen und Berechnungen.
+00:23:23.880 --> 00:23:25.870
+ dann hat der Hamburger ausgedacht,
 
-00:32:27.000 --> 00:32:30.000
- Mittlerweile ist die Wahrscheinlichkeit entstanden Ende Februar
+00:23:25.870 --> 00:23:27.870
+ dann hat der Hamburger ausgedacht,
 
-00:32:30.000 --> 00:32:34.000
- nur noch bei 0,0027 Prozent,
+00:23:27.870 --> 00:23:29.860
+ dann hat der Hamburger ausgedacht,
 
-00:32:34.000 --> 00:32:38.000
- das er uns trifft irgendwann in den nächsten 10, 20 Jahren.
+00:23:29.860 --> 00:23:31.860
+ dann hat der Hamburger ausgedacht,
 
-00:32:38.000 --> 00:32:40.000
- Um Mond schon höher, ne?
+00:23:31.860 --> 00:23:33.850
+ dann hat der Hamburger ausgedacht,
 
-00:32:40.000 --> 00:32:43.000
- Die Wahrscheinlichkeit für den Mond ist ein bisschen gestiegen,
+00:23:33.850 --> 00:23:35.850
+ dann hat der Hamburger ausgedacht,
 
-00:32:43.000 --> 00:32:45.000
- da ist es momentan bei 1,7 Prozent.
+00:23:35.850 --> 00:23:37.840
+ dann hat der Hamburger ausgedacht,
 
-00:32:45.000 --> 00:32:47.000
- Spannend.
+00:23:37.840 --> 00:23:39.830
+ dann hat der Hamburger ausgedacht,
 
-00:32:47.000 --> 00:32:49.000
- Fun Fact am Rande, wusstet ihr,
+00:23:39.830 --> 00:23:41.830
+ dann hat der Hamburger ausgedacht,
 
-00:32:49.000 --> 00:32:52.000
- dass es immer noch regelmäßig jemand den Tesla Roadster entdeckt,
+00:23:41.830 --> 00:23:43.820
+ dann hat der Hamburger ausgedacht,
 
-00:32:52.000 --> 00:32:56.000
- der da Spaceman, der hier um die Sonne mit uns kreist.
+00:23:43.820 --> 00:23:45.820
+ dann hat der Hamburger ausgedacht,
 
-00:32:56.000 --> 00:32:59.000
- Um den Mars doch, glaube ich?
+00:23:45.820 --> 00:23:47.810
+ dann hat der Hamburger ausgedacht,
 
-00:32:59.000 --> 00:33:05.000
- Der ist auf irgendeiner Bahn, auf einer erdnahen Umlaufbahn,
+00:23:47.810 --> 00:23:49.810
+ dann hat der Hamburger ausgedacht,
 
-00:33:05.000 --> 00:33:07.000
- aber er kreist nicht um die Erde, sondern mit uns um die Sonne.
+00:23:49.810 --> 00:23:51.800
+ dann hat der Hamburger ausgedacht,
 
-00:33:07.000 --> 00:33:08.000
- Ah, okay.
+00:23:51.800 --> 00:23:53.800
+ dann hat der Hamburger ausgedacht,
 
-00:33:08.000 --> 00:33:11.000
- Und weil das war, wer sich erinnert, das war die erste,
+00:23:53.800 --> 00:23:55.860
+ dann hat der Hamburger ausgedacht,
 
-00:33:11.000 --> 00:33:15.000
- oder eine der ersten erfolgreichen Raketenstaats von SpaceX,
+00:23:55.860 --> 00:23:57.850
+ dann hat der Hamburger ausgedacht,
 
-00:33:15.000 --> 00:33:20.000
- hat diesen Tesla mit einem Dummy drinsitzend in den Weltraum gebracht
+00:23:57.850 --> 00:23:59.840
+ dann hat der Hamburger ausgedacht,
 
-00:33:20.000 --> 00:33:22.000
- und der kreist da jetzt so mit rum,
+00:23:59.840 --> 00:24:01.830
+ dann hat der Hamburger ausgedacht,
 
-00:33:22.000 --> 00:33:24.000
- weil er aber nicht um die Erde kreist,
+00:24:01.830 --> 00:24:03.820
+ dann hat der Hamburger ausgedacht,
 
-00:33:24.000 --> 00:33:29.000
- wird er nicht von den Trackern erfasst,
+00:24:03.820 --> 00:24:05.810
+ dann hat der Hamburger ausgedacht,
 
-00:33:29.000 --> 00:33:33.000
- die sich um Weltraumschrott gewann, wo man immer mal ausweichen muss.
+00:24:05.810 --> 00:24:07.800
+ dann hat der Hamburger ausgedacht,
 
-00:33:33.000 --> 00:33:36.000
- Ist aber auch nicht so richtig ein Asteroid
+00:24:07.800 --> 00:24:09.790
+ dann hat der Hamburger ausgedacht,
 
-00:33:36.000 --> 00:33:39.000
- und ist auch in einer komischen Größenkategorie so als Auto.
+00:24:09.790 --> 00:24:11.780
+ dann hat der Hamburger ausgedacht,
 
-00:33:39.000 --> 00:33:43.000
- Deswegen wird er regelmäßig wieder entdeckt von jemandem,
+00:24:11.780 --> 00:24:13.770
+ dann hat der Hamburger ausgedacht,
 
-00:33:43.000 --> 00:33:45.000
- der sagt, er kommt uns aber gefährlich nahe
+00:24:13.770 --> 00:24:16.330
+ dann hat der Hamburger ausgedacht,
 
-00:33:45.000 --> 00:33:47.000
- und dann muss das immer wieder zurückgezogen werden,
+00:24:16.330 --> 00:24:18.310
+ dann hat der Hamburger ausgedacht,
 
-00:33:47.000 --> 00:33:49.000
- das war wieder der Tesla.
+00:24:18.310 --> 00:24:20.300
+ dann hat der Hamburger ausgedacht,
 
-00:33:49.000 --> 00:33:56.000
- Bei dem Artikel, ich glaube, wir haben hier einen Artikel,
+00:24:20.300 --> 00:24:22.290
+ dann hat der Hamburger ausgedacht,
 
-00:33:56.000 --> 00:33:58.000
- ich glaube, Fr. Frankfurt Rundschau.
+00:24:22.290 --> 00:24:24.280
+ dann hat der Hamburger ausgedacht,
 
-00:33:58.000 --> 00:34:02.000
- Den ersten Satz unterm Bild finde ich spannend.
+00:24:24.280 --> 00:24:26.270
+ dann hat der Hamburger ausgedacht,
 
-00:34:02.000 --> 00:34:04.000
- Der Asteroid wird weiter von Teleskopen beobachtet.
+00:24:26.270 --> 00:24:28.260
+ dann hat der Hamburger ausgedacht,
 
-00:34:04.000 --> 00:34:08.000
- Das sorgt dafür, dass er eine Einschlagwahrscheinlichkeit sehr deutlich sinkt.
+00:24:28.260 --> 00:24:30.250
+ dann hat der Hamburger ausgedacht,
 
-00:34:08.000 --> 00:34:11.000
- Nein, wie hieß es früher in Bayern,
+00:24:30.250 --> 00:24:32.240
+ dann hat der Hamburger ausgedacht,
 
-00:34:11.000 --> 00:34:13.000
- vom Wiegen wird die Sau nicht fett.
+00:24:32.240 --> 00:24:34.960
+ dann hat der Hamburger ausgedacht,
 
-00:34:13.000 --> 00:34:16.000
- Ich glaube nicht, dass die Beobachtung für irgendwas sorgt.
+00:24:34.960 --> 00:24:36.930
+ dann hat der Hamburger ausgedacht,
 
-00:34:16.000 --> 00:34:19.000
- Es handelt sich um allerkleinste Teilchen,
+00:24:36.930 --> 00:24:38.900
+ dann hat der Hamburger ausgedacht,
 
-00:34:19.000 --> 00:34:22.000
- wo wir dann in der Quantenwelt wären.
+00:24:38.900 --> 00:24:40.890
+ dann hat der Hamburger ausgedacht,
 
-00:34:22.000 --> 00:34:24.000
- Weil wir ihn so intensiv angucken,
+00:24:40.890 --> 00:24:43.130
+ dann hat der Hamburger ausgedacht,
 
-00:34:24.000 --> 00:34:26.000
- deswegen wechselt er seine Bahn.
+00:24:43.130 --> 00:24:45.130
+ dann hat der Hamburger ausgedacht,
 
-00:34:26.000 --> 00:34:29.000
- Wir beobachten ihn mit Hochenergie-Lasern.
+00:24:45.130 --> 00:24:47.120
+ dann hat der Hamburger ausgedacht,
 
-00:34:29.000 --> 00:34:31.000
- Das ist kein Konzept.
+00:24:47.120 --> 00:24:49.120
+ dann hat der Hamburger ausgedacht,
 
-00:34:31.000 --> 00:34:35.000
- Es gab tatsächlich teilweise Nachrichten,
+00:24:49.120 --> 00:24:51.110
+ dann hat der Hamburger ausgedacht,
 
-00:34:35.000 --> 00:34:37.000
- bei der jetzigen Entfernung
+00:24:51.110 --> 00:24:53.110
+ dann hat der Hamburger ausgedacht,
 
-00:34:37.000 --> 00:34:39.000
- könnte man den an diversen Ecken anleuchten
+00:24:53.110 --> 00:24:55.110
+ dann hat der Hamburger ausgedacht,
 
-00:34:39.000 --> 00:34:41.000
- und dann würde seine Bahn so ändern,
+00:24:55.110 --> 00:24:57.100
+ dann hat der Hamburger ausgedacht,
 
-00:34:41.000 --> 00:34:43.000
- dass sich die Wahrscheinlichkeiten erinnern.
+00:24:57.100 --> 00:24:59.100
+ dann hat der Hamburger ausgedacht,
 
-00:34:43.000 --> 00:34:46.000
- Dann lasst uns noch mal andere Dinge anleuchten.
+00:24:59.100 --> 00:25:01.090
+ dann hat der Hamburger ausgedacht,
 
-00:34:46.000 --> 00:34:48.000
- Ördische Themen.
+00:25:01.090 --> 00:25:03.090
+ dann hat der Hamburger ausgedacht,
 
-00:34:48.000 --> 00:34:51.000
- Die elektronische Patientenakte steht hier schon wieder.
+00:25:03.090 --> 00:25:05.080
+ dann hat der Hamburger ausgedacht,
 
-00:34:51.000 --> 00:34:53.000
- Wenn das mal kein aufreger Thema wird.
+00:25:05.080 --> 00:25:07.080
+ dann hat der Hamburger ausgedacht,
 
-00:34:53.000 --> 00:34:55.000
- Ich hatte immer noch nicht widersprungen.
+00:25:07.080 --> 00:25:09.080
+ dann hat der Hamburger ausgedacht,
 
-00:34:55.000 --> 00:34:58.000
- Erstens, wie der sprecht da,
+00:25:09.080 --> 00:25:11.070
+ dann hat der Hamburger ausgedacht,
 
-00:34:58.000 --> 00:35:01.000
- wäre da vielleicht zu nennen,
+00:25:11.070 --> 00:25:13.070
+ dann hat der Hamburger ausgedacht,
 
-00:35:01.000 --> 00:35:03.000
- hatten wir hier schon mal erwähnt.
+00:25:13.070 --> 00:25:15.060
+ dann hat der Hamburger ausgedacht,
 
-00:35:03.000 --> 00:35:06.000
- Die elektronische Patientenakte, da gab es ja Ende letzten Jahres
+00:25:15.060 --> 00:25:17.060
+ dann hat der Hamburger ausgedacht,
 
-00:35:06.000 --> 00:35:09.000
- beim Kongress entsprechende Vorträge dazu,
+00:25:17.060 --> 00:25:19.050
+ dann hat der Hamburger ausgedacht,
 
-00:35:09.000 --> 00:35:12.000
- was für Sicherheitsprobleme, Sicherheitslücken ist da.
+00:25:19.050 --> 00:25:21.050
+ dann hat der Hamburger ausgedacht,
 
-00:35:12.000 --> 00:35:14.000
- Die elektronische Patientenakte
+00:25:21.050 --> 00:25:23.040
+ dann hat der Hamburger ausgedacht,
 
-00:35:14.000 --> 00:35:16.000
- ist ja jetzt momentan noch in der Pilotphase
+00:25:23.040 --> 00:25:25.040
+ dann hat der Hamburger ausgedacht,
 
-00:35:16.000 --> 00:35:19.000
- in einigen Testregionen
+00:25:25.040 --> 00:25:27.040
+ dann hat der Hamburger ausgedacht,
 
-00:35:19.000 --> 00:35:23.000
- und sollte ja eigentlich jetzt bereits zum 15. Februar
+00:25:27.040 --> 00:25:29.080
+ dann hat der Hamburger ausgedacht,
 
-00:35:23.000 --> 00:35:26.000
- in den Regelbetrieb übergehen.
+00:25:29.080 --> 00:25:31.040
+ dann hat der Hamburger ausgedacht,
 
-00:35:26.000 --> 00:35:30.000
- Das wurde jetzt aber aufgrund der gefundenen Lücken
+00:25:31.040 --> 00:25:33.010
+ dann hat der Hamburger ausgedacht,
 
-00:35:30.000 --> 00:35:32.000
- erstmal verschoben.
+00:25:33.010 --> 00:25:35.100
+ dann hat der Hamburger ausgedacht,
 
-00:35:32.000 --> 00:35:37.000
- Auf jetzt mittlerweile April wurde das ursprünglich verschoben.
+00:25:35.100 --> 00:25:37.090
+ dann hat der Hamburger ausgedacht,
 
-00:35:37.000 --> 00:35:40.000
- Wird jetzt aber wahrscheinlich sich noch weiter hinziehen,
+00:25:37.090 --> 00:25:39.080
+ dann hat der Hamburger ausgedacht,
 
-00:35:40.000 --> 00:35:43.000
- weil man im Moment sagt,
+00:25:39.080 --> 00:25:41.070
+ dann hat der Hamburger ausgedacht,
 
-00:35:43.000 --> 00:35:45.000
- okay, erst mal müssen diese Lücken,
+00:25:41.070 --> 00:25:43.070
+ dann hat der Hamburger ausgedacht,
 
-00:35:45.000 --> 00:35:47.000
- die der Chaos Computer Club da gefunden hat,
+00:25:43.070 --> 00:25:45.060
+ dann hat der Hamburger ausgedacht,
 
-00:35:47.000 --> 00:35:51.000
- geschlossen werden, bevor wir da in den normalen Betrieb übergehen,
+00:25:45.060 --> 00:25:47.050
+ dann hat der Hamburger ausgedacht,
 
-00:35:51.000 --> 00:35:54.000
- ist soweit es irgendwie geht,
+00:25:47.050 --> 00:25:49.040
+ dann hat der Hamburger ausgedacht,
 
-00:35:54.000 --> 00:35:57.000
- eine positive Entwicklung, sage ich mal,
+00:25:49.040 --> 00:25:51.040
+ dann hat der Hamburger ausgedacht,
 
-00:35:57.000 --> 00:35:59.000
- dass man jetzt nicht sagt so...
+00:25:51.040 --> 00:25:53.030
+ dann hat der Hamburger ausgedacht,
 
-00:35:59.000 --> 00:36:01.000
- Sag mal so, es freut den Ingenieur.
+00:25:53.030 --> 00:25:55.020
+ dann hat der Hamburger ausgedacht,
 
-00:36:01.000 --> 00:36:03.000
- Der Ingenieur sagt, fertig ist, wenn es fertig ist,
+00:25:55.020 --> 00:25:57.010
+ dann hat der Hamburger ausgedacht,
 
-00:36:03.000 --> 00:36:05.000
- und wenn nicht vorher.
+00:25:57.010 --> 00:25:59.010
+ dann hat der Hamburger ausgedacht,
 
-00:36:05.000 --> 00:36:07.000
- Und deswegen ist es im Prinzip eine positive Entwicklung,
+00:25:59.010 --> 00:26:01.160
+ dann hat der Hamburger ausgedacht,
 
-00:36:07.000 --> 00:36:09.000
- dass man es halt erst dann ausrollt.
+00:26:01.160 --> 00:26:03.140
+ dann hat der Hamburger ausgedacht,
 
-00:36:09.000 --> 00:36:12.000
- Die Lücken, die gefunden wurden im letzten Jahr.
+00:26:03.140 --> 00:26:05.130
+ dann hat der Hamburger ausgedacht,
 
-00:36:12.000 --> 00:36:15.000
- Ja, also man darf vorsichtig gespannt sein,
+00:26:05.130 --> 00:26:07.120
+ dann hat der Hamburger ausgedacht,
 
-00:36:15.000 --> 00:36:17.000
- wie das jetzt weitergeht,
+00:26:07.120 --> 00:26:09.110
+ dann hat der Hamburger ausgedacht,
 
-00:36:17.000 --> 00:36:20.000
- oder ob nicht gewisse Teile, die eigentlich auch noch kritisch wären,
+00:26:09.110 --> 00:26:11.100
+ dann hat der Hamburger ausgedacht,
 
-00:36:20.000 --> 00:36:23.000
- ob die dann trotzdem noch drin bleiben,
+00:26:11.100 --> 00:26:13.090
+ dann hat der Hamburger ausgedacht,
 
-00:36:23.000 --> 00:36:25.000
- weil es wäre zu kompliziert, das auszubauen,
+00:26:13.090 --> 00:26:15.080
+ dann hat der Hamburger ausgedacht,
 
-00:36:25.000 --> 00:36:27.000
- und man dann einfach ein Gesetz macht.
+00:26:15.080 --> 00:26:17.070
+ dann hat der Hamburger ausgedacht,
 
-00:36:27.000 --> 00:36:30.000
- Ja, das ist da, der Rest ist halt per Gesetz sicher verboten.
+00:26:17.070 --> 00:26:19.120
+ dann hat der Hamburger ausgedacht,
 
-00:36:30.000 --> 00:36:33.000
- Weil ich meine, den Trick kennen wir ja von D-E-Mail.
+00:26:19.120 --> 00:26:21.110
+ dann hat der Hamburger ausgedacht,
 
-00:36:33.000 --> 00:36:36.000
- Und ja, ich meine...
+00:26:21.110 --> 00:26:23.110
+ dann hat der Hamburger ausgedacht,
 
-00:36:36.000 --> 00:36:41.000
- Genau, und Dinge, die einen SPD-Gesundheitsminister
+00:26:23.110 --> 00:26:25.100
+ dann hat der Hamburger ausgedacht,
 
-00:36:41.000 --> 00:36:44.000
- Karl Lauterbach mal gesagt hat,
+00:26:25.100 --> 00:26:27.090
+ dann hat der Hamburger ausgedacht,
 
-00:36:44.000 --> 00:36:47.000
- heißt ja nicht, dass das fortbestehen bleibt
+00:26:27.090 --> 00:26:29.090
+ dann hat der Hamburger ausgedacht,
 
-00:36:47.000 --> 00:36:50.000
- unter der neuen Bundesregierung, die uns demnächst droht.
+00:26:29.090 --> 00:26:31.080
+ dann hat der Hamburger ausgedacht,
 
-00:36:50.000 --> 00:36:52.000
- Da können die Dinge ja dann vielleicht schon wieder
+00:26:31.080 --> 00:26:33.070
+ dann hat der Hamburger ausgedacht,
 
-00:36:52.000 --> 00:36:54.000
- ein bisschen anders aussehen,
+00:26:33.070 --> 00:26:35.070
+ dann hat der Hamburger ausgedacht,
 
-00:36:54.000 --> 00:36:57.000
- weil wir müssen ja mal mehr innovativ und weniger Bürokratie.
+00:26:35.070 --> 00:26:37.060
+ dann hat der Hamburger ausgedacht,
 
-00:36:57.000 --> 00:37:00.000
- Gibt ja unter anderem dieses Video von Friedrich Merz
+00:26:37.060 --> 00:26:39.050
+ dann hat der Hamburger ausgedacht,
 
-00:37:00.000 --> 00:37:05.000
- zusammen mit Frank Thelen, wo sie da halt irgendwie auch sagen,
+00:26:39.050 --> 00:26:41.050
+ dann hat der Hamburger ausgedacht,
 
-00:37:05.000 --> 00:37:08.000
- wir müssen mehr Innovation wagen,
+00:26:41.050 --> 00:26:43.040
+ dann hat der Hamburger ausgedacht,
 
-00:37:08.000 --> 00:37:11.000
- und dieser ganzen Datenschutz ist ja auch so ein bisschen hinderlich.
+00:26:43.040 --> 00:26:45.030
+ dann hat der Hamburger ausgedacht,
 
-00:37:11.000 --> 00:37:13.000
- So, sehr sinngemäß.
+00:26:45.030 --> 00:26:47.030
+ dann hat der Hamburger ausgedacht,
 
-00:37:13.000 --> 00:37:15.000
- Die Digitalisierung "First Bedenken Second" und solche Sätze.
+00:26:47.030 --> 00:26:49.110
+ dann hat der Hamburger ausgedacht,
 
-00:37:15.000 --> 00:37:17.000
- Sagst du noch mal?
+00:26:49.110 --> 00:26:51.090
+ dann hat der Hamburger ausgedacht,
 
-00:37:17.000 --> 00:37:19.000
- Digitalisierung "First Bedenken Second" war das mal hinten, oder?
+00:26:51.090 --> 00:26:53.070
+ dann hat der Hamburger ausgedacht,
 
-00:37:19.000 --> 00:37:21.000
- Das war FDP, ja, genau.
+00:26:53.070 --> 00:26:55.050
+ dann hat der Hamburger ausgedacht,
 
-00:37:21.000 --> 00:37:26.000
- Die zum Wiederholten Male nicht mehr dabei partei im Deutschen Bundestag, aber...
+00:26:55.050 --> 00:26:57.150
+ dann hat der Hamburger ausgedacht,
 
-00:37:26.000 --> 00:37:32.000
- Übrigens hier mal Gerhard Baum ist seit unserer letzten Aufnahme verstorben.
+00:26:57.150 --> 00:26:59.140
+ dann hat der Hamburger ausgedacht,
 
-00:37:32.000 --> 00:37:36.000
- Wenn ihr nicht kennt, das war einmal unser Innenminister,
+00:26:59.140 --> 00:27:01.110
+ dann hat der Hamburger ausgedacht,
 
-00:37:36.000 --> 00:37:38.000
- ist aber sehr lange her.
+00:27:01.110 --> 00:27:03.090
+ dann hat der Hamburger ausgedacht,
 
-00:37:38.000 --> 00:37:41.000
- Er ist mit über 90 gestorben, war noch sehr lange sehr frisch.
+00:27:03.090 --> 00:27:05.060
+ dann hat der Hamburger ausgedacht,
 
-00:37:41.000 --> 00:37:43.000
- Deshalb komme ich gerade auf ihn, der ist von der FDP.
+00:27:05.060 --> 00:27:07.110
+ dann hat der Hamburger ausgedacht,
 
-00:37:43.000 --> 00:37:46.000
- FDP ist aber von diesem Flügel,
+00:27:07.110 --> 00:27:09.090
+ dann hat der Hamburger ausgedacht,
 
-00:37:46.000 --> 00:37:49.000
- weshalb ich mal fälschlicherweise möchte ich fast sagen,
+00:27:09.090 --> 00:27:11.080
+ dann hat der Hamburger ausgedacht,
 
-00:37:49.000 --> 00:37:52.000
- als Erstwähler FDP angekreuzt habe.
+00:27:11.080 --> 00:27:13.060
+ dann hat der Hamburger ausgedacht,
 
-00:37:52.000 --> 00:37:57.000
- Es gab ja mal so diesen Zweig der FDP,
+00:27:13.060 --> 00:27:15.040
+ dann hat der Hamburger ausgedacht,
 
-00:37:57.000 --> 00:38:00.000
- der sich sehr stark auf Bürgerrechte fokussiert hat.
+00:27:15.040 --> 00:27:17.020
+ dann hat der Hamburger ausgedacht,
 
-00:38:00.000 --> 00:38:04.000
- Der letzte bekannte Personen in dem Zusammenhang war Sabine Leuthäuser-Schnarrenberger,
+00:27:17.020 --> 00:27:19.070
+ dann hat der Hamburger ausgedacht,
 
-00:38:04.000 --> 00:38:09.000
- die einige schöne Sachen, wenn es um Vorratsdatenspeicherung durchgebracht hat.
+00:27:19.070 --> 00:27:21.020
+ dann hat der Hamburger ausgedacht,
 
-00:38:09.000 --> 00:38:12.000
- Genau, und Gerhard Baum kam auch aus diesem Flügel.
+00:27:21.020 --> 00:27:23.020
+ dann hat der Hamburger ausgedacht,
 
-00:38:12.000 --> 00:38:17.000
- Der ist im hohen Alter jetzt und war bis zum Ende, glaube ich, noch sehr sehr verstorben.
+00:27:23.020 --> 00:27:25.630
+ dann hat der Hamburger ausgedacht,
 
-00:38:17.000 --> 00:38:19.000
- Ja, so viel dazu.
+00:27:25.630 --> 00:27:27.610
+ dann hat der Hamburger ausgedacht,
 
-00:38:19.000 --> 00:38:21.000
- Es gab mal so einen Flügel, spannend.
+00:27:27.610 --> 00:27:29.580
+ dann hat der Hamburger ausgedacht,
 
-00:38:21.000 --> 00:38:23.000
- Ja, mittlerweile eher nicht mehr.
+00:27:29.580 --> 00:27:31.550
+ dann hat der Hamburger ausgedacht,
 
-00:38:23.000 --> 00:38:25.000
- Der wurde gestürzt jetzt.
+00:27:31.550 --> 00:27:33.630
+ dann hat der Hamburger ausgedacht,
 
-00:38:25.000 --> 00:38:27.000
- Geht mehr so ein Geld jetzt.
+00:27:33.630 --> 00:27:35.620
+ dann hat der Hamburger ausgedacht,
 
-00:38:27.000 --> 00:38:31.000
- Gut, lokaleres Thema haben wir hier noch.
+00:27:35.620 --> 00:27:37.610
+ dann hat der Hamburger ausgedacht,
 
-00:38:31.000 --> 00:38:34.000
- Die Smart City Potsdam.
+00:27:37.610 --> 00:27:39.590
+ dann hat der Hamburger ausgedacht,
 
-00:38:34.000 --> 00:38:36.000
- Wir kommen, glaube ich, gerade drauf.
+00:27:39.590 --> 00:27:41.580
+ dann hat der Hamburger ausgedacht,
 
-00:38:36.000 --> 00:38:40.000
- Wir haben letzte Woche, der letzte Monat, über Mesh-Testik gesprochen,
+00:27:41.580 --> 00:27:43.570
+ dann hat der Hamburger ausgedacht,
 
-00:38:40.000 --> 00:38:42.000
- wer sie noch erinnert.
+00:27:43.570 --> 00:27:45.560
+ dann hat der Hamburger ausgedacht,
 
-00:38:42.000 --> 00:38:44.000
- Ich bastle immer noch rum, ich habe es auch gerade wieder in der Hand.
+00:27:45.560 --> 00:27:47.550
+ dann hat der Hamburger ausgedacht,
 
-00:38:44.000 --> 00:38:51.000
- Und ein Begriff, der zwischendurch runtergefallen ist,
+00:27:47.550 --> 00:27:49.540
+ dann hat der Hamburger ausgedacht,
 
-00:38:51.000 --> 00:38:53.000
- rausgefallen ist aus unseren Mündern war Laura Wahn.
+00:27:49.540 --> 00:27:51.650
+ dann hat der Hamburger ausgedacht,
 
-00:38:53.000 --> 00:38:55.000
- Und das ist noch ein bisschen weiterverbreitet,
+00:27:51.650 --> 00:27:53.630
+ dann hat der Hamburger ausgedacht,
 
-00:38:55.000 --> 00:38:57.000
- als dieses Mesh-Testik-Projekt.
+00:27:53.630 --> 00:27:55.610
+ dann hat der Hamburger ausgedacht,
 
-00:38:57.000 --> 00:38:59.000
- Das gibt es auch schon länger.
+00:27:55.610 --> 00:27:57.580
+ dann hat der Hamburger ausgedacht,
 
-00:38:59.000 --> 00:39:01.000
- Weil es das schon deutlich länger gibt.
+00:27:57.580 --> 00:27:59.660
+ dann hat der Hamburger ausgedacht,
 
-00:39:01.000 --> 00:39:03.000
- Genau, das sind verschiedene Sensoren,
+00:27:59.660 --> 00:28:01.630
+ dann hat der Hamburger ausgedacht,
 
-00:39:03.000 --> 00:39:07.000
- auf definierten Frequenzen ihre Sensor-Werte funken.
+00:28:01.630 --> 00:28:03.610
+ dann hat der Hamburger ausgedacht,
 
-00:39:07.000 --> 00:39:13.000
- Und die Stadt Potsdam selber hat eben auch eine Laura Wahn-Installation,
+00:28:03.610 --> 00:28:05.580
+ dann hat der Hamburger ausgedacht,
 
-00:39:13.000 --> 00:39:15.000
- um es mal so zu nennen.
+00:28:05.580 --> 00:28:07.940
+ dann hat der Hamburger ausgedacht,
 
-00:39:15.000 --> 00:39:21.000
- Und die fließt jetzt mit in die urbane Datenplattform Potsdam.
+00:28:07.940 --> 00:28:09.920
+ dann hat der Hamburger ausgedacht,
 
-00:39:21.000 --> 00:39:24.000
- Wir sind also hier beim Bereich Smart City Potsdam.
+00:28:09.920 --> 00:28:11.910
+ dann hat der Hamburger ausgedacht,
 
-00:39:24.000 --> 00:39:27.000
- Wer so ein bisschen sich mit Kommunalpolitik beschäftigt,
+00:28:11.910 --> 00:28:13.890
+ dann hat der Hamburger ausgedacht,
 
-00:39:27.000 --> 00:39:30.000
- nicht nur in Potsdam, sondern auch anderswo wird rausfinden.
+00:28:13.890 --> 00:28:15.880
+ dann hat der Hamburger ausgedacht,
 
-00:39:30.000 --> 00:39:37.000
- Ja, also viel Geld, was immer so unter Digitalisierung für Kommunen rumging,
+00:28:15.880 --> 00:28:17.860
+ dann hat der Hamburger ausgedacht,
 
-00:39:37.000 --> 00:39:40.000
- ging, wurde in diese Smart City Projekte überall gesteckt.
+00:28:17.860 --> 00:28:19.850
+ dann hat der Hamburger ausgedacht,
 
-00:39:40.000 --> 00:39:43.000
- Also da gibt es wirklich viele, viele, viele Städte,
+00:28:19.850 --> 00:28:22.200
+ dann hat der Hamburger ausgedacht,
 
-00:39:43.000 --> 00:39:46.000
- die gerade Geld in Smart City pumpen.
+00:28:22.200 --> 00:28:24.170
+ dann hat der Hamburger ausgedacht,
 
-00:39:46.000 --> 00:39:49.000
- Und bei den meisten bedeutet das irgendwie,
+00:28:24.170 --> 00:28:26.140
+ dann hat der Hamburger ausgedacht,
 
-00:39:49.000 --> 00:39:54.000
- ja, wir machen irgendwas mit öffentlichen Nahverkehr.
+00:28:26.140 --> 00:28:28.280
+ dann hat der Hamburger ausgedacht,
 
-00:39:54.000 --> 00:39:56.000
- Irgendeine Karte, worauf man den sieht.
+00:28:28.280 --> 00:28:30.260
+ dann hat der Hamburger ausgedacht,
 
-00:39:56.000 --> 00:40:01.000
- Oder wir, weiß ich nicht, bauen digitale Anzeigen irgendwo hin in die Stadt.
+00:28:30.260 --> 00:28:32.240
+ dann hat der Hamburger ausgedacht,
 
-00:40:01.000 --> 00:40:04.000
- Und ein Begriff, der auch ganz oft fällt,
+00:28:32.240 --> 00:28:34.230
+ dann hat der Hamburger ausgedacht,
 
-00:40:04.000 --> 00:40:07.000
- ist eben dieses urbane Datenplattform.
+00:28:34.230 --> 00:28:36.210
+ dann hat der Hamburger ausgedacht,
 
-00:40:07.000 --> 00:40:10.000
- Furchtbar hat deutscher irgendwie Begriff.
+00:28:36.210 --> 00:28:38.190
+ dann hat der Hamburger ausgedacht,
 
-00:40:10.000 --> 00:40:14.000
- Genau, und es gibt eben auch urbane Datenplattform -potsdam.de.
+00:28:38.190 --> 00:28:40.240
+ dann hat der Hamburger ausgedacht,
 
-00:40:14.000 --> 00:40:18.000
- Da findet man zum Beispiel raus, wie die Schulbezirke sind und so weiter.
+00:28:40.240 --> 00:28:42.230
+ dann hat der Hamburger ausgedacht,
 
-00:40:18.000 --> 00:40:26.000
- Und wo welche Bäume stehen, da kommen irgendwann vielleicht auch mal die Lora-Daten rein.
+00:28:42.230 --> 00:28:44.210
+ dann hat der Hamburger ausgedacht,
 
-00:40:26.000 --> 00:40:32.000
- Das ist dann zum Beispiel ja, wo stehen Lampen, also Straßenbeleuchtung und so was.
+00:28:44.210 --> 00:28:46.200
+ dann hat der Hamburger ausgedacht,
 
-00:40:32.000 --> 00:40:37.000
- Und das ist also alles, was man vielleicht schon mal gesehen hat unter opendata.potsdam,
+00:28:46.200 --> 00:28:48.180
+ dann hat der Hamburger ausgedacht,
 
-00:40:37.000 --> 00:40:40.000
- kommt eben dann irgendwann die urbane Datenplattform.
+00:28:48.180 --> 00:28:50.170
+ dann hat der Hamburger ausgedacht,
 
-00:40:40.000 --> 00:40:42.000
- Genau, das wollten wir uns mal losgehen.
+00:28:50.170 --> 00:28:52.160
+ dann hat der Hamburger ausgedacht,
 
-00:40:42.000 --> 00:40:47.000
- Die geht tatsächlich auch in kürze, in wenigen Tagen in den Pilotbetrieb, offenbar.
+00:28:52.160 --> 00:28:54.190
+ dann hat der Hamburger ausgedacht,
 
-00:40:47.000 --> 00:40:54.000
- Und zwar gibt's da, am 13.3. gibt's da eine Informationsveranstaltung, steht auch auf der Seite.
+00:28:54.190 --> 00:28:56.140
+ dann hat der Hamburger ausgedacht,
 
-00:40:54.000 --> 00:40:59.000
- Und zwar von 13.00 Uhr bis 14.30 Uhr im Potsdam Lab,
+00:28:56.140 --> 00:28:58.160
+ dann hat der Hamburger ausgedacht,
 
-00:40:59.000 --> 00:41:03.000
- in der Wissenschaftsetage des Bildungsforum Potsdam am Kanal 47.
+00:28:58.160 --> 00:29:00.150
+ dann hat der Hamburger ausgedacht,
 
-00:41:03.000 --> 00:41:05.000
- Dollarstack, nach der Sendung.
+00:29:00.150 --> 00:29:02.140
+ dann hat der Hamburger ausgedacht,
 
-00:41:05.000 --> 00:41:09.000
- Genau, und ein Kernsatz ist da.
+00:29:02.140 --> 00:29:04.130
+ dann hat der Hamburger ausgedacht,
 
-00:41:09.000 --> 00:41:12.000
- Klicken Sie sich mit uns durch die urbane Datenplattform im Pilotbetrieb
+00:29:04.130 --> 00:29:06.120
+ dann hat der Hamburger ausgedacht,
 
-00:41:12.000 --> 00:41:15.000
- und bringen Sie Ihre Ideen zur Anwendung direkt ein.
+00:29:06.120 --> 00:29:08.110
+ dann hat der Hamburger ausgedacht,
 
-00:41:15.000 --> 00:41:19.000
- Ja, so kann die urbane Datenplattform von Anfang an
+00:29:08.110 --> 00:29:10.100
+ dann hat der Hamburger ausgedacht,
 
-00:41:19.000 --> 00:41:22.000
- im Dialog und nah an den Bedürfnissen Potsdam zugehend nicht gemacht werden.
+00:29:10.100 --> 00:29:12.090
+ dann hat der Hamburger ausgedacht,
 
-00:41:22.000 --> 00:41:28.000
- Also, man kann sich einbringen unter der Woche, am frühen Nachmittag.
+00:29:12.090 --> 00:29:14.080
+ dann hat der Hamburger ausgedacht,
 
-00:41:28.000 --> 00:41:34.000
- Das produziert jede Menge Ausschlüsse, lasst es mich so formulieren.
+00:29:14.080 --> 00:29:16.070
+ dann hat der Hamburger ausgedacht,
 
-00:41:34.000 --> 00:41:38.000
- Also, ich hab da leider irgendwie gerade keine Zeit.
+00:29:16.070 --> 00:31:09.520
+ dann hat der Hamburger ausgedacht,
 
-00:41:38.000 --> 00:41:41.000
- Also, ich geh dahin. Hast du da Zeit?
+00:31:09.520 --> 00:31:11.470
+ dann hat der Hamburger ausgedacht,
 
-00:41:41.000 --> 00:41:47.000
- Ich wette, ich kann argumentieren, warum das für meinen Arbeitgeber wichtig ist.
+00:31:11.470 --> 00:31:13.610
+ dann hat der Hamburger ausgedacht,
 
-00:41:47.000 --> 00:41:50.000
- Das fänd ich tatsächlich spannend, weil, ganz ehrlich, ohne Scheiß,
+00:31:13.610 --> 00:31:15.570
+ dann hat der Hamburger ausgedacht,
 
-00:41:50.000 --> 00:41:53.000
- für mich klingt das so mit urbane Datenplattform.
+00:31:15.570 --> 00:31:17.540
+ dann hat der Hamburger ausgedacht,
 
-00:41:53.000 --> 00:41:55.000
- Und wir haben ja eigentlich das Open Data Portal.
+00:31:17.540 --> 00:31:19.600
+ dann hat der Hamburger ausgedacht,
 
-00:41:55.000 --> 00:41:59.000
- Es klingt für mich so ein bisschen wie alter Wein in neuen Schläuchen.
+00:31:19.600 --> 00:31:21.560
+ dann hat der Hamburger ausgedacht,
 
-00:41:59.000 --> 00:42:01.000
- Ja, das ist ja.
+00:31:21.560 --> 00:31:23.520
+ dann hat der Hamburger ausgedacht,
 
-00:42:01.000 --> 00:42:05.000
- Also, ich hab da eine große Skepsis, wie viel man sich jetzt davon erwarten soll
+00:31:23.520 --> 00:31:26.650
+ dann hat der Hamburger ausgedacht,
 
-00:42:05.000 --> 00:42:07.000
- oder wie viel davon eigentlich nur ist.
+00:31:26.650 --> 00:31:28.630
+ dann hat der Hamburger ausgedacht,
 
-00:42:07.000 --> 00:42:09.000
- Wir dürfen es nicht mehr Open Data Plattformen nennen,
+00:31:28.630 --> 00:31:30.610
+ dann hat der Hamburger ausgedacht,
 
-00:42:09.000 --> 00:42:12.000
- sondern wir müssen jetzt irgendwie neue Plattformen aufbauen, weil Fördermittel.
+00:31:30.610 --> 00:31:32.580
+ dann hat der Hamburger ausgedacht,
 
-00:42:12.000 --> 00:42:13.000
- Ja, ja, ja.
+00:31:32.580 --> 00:31:34.650
+ dann hat der Hamburger ausgedacht,
 
-00:42:13.000 --> 00:42:16.000
- Da ist richtig gelesen, dass die Open Data Plattform Potsdam da ja mit reinwandern
+00:31:34.650 --> 00:31:36.570
+ dann hat der Hamburger ausgedacht,
 
-00:42:16.000 --> 00:42:18.000
- in diese urbane Datenplattformen.
+00:31:36.570 --> 00:31:39.090
+ dann hat der Hamburger ausgedacht,
 
-00:42:18.000 --> 00:42:20.000
- So klingt's zumindest.
+00:31:39.090 --> 00:31:41.070
+ dann hat der Hamburger ausgedacht,
 
-00:42:20.000 --> 00:42:22.000
- Also, ich werde das für euch rausfinden.
+00:31:41.070 --> 00:31:43.050
+ dann hat der Hamburger ausgedacht,
 
-00:42:22.000 --> 00:42:23.000
- Hoffentlich doch.
+00:31:43.050 --> 00:31:45.030
+ dann hat der Hamburger ausgedacht,
 
-00:42:23.000 --> 00:42:25.000
- Das geht erst mal gut aus.
+00:31:45.030 --> 00:31:47.010
+ dann hat der Hamburger ausgedacht,
 
-00:42:25.000 --> 00:42:28.000
- Genau, also, so unsere Meinung ist ja Open Data gut.
+00:31:47.010 --> 00:31:49.630
+ dann hat der Hamburger ausgedacht,
 
-00:42:28.000 --> 00:42:29.000
- Ja, auf jeden Fall.
+00:31:49.630 --> 00:31:51.870
+ dann hat der Hamburger ausgedacht,
 
-00:42:29.000 --> 00:42:31.000
- Wollen wir haben?
+00:31:51.870 --> 00:31:53.870
+ dann hat der Hamburger ausgedacht,
 
-00:42:31.000 --> 00:42:33.000
- Mit der Umsetzung, dann sagen wir mal,
+00:31:53.870 --> 00:31:55.820
+ dann hat der Hamburger ausgedacht,
 
-00:42:33.000 --> 00:42:35.000
- da kann man wahrscheinlich noch was verbessern.
+00:31:55.820 --> 00:31:58.320
+ dann hat der Hamburger ausgedacht,
 
-00:42:35.000 --> 00:42:38.000
- Ja, ich finde halt gespannt, dass es da wie viele Knoten gibt
+00:31:58.320 --> 00:32:00.300
+ dann hat der Hamburger ausgedacht,
 
-00:42:38.000 --> 00:42:39.000
- und Geldweiß.
+00:32:00.300 --> 00:32:02.280
+ dann hat der Hamburger ausgedacht,
 
-00:42:39.000 --> 00:42:42.000
- Und ich hab keine Ahnung, wo und ich nix mitgekriegt.
+00:32:02.280 --> 00:32:04.260
+ dann hat der Hamburger ausgedacht,
 
-00:42:42.000 --> 00:42:43.000
- Genau, also die...
+00:32:04.260 --> 00:32:06.240
+ dann hat der Hamburger ausgedacht,
 
-00:42:43.000 --> 00:42:45.000
- Ich bin ja doch dort mit dem Zimmer beschäftige.
+00:32:06.240 --> 00:32:08.270
+ dann hat der Hamburger ausgedacht,
 
-00:42:45.000 --> 00:42:49.000
- Ich hab, genau, ich hab vorhin recherchiert, wie viele Lora-Knoten es denn gibt.
+00:32:08.270 --> 00:32:10.320
+ dann hat der Hamburger ausgedacht,
 
-00:42:49.000 --> 00:42:52.000
- Und tatsächlich ist das auch das Einzige, was ich irgendwie sofort finden konnte
+00:32:10.320 --> 00:32:12.310
+ dann hat der Hamburger ausgedacht,
 
-00:42:52.000 --> 00:42:55.000
- bei urbane Datenplattformen-Potsdam-Punktee,
+00:32:12.310 --> 00:32:14.300
+ dann hat der Hamburger ausgedacht,
 
-00:42:55.000 --> 00:42:58.000
- nämlich, dass es irgendwie 600 Sensoren gibt.
+00:32:14.300 --> 00:32:16.300
+ dann hat der Hamburger ausgedacht,
 
-00:42:58.000 --> 00:42:59.000
- Und...
+00:32:16.300 --> 00:32:18.290
+ dann hat der Hamburger ausgedacht,
 
-00:42:59.000 --> 00:43:00.000
- 469.
+00:32:18.290 --> 00:32:20.280
+ dann hat der Hamburger ausgedacht,
 
-00:43:00.000 --> 00:43:01.000
- Danke.
+00:32:20.280 --> 00:32:22.270
+ dann hat der Hamburger ausgedacht,
 
-00:43:01.000 --> 00:43:02.000
- 469.
+00:32:22.270 --> 00:32:24.270
+ dann hat der Hamburger ausgedacht,
 
-00:43:02.000 --> 00:43:03.000
- Ah, du hast es gerade offen.
+00:32:24.270 --> 00:32:26.260
+ dann hat der Hamburger ausgedacht,
 
-00:43:03.000 --> 00:43:04.000
- Ah ja, sehr gut, genau.
+00:32:26.260 --> 00:32:28.250
+ dann hat der Hamburger ausgedacht,
 
-00:43:04.000 --> 00:43:06.000
- Und 44 Geldweiß und 10 Gruppen.
+00:32:28.250 --> 00:32:30.250
+ dann hat der Hamburger ausgedacht,
 
-00:43:06.000 --> 00:43:07.000
- Ja.
+00:32:30.250 --> 00:32:32.240
+ dann hat der Hamburger ausgedacht,
 
-00:43:07.000 --> 00:43:09.000
- Und mehr halt leider nicht.
+00:32:32.240 --> 00:32:34.230
+ dann hat der Hamburger ausgedacht,
 
-00:43:09.000 --> 00:43:12.000
- Also mehr findet man zumindest da von dieser Seite aus nicht.
+00:32:34.230 --> 00:32:36.320
+ dann hat der Hamburger ausgedacht,
 
-00:43:12.000 --> 00:43:15.000
- Nun kann es halt einfach nur sein, dass das gerade in diesem Umstrukturieren,
+00:32:36.320 --> 00:32:38.730
+ dann hat der Hamburger ausgedacht,
 
-00:43:15.000 --> 00:43:17.000
- dass das da irgendwie verschwunden ist.
+00:32:38.730 --> 00:32:40.710
+ dann hat der Hamburger ausgedacht,
 
-00:43:17.000 --> 00:43:20.000
- Aber ansonsten halt sehr frustrierend,
+00:32:40.710 --> 00:32:42.670
+ dann hat der Hamburger ausgedacht,
 
-00:43:20.000 --> 00:43:23.000
- dass gerade die Open Data-Plattformen dann auf einmal...
+00:32:42.670 --> 00:32:44.640
+ dann hat der Hamburger ausgedacht,
 
-00:43:23.000 --> 00:43:25.000
- dass man da die Daten nicht findet.
+00:32:44.640 --> 00:32:48.030
+ dann hat der Hamburger ausgedacht,
 
-00:43:25.000 --> 00:43:27.000
- Genau, weil ich hätte gerne gewusst, welche Sensoren sind es denn nun,
+00:32:48.030 --> 00:32:50.010
+ dann hat der Hamburger ausgedacht,
 
-00:43:27.000 --> 00:43:28.000
- aber findet man halt...
+00:32:50.010 --> 00:32:51.990
+ dann hat der Hamburger ausgedacht,
 
-00:43:28.000 --> 00:43:30.000
- Vielleicht findet man sie ja nach dem 13. Dritten.
+00:32:51.990 --> 00:32:53.970
+ dann hat der Hamburger ausgedacht,
 
-00:43:30.000 --> 00:43:31.000
- Genau.
+00:32:53.970 --> 00:32:55.950
+ dann hat der Hamburger ausgedacht,
 
-00:43:31.000 --> 00:43:32.000
- Die Hoffnung stirbt zuletzt.
+00:32:55.950 --> 00:32:58.350
+ dann hat der Hamburger ausgedacht,
 
-00:43:32.000 --> 00:43:33.000
- Also wir sind gespannt.
+00:32:58.350 --> 00:33:00.350
+ dann hat der Hamburger ausgedacht,
 
-00:43:33.000 --> 00:43:34.000
- Wir sind gespannt.
+00:33:00.350 --> 00:33:02.340
+ dann hat der Hamburger ausgedacht,
 
-00:43:34.000 --> 00:43:35.000
- Thema auf Wiedervorlage.
+00:33:02.340 --> 00:33:04.330
+ dann hat der Hamburger ausgedacht,
 
-00:43:35.000 --> 00:43:36.000
- Ja.
+00:33:04.330 --> 00:33:06.330
+ dann hat der Hamburger ausgedacht,
 
-00:43:36.000 --> 00:43:37.000
- Und...
+00:33:06.330 --> 00:33:08.320
+ dann hat der Hamburger ausgedacht,
 
-00:43:37.000 --> 00:43:38.000
- Genau.
+00:33:08.320 --> 00:33:10.310
+ dann hat der Hamburger ausgedacht,
 
-00:43:38.000 --> 00:43:39.000
- Jetzt gibt noch was zu feiern.
+00:33:10.310 --> 00:33:12.300
+ dann hat der Hamburger ausgedacht,
 
-00:43:39.000 --> 00:43:40.000
- Ja.
+00:33:12.300 --> 00:33:14.300
+ dann hat der Hamburger ausgedacht,
 
-00:43:40.000 --> 00:43:41.000
- Dairocks.
+00:33:14.300 --> 00:33:16.290
+ dann hat der Hamburger ausgedacht,
 
-00:43:41.000 --> 00:43:42.000
- Was gibt es zu feiern?
+00:33:16.290 --> 00:33:18.280
+ dann hat der Hamburger ausgedacht,
 
-00:43:42.000 --> 00:43:43.000
- Was gibt es zu feiern?
+00:33:18.280 --> 00:33:20.280
+ dann hat der Hamburger ausgedacht,
 
-00:43:43.000 --> 00:43:44.000
- Keine Ahnung.
+00:33:20.280 --> 00:33:22.270
+ dann hat der Hamburger ausgedacht,
 
-00:43:44.000 --> 00:43:45.000
- Was gibt es zu feiern?
+00:33:22.270 --> 00:33:24.260
+ dann hat der Hamburger ausgedacht,
 
-00:43:45.000 --> 00:43:47.000
- Ich muss mal ins Bett gucken.
+00:33:24.260 --> 00:33:26.260
+ dann hat der Hamburger ausgedacht,
 
-00:43:47.000 --> 00:43:50.000
- Ach so, ja, der ist ja...
+00:33:26.260 --> 00:33:28.470
+ dann hat der Hamburger ausgedacht,
 
-00:43:50.000 --> 00:43:51.000
- Ha, natürlich.
+00:33:28.470 --> 00:33:30.460
+ dann hat der Hamburger ausgedacht,
 
-00:43:51.000 --> 00:43:53.000
- Das ist ja eines meiner Lieblingsthemen.
+00:33:30.460 --> 00:33:32.450
+ dann hat der Hamburger ausgedacht,
 
-00:43:53.000 --> 00:43:54.000
- Open Source Hardware.
+00:33:32.450 --> 00:33:34.440
+ dann hat der Hamburger ausgedacht,
 
-00:43:54.000 --> 00:43:55.000
- Ha, ha.
+00:33:34.440 --> 00:33:36.430
+ dann hat der Hamburger ausgedacht,
 
-00:43:55.000 --> 00:44:00.000
- Vor 50 Jahren war das erste Treffen vom Homebrew Computer Club.
+00:33:36.430 --> 00:33:38.420
+ dann hat der Hamburger ausgedacht,
 
-00:44:00.000 --> 00:44:04.000
- Den ich in meinen Vorträgen zu Open Source Hardware
+00:33:38.420 --> 00:33:40.410
+ dann hat der Hamburger ausgedacht,
 
-00:44:04.000 --> 00:44:07.000
- wirklich gerne als Beispiel anführe für...
+00:33:40.410 --> 00:33:42.400
+ dann hat der Hamburger ausgedacht,
 
-00:44:07.000 --> 00:44:10.000
- Nein, nein, Open Source Hardware ist kein neues Thema.
+00:33:42.400 --> 00:33:44.400
+ dann hat der Hamburger ausgedacht,
 
-00:44:10.000 --> 00:44:12.000
- Guck mal, die gab es schon in 70er Jahren.
+00:33:44.400 --> 00:33:46.390
+ dann hat der Hamburger ausgedacht,
 
-00:44:12.000 --> 00:44:17.000
- Das war auch der Club, wo Wozniak seinen Apple 1 vorgestellt hat.
+00:33:46.390 --> 00:33:48.380
+ dann hat der Hamburger ausgedacht,
 
-00:44:17.000 --> 00:44:18.000
- Ja, genau.
+00:33:48.380 --> 00:33:50.430
+ dann hat der Hamburger ausgedacht,
 
-00:44:18.000 --> 00:44:19.000
- Richtig.
+00:33:50.430 --> 00:33:52.420
+ dann hat der Hamburger ausgedacht,
 
-00:44:19.000 --> 00:44:23.000
- Das war im Prinzip so ein bisschen wie heute im X-Hine.
+00:33:52.420 --> 00:33:54.420
+ dann hat der Hamburger ausgedacht,
 
-00:44:23.000 --> 00:44:27.000
- Die haben sich da getroffen und durften alle ein Mikro-Kontroller mit nach Hause nehmen.
+00:33:54.420 --> 00:33:56.410
+ dann hat der Hamburger ausgedacht,
 
-00:44:27.000 --> 00:44:31.000
- Und ich weiß noch, mein Vater hatte zu der Zeit offensichtlich damit schon was zu tun,
+00:33:56.410 --> 00:33:58.400
+ dann hat der Hamburger ausgedacht,
 
-00:44:31.000 --> 00:44:33.000
- auch wenn wir nie darüber spezifisch geredet hatten.
+00:33:58.400 --> 00:34:00.390
+ dann hat der Hamburger ausgedacht,
 
-00:44:33.000 --> 00:44:34.000
- Spannend.
+00:34:00.390 --> 00:34:02.380
+ dann hat der Hamburger ausgedacht,
 
-00:44:34.000 --> 00:44:36.000
- Der hatte nämlich so einen Bausatz mit einem...
+00:34:02.380 --> 00:34:04.380
+ dann hat der Hamburger ausgedacht,
 
-00:44:36.000 --> 00:44:40.000
- Ich glaube, es war der VMI-Bus und einem 8085-Prozessor.
+00:34:04.380 --> 00:34:06.370
+ dann hat der Hamburger ausgedacht,
 
-00:44:40.000 --> 00:44:42.000
- Er hatte der auf dem Dachboden.
+00:34:06.370 --> 00:34:08.360
+ dann hat der Hamburger ausgedacht,
 
-00:44:42.000 --> 00:44:45.000
- Da hat er so in seiner Freizeit dran rumgeschraubt.
+00:34:08.360 --> 00:34:10.350
+ dann hat der Hamburger ausgedacht,
 
-00:44:45.000 --> 00:44:46.000
- Spannend.
+00:34:10.350 --> 00:34:12.350
+ dann hat der Hamburger ausgedacht,
 
-00:44:46.000 --> 00:44:47.000
- Okay.
+00:34:12.350 --> 00:34:14.340
+ dann hat der Hamburger ausgedacht,
 
-00:44:47.000 --> 00:44:53.000
- Und das war halt ein Beispiel dafür, dass man zu der Zeit mit den Bauplänen von Hardware
+00:34:14.340 --> 00:34:16.390
+ dann hat der Hamburger ausgedacht,
 
-00:44:53.000 --> 00:44:55.000
- noch anders und offener umgegangen ist.
+00:34:16.390 --> 00:34:18.380
+ dann hat der Hamburger ausgedacht,
 
-00:44:55.000 --> 00:45:00.000
- Und in dem Artikel bei Heise zu diesem Thema steht auch so ein bisschen dann die Entwicklung drin.
+00:34:18.380 --> 00:34:20.370
+ dann hat der Hamburger ausgedacht,
 
-00:45:00.000 --> 00:45:05.000
- Es gab Leute, die fanden das Geschäft schädigend so offen damit umzugehen.
+00:34:20.370 --> 00:34:22.360
+ dann hat der Hamburger ausgedacht,
 
-00:45:05.000 --> 00:45:11.000
- Daraufhin hat sich dann auch diese Kurve zu, wie verdienen Geld damit, dass Hardware geschlossen ist
+00:34:22.360 --> 00:34:24.350
+ dann hat der Hamburger ausgedacht,
 
-00:45:11.000 --> 00:45:14.000
- und nicht verfügbar, also die Bauplänen nicht verfügbar sind.
+00:34:24.350 --> 00:34:26.340
+ dann hat der Hamburger ausgedacht,
 
-00:45:14.000 --> 00:45:16.000
- Die hat sich da leider daran angeschlossen.
+00:34:26.340 --> 00:34:28.320
+ dann hat der Hamburger ausgedacht,
 
-00:45:16.000 --> 00:45:20.000
- Also das kommt auch aus einer Zeit, muss man sagen, wo Software noch publiziert wurde,
+00:34:28.320 --> 00:34:30.310
+ dann hat der Hamburger ausgedacht,
 
-00:45:20.000 --> 00:45:23.000
- in dem der Code in Zeitungen abgedruckt worden ist.
+00:34:30.310 --> 00:34:32.300
+ dann hat der Hamburger ausgedacht,
 
-00:45:23.000 --> 00:45:27.000
- Und dann hat man sich das sozusagen abgeschrieben auf seiner eigenen Plattform.
+00:34:32.300 --> 00:34:34.380
+ dann hat der Hamburger ausgedacht,
 
-00:45:27.000 --> 00:45:32.000
- Dass man ja in der Inhalt einer 8-Zoll-Kette ohne weiteres Einerzeitung abgedruckt werden konnte.
+00:34:34.380 --> 00:34:36.370
+ dann hat der Hamburger ausgedacht,
 
-00:45:32.000 --> 00:45:33.000
- Genau.
+00:34:36.370 --> 00:34:38.360
+ dann hat der Hamburger ausgedacht,
 
-00:45:33.000 --> 00:45:35.000
- 8-Zoll, das ist ja...
+00:34:38.360 --> 00:34:40.350
+ dann hat der Hamburger ausgedacht,
 
-00:45:35.000 --> 00:45:37.000
- Ja, ich hab noch eines.
+00:34:40.350 --> 00:34:42.340
+ dann hat der Hamburger ausgedacht,
 
-00:45:37.000 --> 00:45:41.000
- Aber da sind noch die neuen iPhones auch wieder bei 8-Zoll.
+00:34:42.340 --> 00:34:44.330
+ dann hat der Hamburger ausgedacht,
 
-00:45:41.000 --> 00:45:45.000
- Und an der HTW gibt es einen Laufwerk dafür.
+00:34:44.330 --> 00:34:46.320
+ dann hat der Hamburger ausgedacht,
 
-00:45:45.000 --> 00:45:46.000
- Ich weiß das.
+00:34:46.320 --> 00:34:48.310
+ dann hat der Hamburger ausgedacht,
 
-00:45:46.000 --> 00:45:48.000
- Ja, genau.
+00:34:48.310 --> 00:34:50.300
+ dann hat der Hamburger ausgedacht,
 
-00:45:48.000 --> 00:45:49.000
- Ja, Verzeihung.
+00:34:50.300 --> 00:34:52.300
+ dann hat der Hamburger ausgedacht,
 
-00:45:49.000 --> 00:45:50.000
- Ja, kommt vor.
+00:34:52.300 --> 00:34:54.290
+ dann hat der Hamburger ausgedacht,
 
-00:45:50.000 --> 00:45:52.000
- So, spannend.
+00:34:54.290 --> 00:34:56.440
+ dann hat der Hamburger ausgedacht,
 
-00:45:52.000 --> 00:45:55.000
- Okay, und dann, wo wir einmal bei offenen Dingen sind.
+00:34:56.440 --> 00:34:58.420
+ dann hat der Hamburger ausgedacht,
 
-00:45:55.000 --> 00:45:58.000
- So, spiele ich jetzt erst noch ein bisschen Musik oder quatsch mal gleich weiter?
+00:34:58.420 --> 00:35:00.410
+ dann hat der Hamburger ausgedacht,
 
-00:45:58.000 --> 00:45:59.000
- Was sagt denn die Zeit?
+00:35:00.410 --> 00:35:02.400
+ dann hat der Hamburger ausgedacht,
 
-00:45:59.000 --> 00:46:00.000
- Zählen.
+00:35:02.400 --> 00:35:04.390
+ dann hat der Hamburger ausgedacht,
 
-00:46:00.000 --> 00:46:02.000
- Ah, komm, dann rede ich direkt weiter.
+00:35:04.390 --> 00:35:06.380
+ dann hat der Hamburger ausgedacht,
 
-00:46:02.000 --> 00:46:10.000
- Offen, ihr wisst, wir haben schon öfter darüber geredet über so offene und halboffene Geräte.
+00:35:06.380 --> 00:35:08.370
+ dann hat der Hamburger ausgedacht,
 
-00:46:10.000 --> 00:46:15.000
- So ganz, ganz so grünen wie damals, was das angeht, was diesen Aspekt angeht.
+00:35:08.370 --> 00:35:10.360
+ dann hat der Hamburger ausgedacht,
 
-00:46:15.000 --> 00:46:17.000
- Das ist natürlich heute nicht mehr.
+00:35:10.360 --> 00:35:12.350
+ dann hat der Hamburger ausgedacht,
 
-00:46:17.000 --> 00:46:21.000
- Aber man kann zumindest sich noch mit offener Software beschäftigen.
+00:35:12.350 --> 00:35:14.440
+ dann hat der Hamburger ausgedacht,
 
-00:46:21.000 --> 00:46:29.000
- Auf Telefonen, also Android-Telefone, iPhones ist natürlich in der Regel sehr, sehr weit weg von offener Software.
+00:35:14.440 --> 00:35:16.430
+ dann hat der Hamburger ausgedacht,
 
-00:46:29.000 --> 00:46:34.000
- Weil man sich darauf verlassen muss, dass Google und Apple das irgendwie so machen, wie man das will.
+00:35:16.430 --> 00:35:18.420
+ dann hat der Hamburger ausgedacht,
 
-00:46:34.000 --> 00:46:43.000
- Aber ein paar Telefone gibt es ja noch, die kann man schon vom Hersteller erlaubt mit eigener Software bespielen.
+00:35:18.420 --> 00:35:20.410
+ dann hat der Hamburger ausgedacht,
 
-00:46:43.000 --> 00:46:45.000
- Zum Beispiel Fairphones sind dafür bekannt.
+00:35:20.410 --> 00:35:22.400
+ dann hat der Hamburger ausgedacht,
 
-00:46:45.000 --> 00:46:47.000
- Aber auch noch ein paar andere Telefone.
+00:35:22.400 --> 00:35:24.390
+ dann hat der Hamburger ausgedacht,
 
-00:46:47.000 --> 00:46:54.000
- Hintergrund ist also der, wenn man denn seine Hände an ein Betriebssystem bekommt, was auf der Hardware läuft,
+00:35:24.390 --> 00:35:26.390
+ dann hat der Hamburger ausgedacht,
 
-00:46:54.000 --> 00:47:02.000
- dann kann man das mit dem entsprechenden Wissenvoraussetz natürlich irgendwie auf das Telefon aufspielen und dann damit mehr oder weniger gut leben.
+00:35:26.390 --> 00:35:28.380
+ dann hat der Hamburger ausgedacht,
 
-00:47:02.000 --> 00:47:09.000
- Und die meisten anderen Hersteller, iPhones und die typischen Google-Telefone und so weiter, die lassen das gar nicht zu.
+00:35:28.380 --> 00:35:30.370
+ dann hat der Hamburger ausgedacht,
 
-00:47:09.000 --> 00:47:14.000
- Da gibt es dann irgendwelche Sicherheitsmechanismen, die verhindern, dass man da selber irgendwas drauf machen kann.
+00:35:30.370 --> 00:35:32.360
+ dann hat der Hamburger ausgedacht,
 
-00:47:14.000 --> 00:47:24.000
- Und dann gibt es noch diese Grauzone von Telefonen, wo sich die Hersteller nicht genug angestrengt haben, dass sie die Sicherheitsmechanismen auch funktionieren.
+00:35:32.360 --> 00:35:34.350
+ dann hat der Hamburger ausgedacht,
 
-00:47:24.000 --> 00:47:34.000
- Und um diese Grauzone hat sich also eine große Community entwickelt von Menschen, die selber Android entwickeln bzw. das ein bisschen anders ausstatten.
+00:35:34.350 --> 00:35:36.760
+ dann hat der Hamburger ausgedacht,
 
-00:47:34.000 --> 00:47:40.000
- Das ist so wie bei Linux, da gibt es ja auch irgendwie einen gemeinsamen Kernel, aber dann ganz, ganz viele unterschiedliche Guis und so weiter.
+00:35:36.760 --> 00:35:38.750
+ dann hat der Hamburger ausgedacht,
 
-00:47:40.000 --> 00:47:44.000
- Da gibt es Arch Linux und Ubuntu und weiß ich nicht. Und so ähnlich ist es bei Android eben auch.
+00:35:38.750 --> 00:35:40.740
+ dann hat der Hamburger ausgedacht,
 
-00:47:44.000 --> 00:47:47.000
- Da gibt es verschiedene Roms, so heißen die dann.
+00:35:40.740 --> 00:35:42.730
+ dann hat der Hamburger ausgedacht,
 
-00:47:47.000 --> 00:47:53.000
- Wir hatten früher mal "Syroge Mod" oder so ähnlich, hieß der, der heißt mittlerweile "Linage".
+00:35:42.730 --> 00:35:44.720
+ dann hat der Hamburger ausgedacht,
 
-00:47:53.000 --> 00:47:58.000
- Und es gibt dann ganz, ganz viele Leute, die sich damit beschäftigt haben, wie kriege ich das denn auf meinen Telefonen,
+00:35:44.720 --> 00:35:46.710
+ dann hat der Hamburger ausgedacht,
 
-00:47:58.000 --> 00:48:02.000
- wenn sich keiner an Samsung nicht genug angestrengt hat, das zu verhindern.
+00:35:46.710 --> 00:35:48.700
+ dann hat der Hamburger ausgedacht,
 
-00:48:02.000 --> 00:48:10.000
- Und ich war kürzlich völlig baff, weil ich wegen dieser Merch-Testig-Geräte, die wollen alle noch einen Telefon nebenan,
+00:35:48.700 --> 00:35:50.690
+ dann hat der Hamburger ausgedacht,
 
-00:48:10.000 --> 00:48:13.000
- damit man da die Nachrichten dann auf dem Telefon abrufen kann.
+00:35:50.690 --> 00:35:52.670
+ dann hat der Hamburger ausgedacht,
 
-00:48:13.000 --> 00:48:17.000
- Und da habe ich also mein altes Telefon wieder aus dem Schrank geholt.
+00:35:52.670 --> 00:35:54.730
+ dann hat der Hamburger ausgedacht,
 
-00:48:17.000 --> 00:48:22.000
- Das war ein BQ Aquaris X2 Pro, kann man heutzutage nicht mehr kaufen.
+00:35:54.730 --> 00:35:56.730
+ dann hat der Hamburger ausgedacht,
 
-00:48:22.000 --> 00:48:28.000
- Gibt es nirgends, wo es ein spanisches, ein spanischer Hersteller, später glaube ich vietnamesisch, wurde noch ein paar mal verkauft.
+00:35:56.730 --> 00:35:58.720
+ dann hat der Hamburger ausgedacht,
 
-00:48:28.000 --> 00:48:31.000
- Habe ich damals gekauft, weil es eben aus Europa kam.
+00:35:58.720 --> 00:36:00.710
+ dann hat der Hamburger ausgedacht,
 
-00:48:31.000 --> 00:48:35.000
- Da hat sich nicht so besonders gut verkauft, gab eben so eine spanische Community drumherum.
+00:36:00.710 --> 00:36:02.700
+ dann hat der Hamburger ausgedacht,
 
-00:48:35.000 --> 00:48:43.000
- Und ich hatte irgendwann das mal geöffnet, also softwaretechnisch geöffnet und konnte dann da mein eigenes Android drauf spielen.
+00:36:02.700 --> 00:36:04.700
+ dann hat der Hamburger ausgedacht,
 
-00:48:43.000 --> 00:48:47.000
- Hat da ein Android 8, glaube ich, drauf, eben von Linage.
+00:36:04.700 --> 00:36:06.690
+ dann hat der Hamburger ausgedacht,
 
-00:48:47.000 --> 00:48:52.000
- Und ich machte das an, habe das mit dem Merch-Testig-Gerät verbunden und deswegen auch Internet gegeben.
+00:36:06.690 --> 00:36:08.680
+ dann hat der Hamburger ausgedacht,
 
-00:48:52.000 --> 00:48:54.000
- Und dann meinte ich, oh, ich habe ein Update.
+00:36:08.680 --> 00:36:10.670
+ dann hat der Hamburger ausgedacht,
 
-00:48:54.000 --> 00:48:58.000
- Wieso hat dieses Telefon, das man nicht mehr gebraucht, auf ebay kaufen kann?
+00:36:10.670 --> 00:36:12.660
+ dann hat der Hamburger ausgedacht,
 
-00:48:58.000 --> 00:49:00.000
- Also es gibt es einfach nicht mehr.
+00:36:12.660 --> 00:36:14.660
+ dann hat der Hamburger ausgedacht,
 
-00:49:00.000 --> 00:49:02.000
- Das Telefon ist, glaube ich, von 2018.
+00:36:14.660 --> 00:36:16.650
+ dann hat der Hamburger ausgedacht,
 
-00:49:02.000 --> 00:49:06.000
- Genau, von 2018 und hat jetzt ein Update auf Android 13 bekommen.
+00:36:16.650 --> 00:36:18.640
+ dann hat der Hamburger ausgedacht,
 
-00:49:06.000 --> 00:49:11.000
- Also irgendein Zauberer, ich weiß nicht, Dank geht raus, an Unbekannt.
+00:36:18.640 --> 00:36:20.950
+ dann hat der Hamburger ausgedacht,
 
-00:49:11.000 --> 00:49:16.000
- Hat Android 13 auf dieses Telefon portiert, was mir absolut unbegreiflich ist, wie das geht.
+00:36:20.950 --> 00:36:22.940
+ dann hat der Hamburger ausgedacht,
 
-00:49:16.000 --> 00:49:19.000
- Weil es hat halt auch irgendwelche komische Hardware-Innen drin.
+00:36:22.940 --> 00:36:24.930
+ dann hat der Hamburger ausgedacht,
 
-00:49:19.000 --> 00:49:22.000
- Zum Media and Tech-Prozessoren und so weiter.
+00:36:24.930 --> 00:36:26.910
+ dann hat der Hamburger ausgedacht,
 
-00:49:22.000 --> 00:49:29.000
- Und ich habe dann Android 13 drauf installiert und damit ist es jetzt auf dem gleichen Stand wie mein Fairphone 4,
+00:36:26.910 --> 00:36:28.900
+ dann hat der Hamburger ausgedacht,
 
-00:49:29.000 --> 00:49:31.000
- was doch ein bisschen neuer ist.
+00:36:28.900 --> 00:36:30.890
+ dann hat der Hamburger ausgedacht,
 
-00:49:31.000 --> 00:49:36.000
- Und hatte ich schon mehrfach erzählt in der Episode, wo wir, oder in mehreren Episoden,
+00:36:30.890 --> 00:36:32.880
+ dann hat der Hamburger ausgedacht,
 
-00:49:36.000 --> 00:49:39.000
- natürlich ohne die ganzen Google-Anteile im Android.
+00:36:32.880 --> 00:36:34.870
+ dann hat der Hamburger ausgedacht,
 
-00:49:39.000 --> 00:49:43.000
- Und darauf möchte ich jetzt nochmal verweisen, auch da hat sich einiges getan.
+00:36:34.870 --> 00:36:36.850
+ dann hat der Hamburger ausgedacht,
 
-00:49:43.000 --> 00:49:50.000
- Es haben sich Leute hingesetzt und haben diesen ganzen Google-Stack, die Google Play Services und so weiter alles ersetzt.
+00:36:36.850 --> 00:36:39.090
+ dann hat der Hamburger ausgedacht,
 
-00:49:50.000 --> 00:49:55.000
- Das Projekt, was da am meisten Drive hat, nennt sich Micro G.
+00:36:39.090 --> 00:36:41.060
+ dann hat der Hamburger ausgedacht,
 
-00:49:55.000 --> 00:50:02.000
- Und das Schöne ist, wenn man jetzt so eine Standardkombination eben diesen Lineage-Rom mit Micro G haben möchte
+00:36:41.060 --> 00:36:43.030
+ dann hat der Hamburger ausgedacht,
 
-00:50:02.000 --> 00:50:07.000
- und dem App-Store, also ganz viele lustige Begriffe heute, da kommen also die Apps her.
+00:36:43.030 --> 00:36:45.020
+ dann hat der Hamburger ausgedacht,
 
-00:50:07.000 --> 00:50:10.000
- Alles nur freie Apps im App-Store.
+00:36:45.020 --> 00:36:47.240
+ dann hat der Hamburger ausgedacht,
 
-00:50:10.000 --> 00:50:12.000
- Ach, da kommen die Apps her.
+00:36:47.240 --> 00:36:49.220
+ dann hat der Hamburger ausgedacht,
 
-00:50:12.000 --> 00:50:14.000
- Und die bringen nicht das Storch.
+00:36:49.220 --> 00:36:51.210
+ dann hat der Hamburger ausgedacht,
 
-00:50:14.000 --> 00:50:15.000
- Genau.
+00:36:51.210 --> 00:36:53.190
+ dann hat der Hamburger ausgedacht,
 
-00:50:15.000 --> 00:50:23.000
- Und das heißt da auf Lineage.MicroG.org kann man sich also so das eigene Telefon unterstützt.
+00:36:53.190 --> 00:36:55.170
+ dann hat der Hamburger ausgedacht,
 
-00:50:23.000 --> 00:50:25.000
- Aber da gibt es viele, viele, die unterstützt sind.
+00:36:55.170 --> 00:36:57.160
+ dann hat der Hamburger ausgedacht,
 
-00:50:25.000 --> 00:50:27.000
- Kann man das also direkt installieren.
+00:36:57.160 --> 00:36:59.190
+ dann hat der Hamburger ausgedacht,
 
-00:50:27.000 --> 00:50:30.000
- Dann hat man ein Android-Telefon ohne Google.
+00:36:59.190 --> 00:37:01.150
+ dann hat der Hamburger ausgedacht,
 
-00:50:30.000 --> 00:50:33.000
- Und ich bin mittlerweile buff.
+00:37:01.150 --> 00:37:03.180
+ dann hat der Hamburger ausgedacht,
 
-00:50:33.000 --> 00:50:37.000
- Ich habe das nebenbei noch eben jetzt ein bisschen benutzt.
+00:37:03.180 --> 00:37:05.170
+ dann hat der Hamburger ausgedacht,
 
-00:50:37.000 --> 00:50:43.000
- Ich habe mittlerweile wirklich viele, viele Alternativen für Apps, die einem das Leben leichter machen.
+00:37:05.170 --> 00:37:07.170
+ dann hat der Hamburger ausgedacht,
 
-00:50:43.000 --> 00:50:47.000
- Also man kann, glaube ich, mittlerweile ganz gut mit einem Telefon ohne Google leben.
+00:37:07.170 --> 00:37:09.160
+ dann hat der Hamburger ausgedacht,
 
-00:50:47.000 --> 00:50:53.000
- Und tatsächlich ist es eben so, dass die Google-Apps mittlerweile ganz schön fett und machen halt diese Telefone sehr, sehr langsam.
+00:37:09.160 --> 00:37:11.150
+ dann hat der Hamburger ausgedacht,
 
-00:50:53.000 --> 00:51:02.000
- Und das heißt, wenn man ein Telefon von 2018 oder ich habe auch noch ein Motorola Moto G5 von 2016,
+00:37:11.150 --> 00:37:13.140
+ dann hat der Hamburger ausgedacht,
 
-00:51:02.000 --> 00:51:06.000
- das kann man, also der Telefon, die unter 200 Euro gekostet haben damals,
+00:37:13.140 --> 00:37:15.130
+ dann hat der Hamburger ausgedacht,
 
-00:51:06.000 --> 00:51:13.000
- kann man also durchaus benutzen heutzutage zum Telefonieren und modernen im Websurf.
+00:37:15.130 --> 00:37:17.120
+ dann hat der Hamburger ausgedacht,
 
-00:51:13.000 --> 00:51:16.000
- Was übrigens mit einem iPhone aus dieser Zeit nicht mehr geht.
+00:37:17.120 --> 00:37:19.110
+ dann hat der Hamburger ausgedacht,
 
-00:51:16.000 --> 00:51:19.000
- Da nehme ich da irgendwann die Zertifikate ablaufen.
+00:37:19.110 --> 00:37:21.110
+ dann hat der Hamburger ausgedacht,
 
-00:51:19.000 --> 00:51:24.000
- Okay, aber bestimmte Apps machen ja immer mal dann doch noch Probleme meist?
+00:37:21.110 --> 00:37:23.100
+ dann hat der Hamburger ausgedacht,
 
-00:51:24.000 --> 00:51:25.000
- Genau.
+00:37:23.100 --> 00:37:25.090
+ dann hat der Hamburger ausgedacht,
 
-00:51:25.000 --> 00:51:27.000
- Und damit wollte ich mich jetzt nochmal beschäftigen.
+00:37:25.090 --> 00:37:27.530
+ dann hat der Hamburger ausgedacht,
 
-00:51:27.000 --> 00:51:34.000
- So typisch sind Banking-Apps, die dann nicht laufen wollen.
+00:37:27.530 --> 00:37:29.530
+ dann hat der Hamburger ausgedacht,
 
-00:51:34.000 --> 00:51:41.000
- Also da gibt es so Security-Frameworks, die unten drunter hängen, die sagen halt, der Banking-App, hey, ich bin überhaupt gar ein autidentifiziertes Google-Handy.
+00:37:29.530 --> 00:37:31.530
+ dann hat der Hamburger ausgedacht,
 
-00:51:41.000 --> 00:51:45.000
- Deshalb starten wir lieber nicht, weil das könnte hier ein böser Mensch sein.
+00:37:31.530 --> 00:37:33.520
+ dann hat der Hamburger ausgedacht,
 
-00:51:45.000 --> 00:51:50.000
- Das ist so die Vorgabe, was die Hersteller von Banking-Apps behaupten, warum das so ist.
+00:37:33.520 --> 00:37:35.520
+ dann hat der Hamburger ausgedacht,
 
-00:51:50.000 --> 00:51:58.000
- Aber wenn man einmal das ganze Telefon und alles hat, dann kann man auch sowas vermutlich ganz gut vortäuschen.
+00:37:35.520 --> 00:37:37.520
+ dann hat der Hamburger ausgedacht,
 
-00:51:58.000 --> 00:52:02.000
- Ich habe mich damit noch nicht beschäftigt, aber theoretisch müsste es gehen,
+00:37:37.520 --> 00:37:39.510
+ dann hat der Hamburger ausgedacht,
 
-00:52:02.000 --> 00:52:08.000
- dass man jetzt eben auch eine Banking-App dann als von einem funktionierenden Telefon runter holen kann sozusagen
+00:37:39.510 --> 00:37:41.510
+ dann hat der Hamburger ausgedacht,
 
-00:52:08.000 --> 00:52:11.000
- und auf das ent-Google-Telefon drauf spielen.
+00:37:41.510 --> 00:37:43.510
+ dann hat der Hamburger ausgedacht,
 
-00:52:11.000 --> 00:52:13.000
- Und dann funktioniert auch das.
+00:37:43.510 --> 00:37:45.500
+ dann hat der Hamburger ausgedacht,
 
-00:52:13.000 --> 00:52:20.000
- Also gute Zeiten für offene Standards und offene Telefone und offene Software.
+00:37:45.500 --> 00:37:47.500
+ dann hat der Hamburger ausgedacht,
 
-00:52:20.000 --> 00:52:24.000
- Das gefällt mir, wie in welche Richtung das geht und macht echt Spaß.
+00:37:47.500 --> 00:37:49.500
+ dann hat der Hamburger ausgedacht,
 
-00:52:24.000 --> 00:52:30.000
- Und am Rande will ich nur erwähnen, dass es gibt noch einen weiteren kommerziellen Anbieter, der so ein bisschen die Ecke schlägt.
+00:37:49.500 --> 00:37:51.490
+ dann hat der Hamburger ausgedacht,
 
-00:52:30.000 --> 00:52:34.000
- Ich möchte die nicht empfehlen, aber ich möchte es zumindest erwähnt haben, dass es die gibt.
+00:37:51.490 --> 00:37:53.490
+ dann hat der Hamburger ausgedacht,
 
-00:52:34.000 --> 00:52:40.000
- Die E-Foundation, also der Buchstabe E, weiß nicht, wer sich das ausgedacht hat, dass man die Firma nennt, aber okay.
+00:37:53.490 --> 00:37:55.490
+ dann hat der Hamburger ausgedacht,
 
-00:52:40.000 --> 00:52:46.000
- Die machen also das volle Telefonprogrammen, man kann zum Beispiel das Fairphone schon kaufen mit IOS
+00:37:55.490 --> 00:37:57.480
+ dann hat der Hamburger ausgedacht,
 
-00:52:46.000 --> 00:52:51.000
- und dann kriegt man halt ein Android mit irgendeinem Next-Cloud-Gramm, wo was dann alles synchronisiert
+00:37:57.480 --> 00:37:59.480
+ dann hat der Hamburger ausgedacht,
 
-00:52:51.000 --> 00:52:54.000
- und was sich dann anfühlt, wie so ein fertiges Google-Telefon.
+00:37:59.480 --> 00:38:01.480
+ dann hat der Hamburger ausgedacht,
 
-00:52:54.000 --> 00:52:57.000
- Nur halt, dass keine Google, nicht so viel Google-Software drunter hat.
+00:38:01.480 --> 00:38:03.470
+ dann hat der Hamburger ausgedacht,
 
-00:52:57.000 --> 00:53:01.000
- Genau, ganz viel von mir, offenes Android, top.
+00:38:03.470 --> 00:38:05.470
+ dann hat der Hamburger ausgedacht,
 
-00:53:01.000 --> 00:53:09.000
- Dann haben wir vielleicht mal auch noch einen Punkt, wo ihr aktiv werden könnt für zum Thema Energiewende.
+00:38:05.470 --> 00:38:07.470
+ dann hat der Hamburger ausgedacht,
 
-00:53:09.000 --> 00:53:16.000
- Da sei hier an dieser Stelle mal darauf verwiesen auf eine neue Petition an den Bundestag
+00:38:07.470 --> 00:38:09.460
+ dann hat der Hamburger ausgedacht,
 
-00:53:16.000 --> 00:53:23.000
- von der Initiative Balkonsola, aber zum Beispiel auch unterstützt vom Akku-Doctor, nennt der sich,
+00:38:09.460 --> 00:38:11.460
+ dann hat der Hamburger ausgedacht,
 
-00:53:23.000 --> 00:53:25.000
- unter anderem auf YouTube.
+00:38:11.460 --> 00:38:13.460
+ dann hat der Hamburger ausgedacht,
 
-00:53:25.000 --> 00:53:31.000
- Und zwar geht es da um eine Petition, um so kleinen Speicher für zu Hause attraktiver zu machen,
+00:38:13.460 --> 00:38:15.450
+ dann hat der Hamburger ausgedacht,
 
-00:53:31.000 --> 00:53:37.000
- um die einzubenden in unser Energienetz, damit wir sie sinnvoll nutzen können,
+00:38:15.450 --> 00:38:17.450
+ dann hat der Hamburger ausgedacht,
 
-00:53:37.000 --> 00:53:41.000
- als Ergänzung zu zum Beispiel auch so groß speichern, die wir halt brauchen,
+00:38:17.450 --> 00:38:19.450
+ dann hat der Hamburger ausgedacht,
 
-00:53:41.000 --> 00:53:50.000
- um unser Energienetz einfach noch weiter robust zu machen und auch entsprechend dezentraler zu machen.
+00:38:19.450 --> 00:38:21.440
+ dann hat der Hamburger ausgedacht,
 
-00:53:50.000 --> 00:53:56.000
- Und zwar nennt sich die Petition "netzdienliche Zwischenspeicherung erneuerbarer Energien durch Kleinspeicher".
+00:38:21.440 --> 00:38:23.440
+ dann hat der Hamburger ausgedacht,
 
-00:53:56.000 --> 00:54:00.000
- Und finden könnt ihr die, indem ihr folgende Website aufruft,
+00:38:23.440 --> 00:38:25.440
+ dann hat der Hamburger ausgedacht,
 
-00:54:00.000 --> 00:54:07.000
- und zwar Balkon.solarschreckstrich-petition2, und die zwei als Zahl geschrieben.
+00:38:25.440 --> 00:38:27.440
+ dann hat der Hamburger ausgedacht,
 
-00:54:07.000 --> 00:54:11.000
- Also Balkon.solarschreckstrich-petition2.
+00:38:27.440 --> 00:38:29.910
+ dann hat der Hamburger ausgedacht,
 
-00:54:11.000 --> 00:54:16.000
- Und dort findet ihr weitere Infos dazu und auch ein Link zu der Bundestagspetition.
+00:38:29.910 --> 00:38:31.910
+ dann hat der Hamburger ausgedacht,
 
-00:54:16.000 --> 00:54:21.000
- Schaut da gerne mal vorbei, die Zeichnungsfrist ist bis in den April hinein,
+00:38:31.910 --> 00:38:33.900
+ dann hat der Hamburger ausgedacht,
 
-00:54:21.000 --> 00:54:26.000
- aber man muss ja ein bestimmtes Quorum erreichen, also zeichnet da gerne mal mit.
+00:38:33.900 --> 00:38:35.900
+ dann hat der Hamburger ausgedacht,
 
-00:54:26.000 --> 00:54:29.000
- Das ist gelebte Demokratie.
+00:38:35.900 --> 00:38:37.890
+ dann hat der Hamburger ausgedacht,
 
-00:54:29.000 --> 00:54:33.000
- Ich stecke nicht so tief drin, aber ich habe mitgekriegt, dass bekannte,
+00:38:37.890 --> 00:38:39.890
+ dann hat der Hamburger ausgedacht,
 
-00:54:33.000 --> 00:54:36.000
- einfach ein Speicher an ihr Balkonkraftwerk anhängen wollten.
+00:38:39.890 --> 00:38:41.890
+ dann hat der Hamburger ausgedacht,
 
-00:54:36.000 --> 00:54:39.000
- Und ja, man kann das anmelden im Markenstammdatenregister,
+00:38:41.890 --> 00:38:43.880
+ dann hat der Hamburger ausgedacht,
 
-00:54:39.000 --> 00:54:42.000
- woraufhin arbeiten, schreiben das Netzbetreiber, was kommt,
+00:38:43.880 --> 00:38:45.880
+ dann hat der Hamburger ausgedacht,
 
-00:54:42.000 --> 00:54:48.000
- man möge das mal separat anmelden, und dann muss eine Elektrik, das schon wieder abnehmen, und, und, und.
+00:38:45.880 --> 00:38:47.870
+ dann hat der Hamburger ausgedacht,
 
-00:54:48.000 --> 00:54:52.000
- Also wenn man in so einem Balkonkraftwerk im Moment ein Speicher anklemmen möchte,
+00:38:47.870 --> 00:38:49.870
+ dann hat der Hamburger ausgedacht,
 
-00:54:52.000 --> 00:54:54.000
- ist nicht so einfach, wie man sich das vielleicht denkt.
+00:38:49.870 --> 00:38:51.860
+ dann hat der Hamburger ausgedacht,
 
-00:54:54.000 --> 00:54:57.000
- Also nicht einfach steckerein Batterie dran fertig, sondern...
+00:38:51.860 --> 00:38:53.860
+ dann hat der Hamburger ausgedacht,
 
-00:54:57.000 --> 00:54:59.000
- Widgets im Sommer wieder, wieder relevant.
+00:38:53.860 --> 00:38:55.860
+ dann hat der Hamburger ausgedacht,
 
-00:54:59.000 --> 00:55:05.000
- Im Sommer kommt aus vielen Balkonkraftwerken sehr, sehr viel Strom raus für so einen normalen Haushalt.
+00:38:55.860 --> 00:38:57.850
+ dann hat der Hamburger ausgedacht,
 
-00:55:05.000 --> 00:55:08.000
- Und das wäre schon ganz cool, wenn man den dann auch in der Nacht noch benutzen könnte.
+00:38:57.850 --> 00:38:59.850
+ dann hat der Hamburger ausgedacht,
 
-00:55:08.000 --> 00:55:12.000
- Richtig. Also ich habe tatsächlich meine Batterien jetzt wieder rausgeholt über den Winter.
+00:38:59.850 --> 00:39:01.840
+ dann hat der Hamburger ausgedacht,
 
-00:55:12.000 --> 00:55:14.000
- Kaum hat er nicht, weil da kommt nicht genug runter.
+00:39:01.840 --> 00:39:03.840
+ dann hat der Hamburger ausgedacht,
 
-00:55:14.000 --> 00:55:17.000
- Aber im Sommer reichen ist es schon ganz nett,
+00:39:03.840 --> 00:39:05.830
+ dann hat der Hamburger ausgedacht,
 
-00:55:17.000 --> 00:55:20.000
- wenn man den Strom, der am Tag runterballert, auch nachts noch verwenden kann.
+00:39:05.830 --> 00:39:07.830
+ dann hat der Hamburger ausgedacht,
 
-00:55:20.000 --> 00:55:26.000
- Ja, ja, auch generell halt dieses, es ist ja nicht so, dass wir zu wenig Strom hätten,
+00:39:07.830 --> 00:39:09.820
+ dann hat der Hamburger ausgedacht,
 
-00:55:26.000 --> 00:55:30.000
- wenn man dieses Flatterstrom sonst so was, sondern wir haben eigentlich tatsächlich sogar zu viel,
+00:39:09.820 --> 00:39:11.820
+ dann hat der Hamburger ausgedacht,
 
-00:55:30.000 --> 00:55:32.000
- und teilweise müssen ja die Anlagen auch runter geregelt werden.
+00:39:11.820 --> 00:39:13.820
+ dann hat der Hamburger ausgedacht,
 
-00:55:32.000 --> 00:55:38.000
- Und je, je besser wir halt die bestehenden Speicher nutzen können, auch so kleine Speicher, umso besser.
+00:39:13.820 --> 00:39:16.190
+ dann hat der Hamburger ausgedacht,
 
-00:55:38.000 --> 00:55:43.000
- Dass wir die Anlagen runter regeln, ist auch ein Diskussionsthema für die Ewigkeit,
+00:39:16.190 --> 00:39:18.180
+ dann hat der Hamburger ausgedacht,
 
-00:55:43.000 --> 00:55:46.000
- zwischen den Betreibern und Solarzellenbesitzern.
+00:39:18.180 --> 00:39:20.180
+ dann hat der Hamburger ausgedacht,
 
-00:55:46.000 --> 00:55:50.000
- Bei extra 3 gibt es dann eine lustige Folge zu, von einem Supermarkt,
+00:39:20.180 --> 00:39:22.170
+ dann hat der Hamburger ausgedacht,
 
-00:55:50.000 --> 00:55:53.000
- dessen Solarzellen abgeschaltet werden, wenn die Sonne scheint.
+00:39:22.170 --> 00:39:24.160
+ dann hat der Hamburger ausgedacht,
 
-00:55:53.000 --> 00:55:55.000
- Weil dann die Sonne scheint.
+00:39:24.160 --> 00:39:26.160
+ dann hat der Hamburger ausgedacht,
 
-00:55:55.000 --> 00:55:59.000
- Gut. Ja, da gibt es ein bisschen was zu holen.
+00:39:26.160 --> 00:39:28.150
+ dann hat der Hamburger ausgedacht,
 
-00:55:59.000 --> 00:56:07.000
- Genau. Ansonsten würde ich sagen, glaube ich, das war es von unserem monatlichen Update für diesmal.
+00:39:28.150 --> 00:39:30.140
+ dann hat der Hamburger ausgedacht,
 
-00:56:07.000 --> 00:56:11.000
- Wir freuen uns, wenn ihr auch beim nächsten Mal wieder einschaltet.
+00:39:30.140 --> 00:39:32.140
+ dann hat der Hamburger ausgedacht,
 
-00:56:11.000 --> 00:56:15.000
- Genau. Und der Knobst wird uns eh wieder schneller laufen lassen.
+00:39:32.140 --> 00:39:34.130
+ dann hat der Hamburger ausgedacht,
 
-00:56:15.000 --> 00:56:20.000
- Deswegen lassen wir einfach zum Ausschwingen eine weitere Stück Musik gelaufen.
+00:39:34.130 --> 00:39:36.130
+ dann hat der Hamburger ausgedacht,
 
-00:56:20.000 --> 00:56:22.000
- Und dann, vielleicht hört ihr es ganz, vielleicht auch nicht.
+00:39:36.130 --> 00:39:38.120
+ dann hat der Hamburger ausgedacht,
 
-00:56:22.000 --> 00:56:24.000
- Doch, ihr hört das Ganze.
+00:39:38.120 --> 00:39:40.110
+ dann hat der Hamburger ausgedacht,
 
-00:56:24.000 --> 00:56:30.000
- Oh, ihr hört da auch im Hintergrund schon Geräusche für die Ewigkeit.
+00:39:40.110 --> 00:39:42.110
+ dann hat der Hamburger ausgedacht,
 
-00:56:30.000 --> 00:56:32.000
- Willkommen.
+00:39:42.110 --> 00:39:44.100
+ dann hat der Hamburger ausgedacht,
 
-00:56:32.000 --> 00:56:39.000
- Und genau, dann viele Grüße aus der jetzt doch langsam dunkler werdenden Machbar-Sondag.
+00:39:44.100 --> 00:39:46.180
+ dann hat der Hamburger ausgedacht,
 
-00:56:39.000 --> 00:56:44.000
- Wir hören uns wieder im April, am zweiten Montag, im April, richtig.
+00:39:46.180 --> 00:39:48.140
+ dann hat der Hamburger ausgedacht,
 
-00:56:44.000 --> 00:56:49.000
- Ja, im zweiten Montag, im April von 21 bis 22 Uhr hier auf im Freien Radio Potsdam,
+00:39:48.140 --> 00:39:50.110
+ dann hat der Hamburger ausgedacht,
 
-00:56:49.000 --> 00:56:54.000
- auf 90,7 MHz in Potsdam, 88,4 in Berlin oder auf DAB Plus.
+00:39:50.110 --> 00:39:52.490
+ dann hat der Hamburger ausgedacht,
 
-00:56:54.000 --> 00:56:57.000
- Und ihr findet unsere Radio.z10-p.org.
+00:39:52.490 --> 00:39:54.490
+ dann hat der Hamburger ausgedacht,
 
-00:56:57.000 --> 00:57:03.000
- Und zum Abschluss hört ihr jetzt von Broke for Free, den Titel Night Owl,
+00:39:54.490 --> 00:39:56.480
+ dann hat der Hamburger ausgedacht,
 
-00:57:03.000 --> 00:57:05.000
- wie immer aus dem Free Music Archive.
+00:39:56.480 --> 00:39:58.480
+ dann hat der Hamburger ausgedacht,
 
-00:57:05.000 --> 00:57:07.000
+00:39:58.480 --> 00:40:00.470
+ dann hat der Hamburger ausgedacht,
+
+00:40:00.470 --> 00:40:02.470
+ dann hat der Hamburger ausgedacht,
+
+00:40:02.470 --> 00:40:04.460
+ dann hat der Hamburger ausgedacht,
+
+00:40:04.460 --> 00:40:06.450
+ dann hat der Hamburger ausgedacht,
+
+00:40:06.450 --> 00:40:08.450
+ dann hat der Hamburger ausgedacht,
+
+00:40:08.450 --> 00:40:10.440
+ dann hat der Hamburger ausgedacht,
+
+00:40:10.440 --> 00:40:12.440
+ dann hat der Hamburger ausgedacht,
+
+00:40:12.440 --> 00:40:14.430
+ dann hat der Hamburger ausgedacht,
+
+00:40:14.430 --> 00:40:16.430
+ dann hat der Hamburger ausgedacht,
+
+00:40:16.430 --> 00:40:18.420
+ dann hat der Hamburger ausgedacht,
+
+00:40:18.420 --> 00:40:20.420
+ dann hat der Hamburger ausgedacht,
+
+00:40:20.420 --> 00:40:22.410
+ dann hat der Hamburger ausgedacht,
+
+00:40:22.410 --> 00:40:24.400
+ dann hat der Hamburger ausgedacht,
+
+00:40:24.400 --> 00:40:26.400
+ dann hat der Hamburger ausgedacht,
+
+00:40:26.400 --> 00:40:28.490
+ dann hat der Hamburger ausgedacht,
+
+00:40:28.490 --> 00:40:30.490
+ dann hat der Hamburger ausgedacht,
+
+00:40:30.490 --> 00:40:32.490
+ dann hat der Hamburger ausgedacht,
+
+00:40:32.490 --> 00:40:34.480
+ dann hat der Hamburger ausgedacht,
+
+00:40:34.480 --> 00:40:36.480
+ dann hat der Hamburger ausgedacht,
+
+00:40:36.480 --> 00:40:38.480
+ dann hat der Hamburger ausgedacht,
+
+00:40:38.480 --> 00:40:40.470
+ dann hat der Hamburger ausgedacht,
+
+00:40:40.470 --> 00:40:42.470
+ dann hat der Hamburger ausgedacht,
+
+00:40:42.470 --> 00:40:44.460
+ dann hat der Hamburger ausgedacht,
+
+00:40:44.460 --> 00:40:46.460
+ dann hat der Hamburger ausgedacht,
+
+00:40:46.460 --> 00:40:48.460
+ dann hat der Hamburger ausgedacht,
+
+00:40:48.460 --> 00:40:50.450
+ dann hat der Hamburger ausgedacht,
+
+00:40:50.450 --> 00:40:52.450
+ dann hat der Hamburger ausgedacht,
+
+00:40:52.450 --> 00:40:54.450
+ dann hat der Hamburger ausgedacht,
+
+00:40:54.450 --> 00:40:56.440
+ dann hat der Hamburger ausgedacht,
+
+00:40:56.440 --> 00:40:58.440
+ dann hat der Hamburger ausgedacht,
+
+00:40:58.440 --> 00:41:00.440
+ dann hat der Hamburger ausgedacht,
+
+00:41:00.440 --> 00:41:02.430
+ dann hat der Hamburger ausgedacht,
+
+00:41:02.430 --> 00:41:04.430
+ dann hat der Hamburger ausgedacht,
+
+00:41:04.430 --> 00:41:06.420
+ dann hat der Hamburger ausgedacht,
+
+00:41:06.420 --> 00:41:08.420
+ dann hat der Hamburger ausgedacht,
+
+00:41:08.420 --> 00:41:10.420
+ dann hat der Hamburger ausgedacht,
+
+00:41:10.420 --> 00:41:12.410
+ dann hat der Hamburger ausgedacht,
+
+00:41:12.410 --> 00:41:14.410
+ dann hat der Hamburger ausgedacht,
+
+00:41:14.410 --> 00:41:16.410
+ dann hat der Hamburger ausgedacht,
+
+00:41:16.410 --> 00:41:18.400
+ dann hat der Hamburger ausgedacht,
+
+00:41:18.400 --> 00:41:20.400
+ dann hat der Hamburger ausgedacht,
+
+00:41:20.400 --> 00:41:22.400
+ dann hat der Hamburger ausgedacht,
+
+00:41:22.400 --> 00:41:24.490
+ dann hat der Hamburger ausgedacht,
+
+00:41:24.490 --> 00:41:26.490
+ dann hat der Hamburger ausgedacht,
+
+00:41:26.490 --> 00:41:28.490
+ dann hat der Hamburger ausgedacht,
+
+00:41:28.490 --> 00:41:30.490
+ dann hat der Hamburger ausgedacht,
+
+00:41:30.490 --> 00:41:32.490
+ dann hat der Hamburger ausgedacht,
+
+00:41:32.490 --> 00:41:34.490
+ dann hat der Hamburger ausgedacht,
+
+00:41:34.490 --> 00:41:36.480
+ dann hat der Hamburger ausgedacht,
+
+00:41:36.480 --> 00:41:38.480
+ dann hat der Hamburger ausgedacht,
+
+00:41:38.480 --> 00:41:40.480
+ dann hat der Hamburger ausgedacht,
+
+00:41:40.480 --> 00:41:42.480
+ dann hat der Hamburger ausgedacht,
+
+00:41:42.480 --> 00:41:44.480
+ dann hat der Hamburger ausgedacht,
+
+00:41:44.480 --> 00:41:46.480
+ dann hat der Hamburger ausgedacht,
+
+00:41:46.480 --> 00:41:48.470
+ dann hat der Hamburger ausgedacht,
+
+00:41:48.470 --> 00:41:50.470
+ dann hat der Hamburger ausgedacht,
+
+00:41:50.470 --> 00:41:52.470
+ dann hat der Hamburger ausgedacht,
+
+00:41:52.470 --> 00:41:54.470
+ dann hat der Hamburger ausgedacht,
+
+00:41:54.470 --> 00:41:56.470
+ dann hat der Hamburger ausgedacht,
+
+00:41:56.470 --> 00:41:58.470
+ dann hat der Hamburger ausgedacht,
+
+00:41:58.470 --> 00:42:00.460
+ dann hat der Hamburger ausgedacht,
+
+00:42:00.460 --> 00:42:02.460
+ dann hat der Hamburger ausgedacht,
+
+00:42:02.460 --> 00:42:04.460
+ dann hat der Hamburger ausgedacht,
+
+00:42:04.460 --> 00:42:06.460
+ dann hat der Hamburger ausgedacht,
+
+00:42:06.460 --> 00:42:08.460
+ dann hat der Hamburger ausgedacht,
+
+00:42:08.460 --> 00:42:10.460
+ dann hat der Hamburger ausgedacht,
+
+00:42:10.460 --> 00:42:12.450
+ dann hat der Hamburger ausgedacht,
+
+00:42:12.450 --> 00:42:14.450
+ dann hat der Hamburger ausgedacht,
+
+00:42:14.450 --> 00:42:16.450
+ dann hat der Hamburger ausgedacht,
+
+00:42:16.450 --> 00:42:18.450
+ dann hat der Hamburger ausgedacht,
+
+00:42:18.450 --> 00:42:20.450
+ dann hat der Hamburger ausgedacht,
+
+00:42:20.450 --> 00:42:22.450
+ dann hat der Hamburger ausgedacht,
+
+00:42:22.450 --> 00:42:24.440
+ dann hat der Hamburger ausgedacht,
+
+00:42:24.440 --> 00:42:26.440
+ dann hat der Hamburger ausgedacht,
+
+00:42:26.440 --> 00:42:28.440
+ dann hat der Hamburger ausgedacht,
+
+00:42:28.440 --> 00:42:30.440
+ dann hat der Hamburger ausgedacht,
+
+00:42:30.440 --> 00:42:32.440
+ dann hat der Hamburger ausgedacht,
+
+00:42:32.440 --> 00:42:34.440
+ dann hat der Hamburger ausgedacht,
+
+00:42:34.440 --> 00:42:36.430
+ dann hat der Hamburger ausgedacht,
+
+00:42:36.430 --> 00:42:38.430
+ dann hat der Hamburger ausgedacht,
+
+00:42:38.430 --> 00:42:40.430
+ dann hat der Hamburger ausgedacht,
+
+00:42:40.430 --> 00:42:42.430
+ dann hat der Hamburger ausgedacht,
+
+00:42:42.430 --> 00:42:44.430
+ dann hat der Hamburger ausgedacht,
+
+00:42:44.430 --> 00:42:46.430
+ dann hat der Hamburger ausgedacht,
+
+00:42:46.430 --> 00:42:48.420
+ dann hat der Hamburger ausgedacht,
+
+00:42:48.420 --> 00:42:50.420
+ dann hat der Hamburger ausgedacht,
+
+00:42:50.420 --> 00:42:52.420
+ dann hat der Hamburger ausgedacht,
+
+00:42:52.420 --> 00:42:54.420
+ dann hat der Hamburger ausgedacht,
+
+00:42:54.420 --> 00:42:56.420
+ dann hat der Hamburger ausgedacht,
+
+00:42:56.420 --> 00:42:58.420
+ dann hat der Hamburger ausgedacht,
+
+00:42:58.420 --> 00:43:00.410
+ dann hat der Hamburger ausgedacht,
+
+00:43:00.410 --> 00:43:02.410
+ dann hat der Hamburger ausgedacht,
+
+00:43:02.410 --> 00:43:04.410
+ dann hat der Hamburger ausgedacht,
+
+00:43:04.410 --> 00:43:06.410
+ dann hat der Hamburger ausgedacht,
+
+00:43:06.410 --> 00:43:08.410
+ dann hat der Hamburger ausgedacht,
+
+00:43:08.410 --> 00:43:10.410
+ dann hat der Hamburger ausgedacht,
+
+00:43:10.410 --> 00:43:12.400
+ dann hat der Hamburger ausgedacht,
+
+00:43:12.400 --> 00:43:14.400
+ dann hat der Hamburger ausgedacht,
+
+00:43:14.400 --> 00:43:16.400
+ dann hat der Hamburger ausgedacht,
+
+00:43:16.400 --> 00:43:18.400
+ dann hat der Hamburger ausgedacht,
+
+00:43:18.400 --> 00:43:20.400
+ dann hat der Hamburger ausgedacht,
+
+00:43:20.400 --> 00:43:22.400
+ dann hat der Hamburger ausgedacht,
+
+00:43:22.400 --> 00:43:24.400
+ dann hat der Hamburger ausgedacht,
+
+00:43:24.400 --> 00:43:26.510
+ dann hat der Hamburger ausgedacht,
+
+00:43:26.510 --> 00:43:28.490
+ dann hat der Hamburger ausgedacht,
+
+00:43:28.490 --> 00:43:30.470
+ dann hat der Hamburger ausgedacht,
+
+00:43:30.470 --> 00:43:32.460
+ dann hat der Hamburger ausgedacht,
+
+00:43:32.460 --> 00:43:34.440
+ dann hat der Hamburger ausgedacht,
+
+00:43:34.440 --> 00:43:36.670
+ dann hat der Hamburger ausgedacht,
+
+00:43:36.670 --> 00:43:38.630
+ dann hat der Hamburger ausgedacht,
+
+00:43:38.630 --> 00:43:40.590
+ dann hat der Hamburger ausgedacht,
+
+00:43:40.590 --> 00:43:43.450
+ dann hat der Hamburger ausgedacht,
+
+00:43:43.450 --> 00:43:45.490
+ dann hat der Hamburger ausgedacht,
+
+00:43:45.490 --> 00:43:47.490
+ dann hat der Hamburger ausgedacht,
+
+00:43:47.490 --> 00:43:49.490
+ dann hat der Hamburger ausgedacht,
+
+00:43:49.490 --> 00:43:51.480
+ dann hat der Hamburger ausgedacht,
+
+00:43:51.480 --> 00:43:53.480
+ dann hat der Hamburger ausgedacht,
+
+00:43:53.480 --> 00:43:55.480
+ dann hat der Hamburger ausgedacht,
+
+00:43:55.480 --> 00:43:57.470
+ dann hat der Hamburger ausgedacht,
+
+00:43:57.470 --> 00:43:59.470
+ dann hat der Hamburger ausgedacht,
+
+00:43:59.470 --> 00:44:01.470
+ dann hat der Hamburger ausgedacht,
+
+00:44:01.470 --> 00:44:03.460
+ dann hat der Hamburger ausgedacht,
+
+00:44:03.460 --> 00:44:05.460
+ dann hat der Hamburger ausgedacht,
+
+00:44:05.460 --> 00:44:07.460
+ dann hat der Hamburger ausgedacht,
+
+00:44:07.460 --> 00:44:09.450
+ dann hat der Hamburger ausgedacht,
+
+00:44:09.450 --> 00:44:11.450
+ dann hat der Hamburger ausgedacht,
+
+00:44:11.450 --> 00:44:13.450
+ dann hat der Hamburger ausgedacht,
+
+00:44:13.450 --> 00:44:15.440
+ dann hat der Hamburger ausgedacht,
+
+00:44:15.440 --> 00:44:17.440
+ dann hat der Hamburger ausgedacht,
+
+00:44:17.440 --> 00:44:19.440
+ dann hat der Hamburger ausgedacht,
+
+00:44:19.440 --> 00:44:21.430
+ dann hat der Hamburger ausgedacht,
+
+00:44:21.430 --> 00:44:23.430
+ dann hat der Hamburger ausgedacht,
+
+00:44:23.430 --> 00:44:25.430
+ dann hat der Hamburger ausgedacht,
+
+00:44:25.430 --> 00:44:27.420
+ dann hat der Hamburger ausgedacht,
+
+00:44:27.420 --> 00:44:29.420
+ dann hat der Hamburger ausgedacht,
+
+00:44:29.420 --> 00:44:31.420
+ dann hat der Hamburger ausgedacht,
+
+00:44:31.420 --> 00:44:33.420
+ dann hat der Hamburger ausgedacht,
+
+00:44:33.420 --> 00:44:35.410
+ dann hat der Hamburger ausgedacht,
+
+00:44:35.410 --> 00:44:37.410
+ dann hat der Hamburger ausgedacht,
+
+00:44:37.410 --> 00:44:39.410
+ dann hat der Hamburger ausgedacht,
+
+00:44:39.410 --> 00:44:41.400
+ dann hat der Hamburger ausgedacht,
+
+00:44:41.400 --> 00:44:43.400
+ dann hat der Hamburger ausgedacht,
+
+00:44:43.400 --> 00:44:45.400
+ dann hat der Hamburger ausgedacht,
+
+00:44:45.400 --> 00:44:47.460
+ dann hat der Hamburger ausgedacht,
+
+00:44:47.460 --> 00:44:49.450
+ dann hat der Hamburger ausgedacht,
+
+00:44:49.450 --> 00:44:51.450
+ dann hat der Hamburger ausgedacht,
+
+00:44:51.450 --> 00:44:53.440
+ dann hat der Hamburger ausgedacht,
+
+00:44:53.440 --> 00:44:55.430
+ dann hat der Hamburger ausgedacht,
+
+00:44:55.430 --> 00:44:57.430
+ dann hat der Hamburger ausgedacht,
+
+00:44:57.430 --> 00:44:59.420
+ dann hat der Hamburger ausgedacht,
+
+00:44:59.420 --> 00:45:01.410
+ dann hat der Hamburger ausgedacht,
+
+00:45:01.410 --> 00:45:03.410
+ dann hat der Hamburger ausgedacht,
+
+00:45:03.410 --> 00:45:05.400
+ dann hat der Hamburger ausgedacht,
+
+00:45:05.400 --> 00:45:07.390
+ dann hat der Hamburger ausgedacht,
+
+00:45:07.390 --> 00:45:09.390
+ dann hat der Hamburger ausgedacht,
+
+00:45:09.390 --> 00:45:11.380
+ dann hat der Hamburger ausgedacht,
+
+00:45:11.380 --> 00:45:13.370
+ dann hat der Hamburger ausgedacht,
+
+00:45:13.370 --> 00:45:15.370
+ dann hat der Hamburger ausgedacht,
+
+00:45:15.370 --> 00:45:17.450
+ dann hat der Hamburger ausgedacht,
+
+00:45:17.450 --> 00:45:19.430
+ dann hat der Hamburger ausgedacht,
+
+00:45:19.430 --> 00:45:21.420
+ dann hat der Hamburger ausgedacht,
+
+00:45:21.420 --> 00:45:23.410
+ dann hat der Hamburger ausgedacht,
+
+00:45:23.410 --> 00:45:25.400
+ dann hat der Hamburger ausgedacht,
+
+00:45:25.400 --> 00:45:27.380
+ dann hat der Hamburger ausgedacht,
+
+00:45:27.380 --> 00:45:29.370
+ dann hat der Hamburger ausgedacht,
+
+00:45:29.370 --> 00:45:31.360
+ dann hat der Hamburger ausgedacht,
+
+00:45:31.360 --> 00:45:33.420
+ dann hat der Hamburger ausgedacht,
+
+00:45:33.420 --> 00:45:35.370
+ dann hat der Hamburger ausgedacht,
+
+00:45:35.370 --> 00:45:37.470
+ dann hat der Hamburger ausgedacht,
+
+00:45:37.470 --> 00:45:39.450
+ dann hat der Hamburger ausgedacht,
+
+00:45:39.450 --> 00:45:41.430
+ dann hat der Hamburger ausgedacht,
+
+00:45:41.430 --> 00:45:43.410
+ dann hat der Hamburger ausgedacht,
+
+00:45:43.410 --> 00:45:45.390
+ dann hat der Hamburger ausgedacht,
+
+00:45:45.390 --> 00:45:48.140
+ dann hat der Hamburger ausgedacht,
+
+00:45:48.140 --> 00:45:50.080
+ dann hat der Hamburger ausgedacht,
+
+00:45:50.080 --> 00:45:52.110
+ dann hat der Hamburger ausgedacht,
+
+00:45:52.110 --> 00:45:54.090
+ dann hat der Hamburger ausgedacht,
+
+00:45:54.090 --> 00:45:56.070
+ dann hat der Hamburger ausgedacht,
+
+00:45:56.070 --> 00:45:58.050
+ dann hat der Hamburger ausgedacht,
+
+00:45:58.050 --> 00:46:00.030
+ dann hat der Hamburger ausgedacht,
+
+00:46:00.030 --> 00:46:02.260
+ dann hat der Hamburger ausgedacht,
+
+00:46:02.260 --> 00:46:04.350
+ dann hat der Hamburger ausgedacht,
+
+00:46:04.350 --> 00:46:06.340
+ dann hat der Hamburger ausgedacht,
+
+00:46:06.340 --> 00:46:08.330
+ dann hat der Hamburger ausgedacht,
+
+00:46:08.330 --> 00:46:10.310
+ dann hat der Hamburger ausgedacht,
+
+00:46:10.310 --> 00:46:12.300
+ dann hat der Hamburger ausgedacht,
+
+00:46:12.300 --> 00:46:14.290
+ dann hat der Hamburger ausgedacht,
+
+00:46:14.290 --> 00:46:16.280
+ dann hat der Hamburger ausgedacht,
+
+00:46:16.280 --> 00:46:18.320
+ dann hat der Hamburger ausgedacht,
+
+00:46:18.320 --> 00:46:20.310
+ dann hat der Hamburger ausgedacht,
+
+00:46:20.310 --> 00:46:22.300
+ dann hat der Hamburger ausgedacht,
+
+00:46:22.300 --> 00:46:24.290
+ dann hat der Hamburger ausgedacht,
+
+00:46:24.290 --> 00:46:26.280
+ dann hat der Hamburger ausgedacht,
+
+00:46:26.280 --> 00:46:28.260
+ dann hat der Hamburger ausgedacht,
+
+00:46:28.260 --> 00:46:30.250
+ dann hat der Hamburger ausgedacht,
+
+00:46:30.250 --> 00:46:32.240
+ dann hat der Hamburger ausgedacht,
+
+00:46:32.240 --> 00:46:34.230
+ dann hat der Hamburger ausgedacht,
+
+00:46:34.230 --> 00:46:36.310
+ dann hat der Hamburger ausgedacht,
+
+00:46:36.310 --> 00:46:38.310
+ dann hat der Hamburger ausgedacht,
+
+00:46:38.310 --> 00:46:40.300
+ dann hat der Hamburger ausgedacht,
+
+00:46:40.300 --> 00:46:42.300
+ dann hat der Hamburger ausgedacht,
+
+00:46:42.300 --> 00:46:44.290
+ dann hat der Hamburger ausgedacht,
+
+00:46:44.290 --> 00:46:46.290
+ dann hat der Hamburger ausgedacht,
+
+00:46:46.290 --> 00:46:48.280
+ dann hat der Hamburger ausgedacht,
+
+00:46:48.280 --> 00:46:50.280
+ dann hat der Hamburger ausgedacht,
+
+00:46:50.280 --> 00:46:52.270
+ dann hat der Hamburger ausgedacht,
+
+00:46:52.270 --> 00:46:54.270
+ dann hat der Hamburger ausgedacht,
+
+00:46:54.270 --> 00:46:56.260
+ dann hat der Hamburger ausgedacht,
+
+00:46:56.260 --> 00:46:58.260
+ dann hat der Hamburger ausgedacht,
+
+00:46:58.260 --> 00:47:00.250
+ dann hat der Hamburger ausgedacht,
+
+00:47:00.250 --> 00:47:02.250
+ dann hat der Hamburger ausgedacht,
+
+00:47:02.250 --> 00:47:04.240
+ dann hat der Hamburger ausgedacht,
+
+00:47:04.240 --> 00:47:06.240
+ dann hat der Hamburger ausgedacht,
+
+00:47:06.240 --> 00:47:08.230
+ dann hat der Hamburger ausgedacht,
+
+00:47:08.230 --> 00:47:10.230
+ dann hat der Hamburger ausgedacht,
+
+00:47:10.230 --> 00:47:12.220
+ dann hat der Hamburger ausgedacht,
+
+00:47:12.220 --> 00:47:14.220
+ dann hat der Hamburger ausgedacht,
+
+00:47:14.220 --> 00:47:16.370
+ dann hat der Hamburger ausgedacht,
+
+00:47:16.370 --> 00:47:18.370
+ dann hat der Hamburger ausgedacht,
+
+00:47:18.370 --> 00:47:20.360
+ dann hat der Hamburger ausgedacht,
+
+00:47:20.360 --> 00:47:22.350
+ dann hat der Hamburger ausgedacht,
+
+00:47:22.350 --> 00:47:24.350
+ dann hat der Hamburger ausgedacht,
+
+00:47:24.350 --> 00:47:26.340
+ dann hat der Hamburger ausgedacht,
+
+00:47:26.340 --> 00:47:28.330
+ dann hat der Hamburger ausgedacht,
+
+00:47:28.330 --> 00:47:30.330
+ dann hat der Hamburger ausgedacht,
+
+00:47:30.330 --> 00:47:32.320
+ dann hat der Hamburger ausgedacht,
+
+00:47:32.320 --> 00:47:34.310
+ dann hat der Hamburger ausgedacht,
+
+00:47:34.310 --> 00:47:36.310
+ dann hat der Hamburger ausgedacht,
+
+00:47:36.310 --> 00:47:38.300
+ dann hat der Hamburger ausgedacht,
+
+00:47:38.300 --> 00:47:40.290
+ dann hat der Hamburger ausgedacht,
+
+00:47:40.290 --> 00:47:42.290
+ dann hat der Hamburger ausgedacht,
+
+00:47:42.290 --> 00:47:44.280
+ dann hat der Hamburger ausgedacht,
+
+00:47:44.280 --> 00:47:46.350
+ dann hat der Hamburger ausgedacht,
+
+00:47:46.350 --> 00:47:48.460
+ dann hat der Hamburger ausgedacht,
+
+00:47:48.460 --> 00:47:50.460
+ dann hat der Hamburger ausgedacht,
+
+00:47:50.460 --> 00:47:52.450
+ dann hat der Hamburger ausgedacht,
+
+00:47:52.450 --> 00:47:54.450
+ dann hat der Hamburger ausgedacht,
+
+00:47:54.450 --> 00:47:56.450
+ dann hat der Hamburger ausgedacht,
+
+00:47:56.450 --> 00:47:58.440
+ dann hat der Hamburger ausgedacht,
+
+00:47:58.440 --> 00:48:00.440
+ dann hat der Hamburger ausgedacht,
+
+00:48:00.440 --> 00:48:02.430
+ dann hat der Hamburger ausgedacht,
+
+00:48:02.430 --> 00:48:04.430
+ dann hat der Hamburger ausgedacht,
+
+00:48:04.430 --> 00:48:06.430
+ dann hat der Hamburger ausgedacht,
+
+00:48:06.430 --> 00:48:08.420
+ dann hat der Hamburger ausgedacht,
+
+00:48:08.420 --> 00:48:10.420
+ dann hat der Hamburger ausgedacht,
+
+00:48:10.420 --> 00:48:12.420
+ dann hat der Hamburger ausgedacht,
+
+00:48:12.420 --> 00:48:14.410
+ dann hat der Hamburger ausgedacht,
+
+00:48:14.410 --> 00:48:16.410
+ dann hat der Hamburger ausgedacht,
+
+00:48:16.410 --> 00:48:18.400
+ dann hat der Hamburger ausgedacht,
+
+00:48:18.400 --> 00:48:20.400
+ dann hat der Hamburger ausgedacht,
+
+00:48:20.400 --> 00:48:22.400
+ dann hat der Hamburger ausgedacht,
+
+00:48:22.400 --> 00:48:24.390
+ dann hat der Hamburger ausgedacht,
+
+00:48:24.390 --> 00:48:26.390
+ dann hat der Hamburger ausgedacht,
+
+00:48:26.390 --> 00:48:28.380
+ dann hat der Hamburger ausgedacht,
+
+00:48:28.380 --> 00:48:30.380
+ dann hat der Hamburger ausgedacht,
+
+00:48:30.380 --> 00:48:32.380
+ dann hat der Hamburger ausgedacht,
+
+00:48:32.380 --> 00:48:34.370
+ dann hat der Hamburger ausgedacht,
+
+00:48:34.370 --> 00:48:36.370
+ dann hat der Hamburger ausgedacht,
+
+00:48:36.370 --> 00:48:38.370
+ dann hat der Hamburger ausgedacht,
+
+00:48:38.370 --> 00:48:40.450
+ dann hat der Hamburger ausgedacht,
+
+00:48:40.450 --> 00:48:42.450
+ dann hat der Hamburger ausgedacht,
+
+00:48:42.450 --> 00:48:44.440
+ dann hat der Hamburger ausgedacht,
+
+00:48:44.440 --> 00:48:46.440
+ dann hat der Hamburger ausgedacht,
+
+00:48:46.440 --> 00:48:48.430
+ dann hat der Hamburger ausgedacht,
+
+00:48:48.430 --> 00:48:50.430
+ dann hat der Hamburger ausgedacht,
+
+00:48:50.430 --> 00:48:52.430
+ dann hat der Hamburger ausgedacht,
+
+00:48:52.430 --> 00:48:54.420
+ dann hat der Hamburger ausgedacht,
+
+00:48:54.420 --> 00:48:56.420
+ dann hat der Hamburger ausgedacht,
+
+00:48:56.420 --> 00:48:58.410
+ dann hat der Hamburger ausgedacht,
+
+00:48:58.410 --> 00:49:00.410
+ dann hat der Hamburger ausgedacht,
+
+00:49:00.410 --> 00:49:02.410
+ dann hat der Hamburger ausgedacht,
+
+00:49:02.410 --> 00:49:04.400
+ dann hat der Hamburger ausgedacht,
+
+00:49:04.400 --> 00:49:06.400
+ dann hat der Hamburger ausgedacht,
+
+00:49:06.400 --> 00:49:08.390
+ dann hat der Hamburger ausgedacht,
+
+00:49:08.390 --> 00:49:10.390
+ dann hat der Hamburger ausgedacht,
+
+00:49:10.390 --> 00:49:12.380
+ dann hat der Hamburger ausgedacht,
+
+00:49:12.380 --> 00:49:14.380
+ dann hat der Hamburger ausgedacht,
+
+00:49:14.380 --> 00:49:16.380
+ dann hat der Hamburger ausgedacht,
+
+00:49:16.380 --> 00:49:18.370
+ dann hat der Hamburger ausgedacht,
+
+00:49:18.370 --> 00:49:20.370
+ dann hat der Hamburger ausgedacht,
+
+00:49:20.370 --> 00:49:22.360
+ dann hat der Hamburger ausgedacht,
+
+00:49:22.360 --> 00:49:24.360
+ dann hat der Hamburger ausgedacht,
+
+00:49:24.360 --> 00:49:26.550
+ dann hat der Hamburger ausgedacht,
+
+00:49:26.550 --> 00:49:28.510
+ dann hat der Hamburger ausgedacht,
+
+00:49:28.510 --> 00:49:30.470
+ dann hat der Hamburger ausgedacht,
+
+00:49:30.470 --> 00:49:32.510
+ dann hat der Hamburger ausgedacht,
+
+00:49:32.510 --> 00:49:34.510
+ dann hat der Hamburger ausgedacht,
+
+00:49:34.510 --> 00:49:36.500
+ dann hat der Hamburger ausgedacht,
+
+00:49:36.500 --> 00:49:38.500
+ dann hat der Hamburger ausgedacht,
+
+00:49:38.500 --> 00:49:40.490
+ dann hat der Hamburger ausgedacht,
+
+00:49:40.490 --> 00:49:42.490
+ dann hat der Hamburger ausgedacht,
+
+00:49:42.490 --> 00:49:44.480
+ dann hat der Hamburger ausgedacht,
+
+00:49:44.480 --> 00:49:46.480
+ dann hat der Hamburger ausgedacht,
+
+00:49:46.480 --> 00:49:48.470
+ dann hat der Hamburger ausgedacht,
+
+00:49:48.470 --> 00:49:50.470
+ dann hat der Hamburger ausgedacht,
+
+00:49:50.470 --> 00:49:52.460
+ dann hat der Hamburger ausgedacht,
+
+00:49:52.460 --> 00:49:54.460
+ dann hat der Hamburger ausgedacht,
+
+00:49:54.460 --> 00:49:56.450
+ dann hat der Hamburger ausgedacht,
+
+00:49:56.450 --> 00:49:58.450
+ dann hat der Hamburger ausgedacht,
+
+00:49:58.450 --> 00:50:00.440
+ dann hat der Hamburger ausgedacht,
+
+00:50:00.440 --> 00:50:02.440
+ dann hat der Hamburger ausgedacht,
+
+00:50:02.440 --> 00:50:04.430
+ dann hat der Hamburger ausgedacht,
+
+00:50:04.430 --> 00:50:06.420
+ dann hat der Hamburger ausgedacht,
+
+00:50:06.420 --> 00:50:08.420
+ dann hat der Hamburger ausgedacht,
+
+00:50:08.420 --> 00:50:10.470
+ dann hat der Hamburger ausgedacht,
+
+00:50:10.470 --> 00:50:12.660
+ dann hat der Hamburger ausgedacht,
+
+00:50:12.660 --> 00:50:14.650
+ dann hat der Hamburger ausgedacht,
+
+00:50:14.650 --> 00:50:16.640
+ dann hat der Hamburger ausgedacht,
+
+00:50:16.640 --> 00:50:18.630
+ dann hat der Hamburger ausgedacht,
+
+00:50:18.630 --> 00:50:20.620
+ dann hat der Hamburger ausgedacht,
+
+00:50:20.620 --> 00:50:22.620
+ dann hat der Hamburger ausgedacht,
+
+00:50:22.620 --> 00:50:24.610
+ dann hat der Hamburger ausgedacht,
+
+00:50:24.610 --> 00:50:26.600
+ dann hat der Hamburger ausgedacht,
+
+00:50:26.600 --> 00:50:28.590
+ dann hat der Hamburger ausgedacht,
+
+00:50:28.590 --> 00:50:30.580
+ dann hat der Hamburger ausgedacht,
+
+00:50:30.580 --> 00:50:32.580
+ dann hat der Hamburger ausgedacht,
+
+00:50:32.580 --> 00:50:34.570
+ dann hat der Hamburger ausgedacht,
+
+00:50:34.570 --> 00:50:36.690
+ dann hat der Hamburger ausgedacht,
+
+00:50:36.690 --> 00:50:38.680
+ dann hat der Hamburger ausgedacht,
+
+00:50:38.680 --> 00:50:40.680
+ dann hat der Hamburger ausgedacht,
+
+00:50:40.680 --> 00:50:42.670
+ dann hat der Hamburger ausgedacht,
+
+00:50:42.670 --> 00:50:44.670
+ dann hat der Hamburger ausgedacht,
+
+00:50:44.670 --> 00:50:46.660
+ dann hat der Hamburger ausgedacht,
+
+00:50:46.660 --> 00:50:48.650
+ dann hat der Hamburger ausgedacht,
+
+00:50:48.650 --> 00:50:50.650
+ dann hat der Hamburger ausgedacht,
+
+00:50:50.650 --> 00:50:52.640
+ dann hat der Hamburger ausgedacht,
+
+00:50:52.640 --> 00:50:54.640
+ dann hat der Hamburger ausgedacht,
+
+00:50:54.640 --> 00:50:56.630
+ dann hat der Hamburger ausgedacht,
+
+00:50:56.630 --> 00:50:58.620
+ dann hat der Hamburger ausgedacht,
+
+00:50:58.620 --> 00:51:00.620
+ dann hat der Hamburger ausgedacht,
+
+00:51:00.620 --> 00:51:02.610
+ dann hat der Hamburger ausgedacht,
+
+00:51:02.610 --> 00:51:04.600
+ dann hat der Hamburger ausgedacht,
+
+00:51:04.600 --> 00:51:06.600
+ dann hat der Hamburger ausgedacht,
+
+00:51:06.600 --> 00:51:08.810
+ dann hat der Hamburger ausgedacht,
+
+00:51:08.810 --> 00:51:10.800
+ dann hat der Hamburger ausgedacht,
+
+00:51:10.800 --> 00:51:12.800
+ dann hat der Hamburger ausgedacht,
+
+00:51:12.800 --> 00:51:14.790
+ dann hat der Hamburger ausgedacht,
+
+00:51:14.790 --> 00:51:16.780
+ dann hat der Hamburger ausgedacht,
+
+00:51:16.780 --> 00:51:18.770
+ dann hat der Hamburger ausgedacht,
+
+00:51:18.770 --> 00:51:20.760
+ dann hat der Hamburger ausgedacht,
+
+00:51:20.760 --> 00:51:22.760
+ dann hat der Hamburger ausgedacht,
+
+00:51:22.760 --> 00:51:24.750
+ dann hat der Hamburger ausgedacht,
+
+00:51:24.750 --> 00:51:26.740
+ dann hat der Hamburger ausgedacht,
+
+00:51:26.740 --> 00:51:28.730
+ dann hat der Hamburger ausgedacht,
+
+00:51:28.730 --> 00:51:30.720
+ dann hat der Hamburger ausgedacht,
+
+00:51:30.720 --> 00:51:32.720
+ dann hat der Hamburger ausgedacht,
+
+00:51:32.720 --> 00:51:34.870
+ dann hat der Hamburger ausgedacht,
+
+00:51:34.870 --> 00:51:36.860
+ dann hat der Hamburger ausgedacht,
+
+00:51:36.860 --> 00:51:38.850
+ dann hat der Hamburger ausgedacht,
+
+00:51:38.850 --> 00:51:40.830
+ dann hat der Hamburger ausgedacht,
+
+00:51:40.830 --> 00:51:42.820
+ dann hat der Hamburger ausgedacht,
+
+00:51:42.820 --> 00:51:44.810
+ dann hat der Hamburger ausgedacht,
+
+00:51:44.810 --> 00:51:46.800
+ dann hat der Hamburger ausgedacht,
+
+00:51:46.800 --> 00:51:48.790
+ dann hat der Hamburger ausgedacht,
+
+00:51:48.790 --> 00:51:50.780
+ dann hat der Hamburger ausgedacht,
+
+00:51:50.780 --> 00:51:52.840
+ dann hat der Hamburger ausgedacht,
+
+00:51:52.840 --> 00:51:54.830
+ dann hat der Hamburger ausgedacht,
+
+00:51:54.830 --> 00:51:56.820
+ dann hat der Hamburger ausgedacht,
+
+00:51:56.820 --> 00:51:58.810
+ dann hat der Hamburger ausgedacht,
+
+00:51:58.810 --> 00:52:00.800
+ dann hat der Hamburger ausgedacht,
+
+00:52:00.800 --> 00:52:02.790
+ dann hat der Hamburger ausgedacht,
+
+00:52:02.790 --> 00:52:04.780
+ dann hat der Hamburger ausgedacht,
+
+00:52:04.780 --> 00:52:06.770
+ dann hat der Hamburger ausgedacht,
+
+00:52:06.770 --> 00:52:08.770
+ dann hat der Hamburger ausgedacht,
+
+00:52:08.770 --> 00:52:10.760
+ dann hat der Hamburger ausgedacht,
+
+00:52:10.760 --> 00:52:12.750
+ dann hat der Hamburger ausgedacht,
+
+00:52:12.750 --> 00:52:15.030
+ dann hat der Hamburger ausgedacht,
+
+00:52:15.030 --> 00:52:17.030
+ dann hat der Hamburger ausgedacht,
+
+00:52:17.030 --> 00:52:19.030
+ dann hat der Hamburger ausgedacht,
+
+00:52:19.030 --> 00:52:21.020
+ dann hat der Hamburger ausgedacht,
+
+00:52:21.020 --> 00:52:23.020
+ dann hat der Hamburger ausgedacht,
+
+00:52:23.020 --> 00:52:25.010
+ dann hat der Hamburger ausgedacht,
+
+00:52:25.010 --> 00:52:27.010
+ dann hat der Hamburger ausgedacht,
+
+00:52:27.010 --> 00:52:29.000
+ dann hat der Hamburger ausgedacht,
+
+00:52:29.000 --> 00:52:31.000
+ dann hat der Hamburger ausgedacht,
+
+00:52:31.000 --> 00:52:33.000
+ dann hat der Hamburger ausgedacht,
+
+00:52:33.000 --> 00:52:34.990
+ dann hat der Hamburger ausgedacht,
+
+00:52:34.990 --> 00:52:36.990
+ dann hat der Hamburger ausgedacht,
+
+00:52:36.990 --> 00:52:38.980
+ dann hat der Hamburger ausgedacht,
+
+00:52:38.980 --> 00:52:40.980
+ dann hat der Hamburger ausgedacht,
+
+00:52:40.980 --> 00:52:42.970
+ dann hat der Hamburger ausgedacht,
+
+00:52:42.970 --> 00:52:44.970
+ dann hat der Hamburger ausgedacht,
+
+00:52:44.970 --> 00:52:46.970
+ dann hat der Hamburger ausgedacht,
+
+00:52:46.970 --> 00:52:48.960
+ dann hat der Hamburger ausgedacht,
+
+00:52:48.960 --> 00:52:50.960
+ dann hat der Hamburger ausgedacht,
+
+00:52:50.960 --> 00:52:52.950
+ dann hat der Hamburger ausgedacht,
+
+00:52:52.950 --> 00:52:54.950
+ dann hat der Hamburger ausgedacht,
+
+00:52:54.950 --> 00:52:56.940
+ dann hat der Hamburger ausgedacht,
+
+00:52:56.940 --> 00:52:58.940
+ dann hat der Hamburger ausgedacht,
+
+00:52:58.940 --> 00:53:00.940
+ dann hat der Hamburger ausgedacht,
+
+00:53:00.940 --> 00:53:03.280
+ dann hat der Hamburger ausgedacht,
+
+00:53:03.280 --> 00:53:05.250
+ dann hat der Hamburger ausgedacht,
+
+00:53:05.250 --> 00:53:07.230
+ dann hat der Hamburger ausgedacht,
+
+00:53:07.230 --> 00:53:09.210
+ dann hat der Hamburger ausgedacht,
+
+00:53:09.210 --> 00:53:11.320
+ dann hat der Hamburger ausgedacht,
+
+00:53:11.320 --> 00:53:13.320
+ dann hat der Hamburger ausgedacht,
+
+00:53:13.320 --> 00:53:15.320
+ dann hat der Hamburger ausgedacht,
+
+00:53:15.320 --> 00:53:17.320
+ dann hat der Hamburger ausgedacht,
+
+00:53:17.320 --> 00:53:19.310
+ dann hat der Hamburger ausgedacht,
+
+00:53:19.310 --> 00:53:21.310
+ dann hat der Hamburger ausgedacht,
+
+00:53:21.310 --> 00:53:23.310
+ dann hat der Hamburger ausgedacht,
+
+00:53:23.310 --> 00:53:25.310
+ dann hat der Hamburger ausgedacht,
+
+00:53:25.310 --> 00:53:27.300
+ dann hat der Hamburger ausgedacht,
+
+00:53:27.300 --> 00:53:29.300
+ dann hat der Hamburger ausgedacht,
+
+00:53:29.300 --> 00:53:31.300
+ dann hat der Hamburger ausgedacht,
+
+00:53:31.300 --> 00:53:33.300
+ dann hat der Hamburger ausgedacht,
+
+00:53:33.300 --> 00:53:35.290
+ dann hat der Hamburger ausgedacht,
+
+00:53:35.290 --> 00:53:37.290
+ dann hat der Hamburger ausgedacht,
+
+00:53:37.290 --> 00:53:39.290
+ dann hat der Hamburger ausgedacht,
+
+00:53:39.290 --> 00:53:41.290
+ dann hat der Hamburger ausgedacht,
+
+00:53:41.290 --> 00:53:43.290
+ dann hat der Hamburger ausgedacht,
+
+00:53:43.290 --> 00:53:45.280
+ dann hat der Hamburger ausgedacht,
+
+00:53:45.280 --> 00:53:47.280
+ dann hat der Hamburger ausgedacht,
+
+00:53:47.280 --> 00:53:49.280
+ dann hat der Hamburger ausgedacht,
+
+00:53:49.280 --> 00:53:51.280
+ dann hat der Hamburger ausgedacht,
+
+00:53:51.280 --> 00:53:53.270
+ dann hat der Hamburger ausgedacht,
+
+00:53:53.270 --> 00:53:55.270
+ dann hat der Hamburger ausgedacht,
+
+00:53:55.270 --> 00:53:57.270
+ dann hat der Hamburger ausgedacht,
+
+00:53:57.270 --> 00:53:59.270
+ dann hat der Hamburger ausgedacht,
+
+00:53:59.270 --> 00:54:01.260
+ dann hat der Hamburger ausgedacht,
+
+00:54:01.260 --> 00:54:03.260
+ dann hat der Hamburger ausgedacht,
+
+00:54:03.260 --> 00:54:05.260
+ dann hat der Hamburger ausgedacht,
+
+00:54:05.260 --> 00:54:07.260
+ dann hat der Hamburger ausgedacht,
+
+00:54:07.260 --> 00:54:09.250
+ dann hat der Hamburger ausgedacht,
+
+00:54:09.250 --> 00:54:11.250
+ dann hat der Hamburger ausgedacht,
+
+00:54:11.250 --> 00:54:13.250
+ dann hat der Hamburger ausgedacht,
+
+00:54:13.250 --> 00:54:15.250
+ dann hat der Hamburger ausgedacht,
+
+00:54:15.250 --> 00:54:17.240
+ dann hat der Hamburger ausgedacht,
+
+00:54:17.240 --> 00:54:19.240
+ dann hat der Hamburger ausgedacht,
+
+00:54:19.240 --> 00:54:21.240
+ dann hat der Hamburger ausgedacht,
+
+00:54:21.240 --> 00:54:23.240
+ dann hat der Hamburger ausgedacht,
+
+00:54:23.240 --> 00:54:25.230
+ dann hat der Hamburger ausgedacht,
+
+00:54:25.230 --> 00:54:27.230
+ dann hat der Hamburger ausgedacht,
+
+00:54:27.230 --> 00:54:29.230
+ dann hat der Hamburger ausgedacht,
+
+00:54:29.230 --> 00:54:31.230
+ dann hat der Hamburger ausgedacht,
+
+00:54:31.230 --> 00:54:33.540
+ dann hat der Hamburger ausgedacht,
+
+00:54:33.540 --> 00:54:35.530
+ dann hat der Hamburger ausgedacht,
+
+00:54:35.530 --> 00:54:37.530
+ dann hat der Hamburger ausgedacht,
+
+00:54:37.530 --> 00:54:39.520
+ dann hat der Hamburger ausgedacht,
+
+00:54:39.520 --> 00:54:41.510
+ dann hat der Hamburger ausgedacht,
+
+00:54:41.510 --> 00:54:43.500
+ dann hat der Hamburger ausgedacht,
+
+00:54:43.500 --> 00:54:45.490
+ dann hat der Hamburger ausgedacht,
+
+00:54:45.490 --> 00:54:47.480
+ dann hat der Hamburger ausgedacht,
+
+00:54:47.480 --> 00:54:49.480
+ dann hat der Hamburger ausgedacht,
+
+00:54:49.480 --> 00:54:51.470
+ dann hat der Hamburger ausgedacht,
+
+00:54:51.470 --> 00:54:53.460
+ dann hat der Hamburger ausgedacht,
+
+00:54:53.460 --> 00:54:55.450
+ dann hat der Hamburger ausgedacht,
+
+00:54:55.450 --> 00:54:57.790
+ dann hat der Hamburger ausgedacht,
+
+00:54:57.790 --> 00:54:59.780
+ dann hat der Hamburger ausgedacht,
+
+00:54:59.780 --> 00:55:01.780
+ dann hat der Hamburger ausgedacht,
+
+00:55:01.780 --> 00:55:03.770
+ dann hat der Hamburger ausgedacht,
+
+00:55:03.770 --> 00:55:05.760
+ dann hat der Hamburger ausgedacht,
+
+00:55:05.760 --> 00:55:07.750
+ dann hat der Hamburger ausgedacht,
+
+00:55:07.750 --> 00:55:09.740
+ dann hat der Hamburger ausgedacht,
+
+00:55:09.740 --> 00:55:11.740
+ dann hat der Hamburger ausgedacht,
+
+00:55:11.740 --> 00:55:13.730
+ dann hat der Hamburger ausgedacht,
+
+00:55:13.730 --> 00:55:15.720
+ dann hat der Hamburger ausgedacht,
+
+00:55:15.720 --> 00:55:17.710
+ dann hat der Hamburger ausgedacht,
+
+00:55:17.710 --> 00:55:19.700
+ dann hat der Hamburger ausgedacht,
+
+00:55:19.700 --> 00:55:21.700
+ dann hat der Hamburger ausgedacht,
+
+00:55:21.700 --> 00:55:23.910
+ dann hat der Hamburger ausgedacht,
+
+00:55:23.910 --> 00:55:25.900
+ dann hat der Hamburger ausgedacht,
+
+00:55:25.900 --> 00:55:27.900
+ dann hat der Hamburger ausgedacht,
+
+00:55:27.900 --> 00:55:29.890
+ dann hat der Hamburger ausgedacht,
+
+00:55:29.890 --> 00:55:31.890
+ dann hat der Hamburger ausgedacht,
+
+00:55:31.890 --> 00:55:33.880
+ dann hat der Hamburger ausgedacht,
+
+00:55:33.880 --> 00:55:35.870
+ dann hat der Hamburger ausgedacht,
+
+00:55:35.870 --> 00:55:37.870
+ dann hat der Hamburger ausgedacht,
+
+00:55:37.870 --> 00:55:39.860
+ dann hat der Hamburger ausgedacht,
+
+00:55:39.860 --> 00:55:41.860
+ dann hat der Hamburger ausgedacht,
+
+00:55:41.860 --> 00:55:43.850
+ dann hat der Hamburger ausgedacht,
+
+00:55:43.850 --> 00:55:45.840
+ dann hat der Hamburger ausgedacht,
+
+00:55:45.840 --> 00:55:47.840
+ dann hat der Hamburger ausgedacht,
+
+00:55:47.840 --> 00:55:49.830
+ dann hat der Hamburger ausgedacht,
+
+00:55:49.830 --> 00:55:51.830
+ dann hat der Hamburger ausgedacht,
+
+00:55:51.830 --> 00:55:53.820
+ dann hat der Hamburger ausgedacht,
+
+00:55:53.820 --> 00:55:56.930
+ dann hat der Hamburger ausgedacht,
+
+00:55:56.930 --> 00:55:59.040
+ dann hat der Hamburger ausgedacht,
+
+00:55:59.040 --> 00:56:01.020
+ dann hat der Hamburger ausgedacht,
+
+00:56:01.020 --> 00:56:02.990
+ dann hat der Hamburger ausgedacht,
+
+00:56:02.990 --> 00:56:05.350
+ dann hat der Hamburger ausgedacht,
+
+00:56:05.350 --> 00:56:07.340
+ dann hat der Hamburger ausgedacht,
+
+00:56:07.340 --> 00:56:09.330
+ dann hat der Hamburger ausgedacht,
+
+00:56:09.330 --> 00:56:11.320
+ dann hat der Hamburger ausgedacht,
+
+00:56:11.320 --> 00:56:13.310
+ dann hat der Hamburger ausgedacht,
+
+00:56:13.310 --> 00:56:15.300
+ dann hat der Hamburger ausgedacht,
+
+00:56:15.300 --> 00:56:17.290
+ dann hat der Hamburger ausgedacht,
+
+00:56:17.290 --> 00:56:19.280
+ dann hat der Hamburger ausgedacht,
+
+00:56:19.280 --> 00:56:21.270
+ dann hat der Hamburger ausgedacht,
+
+00:56:21.270 --> 00:56:23.260
+ dann hat der Hamburger ausgedacht,
+
+00:56:23.260 --> 00:56:25.350
+ dann hat der Hamburger ausgedacht,
+
+00:56:25.350 --> 00:56:27.350
+ dann hat der Hamburger ausgedacht,
+
+00:56:27.350 --> 00:56:29.350
+ dann hat der Hamburger ausgedacht,
+
+00:56:29.350 --> 00:56:31.350
+ dann hat der Hamburger ausgedacht,
+
+00:56:31.350 --> 00:56:33.350
+ dann hat der Hamburger ausgedacht,
+
+00:56:33.350 --> 00:56:35.350
+ dann hat der Hamburger ausgedacht,
+
+00:56:35.350 --> 00:56:37.350
+ dann hat der Hamburger ausgedacht,
+
+00:56:37.350 --> 00:56:39.350
+ dann hat der Hamburger ausgedacht,
+
+00:56:39.350 --> 00:56:41.350
+ dann hat der Hamburger ausgedacht,
+
+00:56:41.350 --> 00:56:43.350
+ dann hat der Hamburger ausgedacht,
+
+00:56:43.350 --> 00:56:45.350
+ dann hat der Hamburger ausgedacht,
+
+00:56:45.350 --> 00:56:47.350
+ dann hat der Hamburger ausgedacht,
+
+00:56:47.350 --> 00:56:49.350
+ dann hat der Hamburger ausgedacht,
+
+00:56:49.350 --> 00:56:51.350
+ dann hat der Hamburger ausgedacht,
+
+00:56:51.350 --> 00:56:53.350
+ dann hat der Hamburger ausgedacht,
+
+00:56:53.350 --> 00:56:55.350
+ dann hat der Hamburger ausgedacht,
+
+00:56:55.350 --> 00:56:57.350
+ dann hat der Hamburger ausgedacht,
+
+00:56:57.350 --> 00:56:59.350
+ dann hat der Hamburger ausgedacht,
+
+00:56:59.350 --> 00:57:01.350
+ dann hat der Hamburger ausgedacht,
+
+00:57:01.350 --> 00:57:03.350
+ dann hat der Hamburger ausgedacht,
+
+00:57:03.350 --> 00:57:05.350
+ dann hat der Hamburger ausgedacht,
+
+00:57:05.350 --> 00:57:07.350
  Bis zum nächsten Mal. Tschüss.
-
-00:57:07.000 --> 00:57:08.000
- Tschüss.
-
-00:57:08.000 --> 00:57:10.000
- (Dynamische Musik)
-
-00:57:38.000 --> 00:57:40.000
- (Dynamische Musik)
-
-00:58:08.000 --> 00:58:10.000
- (Dynamische Musik)
-
-00:58:38.000 --> 00:58:40.000
- (Dynamische Musik)
-
-00:59:08.000 --> 00:59:10.000
- (Dynamische Musik)
-
-00:59:38.000 --> 00:59:40.000
- (Dynamische Musik)
 
