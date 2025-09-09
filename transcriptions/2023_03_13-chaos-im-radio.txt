@@ -1,570 +1,325 @@
  Hallo und herzlich willkommen zu Chaos im Radio.
  Hallo und herzlich willkommen zu Chaos im Radio.
- Es ist wieder Montag, und zwar der zweite Montag im Monat.
- Und da hört ihr uns im freien Radio Potsdam.
- Und wir, das sind diese Woche der Cyroxx.
+ Es ist wieder Montag und zwar der zweite Montag im Monat und da hört ihr uns im freien  Radio Potsdam und wir, das sind diese Woche der Cyroxx.
  Hallo.
  Der Knurps.
- Bisschen aus der Dose, moin moin.
+ Bisschen aus der Dose.
+ Moin Moin.
  Hallo Knurps aus der Dose und ich, der Hannes.
  Hallo Hannes.
  Und Grüße gehen raus an Gini, die haben wir irgendwo verloren.
  Ist man nicht genau wo?
  Wahrscheinlich in den Terminvereinbarungen des heutigen Tages.
  Oder in den Untiefen des Internets.
- Ja, da ist ja einiges los gewesen in diesem Internet.
- Und in Potsdam vielleicht auch.
- Ich sehe hier eine Liste voller Themen.
- Ich habe mich dafür entschieden, sie nicht zu lesen.
+ Ja, da ist ja einiges los gewesen in diesem Internet und in Potsdam vielleicht auch.
+ Ich sehe hier eine Liste voller Themen, ich habe mich dafür entschieden sie nicht zu  lesen.
  Du meinst, das erhöht das Überraschungsmoment?
- Genau, einfach mal ein bisschen spontan sein.
- Und deswegen, Cyroxx, ich glaube, das erste Thema,  da steht hier Chip Krieg.
- Da wollen wir doch jetzt mal drüber sprechen.
- Was willst du mir damit sagen?
- Chip Krieg.
-Es herrscht Chip Krieg überall.
- Nein, ein bisschen als ein Thema zum Einstieg vielleicht,  dass wir gar nicht so als so sehr in der Tiefe abhandeln müssen,  aber eine Sache, die so in der letzten Zeit passiert ist,  oder die auch gerade so ein bisschen aktuell ist,  auch ist, dass es gibt ja so ein paar Sanktionen weltweit,  gegenüber Russland, teilweise auch, aber zum Beispiel gegenüber China.
- Und da gibt es aktuell tatsächlich gerade ein paar Sanktionen,  die sich gegen China richten,  dass sowohl die USA als auch beispielsweise die Niederlande,  kann ich gleich kurz erzählen, warum,  warum die Sanktionen eingeführt haben,  die sich gegen China richten,  dass die bestimmte Geräte nicht einführen dürfen,  was denn Chip-Produktion beeinträchtigt?
- Warum die USA und vor allem warum auch die Niederlande?
- Tatsächlich braucht man zur Chip-Produktion heutzutage  extrem spezialisierte Maschinen, die so einen Chip fertigen können.
- Also hat vielleicht jeder von euch schon mal so einen sogenannten Wafer gesehen,  so eine Platte aus Silizium, mit der dann irgendwie tolle Dinge getan werden.
- Und heutzutage sind diese Strukturen,  die auf so einen Wafer aufgebracht werden, sind so klein.
- Also wir kennen das ja alle von Technik, wird immer leistungsfähiger.
- In unseren Handys steckt, obwohl sie ungefähr gleich groß bleiben,  steckt immer mehr Zeug drin.
- Und das hängt unter anderem damit zusammen,  wie klein die Strukturen gemacht werden können.
- Und was man dafür aber braucht, ist extrem präzise Technik  und auch extrem kurzwelliges Licht,  das man ganz genau bündeln kann.
- Und dafür braucht man ganz besondere Maschinen.
- Und da gibt es nur ganz wenige Firmen,  die solche Maschinen auch mit dieser Präzision herstellen können.
- Und unter anderem eine davon ist in den Niederlanden.
- Deswegen sind die damit involviert in dieses Sanktionspaket.
- Hintergrund ist da sicherlich wahrscheinlich so ein bisschen ein,  zum Beispiel in den USA, ja, ein bisschen angetrieben durch Donald Trump.
- Und ja jetzt aber auch ein bisschen weitergeführt durch Joe Biden.
- Die Sache mit denen wir wollen Arbeitsplätze in die USA zurückbringen  und wir wollen in China alles irgendwie überlassen,  was die Chip-Produktion und so anbelangt.
- Vor dem Hintergrund sehe ich das jetzt.
- Ich habe tatsächlich nicht so ganz den großen außenpolitischen Hintergrund  zu diesem Thema mit Chip-Produktion.
- Aber ich glaube, da kann ich gegebenenfalls auch mal ein Video raussuchen,  wo das noch mal ein bisschen besser erklärt wird.
- Ja, genau.
- Aber das ist ein bisschen sehr Hintergrund hinter diesem,  was ich jetzt hier als Chip Creek mal hinterlegt habe.
- Das ist übrigens tatsächlich, glaube ich, der einzige Hersteller für diese,  also für die Hoch-High-Tech-Chips.
- Die Maschinen, die man da braucht, werden tatsächlich nur von ASML hergestellt.
+ Ja, einfach mal ein bisschen spontan sein und deswegen Cyroxx, ich glaube das erste Thema,  da steht hier Chipkrieg, da wollen wir doch jetzt mal drüber sprechen, was willst du mir  damit sagen?
+ Chipkrieg, es herrscht Chipkrieg überall, ja, so ein bisschen als ein Thema zum Einstieg  vielleicht, dass wir gar nicht so als so sehr in der Tiefe abhandeln müssen, aber eine  Sache, die so in der letzten Zeit passiert ist oder die auch gerade so ein bisschen aktuell  ist, auch ist, dass es gibt ja so ein paar Sanktionen weltweit gegenüber Russland, teilweise auch  aber zum Beispiel gegenüber China und da gibt es aktuell tatsächlich gerade ein paar Sanktionen,  die sich gegen China richten, dass sowohl die USA als auch beispielsweise die Niederlande,  kann ich gleich kurz erzählen warum, warum die Sanktionen eingeführt haben, die sich  gegen China richten, dass die bestimmte Geräte nicht einführen dürfen, was denn Chipproduktion  beeinträchtigt, warum die USA und vor allem warum auch die Niederlande, tatsächlich braucht  man zur Chipproduktion heutzutage extrem spezialisierte Maschinen, die so einen Chip  fertigen können, also hat vielleicht jeder von euch schon mal so einen sogenannten Wafer  gesehen, so eine Platte aus Silicium, mit der dann irgendwie tolle Dinge getan werden  und heutzutage sind diese Strukturen, die auf so einen Wafer aufgebracht werden, sind  so klein, also wir kennen das ja alle von Technik wird immer leistungsfähiger, in unseren  Handys steckt, obwohl sie ungefähr gleich groß bleiben, steckt immer mehr Zeug drin  und das hängt unter anderem damit zusammen, wie klein die Strukturen gemacht werden können  und was man dafür aber braucht ist extrem präzise Technik und auch extrem kurzwelliges  Licht, dass man ganz genau bündeln kann und dafür braucht man ganz besondere Maschinen  und da gibt es nur ganz wenige Firmen, die solche Maschinen auch mit dieser Präzision  herstellen können und unter anderem eine davon ist in den Niederlanden, deswegen sind die  damit involviert in dieses Sanktionspaket.
+Hintergrund ist da sicherlich wahrscheinlich  so ein bisschen ein, zum Beispiel in den USA ja, ein bisschen angetrieben durch Donald  Trump und ja jetzt aber auch ein bisschen weitergeführt durch Joe Biden, die Sache  mit denen wir wollen Arbeitsplätze in die USA zurückbringen und wir wollen in China alles  irgendwie überlassen, was die Chipproduktion und so anbelangt.
+Wo dem Hintergrund sehe  ich das jetzt?
+Ich habe tatsächlich nicht so ganz den großen außenpolitischen Hintergrund  zu diesem Thema mit Chipproduktion, aber kann ich gegebenenfalls auch mal noch ein Video  raussuchen, wo das noch mal ein bisschen besser erklärt wird.
+Ja, genau, aber das ist  so ein bisschen der Hintergrund hinter diesem, was ich jetzt hier als Chip Creek mal hinterlegt  habe.
+Das ist übrigens tatsächlich, glaube ich, der einzige Hersteller für diese, also  für die Hoch high-tech Chips, die Maschinen die man dann braucht, wenn tatsächlich nur  von ASML hergestellt.
+Richtig.
+Und ich habe gestern zufällig gelernt, habt ihr eine  Ahnung, warum die in Niederlanden sind?
+Nee.
+Kommen von Philips.
+Das ist eine Ausgründung  von Philips.
+Also auch da habe ich jetzt eher so Side Note, Philips war ja mal eine der  größten Elektronikfirmen der Welt, also ähnlich wie Sony und Samsung, der mittlerweile fast  alles abverkauft.
+Also auch hier Philips-U und so weiter wird alles nicht von Philips  gemacht, sondern halt von größtenteils chinesischen Firmen, die oder asiatischen Firmen  ganz generell die sowohl markenrechter als auch die Abteilung gekauft haben.
+Philips  selbst macht fast nur noch Medical-Kram.
+Und dann gibt es eben noch ein paar Ausgründungen  so wie ASML, die heutzutage deutlich größer sind als Philips selbst in jeder Metrik.
+Ich  finde das super interessant, was da passiert ist.
+Gibt es ein tolles YouTube Video, was  ich da vielleicht mal verlinken kann?
+Ich habe immer nur mitgekriegt, dass ein Betrieb  in Jena nicht ganz unbeteiligt an diesem Maschinen ist, weil von dort wieder Teilen in die Niederlande  geliefert werden, die auch wiederum nur in Jena entstehen können.
+Genau.
+Jenenoptik beziehungsweise  Katsay Jena, genau.
+Ja, das ist ja da, die sind ja nach wie vor auch Spezialisten, Technologisch-Spezialisten,  was so optische Geräte und Glas und Linsen anbelangt.
+Genau.
+Und kommen wir mal noch  ein bisschen näher.
+In Berlin gibt es auch einen Laden oder eine Bude, die damit nicht  ganz wenig zu tun hat, das im Bessi wird, glaube ich, auch in der Richtung geforscht.
+ Aber in der Stelle ist nur Forschung und entteiligt nicht in dem Stil, wie ASMR das betreibt.
+ Okay, aber Bessi ist das Teilchenbeschleuniger oder wie man ist?
+ Ja, richtig.
+Und mit beschleunigten Teilchen kann ich ganz gut Nanostrukturen produzieren.
+ Aber wie gesagt, nicht im industriellen Maßstab.
+Das ist eher so einzelstücke.
+ Du bringst ja auch noch eine Randnotiz-Zeis, macht auch Software mittlerweile.
+ Wir macht keine so öfter inzwischen.
+Genau, ich habe dich nämlich zufällig auf einer  Messe getroffen, also auf einer Konferenz getroffen, wo es um Datenbanksysteme ging.
+ Da stand auch, war auch ein Zeisstand und ich war ein bisschen überrascht.
+ Fand es dann so Bilddaten oder?
+Genau, also Mikroskopie vor allen Dingen.
+ Man macht eben auch ein bisschen Datenverarbeitung und zack bist du schon wieder beim Machine-Learning  und zack bist du auf einer Datenbankkonferenz.
+ Ja, genau, um noch ein bisschen technologisch rumzunirben, dieses Deep-Ultraviolet, das  liegt so bei 193 Nanometer.
+Und das ist jetzt auch noch eingeschränkt, was vorher schon  eingeschränkt gewesen war, ist das Extreme-Ultraviolet-EUV 13,5 Nanometer.
+ Also ist es noch Licht, ist ja schon fast drücken, was die da so treiben.
+ Ja, mein Physikkurs liegt ein bisschen länger zurück, als dass ich jetzt irgendwie wüsste,  welche Wellenlänge zu welchem Strahlungsbereich gehört, aber das ist ja offenbar zumindest  dem Namen nach Extreme-Ultraviolet.
+ Ich glaube Licht, ich weiß gar nicht, ob Licht definiert ist, also das sichtbares Licht  ist definiert und ansonsten Licht.
+ Ich habe es gerade, die Wellenlänge von Röntgen sind so unter 10 Nanometer und dieses Extreme-Ultraviolet  ist bei 13, d.h.
+die kratzen da schon ganz gut da drin rum.
+ Ja, also wenn du da das Gerät, was es aussendest, schon ein bisschen schneller wirft, hast du  schon Röntgen.
+ Ja, Verschiebung.
+ Ja, deswegen ist das ja alles eine hoch technologische Herausforderung, also nicht nur dass es einfach  ein sehr extrem kurze Wellenlänge hat, sondern das bringt natürlich auch alle anderen möglichen  physikalischen Effekte und Schwierigkeiten herzlich.
+ Noch mal kurzer Ausflug auf die Metaebene, ich meine ja das sind Maschinentechnologie, aber  im Prinzip was da gerade so passiert ist halt, dass man sich als Gesellschaft Möglichkeiten  klaut.
+ Weil vorher hat man, ich sage doch mal, noch zusammengearbeitet in Jena und in Niederlanden  und in Asien und hin und her und jetzt fangen wir an der Stelle an wieder Grenzen rein zu  ziehen und zu sagen, wir arbeiten jetzt mit euch nicht zusammen und deswegen machen wir  Dinge nicht, die man sonst ja vielleicht machen könnte, wenn man vielleicht mal ausnahmsweise  mal nicht gegeneinander arbeiten würde.
+ So, Großgalaktischen, Ach wei.
+ Ja, es ist schwierig.
+ Auf der anderen Seite ist es ja auch irgendwie super wichtig, wenn mehrere gleichzeitig und  unabhängig voneinander versuchen, Dinge zu tun.
  Richtig.
- Und ich habe gestern zufällig gelernt,  habt ihr eine Ahnung, warum die in den Niederlanden sind?
- Nee.
- Nee?
- Die kommen von Philips.
- Das ist eine Ausgründung von Philips.
- Ah.
- Und also auch da habe ich, das ist jetzt eher so ein Side-Note,  also Philips war ja mal eine der größten Elektronikfirmen der Welt,  also ähnlich wie Sony und Samsung,  der mittlerweile fast alles abverkauft.
- Also auch hier Philips-U und so weiter wird alles nicht von Philips gemacht,  sondern halt von größtenteils chinesischen Firmen die,  oder asiatischen Firmen ganz generell,  die sowohl markenrechter als auch die Abteilung gekauft haben.
- Philips selbst macht fast nur noch Medical-Kram.
- Und dann gibt es eben noch ein paar Ausgründungen, so wie ASML,  die heutzutage deutlich größer sind als Philips selbst in jeder Metrik.
- Das ist, ich finde das super interessant, was da passiert ist.
- Gibt es ein tolles YouTube-Video, was ich da vielleicht mal verlinken kann?
- Spannend, spannend.
- Ich habe immer nur mitgekriegt, dass ein Betrieb in Jena nicht ganz unbeteiligt  an diesem Maschinen ist, weil von dort wieder Teilen in die Niederlande geliefert werden,  die auch wiederum nur in Jena entstehen können.
- Genau, Jena-Optik bzw.
-Karl-Zeit-Jena, genau, ja, das ist ja da,  die sind ja nach wie vor auch Spezialisten, Technologisch-Spezialisten,  was so optische Geräte und Glas und Linsen anbelangt.
- Genau, und kommen wir mal noch ein bisschen näher.
- In Berlin gibt es auch einen Laden oder eine Bude, die damit nicht ganz wenig zu tun hat,  dass im Bessi wird, glaube ich, auch in der Richtung geforscht.
- Aber halt an der Stelle ist nur Forschung und kleinteilig nicht in dem Stil, wie ASML das betreibt.
- Okay, aber Bessi ist das Teilchenbeschleuniger oder wie?
- Ja, richtig, und mit beschleunigten Teilchen kann ich ganz gut Nanostrukturen produzieren,  aber wie gesagt, halt nicht im industriellen Maßstab, das ist eher so, einzelstücke.
- Du bittest ja auch noch eine Randnotiz-Zeis, macht auch Software mittlerweile.
- Wir macht keine Software inzwischen.
- Genau, ich habe die nämlich zufällig auf einer Konferenz getroffen, wo es um Datenbanksysteme ging.
- Da war auch ein Zeisstand, und ich war ein bisschen überrascht.
- Ah ja, dann ist es dann so Bilddaten oder?
- Genau, also Mikroskopie vor allen Dingen.
- Da macht ihr eben auch ein bisschen Datenverarbeitung und zack bist du schon wieder bei Machine Learning  und zack bist du auf einer Datenbankkonferenz.
- Genau, um noch ein bisschen technologisch rumzunörden, dieses Deep-Ultraviolet, das liegt so bei 193 Nanometer.
- Und das ist jetzt auch noch eingeschränkt, was vorher schon eingeschränkt gewesen war,  ist das Extreme Ultraviolet EUV mit 13,5 Nanometer, ist ja gerade noch Licht, ist ja schon fast drücken.
- Mein Physikkurs liegt ein bisschen länger zurück, als dass ich jetzt irgendwie wüsste,  welche Wellenlänge zu welchem Strahlungsbereich gehört, aber...
- Ich glaube, es ist ja offenbar zumindest dem Namen nach Extrem Ultraviolet.
- Ich glaube Licht, ich weiß gar nicht, ob Licht definiert ist, also das sichtbares Licht ist definiert und ansonsten Licht.
- Ich habe es gerade, die Wellenlänge von Röntgen sind so unter 10 Nanometer und dieses Extreme Ultraviolet ist bei 13,  das heißt, die kratzen da schon ganz gut da drin rum.
- Also wenn der DARDIS das Gerät, was es aussendet, schon ein bisschen schneller wirft, hast du schon Röntgen?
- Ja, genau.
- Blaue Verschiebung.
- Deswegen ist das ja alles eine hochtechnologische Herausforderung, also nicht nur dass es einfach ein sehr extremen kurze Wellenlänge hat,  sondern das bringt natürlich auch alle anderen möglichen physikalischen Effekte und Schwierigkeiten herzlichen.
- Herr Weitzberg, noch mal kurze Ausflug auf die Metarebene, ich meine ja, das sind Maschinentechnologie,  aber im Prinzip, was da gerade so passiert, ist halt, dass man sich als Gesellschaft Möglichkeiten klaut.
- Vorher hat man, ich sage doch mal, noch zusammengearbeitet in Jena und in Niederlanden und in Asien und hin und her.
- Und jetzt fangen wir an, an der Stelle an, wieder Grenzen reinzuziehen und zu sagen,  "Nö, wir arbeiten jetzt mit euch nicht zusammen und deswegen machen wir Dinge nicht,  die man sonst ja vielleicht machen könnte, wenn man vielleicht mal ausnahmsweise mal nicht gegeneinander arbeiten würde, so im Großgalaktischen.
- Ach wei.
- Ja, ist schwierig.
- Auf der anderen Seite ist es ja auch irgendwie super wichtig, wenn mehrere gleichzeitig und unabhängig voneinander versuchen, Dinge zu...
- Richtig.
- Wird es schön, wenn alle Gutekters wären und wenn wir keine hätten, die dann zwischendrin mal ausschehren.
+ Wird es schön, wenn alle Gutactors wären und wenn wir keine hätten, die dann zwischendrin  mal ausschehren.
  Ein bisschen Holz bitte.
- Ja, gut, aber das soll jetzt auch, glaube ich, erst mal dazu gewesen sein.
- Also, da sind auf jeden Fall, es gibt auf jeden Fall ein bisschen Sanktionen gerade,  eine andere Meldung, die in den vergangenen Tagen reinkam, ein Landgericht,  nämlich das Landgericht Ravensburg hat entschieden, dass die Polizei einen Fingerabdruck abnehmen darf, um ein Mobiltelefon zu entsperren.
+ Ja.
+ Gut, aber das soll jetzt auch, glaube ich, erst mal dazu gewesen sein.
+ Also da sind auf jeden Fall, es gibt auf jeden Fall ein bisschen Sanktionen gerade, eine andere  Meldung, die in den vergangenen Tagen reinkam, ein Landgericht, nämlich das Landgericht  Ravensburg hat entschieden, dass die Polizei einen Fingerabdruck abnehmen darf, um ein  Mobiltelefon zu entsperren.
  Okay.
- Also,  find ich spannend bis schwierig, sage ich mal ganz ehrlich.
- Um zu meiden.
- Das heißt, wir brauchen Software, die erkennt, welchen Finger ich ran halte und wenn es der falsche ist, macht sie das Handy kaputt.
- Ich weiß nicht, ob man da spezielle Software braucht, ich glaube, das würde heutzutage schon funktionieren, aber mal...
- Ja, mit dem richtigen...
- Also, es gibt bestimmt entsprechende Lösungen schon, wo du mit einem freien Betriebssystem sowas auch schon irgendwie bauen kannst, oder so.
- Aber ich sage mal so, das ist letztendlich auch erst, das ist dann auch quasi schon wieder eine technische Lösung.
- Fangen wir mal bei Schritt eins an, dass das überhaupt gehen soll, zumindest nach Meinung dieses einen Landgerichts,  auch gegen den Willen des Beschuldigten, da einen Fingerabdruck zum entsperren, zu verwenden.
- Widerspricht halt einfach mal fundamental dem Recht, dass man normalerweise als Beschuldigter hat, dass man nicht an der Strafverfolgung mitwirken muss.
- In dem Falle, wenn man in der Richtung dieses Gerichts folgt, dann würde die Polizei dazu ermächtigt und wie es wohl heißt aus dem Artikel,  bräuchte man dafür wohl noch nicht mal einen Richtervorbehalt, also das heißt, die Polizei könnte das auch machen, ohne dass sie einen Richter dafür befragen muss.
- Und das ist höchstgradig schwierig.
- Also zum einen generell, es gibt eigentlich so diesen Grundsatz, dass man nicht selber der Strafverfolgung bei Hilfe leisten muss, als Beschuldigter.
- Und zum anderen gibt es natürlich auch sowas wie, wenn aufgrund einer Ermittlung, aufgrund einer Untersuchung zufallsfunde Passieren,  also Hinweise auf irgendwelche anderen Sachen, die mit dem, was dir gerade vorgeworfen wird, gar nichts zu tun hat.
+ Also, find ich spannend bis schwierig.
+ Das sage ich mal ganz ehrlich.
+ Das heißt, wir brauchen Software, die erkennt, welchen Finger ich ran halte und wenn es der  falsche ist, macht sie das Handy kaputt.
+ Ich weiß nicht, ob man da spezielle Software braucht, ich glaube, das würde heutzutage  schon funktionieren.
+ Aber mal...
+ Ja, medidisch.
+ Ja, also mit dem richtigen, also bestimmt entsprechende Lösungen schon, wo du mit  einem freien Betriebssystem sowas auch schon irgendwie bauen kannst oder so.
+ Aber ich sage mal so, das ist letztendlich auch erst, das ist dann auch quasi schon wieder  eine technische Lösung.
+ Fangen wir mal bei Schritt eins an, dass das überhaupt gehen soll, zumindest nach Meinung  dieses einen Landgerichts, auch gegen den Willen des Beschuldigten, da einen Fingerabdruck  zum entsperren zu verwenden, widerspricht halt einfach mal fundamental dem Recht, dass  man normalerweise als Beschuldigter hat, dass man nicht an der Strafverfolgung mitwirken  muss.
+ In dem Falle, wenn man in der Richtung dieses Gerichts folgt, dann würde die Polizei dazu  ermächtigt und wie es wohl heißt aus dem Artikel bräuchte man dafür wohl noch nicht  mal einen Richter vorbehalt.
+ Also das heißt, die Polizei könnte das auch machen, ohne dass sie einen Richter dafür  befragen muss und das ist höchstgradig schwierig.
+ Also zum einen generell, es gibt eigentlich so diesen Grundsatz, dass man nicht selber  der Strafverfolgung bei Hilfe leisten muss als Beschuldigter und zum anderen gibt es  natürlich auch so was wie, wenn aufgrund einer Ermittlung, aufgrund einer Untersuchung  zufallsfunde Passieren, also Hinweise auf irgendwelche anderen Sachen, die mit dem, was dir gerade  vorgeworfen wird, gar nichts zu tun hat.
  Und man dabei irgendwie Dinge findet, dann kann man auch deswegen angeklagt werden.
- Es ist in manchen Ländern anders, zum Beispiel in den USA gibt es so eine Doctrine, Fruit of the Poisonous Tree,  also Dinge, die erhoben wurden auf wegen die, wie soll ich sagen, die nicht legal waren, dann dürfen die auch nicht verwendet werden.
- Und in Deutschland ist es halt ein bisschen anders, da gibt es zwar auch gewisse Beweismittelverbote, aber ein großer Kritikpunkt, der regelmäßig von Strafverteidigern erhoben wird, ist halt so,  wenn halt durch Zufall, und das können auch Maßnahmen sein, die sich später als Rechtswidrig herausstellen, wenn dabei irgendwelche Beweismittel gefunden werden,  dann können die auch gegen dich verwendet werden.
-Und das ist durchaus auch problematisch.
- Ja, also deswegen, man kann da an der Stelle nur hoffen, dass es da irgendwie noch weiter geht, und dass man tatsächlich mal schaut, es ist ja jetzt erst mal nur in ein fünf Strichen,  wir sind ja alle keine Juristen hier, aber dass man mal schaut, wie das jetzt weitergeht,  das ist jetzt erst mal nur die Meinung eines Gerichts, kann ja durchaus sein, dass das noch zum Oberlandesgericht oder so hingeht, wo man die Sache dann noch ein bisschen anders sieht.
- Das ist die eine Sache, das ist im anderen, ich glaube, wenn ich nicht ganz verschlägt gibt in Deutschland so was wie Prezidenzfälle nicht,  das heißt ein anderes Gericht, das auch mal anders sehen.
- Ja, voll.
- Was mich an der Stelle so ein bisschen wundert, da haben wir nicht schon lange Personalausweis mit Fingerabdrücken,  wie so während der Extra-Fingerabdrücke abgenommen.
- Im Prinzip kann man doch dann als Staat jedes Handy von jedem mit dem Fingerabdruck aufmachen, der im Ausweis gespeichert ist.
- Mir gefällt deine Art zu denken, gerade irgendwie nicht.
- Jetzt ist aber die Frage, ist der auf dem Ausweis gespeichert oder ist er zentral gespeichert, ist das die Frage?
+ Es sind manchen Länder anders, zum Beispiel in den USA gibt es so eine Doktrin Fruit of  the Poisonous Tree, also Dinge, die erhoben wurden auf wegen die, wie soll ich sagen,  die nicht legal waren, dann dürfen die auch nicht verwendet werden.
+ Und in Deutschland ist es halt ein bisschen anders, da gibt es zwar auch gewisse Beweismittelverbote,  aber ein großer Kritikpunkt, der regelmäßig von Strafverteidigern erhoben wird ist halt  so, wenn halt durch Zufall, ja und das können auch Maßnahmen sein, die sich später als  rechtswidrig herausstellen, wenn dabei irgendwelche Beweismittel gefunden werden, dann können  die auch gegen dich verwendet werden und das ist durchaus auch problematisch.
+ Ja also deswegen, man kann da an der Stelle nur hoffen, dass es da irgendwie noch weiter  geht und dass man tatsächlich mal schaut, es ist ja jetzt erstmal nur in ein fünf Strichen,  wir sind ja alle keine Juristen hier, aber dass man mal schaut, wie das jetzt weitergeht,  das ist jetzt erstmal nur die Meinung eines Gerichts, kann ja durchaus sein, dass das  noch zum Oberlandesgericht oder so hingeht, wo man die Sache dann noch ein bisschen anders  sieht.
+ Ich glaube, wenn ich nicht ganz verschlägt gibt in Deutschland sowas wie Präzidenzfälle  nicht, das heißt ein anderes Gericht und das auch mal anders sehen.
+ Ja voll, ja ja.
+ Was mich an der Stelle so ein bisschen wundert, da haben wir nicht schon lange personale Ausweis  mit Fingerabdrücken, wie so während der extra Fingerabdrücke abgenommen, im Prinzip kann  man doch dann als Staat jedes Handy von jedem mit dem Fingerabdruck aufmachen, der im Ausweis  gespeichert ist.
+ Mir gefällt deine Art zu denken gerade irgendwie nicht.
+ Jetzt ist aber die Frage, ist der auf dem Ausweis gespeichert oder ist er zentral gespeichert?
+ Ist das die Frage?
+ Naja, das ist ja egal.
  Naja, wenn ich den meinen Ausweis nicht gebe, dann haben sie auch meinen Fingerabdruck nicht.
- Naja, also ob sie mir jetzt einen Fingerabdruck abnehmen oder meinen Ausweis wegnehmen, finde ich jetzt keinen so großen Unterschied.
- Also zumal ich glaube ich den Finger, also die Daten vom Ausweis können ja auch nicht so ohne Weiteres ausgelesen werden,  die muss ja auch erst entsperren.
+ Naja, das ist doch nicht.
+ Naja, also ob sie mir jetzt einen Fingerabdruck abnehmen oder meinen Ausweis wegnehmen, finde  ich jetzt keinen so großen Unterschied.
+ Also zumal ich glaube, die Daten vom Ausweis können ja auch nicht so ohne weiteres ausgelesen  werden.
+ Die muss ja auch erst entsperren.
  Aber die Frage ist für mich jetzt schon, sind die Fingerabdrücke nochmal zentral gespeichert?
  Ich glaube nicht.
- Also gute Frage, irgendwo die, ich drücke ja meinen Finger nicht auf den Ausweis, also irgendwo sind sie mit Sicherheit gespeichert,  ob sie dann gelöscht werden, wenn sie auf dem Ausweis drauf gedruckt in der Abführungszeichen wurden.
- Weiß ich jetzt auch gerade nicht aus dem Steg reif.
- Ich glaube alles was wir jetzt irgendwie sagen würden wäre Spekulation, wenn wir es jetzt nicht gerade irgendwie schnell recherchieren würden.
- Deswegen wollen wir uns jetzt glaube ich erst mal gerade nicht in Spekulation verlieren.
- Und außerdem muss man zum Beispiel auch nochmal sagen, ist ja auch die Frage und das weiß ich jetzt gerade nicht,  wird denn tatsächlich der gesamte Fingerabdruck gespeichert oder nur diese entsprechenden Kenntpunkte?
- Es gibt ja so bestimmte spezielle Merkmale, die einen Fingerabdruck ausmachen und teilweise reicht es,  die zu speichern um halt quasi auf den Fingerabdruck rückschließen zu können.
- Und wenn das halt gemacht würde, könnte es ja immer noch sein, dass selbst wenn du dieses Merkmal vom Personalausweis hättest,  könntest du vielleicht keinen Fingerabdruck reproduzieren davon, der dann auch mit dem Smartphone funktioniert.
- Aber das ist wie gesagt alles...
- Das ist dann zur Verifizierung in eine Richtung, die funktioniert und rückwärts geht es halt dann doch nicht.
- Ja, aber wie gesagt, ich weiß es gerade auch nicht, wie das mit dem Personalausweis war mit den Fingerabdrucken.
- Ich habe einen Bing-Account.
- Laut den Websuchergebnissen werden Fingerabdrücke in Deutschland nur auf einem Chip auf den Personalausweisen selbst nicht zentral gespeichert.
+ Also gute Frage irgendwo, ich drücke ja meinen Finger nicht auf den Ausweis.
+ Also irgendwo sind sie mit Sicherheit gespeichert.
+ Ob die dann gelöscht werden, wenn sie auf den Ausweis drauf gerückt in der Abführungszeichen  wurden?
+ Weiß ich jetzt auch, gerade nicht aus dem Steg reif, ich glaube alles was wir jetzt irgendwie  sagen würden, wäre Spekulation, wenn wir es jetzt nicht gerade irgendwie schnell recherchieren  würden.
+ Also wollen wir uns jetzt glaube ich erst mal gerade nicht in Spekulation verlieren und  außerdem muss man zum Beispiel auch nochmal sagen, es ist ja auch die Frage und auch das  weiß ich jetzt gerade nicht, wird denn tatsächlich der gesamte Fingerabdruck gespeichert oder  nur dieser entsprechenden Kennpunkt.
+ Es gibt ja so bestimmte spezielle Merkmale, die einen Fingerabdruck ausmachen und teilweise  reicht es, die zu speichern um halt quasi auf den Fingerabdruck rückschließen zu können  und wenn das halt gemacht würde, ja könnte es ja immer noch sein, dass selbst wenn du  dieses Merkmal vom Personalausweis hättest, könntest du vielleicht keinen Fingerabdruck  reproduzieren davon, der dann auch mit dem Smartphone funktioniert, aber das ist wie gesagt  alles...
+ Das ist dann zur Verifizierung in eine Richtung, die funktioniert und rückwärts geht es halt  dann doch nicht.
+ Ja, aber wie gesagt, ich weiß es gerade auch nicht, wie das mit dem Personalausweis war  mit dem Fingerabdruck.
+ Ja, ich habe einen Bing-Account, laut den Websuchergebnissen werden Fingerabdrücke  in Deutschland nur auf einem Chip auf den Personalausweisen selbst nicht zentral gespeichert.
  Dies ist das Ergebnis einer EU-Verordnung, die 2019 verabschiedet wurde und am 2.
-August in Kraft trat 2021.
- Diese Verordnung wird jedoch von einem deutschen Gericht angefohren, angefochten, dass sie für rechtsfriedlich und unvereinbar mit den europäischen Grundrechten hält.
+ August in Kraft trat 2021.
+ Diese Verordnung wird jedoch von einem deutschen Gericht angeforden, angefochten, dass sie  für rechtsfriedlich und unvereinbar mit den europäischen Grundrechten hält.
  Möchten Sie mehr Informationen zu diesem Thema?
  Ja, erzählen Sie mir bitte mehr.
- Bei Gelegenheit.
- Das ist ja auch ein Thema, was bei diesen ganzen SSI-Self-Serial Identity-Diskussionen rauf und runter geht.
- Und da glaube ich zum Glück ist ein bisschen bewusst sind dafür da, dass eben tatsächlich diese Daten, die man dann gezielt oder einzeln heraus gibt, wie zum Beispiel die Information "Ich bin über 18" ohne das Geburtstag verraten zu müssen.
- Also gefühlt geht es da zur zweiten in eine ganz gute Richtung.
+ Ja, bei Gelegenheit.
+ Das ist ja auch ein Thema, was bei dieser ganzen SSI-Self-Survival-Identity-Diskussion  rauf und runter geht.
+ Und da glaube ich zum Glück ist ein bisschen bewusst sind dafür da, dass eben tatsächlich  diese Daten, die man dann gezielt oder einzeln herausgibt, wie zum Beispiel die Information  "Ich bin über 18, ohne das Geburtstag verraten zu müssen."  Also gefühlt geht es da zurzeit in eine ganz gute Richtung?
  Naja.
- Naja, also.
- Also, ah, auch da habe ich leider gerade spontan zu wenig Wissen über diese ganze Self-Serial Identity, aber da ist halt gefühlt auch sehr viel im Argen.
- Ja, im Argen ist es dann immer in der Implementierung, wenn dann irgendwelche Umsetzungen kommen, die den Teil O, wir haben Daten von XY lesen und das unten drunter ja, aber sparsam und nur die, die man wirklich braucht, werden rausgegeben, das dann überlesen wird in der technischen Umsetzung.
+ Naja.
+ Also auch da habe ich leider gerade spontan zu wenig Wissen über diese ganze Self-Survival-Identity,  aber da ist halt gefühlt auch sehr viel im Argen.
+ Ja, im Argen ist es dann immer in der Implementierung, wenn dann irgendwelche Umsetzungen kommen,  die den Teil "Oh, wir haben Daten von XY lesen" und das unten drunter "Ja, aber sparsam"  und nur die, die man wirklich braucht, werden rausgegeben, das dann überlesen wird in der  technischen Umsetzung.
  Ja.
- Aber wie gesagt, so auf der theoretischen, auf der Metaebene finde ich, die Diskussionen, die da gerade laufen, eigentlich ganz sinnvoll.
- Wie gesagt, es geht halt tatsächlich oft darum, wie man es gestaltet, dass tatsächlich nur die Informationen rausgehen, die gebraucht werden.
- Technische Implementierung, naja, da hat man ja letztes Jahr ein paar Sendungen, wo Lilith Wittmann und andere dann einfach gegen Systeme getreten haben und dann ganz schnell aufgefallen ist, dass das dann doch weit weg von der theoretischen Idee sich bewegt hat.
- Und dann irgendwie plötzlich ganz viel Blockchain und ganz viel, naja, Zweige drin war, was beim dagegen treten Umfeld oder Datenausstuck, die man nicht haben wollte.
- Na ja, es fängt ja schon damit an, dass halt so, wo sind die Daten gegebenenfalls im Klartext gespeichert und beziehungsweise selbst, wenn sie verschlüsselt sind, wer hat Möglichkeiten, die Sachen zu entschlüsseln.
- Und wenn es halt möglich ist, dass Self-Serve-Rain Identity sagt ja vom Wort her, dass ich selber in der Lage bin, zu bestimmen, wer jetzt welche Informationen über mich und meine Identität haben kann.
- Das zerfällt aber sofort damit, wenn ein Landgericht kommt und sagt, hier, halt mein Finger drauf, das ist dann nicht mehr Self-Serve-Rain.
- Ja, zum Beispiel, oder halt schon alleine, wenn ich zwar halt die, wenn zum Beispiel aus Komfortgründen oder aus was für Gründen auch immer, die Schlüsselerstellung, irgendwie so ein privates und öffentliches Schlüsselpaar erstellt wird und aus Komfortgründen wird das auch auf einem Server gemacht, über den ich keine Kontrolle habe, dann hat der auch, wenn es nur für einen ganz kurzen Bruchteil ist, Zugriff auf meinen privaten Schlüssel und kann sich im Zweifel.
- Eine Kopie ziehen und dann können auch andere Leute meine Daten entschlüsseln.
- Und das sind halt so die kleinen, aber feinen Sachen, wo es dann halt einfach relativ schnell in sich zerfällt, weil man dann relativ schnell sagen kann, okay, ja, nett gesagt, aber einfach auch von der technischen Perspektive, auch von der Sicherheitsperspektive sollte es eigentlich nie, nie, nie der Fall sein müssen,  dass ein privater Schlüssel woanders ist außer bei mir, weil dann ist es halt nicht mehr Self-Serve-Rain.
- Ja, richtig, da sind wir zum einen so in der Cloud-Diskussion, Cloud sind nur Computer von anderen Menschen.
- Und was mich persönlich betrifft, halt gleich wieder in der Bildung, weil wenn ich in der Lage sein soll, meine Schlüssel selber zu generieren, dann sollte ich wissen, wie ich Schlüssel generiere.
- Ja.
- Und da haben wir, glaube ich, in Schulen und Hochschulen so eine Aufgabe in den nächsten paar Jahren.
- Ja, und ein Klassiker ist natürlich auch immer so, was passiert eigentlich, wenn ich mein Schlüssel verliere?
+ Aber wie gesagt, so auf der theoretischen, auf der Meta-Ebene finde ich die Diskussion,  die da gerade laufen, eigentlich ganz sinnvoll.
+ Wie gesagt, es geht halt tatsächlich oft darum, wie man es gestaltet, dass tatsächlich nur  die Informationen rausgehen, die gebraucht werden.
+ Technische Implementierung, naja, da hatten wir letztes Jahr ein paar Sendungen, wo Lilith  Wittmann und andere dann einfach gegen Systeme getreten haben und dann ganz schnell aufgefallen  ist, dass das dann doch weit weg von der theoretischen Idee sich bewegt hat, wo dann  plötzlich ganz viel Blockchain und ganz viel Beuge drin war, was beim dagegen treten Umfeld  oder Datenaussprug, die man nicht haben wollte.
+ Naja, es fängt ja schon damit an, dass halt so, wo sind die Daten im gegebenen Fall  als im Klartext gespeichert und beziehungsweise selbst, wenn sie verschlüsselt sind, wer  hat Möglichkeiten, die Sachen zu entschlüsseln.
+ Und wenn es halt möglich ist, dass eine Self-Serve-Rain Identity sagt ja vom Wort her, dass ich selber  in der Lage bin, zu bestimmen, wer jetzt welche Informationen über mich und meine Identität  haben kann.
+ Das zerfällt aber sofort damit, wenn ein Landgericht kommt und sagt, hier, halt mal  einen Finger drauf.
+ Das ist dann nicht mal Self-Serve-Rain.
+ Ja, zum Beispiel, oder halt schon alleine, wenn ich zwar halt die, wenn zum Beispiel aus  Komfortgründen oder aus was für Gründen auch immer die Schlüsselerstellung, irgendwie  so ein privates und öffentliches Schlüsselpaar erstellt wird und aus Komfortgründen wird  das auch auf einem Server gemacht, über den ich keine Kontrolle habe, dann hat der auch  wenn es nur für einen ganz kurzen Bruchteil ist, Zugriff auf meinen privaten Schlüssel  und kann sich im Zweifel eine Kopie ziehen und dann können auch andere Leute meine Daten  entschlüsseln.
+ Das sind halt so die kleinen, aber feinen Sachen, wo es dann halt einfach relativ schnell  in sich zerfällt, weil man dann relativ schnell sagen kann, okay, ja, nett gedacht, aber einfach  auch von der technischen Perspektive, ja auch von der Sicherheitsperspektive sollte es  eigentlich nie, nie, nie der Fall sein müssen, dass ein privater Schlüssel woanders ist  außer bei mir, weil dann ist es halt nicht mehr Self-Serveran.
+ Ja, richtig, da sind wir zum einen so in der Cloud-Diskussion, Cloud sind nur Computer  von anderen Menschen und was mich persönlich betrifft, halt gleich wieder in der Bildung,  weil wenn ich in der Lage sein soll, meine Schlüsselserve zu generieren, dann sollte ich  wissen, wie ich Schlüssel generiere und da haben wir, glaube ich, in Schulen und Hochschulen  so eine Aufgabe in den nächsten paar Jahren.
+ Ja, und ein Klassiker ist natürlich auch immer so, was passiert eigentlich, wenn ich mein  Schlüssel verliere.
  Ja, dann ist er weg, so hart wie es klingt.
- Ja, oder vielleicht auch nicht, oder, oder, oder.
- Und das sind dann nämlich zum Beispiel auch so Szenarien, die halt in der Praxis eine Rolle spielen, wo dann aber dann spätestens an der Stelle, wenn das System ansonsten auch total schick ist,  man will ja jetzt die Leute nicht ihre Identität berauben und dann muss es dann doch irgendeinen Mechanismus geben, ihnen doch mal eine Identität zu verschaffen.
- Und deswegen braucht man dann noch mal eine Kopie des Schlüssel.
- Und das ist halt so, das ist zumindest das, was so vordergründig dann gesagt wird.
- Ja.
- Und ja, das ist dann aber, dann gibt es vielleicht dann doch andere und bessere Möglichkeiten, das zu tun.
- Dafür reicht dann aber dann vielleicht dann doch das Konzept nicht, oder man hat zu spät darüber nachgedacht, oder man traut den Leuten das nicht zu, ja.
+ Ja, oder vielleicht auch nicht, oder, oder, oder und das sind dann nämlich zum Beispiel  auch so Szenarien, die halt in der Praxis eine Rolle spielen, wo dann aber dann spätestens  an der Stelle, wenn das System ansonsten auch total schick ist, man will ja jetzt die Leute  nicht ihre Identität berauben und dann muss es dann doch irgendeinen Mechanismus geben,  ihnen doch mal eine Identität zu verschaffen und deswegen braucht man dann noch mal eine  Dokupie des Schlüssels und das ist halt so, das ist zumindest das, was so vordergründig  dann gesagt wird und ja, das ist dann aber, dann gibt es vielleicht dann doch andere und  bessere Möglichkeiten, das zu tun, dafür reicht dann aber dann vielleicht dann doch  das Konzept nicht oder man hat zu spät darüber nachgedacht oder man traut den Leuten das  nicht zu, ja.
  Oder nicht lang genug darüber nachgedacht.
  Ja, einfach solche Dinge, deswegen.
- Ich glaube, das ist auch so eine Sache.
- Man kann den Leuten ja auch nicht zutrauen, Krypto-Experten zu sein und an der Stelle ist, glaube ich, halt so ein gesundes Halbwissen bei den Leuten wichtig,  dass die zwar einschätzen können, ohne jetzt Krypto-Experten zu sein, ist es jetzt okay, was hier gerade passiert oder nicht.
- Ja.
- Ohne technisch in die Tiefe steigen zu müssen.
- Also im Prinzip bei der Kryptografie so ein bisschen wie bei den Wahlen, auch bei den Wahlen kann jeder nachvollziehen, wie es geht.
- Und ich glaube, dann muss man über kurz oder lang hin und dass Menschen bei Kryptografie auch nachvollziehen können, wie es geht.
- Und dann, glaube ich, haben wir ganz gut was erreicht.
- Das ist, glaube ich, aber ein Heeres.
- Ja.
- Klar.
- Es geht ja nicht um bis ins letzte mathematische Detail Wissen, wie es geht, sondern nachvollziehen können.
- Ja.
- Jod, bevor wir jetzt völlig in dystopische Kryptografien einsteigen, haben wir Mucke?
- Ja, wir haben ein bisschen Mucke.
- Lass uns doch ein bisschen Mucke hören.
- Und zwar, nämlich als erstes, das Boss-Theme von dem Künstler, der Künstlerin Source Square Noise.
- Und das steht unter CC bei Lizenz 4.0.
- Und wir hören es in Kürze, nämlich jetzt.
- [Musik]  [Musik]  [Musik]  [Musik]  Und damit sind wir auch wieder zurück bei Chaos im Radio.
- Wir haben megahertz in Potsdam oder auf 884 megahertz in Berlin.
- Oder vielleicht habt ihr gerade auch unseren Podcast auf den Ohren.
- Und zwar findet ihr den unter radio.cc-p.org.
- Genau.
- Ja.
- Ich dachte mir, wir hatten jetzt gerade so die Sachen mit den Identitäten und Co.
- Da können wir ja vielleicht mal ein Thema ein bisschen vorziehen,  dass wir ja auch auf der Liste haben.
+ Ich glaube das ist auch so eine Sache, man kann den Leuten ja auch nicht zutrauen Krypto-Experten  zu sein und an der Stelle ist glaube ich halt so ein gesundes Halbwissen bei den Leuten  wichtig, dass die zwei einschätzen können, ohne jetzt Krypto-Experten zu sein, ist es  jetzt okay, was hier gerade passiert oder nicht, ohne technisch in die Tiefe steigen zu müssen.
+ Also im Prinzip bei der Kryptografie so ein bisschen wie bei den Wahlen, auch bei den Wahlen kann  jeder nachvollziehen, wie es geht und ich glaube dann muss man über kurz oder lang hin und  dass Menschen bei Kryptografie auch nachvollziehen können wie es geht, dann glaube ich haben  wir ganz gut was erreicht.
+ Das ist glaube ich aber ein Heres, ja so.
+ Ja, klar.
+ Es geht ja nicht um bis ins letzte mathematische Detail Wissen wie es geht, sondern nachvollziehen  können.
+ Jod, bevor wir jetzt völlig in dystopische Kryptografien einsteigen, haben wir Mucke.
+ Ja, wir haben ein bisschen Mucke, lasst uns doch ein bisschen Mucke hören und zwar nämlich  als erstes das Boss-Theme von dem Künstler, der Künstlerin Source Square Noise und das  steht unter CC by Lizenz 4.0 und wir hören es in Kürze, nämlich jetzt.
+ Damit sind wir auch wieder zurück bei Chaos am Radio, ihr hört uns auf 90,7 MHz in Potsdam  oder auf 88 4 MHz in Berlin oder vielleicht habt ihr ja gerade auch unseren Podcast auf  den Ohren und zwar findet ihr den ja unter radio.cc-p.org.
+ Ich dachte mir, wir hatten jetzt gerade so die Sachen mit den Identitäten und Co, da  können wir ja vielleicht mal ein Thema ein bisschen vorziehen, dass wir ja auch auf der  Liste haben und zwar...
  Oh ja, ich sehe es.
- Menschen könnten wütend werden.
- Ja, ja, genau.
-Menschen könnten wütend werden, wenn ich über folgendes Thema spreche.
- Nämlich die Einmalzahlung an Studierende und die Bund-ID.
- Ja, Knurps.
-Du scheinst ja offenbar ein bisschen im Bild zu sein, möglicherweise?
+ Menschen könnten wütend werden, wenn ich über folgendes Thema spreche, nämlich die  Einmalzahlung an Studierende und die Bund-ID, ja Knurps, du scheinst ja offenbar ein bisschen  im Bild zu sein, möglicherweise oder?
  Ja, was heißt im Bild?
- Ich hatte mein Ohr mal wieder auf der Schiene und habe geguckt, was da so passiert.
- Und habe in den letzten paar Tagen und Wochen tatsächlich ein paar Mal mit Jan Fried hin und her mich unterhalten,  der da schon wieder Parallelen entdeckt hat.
- Ja, Jan Fried, den hatten wir jetzt zusammen mit Franziska zusammen bei Menschen könnten wütend werden,  IFG und BMBF als Vortrag vorletztes Jahr mittlerweile, beim RC3, als Vortrag.
- Genau.
-Und diesmal geht es um Geld für Studierende und wie man verhindert, dass Studierende da Geld abrufen können, richtig?
- Ich würde es nicht zwingend so negativ formulieren, wie man dafür sorgt, dass die Bund-ID endlich mal genutzt wird,  die bisher nicht genutzt wird, weil sie keiner gebraucht hat.
- Weil sie eigentlich halt auch wieder so, weiß ich nicht, ich halte es für ein Parallelsystem.
- Wir haben die EID, nicht immer Ausweis.
- Magst du oder kannst du ein bisschen was zu diesem Einmalzahlungsthema als Hintergrund?
- Ja, ich weiß nicht, ich bin halt wirklich jetzt nicht so tief da drin, aber im Prinzip,  Studierende bekommen 200 Euro, um gestiegene Energiekosten auszugleichen.
- Dann kann man jetzt zum einen diskutieren, ob das reicht, wenn ich so auf meine Stromkostenrechnung gucke.
- Die Jahresausgleich ist noch nicht da, der kommt erst im nächsten Monat, ich bin gespannt.
- Ich glaube, da stehen andere Zahlen als 200 Euro.
- Und das nächste ist halt, wie kommt man an das Geld daran?
- Ich weiß nicht, Diskussionen gehen teilweise auch vielleicht ein bisschen militant am Thema vorbei.
- So nach dem Motto, jede Universität sollte doch bitte mal ihren Studierenden das Geld direkt auszahlen.
- Wenn ich mir so Hochschulverwaltung anschau, dann weiß ich jetzt nicht, ob die sich darüber freuen,  um noch mal irgendwie Buchungsvorgänge auslösen zu dürfen für jeden Studierenden.
- Das Nächste ist, dass die Fachschüler da ja auch drin sein sollen.
- Und ich weiß jetzt nicht, ob diese Fachschulen, ob die alle so eine Haushaltsabteilung haben, die da zu einer Lage sind.
- An der Stelle hätte ich Zweifel, also von daher das irgendwo an anderen Stellen aufzuhängen,  das ist schon irgendwie sinnvoll, aber Bildung ist Ländersache, Geld kommt daher natürlich irgendwie vom Bund,  weil vom Bund wird es nun, aber dann zu den Ländern, und die Länder sind am Ende,  diejenigen, die das Geld meiner Meinung nach zumindest verwalten, als zentrale Instanz.
- Was macht da eine Bund-ID drin?
- Ich habe mal wieder eine KI meiner Wahl gefragt.
- Ja, was sagt sie denn?
- Also da kommen zwei Sätze drin, vor die ich schon sehr bemerkswert finde.
- Laut den Web-Suche-Ergebnissen können Studierende, Fachschüler und Fachschülerinnen ab dem 15.
-März eine Einmalzahlung von 200 Euro beantragen, blablabla.
- Die digitalen Plattform für die Energiepreispauschale wurde von Bund und Ländern gemeinsam entwickelt und soll in der 2.
-März-Hälfte 2023 online gehen.
- Die genaue Internetadresse ist noch nicht bekannt.
- Einmalzahlung 200.10.
+ Ich hatte mein Ohr mal wieder auf der Schiene und habe geguckt, was da so passiert und  habe in den letzten paar Tagen und Wochen tatsächlich ein paar mal mit Jan Fried hin und  her mich unterhalten, der da schon wieder Parallelen entdeckt hat.
+ Ja, Jan Fried, den hatten wir ja jetzt zusammen mit Franziska zusammen bei Menschen könnten  wütend werden, IFG und BMBF als Vortrag, vorletztes Jahr mittlerweile, beim RC3 als Vortrag,  genau.
+ Und dieses Mal geht es um Geld für Studierende und wie man verhindert, dass Studierende da  Geld abrufen können, richtig?
+ Nicht zwingend so negativ formulieren, wie man dafür sorgt, dass die Bund-ID endlich  mal genutzt wird, die bisher nicht genutzt wird, weil sie keiner gebraucht hat, weil  sie eigentlich halt auch wieder so, weiß ich nicht, ich halte es für ein Parallelesystem.
+ Wir haben die E-ID, nicht immer Auswahl, aber...
+ Magst du, da kannst du ein bisschen was zu diesem Einmalzahlungsthema hintergrund?
+ Ja, ich weiß nicht.
+ Ich bin wirklich jetzt nicht so tief da drin, aber im Prinzip, Studierende bekommen 200  Euro, um gestiegene Energiekosten auszugleichen.
+ Kann man jetzt zum einen diskutieren, ob das reicht?
+ Na ja, also wenn ich so auf meine Stromkostenrechnung gucke, die Jahresausgleich ist noch nicht  da, der kommt erst im nächsten Monat, ich bin gespannt, ich glaube, da stehen andere  Zahlen als 200 Euro, und das Nächste ist halt, wie kommt man an das Geld daran?
+ Also weiß ich nicht, ich weiß nicht, Diskussionen gehen teilweise auch vielleicht so ein bisschen  militant am Thema vorbei, so nach dem Motto, jede Universität sollte doch bitte mal  ihren Studierenden das Geld direkt auszahlen, wenn ich mir so Hochschulverwaltung anschaue,  dann weiß ich jetzt nicht, ob die sich darüber freuen, nochmal irgendwie Buchungsvorgänge  auslösen zu dürfen für jeden Studierenden, das Nächste ist, dass die Fachschüler da  ja auch drin sein sollen, und ich weiß jetzt nicht, ob diese Fachschulen, ob die alle  so Haushaltsabteilungen haben, die da zu einer Lage sind, an der Stelle hätte ich Zweifel,  also von daher, das irgendwo an anderen Stellen aufzuhängen, ist schon irgendwie sinnvoll,  aber Bildung ist Ländersache, Geld kommt daher natürlich irgendwie vom Bund, weil vom Bund  aber dann zu den Ländern, und die Länder sind am Ende diejenigen, die das Geld meiner Meinung  nach zumindest verwalten, als zentrale Instanz, was macht da eine Bund-ID drin?
+ Ich habe mal wieder eine KI meiner Wahl gefragt, ja, was sagt das denn?
+ Also da kommen zwei Sätze drin vor, die ich schon sehr bemerkswert finde, also laut  den Web-Suche-Ergebnissen können Studierende, Fachschüler und Fachschülerinnen ab dem  15.
+März eine Einmalzahlung von 200 Euro beantragen, bla bla bla, die digitalen Plattformen  für die Energiepreispauschale wurde von Bund und Ländern gemeinsam entwickelt und soll  in der zweiten März Hälfte 2023 online gehen, die genaue Internet-Adresse ist noch nicht  bekannt.
+ Einmalzahlung 200.de.
  So, und jetzt ist ganz interessant, dass heute der 13.
-Dritte ist.
- Sie haben noch zwei Tage Zeit.
- Ich frag die mal, wird die Plattform rechtzeitig fertig?
+Dritte ist, Sie haben noch zwei Tage  Zeit.
+ Faktimal, wird die Plattform rechtzeitig fertig?
  Aber ich war der Meinung, dass es das mittlerweile gibt, nämlich unter Einmalzahlung 200.de.
- Genau, eine wunderschöne Domäne.
+ Genau, eine wunderschöne Domain.
  Ich weiß nicht, wo die 200 herkommt, aber...
  Na ja, es sind 200 Euro.
  Oh, oh, oh.
- Schande, achte ich.
- Vor Jahrzehnten mal in so einem Domäne-Wirrwarr aufgeräumt und wir sind dazu übergegangen, sinnvoll zu strukturieren.
- Und es gibt Top-Level-Domains, es gibt Second-Level-Domains und es gibt darunter nochmal Domains.
- Man könnte auch so 200.1-Mahlzahlung.de vielleicht, wenn man denn unbedingt wollte.
- Oder, na ja, man kann viele sinnvolle Dinge tun, Einmalzahlung 200.de ist so.
- Das klingt so ein bisschen wie so eine Kategorie bei Jeopardy, mit gern Einmalzahlung 200.
- Ich bin der perfekte Nutzer für diesen Chatbot.
- Da habe ich ja auch wirklich in den letzten Monaten, in den letzten Wochen, keinerlei Nachrichten mehr gelesen.
- Aber ich habe mir jetzt gefragt, ob die Plattform rechtzeitig fertig wird.
- Und da sage ich, das kann ich nicht mit Sicherheit sagen, aber ich hoffe, dass die Plattform rechtzeitig fertig wird,  damit die berechtigten die Zahlung so schnell wie möglich erhalten.
- Ich schlage vor, dass sie die Nachrichten im Auge behalten.
- Wie weit was anderes sprechen.
- Ach ja.
- Ach ja, schön.
- Ah ja, also, okay.
- Selbst der lenkt ab, möchten Sie nicht über was anderes sprechen.
- Und entnauft, was ist komplett anders?
- Ja, aber also, eine große Kritik an der ganzen Sache ist ja für diese Einmalzahlung,  ist halt, dass du quasi zwingend so ein Bund-ID-Konto haben musst,  oder die anlegen musst, um dieses Geld halt bekommen zu können.
- Wo, wenn ich so mein Twitter quergelesen habe, das auch so aus so Datenschutzgrundverordnung  und Co.
-oder auch Online-Zugangsgesetz bin ich mir grad nicht so sicher.
- Aber es klang so wie, na ja, okay, das können Sie schon so machen,  dass Sie da so eine digitale Lösung anbieten.
- Muss aber trotzdem eigentlich aus gesetzlicher Sicht noch eine Möglichkeit geben,  dass ohne so ein Nutzerkonto oder ohne so ein zentrales Benutzerkonto gehen.
- Das heißt, es wäre möglicherweise an der Stelle einfach nicht gesetzt,  ist konform, dass jetzt nur über diese Bund-ID machen zu können.
- Und da finde ich davon, ob das jetzt mehr oder weniger Aufwand wäre,  wenn alle jetzt die Bund-ID nutzen.
- Aber...
- Es ist für mich, dass diese Bund-ID in dem Moment mit der Einmalzahlung  auch so aus einer Nische gesprungen, ich habe davor noch nie was davon gehört.
- Also klar, ihr-ID haben wir auf dem Ausweis alle dabei.
- Aber wie viele ITs haben wir denn noch?
- Ich glaube mindestens 17.
- Ah ja.
- Wo du doch über "Self-Server in Identity" gesprochen hast.
- Weil ich meine an mir ist was vorbeigeflogen,  wie es gibt halt diese Bund-ID  und dann gibt es halt auch noch,  soll es in Zukunft wohl sowas geben,  aber vor sich gefährliches Halbwissen.
- So Länder-IDs.
- Genau, so dass du halt bis zu, na ja gut,  wenn du jetzt nicht gerade in dem jeweiligen Bundesland bist,  dann vielleicht nicht,  aber dass du potenziell bis zu 17 verschiedene IDs haben könntest.
- Steuer-ID haben wir dann,  die Gesundheitsakte hat mit Sicherheit auch noch eine ID,  eine Güter.
- Ich werde das der nächsten Mal mit Kippars verwalten.
- Ich glaube, ich habe den Chatbot gekrascht.
- Ich habe gefragt, was ich alles mit der Bund-ID machen kann  und jetzt hat er mehrere Hundertzeilen Ausgabe poloziert  und ist mitten drin eingeschlafen.
- Ich weise an dieser Stelle nur darauf hin,  dass JetGPT keine verlässliche Informationsquelle ist,  weil da durchaus regelmäßig mal irgendwelche Bücher,  Zeitungsartikel oder auch wissenschaftliche Paper  einfach mal so erfunden werden.
- Lieber Mensch, ist da draußen, vertraut nicht darauf,  was JetGPT euch auszusürft.
- Ich bin mir auch ziemlich sicher,  dass der Chatbot meines Vertrauens, der nicht JetGPT ist,  hier die Bund-ID und eine andere ID  oder alle anderen IDs durcheinanderwürfelt,  weil ich, ja, ich glaube, das ist alles der Perso-ID.
- Na ja, aber dieser andere Chatbot weist mich  auf "Personalausweis.de".
- Link können wir jetzt mal hier reinpacken,  damit die Leute sich bei der Regierung ihres Vertrauens informieren können.
- Das ist ja heutzutage eine schwierige Wortkonstruktion  bei der Regierung ihres Vertrauens.
- Aber wir lassen hier eine Stelle mal ansonsten unkommentiert.
- Oh, hier, kurzer Einwand.
- Das muss ich direkt empfehlen.
- Die Regierung meines Vertrauens, DLF Hintergrund,  ist ein ganz tolles Format, wie ich finde,  immer so 15 bis 40 Minuten lange Beiträge,  die wohl im Radio laufen, aber ich nehme sie natürlich als Podcast.
- Und die haben sich kürzlich mit der Entstehung  von diesem ganzen Reichsbürgerkram beschäftigt.
- Und ich habe gelernt, das kommt von einem Reichsbahnangestellten  in den 60ern, der gekündigt wurde  und der sein Geld einklagen wollte.
- Und es hat vor Gericht für ihn in dem Moment viel Sinn ergeben zu sagen,  eigentlich ist er ja noch beim Deutschen Reich angestellt.
- Und um dann konsistent zu bleiben,  hat er das durchgezogen.
- Wahrscheinlich war er schon vorher ein bisschen verrückt,  aber er ist dann auch offensichtlich richtig durchgedreht  und hat dann ausgerufen, dass er selbst der Kanzler ist und so weiter.
- Aber ganz spannend, dass diese Reichsbürgergeschichte  eigentlich noch einen ganz anderen Hintergrund hatte.
- Da ging es wirklich schon mal in Gerichtsverfahren  und tatsächlich war es so, dass die Reichsbahnen,  die ja Ost-Berlin und West-Berlin bedient hat,  als es noch zwei Deutsch-Länder gab.
- Da war das tatsächlich rechtlich noch nicht so ...
- noch ein bisschen schwammiger, wie das alles ist mit dem Nachfolger,  deutscher Reich, deutsches Reich und so weiter.
- Auch heutzutage anders, aber darauf beziehen sich dann  die Reichsbürger häufig noch heutzutage.
- Okay, das ist mir jetzt nicht untergekommen.
- Die beziehen sich ja manchmal auch auf so ein Gerichtsurteil von '76.
+ Ja, ja.
+ Schande, Schande, ach du Schande.
+ Ich habe vor Jahrzehnten mal in so einem Domainwürfer aufgeräumt und wir sind dazu übergegangen, sinnvoll  zu strukturieren und es gibt Top-Level-Domains, Second-Level-Domains und es gibt darunter nochmal-Domains.
+ Man könnte auch so 200.1malzahlung.de, vielleicht, wenn man denn unbedingt wollte, oder, na ja,  man kann viele sinnvolle Dinge tun, Einmalzahlung 200.de ist so, meh.
+ Das klingt so ein bisschen wie so eine Kategorie bei Jeopardy, mit gern 1-malzahlung 200.
+ Ich bin der perfekte Nutzer für diesen Chatbot, weil ich ja auch wirklich in den letzten Monaten,  in den letzten Wochen, keinerlei Nachrichten mehr gelesen habe, aber ich habe mir jetzt  gefragt, ob die Plattform rechtzeitig fertig wird und da sage ich, das kann ich nicht mit  Sicherheit sagen, aber ich hoffe, dass die Plattform rechtzeitig fertig wird, damit die  berechtigten die Zahlung so schnell wie möglich erhalten.
+ Ich schlage vor, dass sie die Nachrichten im Auge behalten, sie meint was anderes sprechen.
+ Ach ja, schön, ah ja, also, okay.
+ Selbst der lenkt ab, möchten sie nicht über was anderes sprechen und entnauft was something  completely different.
+ Ja, ne, aber also, eine große Kritik an der ganzen Sache ist ja, für diese Einmalzahlung  ist halt, dass du quasi zwingend so ein BundID-Konto haben musst, oder die anlegen musst, um  dieses Geld halt bekommen zu können, wo, wenn ich so mein Twitter quergelesen habe, das  auch so aus so Datenschutzgrundverordnung und Co.
+oder auch Online-Zugangsgesetz bin ich  mir grad nicht so sicher, aber es klangen so wie, na ja, okay, das können sie schon  so machen, dass sie da so eine digitale Lösung anbieten muss, aber trotzdem eigentlich aus  gesetzlicher Sicht noch eine Möglichkeit geben, dass ohne so ein Nutzerkonto oder ohne  so ein zentrales Benutzerkonto gehen, das heißt, es wäre möglicherweise an der Stelle  einfach nicht gesetzeskonform, dass jetzt nur über diese BundID machen zu können.
+ Ja.
+ Und dann finde ich davon, ob das jetzt mehr oder weniger Aufwand wäre, dass, wenn alle  jetzt die BundID nutzen.
+ Aber für mich ist diese BundID in dem Moment mit der Einmalzahlung auch so aus einer Nische  gesprungen.
+ Ich habe davor noch nie was davon gehört.
+ Also klar, ihr ID haben wir auf dem Ausweis, alle dabei, aber wie viele IDs haben wir denn  noch?
+ Ich glaube, mindestens 17, wo du doch über Self-Server in Identity gesprochen hast, weil ich meine  an mir ist was vorbeigeflogen, wie es gibt halt diese BundID und dann gibt es halt auch  noch oder soll es in Zukunft wohl sowas geben, aber vor sich gefährliches Halbwissen, so  LänderIDs, genau, sodass du halt bist zu, na ja gut, wenn du jetzt nicht gerade in dem  jeweiligen Bundesland bist, dann vielleicht nicht, aber dass du potenziell bis zu 17 verschiedene  IDs haben könntest.
+ Neue ID haben wir dann, die Gesundheitsakte hat mit Sicherheit auch noch eine ID, eine  Güter.
+ Ich werde das demnächst alles mal mit Kippars verwalten.
+ Ich glaube, ich habe den Chatbot gekrescht, ich habe gefragt, was ich alles mit der BundID  machen kann und jetzt hat er mehrere Hundertzeilen Ausgabe poloziert und mittendrin eingeschlafen.
+ Ich weise an dieser Stelle nur darauf hin, dass JetGPT keine verlässliche Informationsquelle  ist, weil da durchaus regelmäßig mal irgendwelche Bücher, Zeitungsartikel oder auch wissenschaftliche  Paper einfach mal so erfunden werden.
+ Also, liebe Menschen ist da draußen, vertraut nicht darauf, was JetGPT euch auswirft.
+ Ich bin mir auch ziemlich sicher, dass der Chatbot meines Vertrauens, der nicht JetGPT  ist, hier die BundID und eine andere ID oder alle anderen IDs durcheinanderwürfelt, weil  ich, ja, ich glaube, das ist alles der PersoID.
+ Naja, aber dieser andere Chatbot weist mich auf Personalausweis, portal.de, den link können  wir jetzt mal hier reinpacken, damit die Leute sich bei der Regierung ihres Vertrauens informieren  können.
+ Das ist ja heutzutage eine schwierige Wortkonstruktion bei der Regierung ihres Vertrauens.
+ Aber wir lassen hier an der Stelle mal ansonsten unkommentiert.
+ Oh, hier, kurzer Einwand, ich kann, oh, das muss ich direkt empfehlen, die Regierung meines  Vertrauens, ja, also DLF Hintergrund ist ein ganz toller, ein ganz tolles Format, wie  ich finde, 15 bis 40 Minuten lange Beiträge, die wohl im Radio laufen, aber ich nehme  sie natürlich als Podcast und die haben sich kürzlich mit der Entstehung von Reichsbürger,  von diesem ganzen Reichsbürger-Kram beschäftigt und ich habe gelernt, das kommt von einem  Reichsbahnangestellten in den 60ern, der gekündigt wurde und der sein Geld einklagen wollte.
+ Und es hat vor Gericht für ihn in dem Moment viel Sinn ergeben zu sagen, eigentlich ist  er ja noch beim Deutschen Reich angestellt und um dann konsistent zu bleiben, hat er  das durchgezogen und ist, also wahrscheinlich war er schon vorher ein bisschen verrückt,  aber er ist dann auch offensichtlich richtig durchgedreht und hat dann ausgerufen, dass  er selbst der Kanzler ist und so weiter, aber ganz spannend, dass diese Reichsbürger-Geschichte  eigentlich noch ein ganz anderen Hintergrund hatte, also da ging es wirklich mal in Gerichtsverfahren  und tatsächlich war es so, dass die Reichsbahn, die ja Ostberlin und Westberlin bedient hat,  als es noch zwei Deutschland in der Gabe gab, da war das tatsächlich rechtlich noch nicht  so noch ein bisschen schwammiger, wie das alles ist mit dem Nachfolger, Deutscher Reich,  Deutsches Reich und so weiter, noch heutzutage anders, aber darauf beziehen sich dann die  Reichsbürger häufig noch heutzutage.
+ Okay, das ist mir jetzt nicht untergekommen, die beziehen sich ja manchmal auch auf so  ein Gerichtsurteil von 76.
  Genau, das ist das.
  Okay, ja gut.
- Das ist im Zusammenhang mit diesem Prozess entstanden.
- Aha, okay, ja, gut.
- Ja, alles klar.
- Ja, ich habe auch gerade mal noch in die Schaunotsgeworfen  ein Podcast von der Bundeszentrale für politische Bildung,  der sich dann in rechtsextreme Rückzugsräume,  wo es unter anderem auch über Rechtsbürger geht  und selbstverwalter in einer Folge, aber auch ansonsten  durchaus sehr höhrenswert, wenn man sich dann mal  so über verschiedene politische Strömung informieren möchte  und was so die Hintergedanken davon sind  und um eventuell in Zuhörenden gleich den Wind aus den Segen zu nehmen.
- Nein, wir werden nicht von der Regierung bezahlt,  wir machen das hier alles freiwillig.
- Ja, bevor hier die nächsten Leute irgendwie anfangen.
- Da habt ihr jetzt mal aber nicht gut verhandelt.
+ Ist das im Zusammenhang mit diesem Prozess entstanden?
+ Ja, ich habe auch gerade mal noch in die Shownot geworfen, ein Podcast von der Bundeszentrale  für politische Bildung, der sich dann in rechtsextremen Rückzugsräume, wo es unter anderem auch  unter über Reichsbürger geht und selbstverweiter in einer Folge, aber auch ansonsten durchaus  sehr höhenswert, wenn man sich dann mal so über verschiedene politische Strömung informieren  möchte und was so die Hintergedanken davon sind und um eventuellen Zuhörenden gleich  den Wind aus den Segen zu nehmen.
+ Nein, wir werden nicht von der Regierung bezahlt, wir machen das hier alles freiwillig.
+ Ja.
+ Bevor hier die nächsten Leute irgendwie anfangen.
+ Da habt ihr zwar aber nicht gut verhandelt.
  Ich werde ja von ChatGBT bezahlt.
- Ich merke es.
-Die Frage ist, wirst du noch von ChatGBT bezahlt  oder bist du einfach nur ein ChatGBT-basierender Sprachbord?
- Können wir bitte über was anderes sprechen.
+ Ich merke, die Frage ist, wirst du noch von ChatGBT bezahlt oder bist du einfach nur  ein ChatGBT basierender Sprachbord?
+ Ja, können wir bitte über was anderes sprechen.
  Schon assimiliert.
- Anders, die Bock kommt.
- Nun gut.
- Aber wo wir doch quasi eine Art Personalgespräch  gerade hier führen, wer sind sie und wenn ja, wie viele.
- Wir haben ja jetzt auch das erste Quartal im neuen Jahr,  da stehen ja immer so Personalgespräche an.
+ Ah, Hannes, die Borkommen.
+ Nun gut, ja, aber wo wir ja doch gerade über so, wo wir ja quasi eine Art Personalgespräch  gerade hier führen, wir sind sie, und wenn ja, wie viele, und wir haben ja jetzt auch das  erste Quartal im neuen Jahr, da stehen ja immer so Personalgespräche an.
  Ich weiß nicht, ihr hattet vielleicht auch schon welche.
- Ich hatte Mainz auf jeden Fall dieses Jahr schon.
- Und es gibt auch so Menschen aus der Belegschaft von Twitter.
- Der Spielzeugfirma von Elon Musk möchte man fast sagen.
- Und da gab es neulich auch so eine Art gut Personalgespräch.
- Habt ihr das mitverfolgt?
- Auch wieder am Rande.
-Ja, aber man hat es mitgekriegt.
+ Ich hatte Mainz auf jeden Fall dieses Jahr schon und es gibt auch so Menschen aus der  Belegschaft von Twitter, dem Spielzeug, der Spielzeugfirma von Elon Musk, möchte man  fast sagen.
+ Und da gab es neulich auch so eine Art Gutpersonalgespräch, habt ihr das mitverfolgt?
+ Auch wieder am Rande, ja, aber man hat es mitgekriegt.
  Also mein Personalgespräch war durchaus vertraulich.
- Ich hätte jemand aus dem Personalrat mitnehmen können.
- Nee, haben wir nicht gemacht.
- Dann saßen wir mit dem Vorgesetzten und haben uns unterhalten.
- Das war ein Personalgespräch.
+ Ich hätte jemand aus dem Personalrat mitnehmen können, nee, haben wir nicht gemacht und  dann saßen wir mit dem Vorgesetzten und haben uns unterhalten, das war ein Personalgespräch.
+ Ja.
  Mir war nicht dabei.
  Sehr gut.
- Was neulich bei und über Twitter passiert ist,  da hat sich jemand gemeldet und gesagt,  Hallo Elon, ich habe seit neun Tagen keinen Zugriff mehr auf meine,  also der hat offensichtlich bei Twitter gearbeitet.
- Und ich habe seit neun Tagen keinen Zugriff mehr auf meine Systeme,  Allolog Instinct gesperrt.
- Und ich habe auch schon versucht, die Personalabteilung zu erreichen.
- Hab da aber keine Antwort gekriegt.
- Und jetzt interessiert mich, bin ich noch angestellt  oder bin ich rausgeschmissen worden?
- Man hat das ja in den letzten Monaten schon durchaus mal mitgekriegt  von der Königungswelle von Twitter.
- Dass da Leuten einfach mal so die Zugänge gesperrt wurden  und sie erst quasi danach mitgekriegt haben.
- Ach ja, sie sind übrigens gekündigt.
- Fährerweise, nicht nur bei Twitter.
- Ja, aber die haben den Anfang gemacht.
- Dann entspannen sich eine Diskussion auf Twitter,  wo Elon Musk dann ihm direkt antwortete,  ja, was hast du denn jetzt eigentlich gearbeitet?
- Und die Rückhandwort war, ja, ich müsste dafür die Vertraulichkeit  meines Arbeitsvertrags brechen.
- Lieber Elon, wenn deine Anwälte das mir schriftlich bestätigen,  dass ich das hier tun darf, dann könnten wir darüber reden.
- Und Elon meinte darauf so, ja, nie, es geht klar.
- Mach ruhig, mach ruhig, gern weiter.
- Und ja, dann ging es halt so darum, ja, übrigens.
- Ich habe schon gemerkt, öffentlich auf Twitter.
- Nicht auf Twitter, ja, für alle zu mitlesen.
- Und ja, also war ja die Frage im Raum stand,  ja, okay, was hast du eigentlich gemacht?
- Ja, ich habe zum Beispiel dazu beigetragen,  einen Vertrag in Höhe von einer halben Million Dollar zu retten.
- Und hat auch dazu beigetragen, noch andere Verträge zu schließen  und verschiedenste Designprojekte innerhalb der Firma zu machen.
- Und zwar mit einem kleinen Team, aber war ja recht erfolgreich.
- Und dann ging es halt, dann ging es halt weiter dieser ganze,  dieser ganze Threat oder diese ganze Unterhaltung  und letztendlich ging es dann zum Beispiel auch so in die Richtung,  dass sich Elon Musk dazu, dazu halt hinreißen lassen,  sowas zu äußern, wie ja, die Wahrheit ist,  also gegenüber einem anderen Twitter Benutzer,  der diese Unterhaltung befragt hat, die Wahrheit ist,  dass dieser Typ, der selbstständig irgendwie wohlhabend ist,  hat keine, hat keine echte Arbeit gemacht,  hat als Ausflucht angeführt, dass er eine Behinderung habe,  die ihn vom Tippen, die ihnen dazu veranlasst,  dass er nicht tippen kann und alles, was er gemacht hat,  ist nebenbei ein Twitter-Storm herbeizuführen.
- Und ich kann nicht sagen, dass ich eine große Menge Respekt dafür hätte.
- Das war so eine Aussage, die er da getätigt hat in der Öffentlichkeit.
- Machen wir es an der Stelle mal kurz.
- Also der Mitarbeiter, der Twitter-Mitarbeiter,  um den es hier an der Stelle geht,  ist Hallarur, oder Hallis Tollheimson.
- Halli oder I.M.
-Haraldur.
- Ja, Tollheimson.
- Und der hat ein Designfirma gehabt,  die aufgekauft wurde von Twitter.
- Und die im Vertragsschluss mit Twitter war vereinbart,  dass wenn er gekündigt würde,  würde quasi eine Zahlung von 100 Millionen Dollar fällig.
- Und offenbar war das Elon Musk,  beziehungsweise den Personen, die ihn gekündigt haben, nicht bekannt.
- Zum einen und zum anderen darf man sich sehr wohl die Frage stellen,  inwiefern ist es überhaupt legitim,  diese Art von Unterhaltung auf Twitter zu führen über Arbeitnehmer.
- Das geht ja so über alle Grenzen hinaus.
- Es ist zumindest über Grenzen, die wir hier so gewohnt sind.
- Für uns ist es halt grundsätzlich,  wenn es um Personal Dinge geht,  dann sind genau die Verantwortlichen drin und sonst keiner.
- Ja, auch in den USA gibt es natürlich deutlich laxere Arbeitnehmerinrechte.
- Aber selbst dort, also allerspätestens,  wenn es um körperliche Beeinträchtigungen geht,  allerspätestens dann ist auch eine große Grenzüberschritte.
- Und deswegen haben wir durchaus einige schon gesagt,  jetzt fehlt eigentlich nur noch eine Klage gegen Twitter  bzw.
-gegen Elon Musk, weil das geht einfach nicht.
+ Ja, was neulich bei und über Twitter passiert ist, da hat sich jemand gemeldet und gesagt,  Hallo Elon, ich habe seit neun Tagen keinen Zugriff mehr auf meine, also der hat offensichtlich  bei Twitter gearbeitet und ich habe seit neun Tagen keinen Zugriff mehr auf meine Systeme,  Allolog Instinct gesperrt und ich habe auch schon versucht, die Personalabteilung zu erreichen,  habe da aber keine Antwort gekriegt und jetzt interessiert mich, bin ich noch angestellt  oder bin ich rausgeschmissen worden?
+ Man hat das ja in den letzten Monaten schon durchaus mal mitgekriegt von der Kündigungswelle  von Twitter, dass da Leuten einfach mal so die Zugänge gesperrt wurden und sie erst  quasi danach mitgekriegt haben, sie sind übrigens gekündigt.
+ Ja, fairerweise, nicht nur bei Twitter, aber die haben den Anfang gemacht.
+ Genau, und dann entspannen sich eine Diskussion auf Twitter, wo Elon Musk dann ihm direkt  antwortete, ja, was hast du denn jetzt eigentlich gearbeitet und die Rückhandwort war, ja,  ich müsste dafür die Vertraulichkeit meines Arbeitsvertrags brechen, lieber Elon, wenn  deine Anwälte das mir schriftlich bestätigen, dass ich das hier tun darf, dann könnten  wir darüber reden und Elon meinte darauf, so ja, nie, es geht klar, mach ruhig, mach  ruhig, gern weiter und ja, dann ging es halt so darum, ja, übrigens, ja.
+ Wohlgemerkt öffentlich auf Twitter, nicht auf Twitter, ja, für alle, für alle zu mitlesen  und ja, also, war ja die Frage im Raum stand, ja, okay, was hast du eigentlich gemacht?
+ Ja, ich habe zum Beispiel dazu beigetragen, einen Vertrag in Höhe von einer halben Million  Dollar zu retten und hatte auch dazu beigetragen, noch andere Verträge zu schließen und verschiedenste  Designprojekte innerhalb der Firma zu machen, und zwar mit einem kleinen Team, aber wohlgericht  erfolgreich und dann ging es halt, dann ging es halt weiter dieser ganze, dieser ganze  Thread oder diese ganze Unterhaltung und letztendlich ging es dann zum Beispiel auch so in die Richtung,  dass sich Elon Musk dazu, dazu halt hinreißen lassen, sowas zu äußern wie ja, die Wahrheit  ist, also gegenüber einem anderen Twitter Benutzer, der diese Unterhaltung perfekt hat, die Wahrheit  ist, dass dieser Typ, der selbstständig irgendwie wohlhabend ist, hat keine, hat keine echte  Arbeit gemacht, hat als Ausflucht angeführt, dass er eine Behinderung habe, die ihn vom  tippen, die ihnen dazu veranlasst, dass er nicht tippen kann und alles was er gemacht  hat, ist nebenbei ein Twitter-Storm herbeizuführen und ich kann nicht sagen, dass ich eine große  Menge Respekt dafür hätte, so, das war so eine Aussage, die er da getätigt hat in der  Öffentlichkeit.
+ Machen, machen wir es an der Stelle mal kurz, also der Mitarbeiter, der Twitter-Mitarbeiter,  um den es hier an der Stelle geht, ist Haraldor oder Hallis, tolleifson, Halli oder I am Haraldor,  Tolleifson und der hat ein Designfirma gehabt, die aufgekauft wurde von Twitter und die  im Vertragsschluss mit Twitter war vereinbart, dass wenn er gekündigt würde, würde quasi  eine Zahlung von 100 Millionen Dollar fällig, offenbar war das Elon Musk bzw.
+den Personen,  die ihn gekündigt haben, nicht bekannt.
+ Zum einen und zum anderen darf man sich sehr wohl die Frage stellen, also inwiefern ist  es überhaupt legitim, diese Art von Unterhaltung auf Twitter zu führen über Arbeitnehmer,  also das geht ja so über alle Grenzen hinaus.
+ Es ist zumindest über Grenzen, die wir hier so gewohnt sind, weil für uns ist es halt  grundsätzlich, wenn es um Personal Dinge geht, dann sind genau die Verantwortlichen drin  und sonst keiner.
+ Ja, auch in den USA gibt es natürlich deutlich laxere Arbeitnehmer in Rechte, aber selbst  dort, also allerspätestens, wenn es um körperliche Beeinträchtigungen geht, dann ist auch eine  große Grenz überschritten und deswegen haben wir durchaus einige schon gesagt, jetzt fehlt  eigentlich nur noch eine Klage gegen Twitter bzw.
+gegen Elon Musk, weil das geht einfach  nicht.
  Ja, das geht halt einfach wirklich nicht.
  Auf verschiedensten Ebenen.
- Auf den verschiedensten Ebenen, ja.
- Ist es ja jetzt nicht das erste Mal,  dass Elon Musk da leichtfertig irgendwelche Dinge raushaut,  die er später dann vielleicht bereut?
- In dem Fall ja tatsächlich bereut.
- Also er hat sich am 8.
-März  wiederum öffentlich auf Twitter dafür schon licht,  was da gelaufen ist.
- Ja, bevor er, dass er, ja, aber erst nachdem er dann quasi,  nachdem er dann quasi überhaupt erst mal durch Anregung  einen Videocall gemacht hat mit dem Herrn Zolläufson,  und dann haben sie über so die verschiedensten Dinge gesprochen.
- Zum ersten Mal, nachdem eben diese ganze andere Kommunikation  stattgefunden hat, haben sie eine Videokonferenz gemacht  und darüber gesprochen.
- Und es stellte sich raus, die Dinge sind doch ein bisschen anders,  als sie Elon Musk erzählt wurden.
- Spannender, also im Sinne von so Überraschung, ja.
- Und die Schlussfolgerung von Elon war an der Stelle so,  ja, es ist besser mit Leuten zu reden, als darüber zu tweeten.
+ Ja, es ist ja jetzt nicht das erste Mal, dass Elon Musk da leichtfertig irgendwelche Dinge  raushaut, die er später dann vielleicht bereut.
+ In dem Fall ja tatsächlich bereut, also er hat sich am März und tatsächlich auch wiederum  öffentlich auf Twitter dafür entschuldigt, was da gelaufen ist.
+ Ja, bevor er, dass er ja, aber erst nachdem er dann quasi, nachdem er dann quasi überhaupt  erst mal durch Anregung einen Videocall gemacht hat mit dem Herrn Torläufson und dann haben  sie über so die verschiedensten Dinge gesprochen zum ersten Mal, nachdem eben diese ganze  andere Kommunikation stattgefunden hat, haben sie eine Videokonferenz gemacht und drüber  gesprochen und es stellte sich raus, die Dinge sind doch ein bisschen anders, als sie Elon  Musk erzählt wurden, also im Sinne von so Überraschung und die Schlussfolgerung von  Elon war an der Stelle so, ja, es ist besser mit Leuten zu reden, als darüber zu tweeten.
  Ah, wieder was gelernt.
- Ach, Mensch.
- Also weiter gehen wir an die Hüris.
- Es ist besser miteinander zu reden, als übereinander zu twittern.
+ Ach Mensch.
+ Gut, also weiter gehen wir an die Hüris, es ist besser miteinander zu reden, als übereinander  zu Twitter.
  Das kann man mal mitnehmen.
  Ja, insbesondere wenn es um Personalangelegenheiten geht.
- Ja, und um die unangenehme Situationen, wie waren das?
- 1, 2, 3, 4, 5, 6, 7, 8, 9-stellige Beträge loszuwerden.
+ Und um die unangenehme Situationen, wie waren das, 1, 2, 4, 5, 6, 7, 8, 9-stellige Beträge  loszuwerden?
  Mal wieder.
- Ja, du spielst jetzt auf irgendwelche Aktienkurse an, oder?
+ Du spielst jetzt auf irgendwelche Aktienkurse an oder?
  Auf die 100 Millionen.
- Ach so, ja, ja, ja.
- Ja, ja, ja.
- Da kann man sich schon mal entschuldigen, also.
- Ja, ja, ja, wir haben schon mal, wir haben schon mal, wir haben schon mal angebracht.
- Ach, was haltet ihr davon, wenn wir noch ein bisschen Musik spielen?
- Oh, können wir machen.
- Ich sehe da zwar noch zwei spannende Dinge, aber machen wir mal, oder?
- Ding sagt, wir sollen Musik spielen.
- Entschuldigung, ein Chat, ich denke, ist meiner Wahl.
- * Musik *  * Musik *  * Musik *  * Musik *  * Musik *  Und zu dem Song, den wir gerade gehört haben,  war Biogas von Der Frini, um dieser Song steht,  und er zieht sie bei 4.0 Lizenz.
- Das heißt, ihr könnt ihn kostenfrei nachhören.
- Genau.
- Mal wieder ein bisschen, mal wieder so ein bisschen 8-Bit und elektronische Musik hier.
- Diesmal.
- Genau.
- Ja.
- Was war denn noch so los?
- Woüber sollten wir da mal noch sprechen?
- Nein, ich habe da noch ein paar Sachen reingeworfen,  weil ich hatte jetzt die letzten Wochen so ein bisschen Präsenz-Binchen.
- Ich weiß nicht, wie es anders nennen soll.
- So eine Präsenz-Veranstaltung nach der anderen.
- Quasi alles nachholen, was in Corona wegfiel?
- Ja, so ein bisschen, inklusive den Folgen davon.
- Womit fing es an?
- Ja, in Brüssel war die Phostem.
- Super spannende Konferenz von eben Open Source Entwicklern,  wo ich, na ja, bin ich jetzt Open Source Entwickler,  ich bin Mechanroniker, will ich jetzt nicht sagen,  dass ich direkt Open Source Entwickler bin,  aber man hatte ja so ein Open Source Projekt,  irgendwann mal losgetreten, das FAP Access,  und dann kam das eine zum anderen,  und ich durfte auf dieser Phostem  eine Stunde über FAP Access sprechen.
- Auf Englisch, mein erster Vortrag auf Englisch.
- Ich muss sagen, es hat nicht weh getan,  es hat sogar fast ein bisschen Spaß gemacht.
- Also von daher kann ich nur empfehlen, probiert es mal,  und dann zurück von der Phostem,  und man konnte die Uhr danach stellen,  wann mich der Virus dahin gerafft hat.
- Weil das waren halt doch mal, ich weiß nicht wie was,  ich glaube 8000 Leute, war so die offizielle Zahl,  die dann verteilt wurde.
- Masken in Maßen, also es gab sie hier,  aber jetzt nicht mehr so richtig aktiv,  und am Ende halt, ja, wie gesagt,  zwei Tage danach, Bums Virus, nein,  es war wohl nicht Corona,  zumindest hat es mein vier verschiedene Virus-Testschreifen  behauptet, der hat exakt bei keinem einzigen angeschlagen,  war aber deutlich harmloser als vorher,  also ich hatte so richtig den Eindruck,  dass mein Körper kennt das schon,  und macht ihn jetzt gerade platt, und dann geht es weiter.
- Kaum konnte ich dann wieder stehen.
- Wieder mit dem FAP Access ging es nach Hamburg,  und da war erst der Abschluss  von einem aus EU-Mitteln geförderten Projekt,  Interfacer hieß das,  bei dem FAP Access war ein klitzekleiner Teil davon wahr,  aber halt auch beteiligt und dabei,  und dann gab es in Hamburg  the Future of Making, wo es zum einen  um Open Source Hardware ging,  zum anderen um wie können wir in den Zusammenhängen  mit Open Source Hardware dafür sorgen,  dass Entwickler, Designer und so weiter,  alle am Ende, wenn ein Ding auf dem Tisch liegt,  was gefertigt wurde, so ihr fair share kriegen,  da würde ich sagen, gehe ich jetzt nicht tief rein,  das ist alles noch in Bewegung,  und es ist ein Forschungsfeld,  in dem man sich wunderschön in der Forschung austoben kann.
- Da ist, glaube ich, die HSU in Hamburg ganz gut dabei, ja.
- Aber fair share im Sinne von Geld, oder?
- Ja, da gab es tatsächlich so Diskussionen,  es gibt Menschen, die meinen,  dass wir Blockchain lösen zu müssen,  es gibt aber zum Glück auch Menschen,  die das Wort Blockchain nicht so zwingend setzen,  und das hat mich an der Stelle wieder  so ein bisschen fröhlich gestimmt.
- Aber ich meine dir jetzt generell,  also, weil du von fair share ging es da um Geld,  oder Reputation, oder?
- Genau, am Ende ging es tatsächlich gut,  wie gesagt, die Lösung ist noch nicht da,  das gibt an der Stelle noch keine Lösung,  es ist ein Forschungsfeld, aber es geht schon darum,  wenn ein Open Source entwickelt und hergestellt wird,  wie geht das Geld, das am Ende dafür bezahlt wird,  wieder in der Kette zurück,  und wie kriegt am Ende derjenige,  der die Idee irgendwann mal hatte,  auch noch irgendwie so eine 3,50 Euro davon.
- Also wie gesagt, es ist ein Forschungsfeld,  da gibt es noch kein Konzept, so muss es sein,  und so ist es,  sondern da wird im Moment ganz aktiv diskutiert  und überlegt, wie können wir es machen,  also, ja, gibt ja Ideen, wie man es in anderen  Zusammenhängen macht, GEMA und dergleichen.
- Aber das, wie gesagt, da schauen wir mal,  in welche Richtung sich das bewegt.
- Also, ich sehe, das war Freitagsamstag,  dann war Sonntag eigentlich Ruhe in Hamburg angesagt,  und man hat die Stadt angucken,  nee, nee, kam nicht dazu,  die nächste Veranstaltung hat schon wieder angezogen.
- Und statt bis zum Montag zu warten,  ging der Open Toolchain Heckerton,  tatsächlich haben Sonntag schon los.
- Ich weiß einfach, eine subversive Gruppe von Menschen,  die quasi "The Future of Making" sowieso in Hamburg waren,  gesagt haben, warum bis Montag warten kommen,  lasst mal im Zipfelhaus treffen,  ob die Open Toolchain Heckerton schon anfangen.
- Ich glaube, faktisch war es so,  die Hälfte derer, die bei dem Heckerton dabei waren,  also so, ja, 12, 13, 15 Leute irgendwie so.
- Und dann haben wir so gequatscht,  wer ist wer, was machen wir so?
- Und eine Runde hat dann Lukas von Sensor.com  hier eingeläutet mit, erzählt doch mal, wo ihr so wart  und was ihr schon so gemacht habt.
- Und dann kam, ja, hier Camp und Make Contain Hackers letztes Jahr  und Gulasch Programmiernacht.
- Und lustigerweise waren auch Leute dabei,  die bei Burning Man schon direkt dabei waren und so weiter.
- Also diese Community,  die sich auf diesem Open Toolchain Heckerton getroffen hat,  ich hatte so das Gefühl,  das ist so die Spitze des Eisbergs,  der Menschen, die mit Open Source Hardware zu tun haben.
- Und irgendwann war ich dann auch,  ja, was haben wir schon gemacht  und was für Veranstaltungen gab es  und da hat er dann so in die Runde geworfen,  ja, eigentlich reden wir seit drei Jahren,  wir müssten mal so einen Makerspacehopping machen,  also so quasi wie einen Heuschreckenschwarmen  in einen Makerspace einfallen,  den Kühlschrank leer essen, alle Maschinen benutzen  und dann am Ende, wenn nichts mehr da ist,  dann haben wir uns als Gruppe kollektiv überlegen,  wo geht es weiter und wo gehen wir als Nächstes hin.
- Und ich hatte den Eindruck,  wir waren eine kritische Masse,  die ausreicht, um das auch mal zu starten  und nicht nur auf der wir müssten mal Liste zu lassen,  mit dem Ergebnis,  wir waren dann tatsächlich,  also letzte Woche an zwei Tagen in Berlin,  haben uns jeweils in einem Makerspace getroffen  und sind von da aus losgezogen.
- Wir waren am X-Hein, dann Haus der Materialisierung  und zwischendrin waren wir noch Essen  und dann war der Abend da auch schon wieder rum,  irgendwie so gegen Mitternacht.
- Und genau der zweite Tag war dann am Donnerstag,  haben wir uns beim CCC in der Marienstraße getroffen,  dann hatten wir alle wieder Hunger,  in dem Fall, nein, wir konnten doch nicht,  uns vollständig aus dem dortigen Kühlschrank,  wir sind dann um die Ecke in eine Pizzerie eingefallen  und dann ging es nochmal an  Haus der Materialisierung vorbei,  wo an dem Tag eine Finishage  von einer Open Source-Hatware-Ausstellung  stattgefunden hat.
- Dann haben wir so gerade das Ende,  wir haben die Leute noch gegen gesehen,  sagen was so was ist.
- Und dann ist der Rest noch in die Siebeis gelaufen  und ich war lange nicht mehr in der Siebeis,  so mit allen Atom und mit meinem Körper.
- Ich habe natürlich mit Menschen von dort zu tun gehabt,  jede Menge, aber ich war nicht dort.
- Fies der Zufall wollte, da war Lockpicking am Abend  und ich wusste nicht,  dass Lockpicking so meditativ sein kann.
- Gut, jedenfalls war eine schöne Runde.
- Der Open Toolchen Hackathon war natürlich  wie das Hackathon so Sinn durchaus intensiv  und hat super Spaß gemacht,  war einfach die Leute, die da waren,  endlich mal normale Menschen.
- Genau, und das in der Konzentration,  die halt wirklich ich in dem Stil noch nicht erlebt habe.
- Der wäre eigentlich gegangen bis Dienstag,  Nachmittag, Abend,  werden dann die Projektpräsentationen gewesen.
- Gut, ich konnte mich noch nicht klonen.
- Am Dienstag, Abend, war in der Berliner Hochschule  für Technik und Treffen von Menschen  vom VDI, Verband Deutscher Ingenieure  und von aus der Open Hardware  und Open Source Hardware Szene,  genauer aus der Open Hardware Allianz, OHA.
- Und deswegen bin ich dann am Dienstag so eine halbe Stunde,  nachdem ich eigentlich sollte,  aufgebrochen in Hamburg und nach Berlin gedübelt  und habe da zugesehen, dass die Veranstaltung  auf die Beine kommt, Streaming aufgebaut und so weiter.
- Und ich hatte mal wieder ein Erlebnis der dritten Art.
- Also man möchte ja Veranstaltungen  so von der Kamera als Stream ins Netz kriegen.
- Zum Glück hat man schon Big Blue Button,  das Zoom-Problem war gelöst.
- Ich schalte den Rechner ein, der eigentlich streamen sollte.
- Was kommt mir entgegen,  eine Windows Update-Meldung.
- Übrigens, ich habe jetzt ein Prozent aktualisiert.
- Danke fürs Gespräch.
- Ich dachte, okay, gut, kein Thema,  hast ja noch ein Notebook.
- Notebook aufgeklappt, hingestellt,  Linux runtergefahren,  die Windows-Partition gebotet  und exakt das gleiche Bild.
- Mein lustiges digitales Endgerät  hat unter Windows erst mal gemeint,  sich auf Windows 11 aktualisieren zu müssen.
- Danke fürs Gespräch, das lässt sich natürlich auch nicht abwählen.
- Du solltest doch eher die aktuelle Software haben wollen.
- Ja, genau, in dem Moment wollte ich nicht,  ich wollte eine Veranstaltung  mit ungefähr 25, 30 Leuten ins Netz bringen.
- Zum Glück, ich hatte noch einen kleinen Intel-Nuck dabei,  wo kein Windows drauf ist,  wirklich nur Linux.
- Mit dem haben wir es dann gestreamt und alles war okay.
- Aber ah!
- Na gut.
- Am Ende war das aber auch eine schöne Veranstaltung,  wo Leute aus der Hochschule zusammengekommen sind,  eben mit Leuten aus der Open-H-Version  und mir aus beiden Richtungen am Ende mitgeteilt wurde.
- Oh!
- Jetzt habe ich mal wieder ein ganz anderes Bild  und neue Perspektiven gekriegt.
- Danke dafür.
- Dann hatten wir ein bisschen Ruhe,  mal wieder meine Kinder und Frau und Familie gesehen.
- War auch ganz nett.
- Freut mich immer.
- Ich muss jetzt gehen raus.
- Ja, auf jeden Fall.
- Und dann hatten wir am 10.3.
- haben die Grünen ins Paul-Löberhaus eingeladen.
- Wo auch wieder eine super spannende Veranstaltung  hat sich angeschlossen, nachhaltig bei Design.
- Wo auch im Prinzip ging es hauptsächlich  um Software, Open-Source Software  und Nachhaltigkeit in der Software-Entwicklung.
- Also nicht nur Open-Source,  sondern Open-Source ist natürlich ein Vehikel,  um Nachhaltigkeit zu fördern, keine Frage.
- Worauf aber auch aufgefallen ist,  dass ja, Software ohne Hardware funktioniert halt nicht.
- Das heißt, wenn man nachhaltige Software denkt,  dann ist im Teil des Hinterkopfes  auch immer die Hardware mitzudenken.
- Zum einen auf der die Software läuft,  weil die Rechner brauchen Energie und sonstige Ressourcen,  die vielleicht in Werkwerken abgebaut werden,  die diskussionswürdig sind.
- Zum anderen aber halt auch hardwaretiv von dieser Software  beeinflusst wird, ist auch so ein Punkt.
- So, und dann ist jetzt wieder Wochenende  ein bisschen erholt, Hurra, wie der Familie.
- Ich mag meine Kinder wirklich.
- Wir haben ein bisschen Englisch gelernt,  ein bisschen Computeraufgaben gemacht.
- Und morgen geht es gleich schon wieder weiter.
- Das Forum Open Hardware drückt.
- Das ist nämlich genau der Tag, an dem wir senden.
- Und ich weiß es jetzt schon,  es wird auch wieder eine super spannende Veranstaltung,  wo es zum einen eben wieder um Open Source Hardware geht.
- Und aber auch so um eine circular society.
- Das heißt, Kreislaufwirtschaft wird ein Thema sein  und das Recht auf Reparatur.
- Und wie können wir Geräte, die wir besitzen,  auch tatsächlich selbst besitzen  und nicht der Hersteller des Geräts,  hat noch seinen Fuß in der Tür  und die Daten, die auf dem Gerät entstehen,  gehören nicht mehr, sondern ihm und so weiter.
- Das wird morgen noch ein Thema sein.
- Und dann, ich weiß es jetzt schon, ich komme nicht zu ruhig.
- Am Dienstag geht es dann nach München.
- Da gibt es so ein Startup Lab,  etwa so ein Status Treffen,  wo wieder Fertig-Access von Interesse ist.
- Und na ja.
- Ein Ding würde ich jetzt noch ansprechen wollen.
- Und zwar, am 22.08.
- werden sich Menschen treffen,  die zu Konformität entweder Kenntnis  oder spezifische Interessen haben.
- Das musst du jetzt aber ganz kurz erklären,  was man nicht sagt.
- Weil ich mir sage, das ist überhaupt nichts.
- Als Wort, dass es Konformität ist im Prinzip so,  EU-Regulierung zu, Zertifizierung,  Maschinenzulassung, Haftungstrangen  in Maschinen unter der gleichen.
- Der Überbegriff ist an der Stelle Konformität.
- Und da wird es einen Treffen geben,  also wenn jemand spezielles Interesse daran hat  oder da wirklich tieferes Wissen dazu hat,  dann kann man sich gerne an radio@ccc-p.org melden  und da vielleicht noch dazukommen.
- Jo, wie liegt man in der Zeit?
- Haben wir noch Zeit für zukünftige Veranstaltungen,  wo wir noch nicht waren?
+ Ach so, ja, ja, ja, ja, ja, ja, ja, ja, ja, so.
+ Da kann man sich schon mal entschuldigen also.
+ Ja, ja, wer schon mal, wer schon mal, wer schon mal angebracht.
+ Ja, ja, ja, ja, ja, ja.
+ Ja, ja, ja, ja, ja, ja, ja, ja, ja, ja, ja, ja, ja, ja.
+ Ja, ja, ja, ja, ja, ja.
+ Ja, ja, ja, ja, ja, ja, ja, ja, ja, ja, ja, ja, ja.
+ Ja, ja, ja, ja, ja, ja, ja, ja, ja, ja, ja, ja, ja, ja.
+ Ja, ja, ja, ja, ja, ja, ja, ja, ja, ja, ja, ja, ja, ja.
+ Ja, ja, ja, ja, ja, ja, ja, ja, ja, ja, ja, ja.
+ ja, ja, ja, ja, ja, ja, ja, ja.
+ Ja, ja, ja, ja, ja, ja, ja.
+ Ja, ja, ja, ja, ja, ja, ja, ja.
+ Ja, ja, ja, ja, ja, ja, ja, ja.
+ Ja, ja, ja, ja, ja, ja, ja.
+ Ja, ja, ja, ja.
+ ja, ja, ja, ja, ja, ja, ja, ja, ja.
+ ja, ja, ja, ja.
+ Ja, ja, ja, ja, ja, ja, ja, ja, ja, ja, ja, ja, ja, ja.
+ Ja, ja, ja, ja, ja, ja, ja, ja, ja.
+ Ja, ja, ja, ja, ja, ja.
+ ja, ja, ja, ja, ja, ja.
+ Ja, ja, ja, ja, ja.
+ Ja, ja, ja, ja, ja, ja, ja, ja.
+ Ja, ja, ja, ja, ja, ja, ja, ja, ja, ja.
+ die Software ohne Hardware funktioniert halt nicht.
+Das heißt, wenn man nachhaltige Software denkt, dann ist im Teil des Hinterkopfes auch immer die Hardware mitzudenken.
+Zum einen auf der die Software läuft, weil die Rechner brauchen Energie und sonstige Ressourcen, die vielleicht in Werkwerken abgebaut werden, die diskussionswürdig sind.
+ Zum anderen aber halt auch Hardware tief von dieser Software beeinflusst wird, ist auch so ein Punkt.
+Und dann ist jetzt wieder Wochenende ein bisschen erholt, Hurra wie der Familie.
+Ich mag meine Kinder wirklich.
+Wir haben ein bisschen Englisch gelernt, ein bisschen Computeraufgaben gemacht und morgen geht es gleich schon wieder weiter.
+ Das Forum Open Hardware drückt, das ist nämlich genau der Tag, an dem wir senden.
+Und ich weiß es jetzt schon, das wird auch wieder eine super spannende Veranstaltung, wo es zum einen wieder um Open Source Hardware geht und aber auch so um eine circular society.
+ Das heißt, die Kreislaufwirtschaft wird ein Thema sein und das Recht auf Reparatur und wie können wir Geräte, die wir besitzen, auch tatsächlich selbst besitzen und nicht der Hersteller des Geräts, hat noch seinen Fuß in der Tür und die Daten, die auf dem Gerät entstehen, gehören nicht mehr, sondern ihm und so weiter.
+ Das wird morgen noch ein Thema sein und dann, ich weiß es jetzt schon, ich komme nicht zu ruhig, am Dienstag geht es dann nach München, da gibt es aus Datablab, ADFH so ein Status treffen, wo wieder Fertaxes von Interesse ist und naja, ein Ding würde ich jetzt noch ansprechen wollen und zwar am 22.08.
+werden sich Menschen treffen, die zu konformerität entweder Kenntnis oder spezifische Interessen haben.
+ Das musst du jetzt aber ganz kurz erklären, was man sagt, weil ich mir sagt, das ist überhaupt nichts.
+ Als Wort, dass es Konformität ist im Prinzip so, EU-Regulierung zu, Zertifizierung, Maschinenzulassung, Haftausfragen in Maschinen unter dergleichen, der Überbegriff ist an der Stelle Konformität.
+ Und da wird es ein Treffen geben, also wenn jemand spezielles Interesse daran hat oder da wirklich tieferes Wissen dazu hat, dann kann er sich gerne an radio@ccc-p.org melden und da vielleicht noch dazu kommen.
+ Wie liegt man in der Zeit?
+Haben wir noch Zeit für zukünftige Veranstaltungen, wo wir noch nicht waren?
  Ganz fix.
- Na ja, machen wir ganz fix.
- Make Content Hexas 2025  ist so eine Veranstaltung,  die jetzt schon anfängt, Werbung zu machen,  weil da noch ganz viel Platz ist.
- Und dieses Jahr haben wir das Camp 2023.
- Ich glaube, da ist Platz,  eher eine Mangelressource.
- Ist so mein Bauchgefühl.
- Ich bin gespannt.
- Und die anderen beiden Veranstaltungen,  ich glaube, ich habe jetzt echt mir einen Mundfuß liberiert.
- Erzählt doch mal.
- Dann gibt es dieses Jahr auch wieder noch die Easter-Hack.
- Ich habe gehört, da gibt es auch momentan schon Tickets.
- Hoffentlich auch noch, wenn ihr die Sendung hört.
- Und die Gulasch-Programmiernachsteht natürlich auch wieder an  in Karlsruhe über Pfingsten müsste das diesmal sein.
- Ja, deswegen auch dieses Jahr ist der Kalender voll.
- Ich habe auch jetzt rausgehört, Knups.
- Bei dir ist auch der Zeitplan, der persönlich auch sehr voll.
- Es ist auf jeden Fall sehr spannend, was da so alles geht.
- Ja.
- Jetzt mal um es aber noch abzubinden.
- Insgesamt waren das alles Veranstaltungen.
- Also, wenn man dahin geschickt würde,  um dahin zu müssen,  würden die eigentlich völlig fertig machen.
- Also, man hätte Stress ohne Ende.
- Dadurch, dass das halt wirklich Veranstaltungen sind,  die zu meinem Thema passen, die mich triggern, die mir Spaß machen,  ist das so, dieser Begriff ist, glaube ich, Eustress.
+ Ja, machen wir ganz fix.
+Make Content Haxes 2025 ist so eine Veranstaltung, die jetzt schon anfängt, Werbung zu machen, weil da noch ganz viel Platz ist und dieses Jahr haben wir das Camp 2023.
+ Ich glaube, da ist Platz eher eine Mangelresource, ist so mein Bauchgefühl.
+ Ich bin gespannt und die anderen beiden Veranstaltungen, ich glaube, ich habe jetzt echt mir einen Mund fußelig geredet.
+Erzählt doch mal.
+ Dann gibt es dieses Jahr auch wieder noch die Easter Hack.
+Ich habe gehört, da gibt es auch momentan schon Tickets, hoffentlich auch noch, wenn ihr die Sendung hört.
+ Und die Gulasch-Programmiernacht steht natürlich auch wieder an in Karlsruhe.
+Über Pfingsten müsste das diesmal sein.
+ Ja, also deswegen auch dieses Jahr ist der Kalender voll.
+Ich habe auch jetzt rausgehört, Knurps, bei dir ist auch der Zeitplan, der persönlich auch sehr freu ist auf jeden Fall sehr spannend.
+ Was da so alles geht, um Open Hardware.
+ Jetzt mal, um es aber noch abzubinden.
+Insgesamt, wann ist alles Veranstaltung?
+Also wenn man dahin geschickt würde, um dahin zu müssen, würden einen die völlig fertig machen.
+ Also man hätte Stress ohne Ende.
+Dadurch, dass das halt wirklich Veranstaltungen sind, die zu meinem Thema passen, die mich triggern, die mir Spaß machen, ist dieser Begriff ist, glaube ich, euch Stress.
  Das ist ein positiver Stress.
- Es ist quasi Stress, die einem mehr gibt, also einem nimmt.
- Ja.
+Es ist quasi Stress, der einem mehr gibt, also einem nimmt.
  Dann würde ich sagen, sind wir heute am Ende unserer Sendung angekommen.
- Ihr hört Chaos im Radio.
- Wir sind immer am zweiten Montag im Monat hier unterwegs  auf 90,7 MHz im freien Radio Potsdam  oder in Berlin auf 88,4.
- Und ja, auch ansonsten zu finden unter radio.cc-p.org  oder im E-Adresse habt ihr ja gerade schon gehört, Radio@ccc-p.org.
- Und damit verabschieden wir uns von Knups.
- Ciao, ciao.
- Und Hannes.
- Tschüß.
- Und ich sage auch tschüß, der Cyroxx.
- Bis zum nächsten Mal.
+Ihr hört Chaos im Radio.
+Wir sind immer am zweiten Montag im Monat hier unterwegs auf 90,7 MHz im freien Radio Potsdam oder in Berlin auf 88,4.
+ Und auch ansonsten zu finden unter Radio.ccc-p.org oder im E-Adresse habt ihr gerade schon gehört Radio@ccc-p.org.
+ Und damit verabschieden wir uns von Knurps und Hannes.
+ Und ich sage auch Tschüss.
+Bis zum nächsten Mal.
