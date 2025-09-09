@@ -106,5 +106,13 @@ find "$TARGET_DIR" -type f -name "*.txt" | while read -r txt_file; do
     mv "${txt_file}.tmp" "$txt_file"
 done
 
+# find txt files where a line is repeated consecutively more than twice. Report these files and the duplicated line.
+find "$TARGET_DIR" -type f -name "*.txt" | while read -r txt_file; do
+    dup_line=$(awk 'NR>2 && $0==prev && $0==prev2 {print $0; exit} {prev2=prev; prev=$0}' "$txt_file")
+    if [ -n "$dup_line" ]; then
+        echo "Warning: File '$txt_file' has a line repeated more than twice consecutively: \"$dup_line\""
+    fi
+done
+
 echo "Completed processing transcription files."
 echo "Total files processed: $file_count"

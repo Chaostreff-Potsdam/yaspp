@@ -1,798 +1,720 @@
- Herzlich willkommen zu ersten Folge von Chaos im Radio, im Freien Radio Potsdam.
- Heute mit dabei sind der Cyroxx.
-- Hallo.
- Und auch mal nach langer Abwesenheit der Ajuvo.
-- Hallo.
+ Herzlich willkommen zu ersten Folge von Chaos im Radio im Freien Radio Potsdam.
+ Heute mit dabei sind  der Cyroxx.
+Hallo.
+ Und auch mal nach langer, langer Abwesenheit der Ajuvo.
+ Hallo.
  Ja, und das war's schon.
-Und ich bin noch der Gini.
+ Und ich bin noch der Gini.
  Gini, du bist auch noch da.
-- Ja, so sind wir ja mehr.
+ Ja, das sind wir ja mehr.
  Aber drei sind ein Team und für eine Sendung doch völlig ausreichend.
  Ja, schön mal wieder hier zu sein.
- Sonst mach ich ja auf diesem Kanal immer nur Hyperbandrauschen.
- Und erste Folge stimmt ja so nicht ganz, aber die erste Folge im neuen Jahr 2023.
- Oh, hab ich das nicht gesagt im neuen Jahr?
-Ich wollte im neuen Jahr sagen.
+ Sonst mache ich ja auf diesem Kanal immer nur Hüberband rauschen.
+ Ja, genau.
+Und erste Folge stimmt ja so nicht ganz.
+ Aber die erste Folge im neuen Jahr 2023.
+ Oh, habe ich das nicht gesagt im neuen Jahr?
+ Ich wollte im neuen Jahr sagen.
  Magic Numbers, Magic Numbers.
- Ja, ich würd sagen, im neuen Jahr 2023...
+ Ja, ich würde sagen, im neuen Jahr 2023.
  Es ist noch, es ist du, aber es ist auch für mich noch so ungewohnt.
- Ja, wichtige Zahlen oder auch nicht war,  wir sind im Jahr unserer lieben Frau Discordia 3.189, also von daher nimm.
- Ich hab das mit diesem diskordianischen Kalender noch nie so ganz verstanden.
- Übrigens, das ist hier die Sendung des Chaoscomputer Clubs,  also nur, dass ihr Bescheid wisst.
-- Ja, nicht so ganz, aber ja.
- Ja, aber doch eigentlich schon, es ist kompliziert.
- Genau, es ist kompliziert, größer aus Potsdam.
- Genau, aus markenrechtlichen Gründen kompliziert, genau.
- Ähm, ja, genau.
- Und es ist ein neues Jahr und 2023 ist wichtig, 42 auch.
- Ich hab schon Wahlplakate in Berlin gesehen, wo einfach nur drauf steht 42.
- Oh.
-- Du weißt gar nicht, von welcher Partei, so, keine Ahnung.
- Man kann mutmaßen, aber ja.
- Aber auch nicht schlecht eigentlich.
-- Sehr gut.
+ Ja, wichtige Zahlen oder oder auch nicht war.
+ Wir sind im Jahr unserer lieben Frau Discordia 3.189.
+ Also von daher.
+ Ich habe das mit diesem diskordianischen Kalender noch nie so ganz verstanden,  tatsächlich.
+Ja, übrigens, das ist hier die Sendung des Chaos Computer Clubs.
+ Also nur, dass ihr Bescheid wisst.
+Also nicht so ganz, aber ja.
+ Ja, aber doch eigentlich schon.
+ Es ist kompliziert.
+ Es ist genau, es ist kompliziert.
+ Größe aus Potsdam.
+ Genau, aus aus markenrechtlichen Gründen kompliziert.
+ Genau.
+Ja, genau.
+ Und es ist ein neues Jahr und 23 ist wichtig.
+ 42 auch.
+ Ich habe schon Wahlplakate in Berlin gesehen, wo einfach nur draufsteht 42.
+ Oh, war gar nicht von welcher Partei so.
+ Keine Ahnung, man kann mutmaßen, aber ja, auch nicht schlecht eigentlich.
+ Sehr gut.
  Ich muss tatsächlich immer noch den Film 23 mal gucken.
  Ich gestehe hier in aller Öffentlichkeit.
- Es gibt so einen gewissen, kulturellen Hackerkanon,  den man zu gefährdigst zu können hat, das ist wahr.
- Ich hab auch noch nicht den Film gesehen hier mit Frau Hollande,  der jetzt gerade im ...
-- Ah, alles ist 1 außer 0.
- Genau, der ist bis zu 12.1.
-war ich noch in der Mediathek.
- Ja, okay.
-- Nee, ARD, nicht ARD.
- Ja, unbedingt gucken und am besten eine dezentrale Sicherheitsgruppie  abliegen.
-- Ganz wichtig.
- Recht auf private Kopie und so.
-- Mhm, genau.
- Es gibt ja diese tolle Seite, hatten wir, glaub ich, auch schon mal erwähnt,  mediathekviewweb.de.
- Falls Leute sich nicht durch die Mediatheken der Öffentlich-Rechtlichen  durchwühlen wollen, da kann man sich besuchen.
+ Es gibt so einen gewissen kulturellen Heckerkanon,  den man zu gefährdigst zu können hat, dass es war.
+ Ich habe auch noch nicht den Film gesehen hier mit Frau Hollandei.
+ Jetzt gerade im Amidiatheke.
+ Genau, der ist bis zu zwölf in Ersten, da habe ich noch in der Amidiathek.
+ Nee, ARD, nicht ARD.
+ Ja, unbedingt gucken und am besten eine dezentrale Sicherheitskopie ablegen.
+ Ganz wichtig, recht auf private Kopie und so.
+ Genau.
+ Es gibt ja diese tolle Seite, hatten wir, glaube ich, auch schon mal erwähnt.
  Mediathekviewweb.de.
- Macht jemand Shownotes für die Sendung?
-Da könntest du rein.
+ Falls Leute sich nicht durch die Mediatheken der Öffentlich-Rechtlichen durchwühlen wollen.
+ Da kann man schon mal.
+ Mediathekviewweb.de macht jemand Show Notes für die Sendung.
+ Da könnte es rein.
  Wir schauen mal, dass wir es vielleicht verlinken.
- Wir sind tatsächlich noch ein bisschen im Rückstand, sorry dafür,  auf unserer Seite mit Folgen aus dem vergangenen Jahr.
+ Wir sind tatsächlich noch ein bisschen im Rückstand.
+ Sorry dafür, auf unserer Seite mit Folgen aus dem vergangenen Jahr.
  Ach, du meinst Radio.ccc-p.org?
  Ja, genau, auf dieser Seite.
-Da sind wir noch ein bisschen im Rückstand.
- Das ist ja immer so, der Schuster hat die schlechtesten Schuhe  und die Hacker haben die schlechtesten Webseiten, ist immer so.
- Ja, genau, also auf jeden Fall Hackerfilme gucken immer gut.
+ Da sind wir noch ein bisschen im Rückstand.
+ Das ist ja immer so, der Schuster hat die schlechtesten Schuhe und die Hecker  haben die schlechtesten Webseiten, ist immer so.
+ Genau.
+Ja, genau, also auf jeden Fall Hackerfilme gucken, immer gut.
  Genau, genau.
  Und ansonsten mediat.ccc.de gucken, mediat.ccc.de gucken.
  Warum denn?
-Weil man davon schlau wird.
- Ah, sehr gut, und weil das ist besser als YouTube und werbefrei  und da gibt es ganz viele lehrreiche Sachen zu sehen.
- Wie zum Beispiel von so einer Veranstaltung  oder von so mehreren dezentralen Veranstaltungen,  die neulich stattgefunden haben, habe ich gehört.
- Ja, von unserer aber noch nicht.
-Wir sind da auch noch im Rückstand.
- Alles im Werden, es ist ja noch Anfang des neuen Jahres.
- Genau.
-Außerdem, Zeit ist relativ, Zeitböcher sind sowieso da.
- Und wir haben mehrere Zeitlinien und die, wo wir gerade hinabgebogen sind,  war eh nie zur Bündnutzung vorgesehen, genau.
- Ja, genau.
-Nee, aber an der Stelle können wir ja vielleicht mal sagen,  wir hatten es ja schon angekündigt, dass wir in Potsdam  eine Veranstaltung zum Jahresende machen werden.
+ Weil man davon schlau wird.
+ Ah, sehr gut.
+ Und weil das ist besser als YouTube und werbefrei und da gibt es ganz viele  lehrreiche Sachen zu sehen wie zum Beispiel von so einer Veranstaltung  oder von so mehreren dezentralen Veranstaltungen, die eine neue Stadt gefunden haben.
+ Ich habe mich gehört.
+ Von unserer aber noch nicht.
+ Wir sind da auch noch im Rückstand mit der Produktion oder?
+ Alles im Werden.
+ Es ist ja noch Anfang des neuen Jahres.
+ Genau, außerdem Zeit ist relativ.
+ Zeitböcher sind sowieso da und wir haben mehrere Zeitlinien.
+ Und die, wo wir gerade hinabgebogen sind, war eh nie zur Wendelsung vorgesehen.
+ Genau, genau.
+ Nee, aber an der Stelle können wir ja vielleicht mal sagen, wir hatten es ja  schon angekündigt, dass wir in Potsdam eine Veranstaltung zum Jahresende machen werden.
  Das ist jetzt nur mittlerweile passiert.
  Ja, wir leben noch.
- Genau, und wir hatten ein großartiges Chaos,  beziehungsweise Reconnect to Chaos an der Stelle in Potsdam.
- Ja, genau.
- Ja, und zwar deswegen, weil der eigentlich übliche,  große Chaos-Communication-Kongress des Clubs  zum dritten Mal in Folge aus infektionstechnischen Gründen  nicht hat stattfinden können.
+ Genau, und wir hatten ein großartiges Chaos bzw.
+ Reconnect to Chaos an der Stelle in Potsdam.
+ Genau.
+Ja, und zwar deswegen, weil der eigentlich übliche große  Chaos Communication Kongress des Clubs zum dritten Mal in Folge aus  infektionstechnischen Gründen nicht hat stattfinden können.
  Man musste das schon im Sommer entscheiden.
  Da wusste man natürlich noch nicht wieder zu wird.
- Und da haben wir beschlossen, okay, also wir müssen jetzt nicht alles  nur online machen wie die zwei Jahre davor, sondern wir treffen uns mal  in unseren Hexpaces und einschlägigen Locations einfach mal dezentral.
- Und kurz vor Weihnachten popten auch jede Menge Orte auf,  wo sich dann so wenige Zicht bis wenige hundert Nerds getroffen haben  und einfach mal kongressiert haben und sich elektronisch vernetzt.
+ Und da haben wir beschlossen, OK, also wir müssen jetzt nicht alles nur online  machen wie die zwei Jahre davor, sondern wir treffen uns mal  ja in unseren Hexbases und einschlägigen Locations einfach mal dezentral.
+ Und kurz vor Weihnachten popten auch jede Menge Orte auf, wo sich dann so  wenige Zicht bis wenige hundert Nerds getroffen haben und einfach mal  Kongressiert haben und sich elektronisch vernetzt.
  Und das hat auch sehr gut funktioniert.
- Ja.
- Das heißt, vielleicht erleben wir hier sowieso gerade ähnlich  wie in den Büros, so die Evolution von Kongress, wie wir es kennen,  zu irgendwas Neuen, genau wie Büro, wie wir es kennen ja eigentlich nicht mehr.
+ Ja, ja.
+Das heißt, vielleicht erleben wir hier sowieso gerade ähnlich  wie in den Büros, so die Evolution von Kongress, wie wir es kennen, zu  irgendwas Neuen, genau wie Büro, wie wir es kennen ja eigentlich nicht mehr.
  So.
- Genau, also wir hatten ja eine Vortragspüne,  wo quasi eigentlich jeden Tag was lief, Vorträge liefen, produziert wurden,  live gestreamt wurden, teilweise auch einfach live onstage  und mit Unterausgründen nicht gestreamt werden konnten,  aber weniger wegen Technik, sondern aus anderen Gründen.
- Genau.
- Genau, wir hatten ein Hacksenter, wir hatten auch Workshop-Räume,  wir hatten auch eine Engel-Küche, Engel,  wir haben, glaube ich, auch schon irgendwann mal erwähnt hier.
+Genau.
+ Also wir hatten wir hatten ja eine Vortragsbühne, wo quasi  eigentlich jeden Tag was was lief, Vorträge liefen, produziert wurden,  live gestreamt wurden, teilweise auch einfach live on stage  und mit Unterausgründen nicht gestreamt werden konnten,  aber weniger wegen Technik, sondern aus anderen Gründen.
+ Genau, wir hatten ein Hacksenter.
+ Wir hatten auch Workshop-Räume.
+ Wir hatten auch eine Engel-Küche.
+ Engel haben wir, glaube ich, auch schon irgendwann mal erwähnt hier.
  Freiwillige Helfer.
  Genau, freiwillige Helfer, zu denen quasi alle Teilnehmenden gehören,  weil es ist eine Mitmachveranstaltung gewesen.
- So, woher stellt sich raus?
- Und das war mir tatsächlich im Vorhinein schon so ein bisschen,  aber im vollen Umfang dann doch nicht so ganz klar,  wenn man so Dinge nicht nur als Streaming-Bühne macht, sondern so mit Publikum,  dann ist das schon echt noch mal eine ganz andere Nummer,  sowas durchzuführen.
+ So, weil stellt sich raus.
+ Und das war mir tatsächlich im Vorhinein schon so ein bisschen,  aber im vollen Umfang dann doch nicht so ganz klar, wenn man so Dinge  nicht nur als Streaming-Bühne macht, sondern so mit Publikum,  dann ist es schon echt noch mal eine ganz andere Nummer, so was durchzuführen.
  Ja, ich finde, es war ein guter Test.
- Also, wir hatten irgendwie so knappe hundert Tickets verkauft  und Gott sei Dank waren die nicht alle gleichzeitig immer da,  denn ich denke, mit der Menge an Leuten, die wir da waren,  war es nicht nur infektionstechnisch-wohliger,  sondern damit wurde unsere Infrastruktur auch nicht überlastet.
+ Also wir hatten irgendwie so knappe hundert Tickets verkauft  und Gott sei Dank waren die nicht alle gleichzeitig immer da.
+ Denn ich denke, mit der Menge an Leuten, die wir da waren,  war es nicht nur infektionstechnisch-Woliger, sondern damit wurde  unsere Infrastruktur auch nicht überlastet.
  Aber ich muss sagen, so für den ersten Probelauf  war das doch eine nice Veranstaltung so.
- Ja, ich denke, wir hätten schon noch ein bisschen Platz gehabt für Menschen.
- Aber ja, ich denke auch, das war ein ganz guter Messpunkt.
+ Ja, ach, ich denke, wir hätten schon noch ein bisschen Platz gehabt für Menschen.
+ Aber ich denke auch, aber ja, ich denke auch,  das war ein ganz guter Messpunkt.
  War auch nicht zu groß, dass wir uns tatsächlich irgendwie übernommen hätten.
- Genau, ganz schön.
- Also, so was machen wir mal wieder, mal gucken.
- Ja, im Sommer kämpft man ja immer  und im Winter kann man ja in irgendwelchen Gebäuden kämpfen.
- Es gibt auch Menschen, die im Winter kämpfen, aber...
- Das war ja auch Fortschlag.
- Der Chaos Computer Club macht ja alle vier Jahre  im Sommer draußen ein großes Camp, 2023 auch wieder im August oder so.
+ Genau, genau.
+Ja, ganz schön.
+ Also so was machen wir mal wieder, mal gucken.
+ Ja, im Sommer kämpft man ja immer  und im Winter kann man ja in irgendwelchen Gebäuden.
+ Es gibt auch Menschen, die im Winter kämpfen.
+ Aber das war ja auch Vorschlag.
+ Der Chaos Computer Club macht ja alle vier Jahre im Sommer draußen  ein großes Camp 2023 auch wieder im August oder so.
  Problem lediglich, wie soll ich sagen?
- Eigentlich ist das ja buchstäblich für Warmtuscher.
- Ich habe ja immer schon mal vorgeschlagen,  was die finnischen Hacker früher gemacht haben,  nämlich ein Polarkamp, weil ich mein Campen kann jeder.
- Aber so Internet am Polarkreis,  auf einer Eisfläche von 100 Kilometern Durchmesser,  das ist mal eine Herausforderung, finde ich.
- Ja, okay, aber die Jugend von heute ist ja zu verweichlicht,  um an sowas zu denken.
- Na ja, dann bist du ja da, der daran denkt.
- Und da hat man auch was auf die Beine stellen können.
- Es werden auch langsam mehr und diverse Leute aus Finnland  haben mir auch glaubwürdig versichert,  dass sie das auf die Reihe kriechten, so ist denn gewünscht sei.
- Ich nehme an, das wird eine eher übersichtliche Veranstaltung.
- Aber hey, warum nicht?
- Eine andere Sache, die ich vor Corona  immer mal machen wollte, ist das Ganze auf See zu verlegen.
- So nach dem Motto, außerhalb der 12 Meilenzonen  ist das mit dem Hecken ja juristisch schöner.
- Einfach mal übrig gebliegende Kreuzfahrtschiffe  mieten und so eine Marina draußen und so.
- Und dann halt so fern Internet zu irgendeiner Küste  und einfach mal "W-W-W" alles erlaubt.
- Dort Heck oder so.
- Aber 10.000 Leute auf zwei Schiffe ist heutzutage,  glaube ich, im Zeitalter Neuartiger Viren nicht so gut.
- Ja, das ist so das eine und ich glaube, der Dieselverbrauch ist relativ hoch.
- Und irgendwie wollen wir ja wegkommen von so fossilen Kraftstoffen.
- Habe ich gehört?
- Ja, na ja, also so ein Schiffsmotor frisst alles.
- Also du kannst den auch mit, keine Ahnung, Rapsöl betanken,  wenn du gerne möchtest.
- Aber eigentlich wollen wir ein Fusionsreaktor, du hast schon recht.
- Außerdem wollen wir diesen Planeten absprengen und nach Hause fliegen.
- Aber das ist eine andere Geschichte.
- Wollte ich noch mehr über die Veranstaltung sagen,  oder war das ein Plan für eine späteren Sache?
- Also eigentlich ist es so, man muss einfach im Moment warten  und dann auf media.cc.de einfach gucken, was da passiert ist, oder?
- Haben wir sonst noch eine Befugeseite?
- Ja, viele von anderen, wir es war ja nicht nur wir,  die da eine Veranstaltung gemacht haben  und von anderen Veranstaltungen wie Fire Chants.
- Es ist auf alle Fälle schon online, von der Seabase weiß ich grad gar nicht,  ob das schon online ist.
- Ja, die Veranstaltung rund um die Seabase herum,  die ist ja Hip Hacking in Parallel.
- Ja, da sind schon die ersten Dinge,  aber die Videonachbearbeitung braucht natürlich Zeit.
- Aber da poppt jeden Tag was auf, ja, ja.
- Ich sag ja, media.cc.de wird man schlau von.
+ Eigentlich ist das ja buchstäblich für Warmduscher.
+ Ich habe ja immer schon mal vorgeschlagen, was die finnischen Hacker  früher gemacht haben, nämlich ein Polarkamp, weil ich mein Campen kann jeder.
+ Aber so Internet am Polarkreis, ja, so auf einer Eisfläche  von 100 Kilometern Durchmesser, das ist mal eine Herausforderung, finde ich.
+ Ja, OK.
+Ja.
+ Aber die Jugend von heute ist ja zu verweichlicht, um an sowas zu denken.
+ Na ja, na ja, dann bist du ja da, der daran denkt.
+ Und da hat man fast auch was auf die Beine stellen können.
+ Es werden auch langsam mehr und diverse Leute aus Finnland  haben mir auch glaubwürdig versichert, dass sie das  auf die Reihe kriechten, so ist denn gewünscht sei.
+ Na ja, ich nehme an, das wird eine eher übersichtliche Veranstaltung.
+ Aber warum?
+Warum nicht?
+Also.
+ Eine andere Sache, die ich vor Corona immer mal machen wollte,  ist das Ganze auf sie zu verlegen.
+ So nach dem Motto, außerhalb des 12 Meilenzonen ist das mit dem Hecken  ja juristisch schöner, einfach mal übrig gebliegende Kreuzfahrtsschiffe  mieten und so eine Marina draußen und so und dann halt so fern Internet  zu irgendeiner Küste und einfach mal WWW alles erlaubt dort Heck oder so.
+ Aber 10.000 Leute auf zwei Schiffe ist heutzutage, glaube ich,  im Zeitalter Neuartiger Viren nicht so gut.
+ Ja, das ist so das eine und ich glaube, der Dieselverbrauch ist relativ hoch  und irgendwie wollen wir ja wegkommen von so fossilen Kraftstoffen.
+ Hab ich gehört?
+Ja, na ja, man kann die also so ein Schiffsmotor frisst alles.
+ Also du kannst den auch mit mit keine Ahnung Rapsöl betanken, wenn du gerne  möchtest.
+Aber eigentlich wollen wir ein Fusionsreaktor.
+ Du hast schon recht, außer die wollen wir diesen Planeten absprengen  und nach Hause fliegen.
+Aber das ist eine andere Geschichte.
+ Wollte ich noch mehr über die Veranstaltung sagen oder war das ein  Plan für später?
+Also eigentlich ist es so, man muss einfach  im Moment warten und dann auf media.cc.de einfach gucken, was da passiert ist.
+ Oder haben wir sonst noch.
+ Naja, viele von anderen von uns war es war ja nicht nur wir, die  deine Veranstaltung gemacht haben und von anderen Veranstaltungen wie  Fire Chants ist es auf alle Filiers schon online.
+ Aber von der Seabase weiß ich gerade gar nicht, ob das schon online ist.
+ Ja, die Veranstaltung rund um die Seabase herum, die ist ja Hip Hacking in  parallel.
+Ja, da sind schon die ersten Dinge, aber die Videonachbearbeitung  braucht natürlich Zeit.
+Aber da poppt jeden Tag was auf.
+ Ja, ja, ich sag ja, media.cc.de wird man schlaufern.
  Genau, also da sind auf jeden Fall schon eine ganze Reihe von Vorträgen online.
- Die kann man sich da anschauen.
- Und da werden eben jetzt auch in den nächsten Tagen  definitiv noch einige dazukommen.
- Genau, vielleicht kann es aber allgemein sagen,  es geht nicht nur darum, dass die Hacker sich abgefahren in Scheiß erzählen.
- Also sowas hatten wir auch, wie z.B.
-der Talk von den Mutanten über IPv6.
- War schon irgendwie geil.
- Es gibt aber auch einfach Kulturbeiträge.
- Wir hatten auch Kulturveranstaltungen, einfach zur Unterhaltung gestreamt oder auch nicht.
+ Die kann man sich da anschauen und da werden eben jetzt auch in den nächsten  Tagen definitiv noch einige dazukommen.
+ Genau, also vielleicht, man kann es aber allgemein sagen, also es geht nicht  nur darum, dass die Hacker sich abgefahrenen Scheiß erzählt.
+ Also sowas hatten wir auch, wie zum Beispiel der Talk von den Mutanten  über IPv6 war schon irgendwie geil.
+ Es gibt aber auch einfach Kulturbeiträge, wir hatten auch Kulturveranstaltungen  einfach zur Unterhaltung gestreamt oder auch nicht.
  Und es gibt auch so gesellschaftliche politische Interventionen  in den öffentlichen Raum oder den Seabase.
- Ich hab wie üblich so mein Geschichts- und Technikphilosophie-Kram dazu beigesteuert.
+ Ich habe wie üblich so mein Geschicht, mein Geschichts- und Technikphilosophie  Kram dazu beigesteuert.
  Naja, also was halt in Chaos und Umgebung so passiert?
- Also wir sind da ja moderne und tolerant.
- Ja, ich hab auch mich regelmäßig wieder dabei ertappt,  als Leute im Vorfeld gefragt haben, was macht ihr denn da?
+ Also wir sind da ja moderne und toleranten.
+ Ja, ja, ich habe auch mich regelmäßig wieder dabei ertappt.
+ Als Leute im Vorfeld gefragt haben, ja, was macht ihr denn da?
  Oder würde denn ein Beitrag von uns da irgendwie passen?
- Oder man wird so, ja, wir machen nicht nur IT und IT-Sicherheit,  sondern Chaos hat einfach mehr, deutlich mehr.
- Und das muss man, glaube ich, immer wieder erwähnen.
- Das ist einfach da auch mehr Sachen dazugehören.
+ Oder man würde so, ja, wir machen nicht nur IT und IT-Sicherheit, sondern  Chaos hat einfach mehr, deutlich mehr und das muss man, glaube ich,  immer wieder erwähnen, dass einfach da auch mehr Sachen dazugehören.
  Du hast es ja gerade schon entsprechend umrissen.
- Genau.
-Denn wie sagt die Hacker-Ethik,  man kann mit Computern, Kunst und Schönheit erschaffen.
-Glauben wir?
+ Ja, genau.
+ Denn wie sagt die Hacker-Ethik, man kann mit Computern, Kunst und Schönheit erschaffen.
+ Glauben wir?
  Ja, definitiv.
- Genau.
-Und da machen wir sowas.
- Genau.
-Und ich fand es auch sehr schön,  dass wir eben tatsächlich auch so ein bisschen Vorträge hatten,  die auch so grundlegende Dinge erzählt haben.
- Gerne auch durchaus im Detail, aber auch so grundlegende Dinge,  wie eben zum Beispiel das mit dem AKP V6.
- Weil eigentlich sollte das ja mittlerweile schon jeder benutzen,  äh, nur, äh, ja, ist leider noch nicht so.
- Eigentlich gibt es das schon seit fast 30 Jahren,  glaube ich, dieses AKP V6.
-Also, sehr, sehr lange.
+ Genau, ein Daumen machen wir sowas.
+ Genau, und ich fand es auch sehr schön, dass wir eben tatsächlich auch so ein bisschen  Vorträge hatten, die auch so grundlegende Dinge erzählt haben,  gern auch durchaus im Detail, aber auch so grundlegende Dinge wie  eben zum Beispiel das mit dem IPv6, weil eigentlich sollte das ja mittlerweile  schon jeder benutzen, nur, ja, ist leider noch nicht so.
+ Eigentlich gibt es das schon seit fast 30 Jahren, glaube ich, dieses IPv6.
+ Also sehr, sehr lange.
  Aber es wird leider noch viel zu wenig benutzt.
  Ja, in der Tat.
  Aber so ist ja immer.
- Manchmal ist es ja auch gut, dass die meisten Menschen,  die da vor ihren Bildschirmen sitzen und dieses Internet benutzen,  nicht so genau wissen, was da, wie es dazu geht.
- Das ist, wie mit Würsten und mit Gesetzen,  um mal den alten Bismarck zu zitieren.
- Okay, gut.
- Ja, äh, ansonsten hatten wir halt eben nicht nur Vorträge,  wir hatten auch, äh, Workshops, zum Beispiel,  äh, Sketch Notes, also wie kann ich, äh,  wie kann ich mit, äh, wie kann ich ein bisschen zeichnen?
- Skizzieren, sag ich mal.
- Ja, visuell deine Notizen ergänzt, aber ja, genau.
- So, gut.
- Gini, sagt doch mal, dass der, dass der Workshop von dir war  und erzählt mal, was Sketch Note ist.
- Und tu mal in die Show Notes irgendwie,  gibt es Sketch Notes.com oder so?
- Oder gibt es schöne Videos so, Erklärvideos oder so?
- Ach, ja, gibt ganz viel auf YouTube,  musst du einfach nur Sketch Notes eingeben.
- Sketch Notes in einem Wort.
+ Ich meine, manchmal ist es ja auch gut, dass die meisten Menschen, die da vor  ihren Bildschirmen sitzen und dieses Internet benutzen, nicht so genau wissen,  was da wie es dazu geht.
+ Ja, das ist wie mit Würsten und mit Gesetzen, um mal den alten Bismarck zu zitieren.
+ OK.
+ Gut.
+Ja, ansonsten hatten wir halt eben nicht nur Vorträge,  wir hatten auch Workshops, z.B.
+ Sketch Notes, also wie kann ich, wie kann ich mit, wie kann ich ein bisschen  zeichnen, skizzieren, sag ich mal?
+ Ja, wie so älter deine Notizen ergänzt, aber ja, genau.
+ Gini, Gini, sag doch mal, dass das der Workshop von dir war  und erzähl mal, was Sketch Notes ist und tu mal in die Show Notes irgendwie.
+ Gibt es Sketch Notes.com oder so, da gibt es schöne Videos so,  Erklärvideos oder so.
+Ja, gibt ganz viel auf YouTube, musst du einfach nur  Sketch Notes eingeben.
+Sketch Notes in einem Wort.
  In einem Wort, genau, zusammengeschrieben.
- Ja, es ist einfach mit Tünde, kleine Art, visuell deine Notizenposter,  Plakate und so weiter, visuell ansprechen, zugestalten.
- Und es ist aber halt auch kein Hexen weg,  was ich halt auch versucht hab, in dem Workshop rüberzubringen,  dass jeder das kann.
- Und das ist manchmal nur ein paar kleine Tricks,  das es halt gibt, um halt die Figur oder die Formen so zu zeichnen.
+ Ja, es ist einfach mit Tünde, kleine Art, visuell,  deine Notizenposter, Plakate und so weiter, visuell ansprechen zu gestalten.
+ Und es ist aber halt auch kein Hexenwerk, was ich halt auch versucht habe,  in den Workshop rüber zu bringen, eben, dass jeder das kann.
+ Und das ist manchmal nur ein paar kleine Tricks,  dass es halt gibt, um halt die Figur oder die Formen so zu zeichnen.
  Genau.
- Wie man sie dann haben möchte.
- Also meinst du ...
-- Und das Workshop war auch ganz gut besucht, ja.
- Allerdings, ja, ja, der Saal war voll, genau.
- Ja, Prinzip so schnell zeichnen,  um Inhalte mitzumeißeln, so in Meetingskonferenzen, was auch immer.
- Also meinst du, wer je meint, dass das auch für Leute geeignet,  die ansonsten überhaupt keine künstlerischen Fähigkeiten,  was so malen anbelangt.
+Wie man sie dann haben möchte.
+ Also meinst du...
+ Und das Workshop war auch ganz gut besucht, ja.
+ Allerdings, ja, ja, der Herstsaal war voll, genau.
+ Ja, Prinzip so schnell zeichnen, um Inhalte mitzumeißeln,  so in, ja, Meetingskonferenzen, was auch immer.
+ Also meinst du, wie ihr meint, dass das auch für Leute geeignet,  die ansonsten überhaupt keine künstlerischen Fähigkeiten,  was so malen anbelangt, genau, haben.
+ Ja, wenn sie das, ja, also von Leuten, die das über sich denken,  weil sie haben garantiert welche, aber, ja.
  Genau.
-- Ja, wenn sie das, ja.
- Also von Leuten, die das über sich denken,  weil sie haben garantiert welche, aber, ja.
- Genau.
-Ich kann nicht malen, ich kann nicht zeichnen, definitiv nicht.
- Ich hab andere künstlerische Fähigkeiten, aber das kann ich nicht.
+Ich kann nicht malen.
+ Ich kann nicht zeichnen.
+Definitiv nicht.
+ Ich habe andere künstlerische Fähigkeiten, aber das kann ich nicht.
  Aber vielleicht kann ich tatsächlich ein bisschen sketchen.
  Ich hatte leider keine Gelegenheit,  da beim Workshop dabei sein zu können.
  Aber ist ja schon mal gut zu hören,  dass grundsätzlich auch so jemand, wie ich das können könnte.
  Ja, du gehörtest ja auch zu den Oberorganisatoren.
- Und das sind ja die Menschen, die auch so eine Veranstaltung  in ihrem Büro sitzen und dann nach der Veranstaltung mal gucken können,  was eigentlich passiert ist.
- Wobei ich in den letzten Jahren festgestellt habe,  so Vorträge nachschauen und sowas mache ich tatsächlich viel zu wenig.
- Naja, das muss man sich vornehmen.
+ Und das sind ja die Menschen, die auch so in der Veranstaltung  in ihrem Büro sitzen und dann nach der Veranstaltung mal gucken können,  was eigentlich passiert ist.
+ Wobei ich in den letzten Jahren festgestellt habe,  so Vorträge nachschauen und so was mache ich tatsächlich viel zu wenig.
+ Na ja, das muss man sich vornehmen.
  Also ich hatte das mehr oder weniger traurige Privileg.
- Ich wollte ja eigentlich zu Silvester noch in einen Hexbase  auf dem Lande fahren.
+ Ich wollte ja eigentlich zu Silvester noch in einen Hexbase auf dem Lande fahren.
  Das musste ich dann irgendwie absagen,  weil ich mir vermutlich irgendein Bio-Virus eingefangen hatte  und wollte da jetzt nicht dennoch verbreiten.
  Und ich hatte dann tatsächlich so jetzt ein paar Tage lang  so dieses, wie sagen wir im Chaos immer, Zebola.
- Ja, so diese Infektionen nach diesen großen Kongressen  und hatte Zeit zum Gucken.
- Ich sag wirklich, Zebola auch gerade.
+ Ja, so diese Infektion nach diesen großen Kongressen und hatte Zeit zum Gucken.
+ Ich sag wirklich Zebola auch gerade.
  Ja, das heißt Kongress, solche.
- Ja, ja, ja, ja, Zebola ist es,  seit wir auf einen der Hamburger Kongresse mal fast am Tag 2  hätten abbrechen müssen.
- Das haben die Besucher überwiegend nicht gemerkt,  aber da wäre es fast soweit gewesen,  dass irgendwie C3 Gelb, unser Infektionsschutzteam,  also Jahre vor Corona, beinahe gesagt hätte,  also das können wir hier nicht mehr verantworten.
+ Ja, ja, ja, ja.
+ Zebola heißt es, seit wir auf einem der Hamburger Kongresse  mal fast am Tag zwei hätten abbrechen müssen.
+ Das haben die Besucher überwiegend nicht gemerkt,  aber da wäre es fast soweit gewesen, dass irgendwie C3 Gelb,  unser Infektionsschutzteam, also Jahre vor Corona.
+ Beinahe gesagt hätte, also das können wir hier nicht mehr verantworten.
  Wir müssen jetzt sofort diese Veranstaltung hier auseinanderziehen.
- Aber dann ging es noch.
- Dank rigoroser Desinfektionsmaßnahmen, ja, so war das.
- Ja, wir hatten ja auch bei uns,  wir hatten ja auch bei unserer Veranstaltung  Desinfektionsmittel an den verschiedensten Stellen stehen  und auch als Hygienekonzept,  mindestens mal dringend angeraten, täglich einen Test zu machen.
- Und haben das auch in unserer internen Crew z.B.
-auch tatsächlich auch gemacht.
- Einfach zu unserem eigenen Schutz.
- Ja, Corona war auch nicht das Problem, das hatte ich auch nicht.
+ Aber dann ging es noch dank rigoroser Desinfektionsmaßnahmen.
+ Ja, so war das.
+ Ja, wir hatten ja auch bei uns,  wir hatten ja auch bei unserer Veranstaltung Desinfektionsmittel  an den verschiedensten Stellen stehen und auch als Hygienekonzept  mindestens mal dringend angeraten.
+ Täglich einen Test zu machen und haben das auch in unserer  internen Crew zum Beispiel auch tatsächlich auch gemacht.
+ Einfach weil zu einfach zu unserem eigenen Schutz.
+ Na Corona war auch nicht das Problem, das hatte ich auch nicht.
  Aber so die diversen anderen Dinge, die gerade umgehen,  sind natürlich der Feind von allen Veranstaltungen größerer Art.
  Und das ist natürlich immer Mist irgendwie.
- Aber das ist alles gut gegangen, ich weiß von keinen größeren Outbreaks, also.
- Ich ist mir soweit auch nicht bekannt, tatsächlich, ja, genau.
- Nee, deswegen, also wir hatten Sketch Notes Workshop  und es gab auch noch einen Entscheidungen im Kollektiv Workshop beispielsweise.
- Genau.
- Der war auch sehr gut besucht und an sich auch generell.
- Hatte ich den Eindruck, dass das immer sehr auf Anklang stieß,  die Sachen, die es bei uns gab.
- Und auch das Feedback war soweit.
- Und es ist gut.
- Apropos kann man da eigentlich noch mal Notizen von einem Speaker bekommen,  weil der meinte, da wollte er irgendwas hochladen,  aber ich weiß gar nicht, wo ich da gucken muss.
+ Aber das ist alles gut gegangen.
+ Ich weiß von keinen größeren Outbreaks.
+ Also ist mir soweit auch nicht bekannt tatsächlich.
+ Nee, deswegen also wir hatten Sketch Notes Workshop  und es gab auch noch ein Entscheidung im Kollektiv Workshop.
+ Beispielsweise, genau, der war auch sehr gut besucht  und an sich auch generell hatte ich den Eindruck,  dass das immer sehr auf Anklang stieß, die Sachen,  die es bei uns gab und auch das Feedback war soweit ganz gut.
+ Kann man da eigentlich noch mal Notizen von einem Speaker bekommen?
+ Weil der meinte, da wollte irgendwas hochladen.
+ Aber ich weiß gar nicht, wo ich da gucken muss.
  Das kann man, glaube ich, außerhalb diese...
- Ja, aber für Interessierte, die vielleicht auch da waren,  dass gerade, ist so eine Pre-Talks.
- Es gibt, genau, es gibt in Pre-Talks die Möglichkeit da.
- Also Pre-Talks ist dieses System, wo wir die Einreichungen verwalten  für die Vorträge.
- Und da gibt es eine Möglichkeit, dass man da Dateien und Anhänge einfügt,  die dann auch auf den öffentlichen Seiten zu den Talks zu sehen  und herunterladbar sind.
- Mhm.
-- Genau.
+ Ja, aber für Interessierte, die vielleicht auch da waren,  das gerade gehört.
+ Ja, es gibt, es gibt, genau, es gibt in Pre-Talks die Möglichkeit da.
+ Also Pre-Talks ist dieses System,  wo wir die Einreichungen verwalten für die Vorträge.
+ Und da gibt es eine Möglichkeit, dass man da  Dateien und Anhänge einfügt,  die dann auch auf den öffentlichen Seiten zu den Talks zu sehen  und herunterladbar sind.
+ Genau.
  Also ja, das ist möglich.
  Und da können wir dann im Nachgang noch mal die Sachen klären.
- Genau, was es auch gab, waren in Engelsystemen.
- Über Engel hatten wir vorhin schon mal kurz gesprochen,  weil wir natürlich sowohl an der Technik, aber auch zum Beispiel am Einlass  und an unserer Bar, die es ebenfalls auch gab,  ein paar Engel brauchten.
- Und damit das auch ein bisschen eigenverantwortlich  sich Leute da eintragen können, gab es auch einen Engelsystem.
+ Was es auch gab, waren in Engelsystemen.
+ Über Engel hatten wir vorhin schon mal kurz gesprochen,  weil wir natürlich sowohl an der Technik,  aber auch zum Beispiel am Einlass und an unserer Bar,  die es ebenfalls auch gab, ein paar Engel brauchten.
+ Und damit das auch ein bisschen eigenverantwortlich  sich Leute da eintragen können, gab es ein Engelsystem.
  Ja, das hat soweit eigentlich auch ganz gut funktioniert.
- Also deswegen, das war so eine ganze Reihe von Sachen,  die man sonst vom größeren Cars-Veranstaltung kennt,  tatsächlich jetzt mal bei uns im Zusammenspiel zu sehen.
- Wir hatten auch eine große Lieferung vom Vogue, vom Video-Operation-Center.
- Dass wir da auch ergänzen zu der Technik, die wir eh schon letztes Jahr hatten,  und wo es dann tatsächlich auch noch einige Anschaffungen gab.
- Dann tatsächlich noch mal so, noch mal ganzes Packen mehr an Technik hatten,  damit das alles gut über die Bühne laufen kann.
- Eine große Kamera und ein Rechner und Server,  der auch vorkonfiguriert ist mit, ja, zum Rändern dann beispielsweise.
- Es gab auch Telefonen vor Ort, also wir hatten tatsächlich sogar auch Deckt.
- Ich muss ja vielleicht erklären, also die Hacker haben so Systeme,  wo man sich einfach so ein gewöhnliches drahtloses Telefon,  wie man so früher im Festnetzhaushalt so hatte, in die Tasche steckt.
- Und wenn man seinen Code richtig gelernt hat,  dann tippt man den ein auf der Veranstaltung,  dann hat man eine vierstellige Telefonnummer.
+ Also deswegen, das war so eine ganze Reihe von Sachen,  die man sonst vom größeren Karusveranstaltung kennt,  tatsächlich jetzt mal bei uns im Zusammenspiel zu sehen.
+ Wir hatten auch eine große Lieferung vom Wock,  vom Video-Operation-Center,  dass wir da auch ergänzend zu der Technik,  die wir eh schon letztes Jahr hatten  und wo es dann tatsächlich auch noch einiger Anschaffungen gab.
+ Dann tatsächlich nochmal so,  nochmal ein ganzes Packen mehr an Technik hatten,  damit das alles gut über die Bühne laufen kann,  eine große Kamera und einen Rechner und Server,  der auch konfiguriert ist mit, ja, zum Rändern dann beispielsweise.
+ Es gab auch Telefon vor Ort, also wir hatten tatsächlich sogar auch deckt.
+ Ich muss auch vielleicht erklären, also die Hacker haben so Systeme,  wo man sich einfach so ein gewöhnliches drahtloses Telefon,  wie man zu früher im Festnetzhaushalt so hatte, in die Tasche steckt.
+ Und wenn man seinen Code richtig gelernt hat,  dann tippt man den ein auf der Veranstaltung  und dann hat man eine vielstellige Telefonnummer.
  Und alle Teilnehmer auf der Veranstaltung können lustig miteinander telefonieren.
  Und da das ja eine dezentrale Veranstaltung war,  konnte man sogar auch von anderen Standorten,  konnte man mit den Leuten telefonieren und es war ein Telefonnetz.
  Genau, also total geil eigentlich.
  Also alle Hacker hatten sozusagen ihre vierstellige Durchwahlhöhe.
  Super, ja.
  Genau.
-- Was man halt mal so macht.
+Was man halt mal so macht.
  Was man halt mal so macht, genau.
  Und auch das sind wieder Sachen,  die man kennt, sie von größeren Chaosveranstaltungen.
  Aber sonst eigentlich nicht so.
- Ich glaube außerhalb der Hacker-Szene kann das keiner so richtig.
- Ja, deswegen und an der Stelle auch großen Dank tatsächlich an alle,  die mitgeholfen haben, sei es vor Ort bei uns,  aber auch durch zum Beispiel ans Wock und ans Pock,  die dafür gesorgt haben, die Technik soweit vorzubereiten,  in Kisten zu verpacken, zu verschicken,  sei es per Post oder sei tatsächlich per Spedition.
+ Ich glaube, außerhalb der Hacker-Szene kann das keiner so richtig.
+ Ja, deswegen.
+ Und an der Stelle auch großen Dank  tatsächlich an alle, die mitgeholfen haben,  sei es vor Ort bei uns, aber auch durch zum Beispiel  ans Wock und ans Pock, die dafür gesorgt haben,  die Technik soweit vorzubereiten, in Kisten zu verpacken,  zu verschicken, sei es per Post oder sei tatsächlich per Spedition.
  Da muss ja irgendjemand tun.
  Genau, also deswegen, da gehört schon einiges dazu.
- Und ich fand es, wie gesagt, eine eigentlich eine ganz schöne Veranstaltung.
+ Und ich fand, wie gesagt, eine eigentlich eine ganz schöne Veranstaltung.
  Und ich war auch sehr froh darüber,  dass wir tatsächlich nicht nur Menschen aus Berlin und Potsdam hatten,  sondern auch von aus anderen Teilen des Landes und der Welt.
- Aus anderen Randgebieten der Republik, ja, tatsächlich.
+ Ja, durchaus aus anderen Randgebieten der Republik, ja, tatsächlich.
  Ja, nicht nur das, auch darüber hinaus.
- Also wir hatten ja durchaus auch, also vor allem schon alleine erst mal Menschen,  die überhaupt erst mal zum allerersten Mal bei einer Chaos-Veranstaltung dabei waren,  was ich immer ganz schön finde.
- Man kann an ihnen so schön beobachten, wie sie von verwirrt zu total geflasht wechseln.
- Ja, und dann auch teilweise sich gleich von Anfang an irgendwie einbringen und sagen so,  "Hey, ihr braucht irgendwie helfende Hände, ich bin dabei."  So, und das ist ja auch immer eine ganz schöne Möglichkeit,  einfach so ein bisschen gleich in Kontakt mit Leuten zu kommen.
- Ja, und das fand ich einfach sehr schön, dass das so geklappt hat.
- Oder dann hatten wir ja auch noch Menschen, die spontan vorbeigekommen sind,  um irgendwie Dinge zu tun, wie zum Beispiel einfach mal uns in unsere Remachbar,  in unseren Spaces, einfach mal so eine Rakete zu kleben, die bei Unterschwatzlicht leuchtet.
+ Also, wir hatten ja durchaus auch...
+ Also, vor allem schon alleine erst mal Menschen,  die überhaupt erst mal zum allerersten Mal  bei einer Chaos-Veranstaltung dabei waren, was ich immer ganz schön finde.
+ Man kann an ihnen so schön beobachten,  wie sie von verwirrt zu total geflasht wechseln.
+ Ja, und dann auch teilweise sich gleich  von Anfang an irgendwie einbringen und sagen so,  hey, ihr braucht irgendwie helfende Hände, ich bin dabei.
+ So, und das ist ja auch immer eine ganz schöne Möglichkeit,  einfach so ein bisschen gleich in Kontakt mit Leuten zu kommen.
+ Und das fand ich einfach sehr schön, dass das so geklappt hat.
+ Oder dann hatten wir ja auch noch...
+ Dann hatten wir ja auch noch Menschen, die spontan vorbeigekommen sind,  um irgendwie Dinge zu tun, wie zum Beispiel  einfach mal uns in unserer Remachbar, in unseren Spaces,  einfach mal so eine Rakete zu kleben, die bei Unterschwatzlicht leuchtet.
  Das war ja tatsächlich eine Sache, die sich erst während der Veranstaltung ergeben.
- Ja, genau.
+ Genau.
  Im Saunag gab es auch halblich gehört.
- Ja, genau, eine Outdoor-Sauna, sehr lustig.
- Also, der Spaß kommt nicht zu kurz und je absurder desto besser natürlich.
- Also, was ich ja immer noch vermisse, das ist wieder nicht stattgefunden.
- Ich hoffe ja, dass ich, bevor ich diesen Planeten verlasse,  irgendwann noch mal einen richtigen Raketenstart, also so richtig,  so auf irgendeiner Chaos-Veranstaltung erlebe.
+ Ja, genau, wir haben eine Outdoor-Sauna, sehr lustig.
+ Also der Spaß kommt nicht zu kurz und je absurder, desto besser, natürlich.
+ Also was ich ja immer noch vermisse, das ist wieder die Stadt gefunden.
+ Ich hoffe ja, dass ich, bevor ich diesen Planeten verlasse,  irgendwann noch mal einen richtigen Raketenstart,  also so richtig, so auf irgendeiner Chaos-Veranstaltung erlebe.
  Wir haben ja immer so schöne große Raketen, so symbolisch.
- Und ich würde so gerne das mal erleben, dass einfach mal so im ganzen Landkreis  rundherum keine Fensterscheibe mehr heil ist, weil wir ernsthaft eine gestartet haben.
+ Und ich würde so gern das mal erleben,  dass einfach mal so im ganzen Landkreis rundherum keine Fensterscheibe  mehr hell ist, weil wir ernsthaft eine gestartet haben.
  Okay.
  Ja, früher gab es immer so Teams auf den Kongressen von so Menschen,  die das ernsthaft vor hatten.
  Es gibt auch einen europäischen Staat, wo es nicht verboten ist,  einfach so eine Rakete zu starten.
  Wir verraten nicht, welcher das ist.
  Aber selbst wenn es verboten wäre, man kann in dem Moment ja auch nichts mehr machen.
- Ja, das wäre noch mal was, irgendwie keine Ahnung.
- Also, das wäre jedenfalls nur irgendwie mein Traum.
- Man wacht auf dem Camp auf, weil die Erde biebt und guckt aus einem Zelt  und sieht, wie die Fairy das sich so in den Weltrauben abschiedet.
- Tja?
-- Ja.
- Wie heißt es so schön, be the change you want to see in this world?
+ Ja, ja, das wäre noch mal was, irgendwie keine Ahnung.
+ Also, das wäre jedenfalls noch irgendwie mein Traum.
+ Man wacht auf dem Camp auf, weil die Erde bebt und guckt aus einem Zelt  und sieht, wie die Ferry das sich so in den Weltrauben abschiedet.
+ Tja, ja.
+ Er heißt es so schön, be the change you want to see in this world.
  Ja, genau.
-- Mach's selbst.
+Mach's selbst.
  Ja, genau.
- Also, kurz bevor ich abtrete von diesen Planeten,  wäre das doch mal was so.
+So kurz bevor ich abtrete von diesem Planeten,  wäre das doch mal was so.
  Es gibt ja auch schon Forschung über nachhaltigen Raketentreibstoff,  der nicht das Klima so verpestet.
- Mhm, okay.
- Also, von daher, irgendwann ist es so weit.
+ Okay.
+Also von daher, irgendwann ist es so weit.
  Ja, wovon die Hacker so träumen.
- Ja, also besucht uns, wenn ihr in Potsdam wohnt,  nicht nur auf 90,7 immer brav diesen Sender und vor allem diese Sendung,  sondern dann kommt einfach mal vorbei,  und zwar mittwochs auf dem Freiland in Haus 5.
- Und dann werdet ihr ihr geholfen.
- Genau, da könnt ihr jede Woche quasi Spaß haben.
- Mhm, genau.
- Ähm, ja, so, wir werden ja auch in Berlin gehört,  fällt mir gerade ein, nicht nur in Potsdam.
+ Ja.
+ Also, besucht also besucht uns, wenn die in Potsdam wohnt nicht,  dann hört nicht nur auf 90,7 immer barf diesen Sender und vor allem diese Sendung,  sondern kommt einfach mal vorbei und zwar Mittwochs auf dem Freiland in Haus 5  und dann werdet ihr geholfen.
+ Genau, ja.
+ Da könnt ihr da könnt ihr jede Woche quasi Spaß haben.
+ Ja, genau.
+ Ja, so.
+ Wir werden ja auch in Berlin gehört, fällt mir gerade ein.
+ Nicht nur in Potsdam.
  Auf jeden Fall.
-- Ja, ja, ja.
- Ich musste immer so umschäden, so, das ist so umendendend.
- Ich mach ja die Radiosendung der C-Base,  der Raumstation unter Berlin-Mitte, C-Base.org.
- Da kann man sich hinwenden, wenn man also mehr so in Mitte wohnt.
+ Ja, ja.
+ Ja, ja, ich muss da immer so umschäden, so, das so umändern.
+ Ich mache ja die Radiosendung der Sea Base, der Raumstation unter Berlin Mitte,  10minusbase.org.
+ Da kann man sich dann hinwenden, wenn man also  mehr so in Mitte wohnt.
  Shame is self-park, okay.
-- Nee, gar nicht, wie so shameless.
- Ah, okay.
-- Ja, wie es wirklich ist.
- Also, wir können diesen Planeten immerhin absprengen  und also ...
-- Aber da müsstest du auch einmal ...
- Vorher kurz den Eisringen sehen, der da um unsere flache Erde ...
- Ja, ja, ja.
- Und einmal der Schildkröte ins Gesicht gucken,  auf deren Rücken wir getragen werden.
- Ja, und einmal im Jahr kannst du sogar  den U-Boot-Bunker unter der Spree besichtigen.
+ Ne, gar nicht.
+ Wieso shameless?
+ Ja, wie es wirklich ist.
+ Also, wir können diesen Planeten immerhin absprengen und diesen und also.
+ Aber man muss sich noch einmal vorher kurz  den Eisringen sehen, der da um unsere flache Erde und einmal der Schildkröte  ins Gesicht gucken, auf deren Rücken wir getragen werden.
+ Ja, und einmal im Jahr kannst du sogar den U-Bootbunker unter der Spree besichtigen.
  Ah, sehr gut.
-- Mhm.
  Ja, schön.
- Genau, nee, also deswegen, schöne Veranstaltungen.
- Ich vermute tatsächlich auch,  dass die nächste größere Veranstaltung  dann tatsächlich nächstes Jahr irgendwie ...
- Also, nächstes Jahr sage ich ...
- Nein, dieses Jahr hat 2023 irgendwie das Camp sein wird.
- Und wenn es vorher noch andere Sachen gibt,  wo wir oder irgendwie Dinge tun,  dann werden wir es euch natürlich wissen lassen.
- Ja, gibt natürlich so die Klassiker wieder ...
- Irgendwie das Dinge zu Ostern stattfinden, irgendwo in Deutschland.
- Oder das Dinge irgendwie zur Gulasch-Programmienacht stattfinden.
- Da hatten wir ja auch ...
-Vergangenes Jahr.
- Mhm.
- Da schon davon berichtet, wie Teile von uns ...
- Wir hatten übrigens auch eine Glühwelt-Programmienacht  zwischen den Jahren, hab ich gelesen.
+ Genau, nee, also deswegen schöne Veranstaltungen.
+ Ich vermute tatsächlich auch, dass die nächste größere Veranstaltung  dann tatsächlich nächstes Jahr, das Jahr 2023, irgendwie das Camp sein wird.
+ Und wenn es vorher noch andere Sachen gibt, wo wir irgendwie Dinge tun,  dann werden wir es euch natürlich wissen lassen.
+ Gibt natürlich so die Klassiker, wie das Dinge zu Ostern stattfinden,  irgendwo in Deutschland, oder das Dinge irgendwie zur Gulasch-Programmienacht  stattfinden, da hatten wir ja auch vergangenes Jahr.
+ Da schon davon berichtet, wie Teile von uns...
+ Die hatten übrigens auch eine Glühwelt-Programmienacht  zwischen den Jahren, habe ich gelesen.
  Siehst du?
-- Ja, genau.
- Also, es gibt immer Veranstaltungen in diesem Haus.
- Ja, es gibt die Glühwenn, ja.
-- Yeah.
- Ich fahre Ende Februar, fahre ich in die Schweiz nach Zürich,  zum Winterkongress des CCCCH.
- Und werde auch wahrscheinlich mal wieder nicht in HD,  sondern in SD-Podcasten, und zwar im Hackriffunk.ch.
+ Ja, du siehst es.
+ Genau.
+ Also, es gibt immer nur Veranstaltungen in diesem Haus.
+ Ja, ich glaube die Glühwein, ja.
+ Ich fahre Ende Februar, fahre ich in die Schweiz nach Zürich.
+ Zum Winterkongress des CCCCH und werde auch wahrscheinlich mal  wieder nicht in HD, sondern in SD-Podcasten und zwar im Hackgriff.ch.
  Ja, das ist sehr wichtig.
  So, also von daher, die Hacker sind international.
- Auf jeden Fall, ja, ja, ja.
- Mhm, das haben wir schon wieder was geplackt, ist doch super.
- Mhm, sehr gut.
-- Genau.
- Ja, das muss man ja wissen.
- Was ich tatsächlich in den letzten Tagen nicht so oft mir angeschaut habe,  tatsächlich, weil irgendwie noch so nach Event-Dinge,  die gemacht werden wollen, ist tatsächlich mal auf Mastodon schauen.
- Was ist da sonst noch so für ...
-- Mastodon, diese Twitter-Alternative  für normalsterbliche Join-Mastodon.org.
- Alle anderen können sich bei uns im Chaos  ein paar schönere Instanzen geben lassen, ja.
- Sofern die Invoids offen sind, das weiß ich grad gar nicht, wie das ...
- Na, es gibt ja diverse.
+ Auf jeden Fall.
+ Das haben wir schon wieder was geplagt, ist doch super.
+ Sehr gut.
+ Ja, ja, das muss man ja wissen.
+ Was ich tatsächlich in den letzten Tagen nicht so oft mir angeschaut habe,  tatsächlich, weil irgendwie noch so nach Event-Dinge,  die gemacht werden wollen, ist tatsächlich irgendwie mal auf  "Mastodon" schauen, was es da sonst noch so für...
+ Genau, "Mastodon", diese Twitter-Alternative  für normalsterbliche Join-Mastodon.org.
+ Alle anderen können sich bei uns im Chaos ein paar  schönere Instanzen geben lassen, ja.
+ Sofern die Inweits offen sind, das weiß ich gerade gar nicht,  wie das...
+ Es gibt ja diverse.
  Außerdem, wie immer, die Dinge sind nicht so, wie sie scheinen.
- Wichtige Regel der Hackerwelt.
- Und ja, die coolen Leute sind jetzt auf Mastodon, genau.
- Also, wenn ihr noch da noch nicht seid, aber cool seid,  dann kommt auf Mastodon.
- Es gibt sogar schon die ersten Hackspaces,  die ihre eigene Mastodon-Distanzen haben, z.B.
-die Dresden,  also ihr C3D2.de, also der Chaos-Computer-Club Dresden.
- Das ist tatsächlich einfach mal quick eine eigene Instanz aufgesetzt.
- Und da kann man sich jetzt also an Mastodon beteiligen.
- Wie heißt das, einen Kurznachrichtendienst betreiben?
- Ja, oder Mikro-Blogging ...
- Mmh.
-- ...
-kennt ihr, kennt ihr?
- Ja.
-- Kennt ihr noch Blocks?
- Ja, es gibt sie noch tatsächlich, aber ...
- Es gibt ja auch eine Renaissance des Newsletters, ne?
- Das ist ja auch wieder ganz modern.
- Wenn man also ab und zu mal die Welt erklärt,  dann ist das gar nicht so dumm, man kann das dann abonnieren,  man kann sich sogar von seinen Abonnenten dafür bezahlen lassen.
+ Wichtige Regel der Hacker-Welt.
+ Und ja, die coolen Leute sind jetzt auf "Mastodon", genau.
+ Ja, also wenn ihr noch da noch nicht seid, aber cool seid,  dann kommt auf "Mastodon".
+ Es gibt sogar schon die ersten Hexpaces, die ihre eigene  "Mastodon-Instanz" haben, z.B.
+die Dresden, also ihr C3D2.de.
+ Also der Chaos-Computer-Club Dresden, der hat tatsächlich  einfach mal quick eine eigene Instanz aufgesetzt.
+ Und da kann man sich jetzt also an "Mastodon" beteiligen.
+ Und wie heißt es, einen Kurznachrichtendienst betreiben?
+ Ja, oder Mikro-Blogging.
+ Kennt ihr noch Blocks?
+ Ja, es gibt sie noch tatsächlich.
+ Oh, es gibt sie wieder, es gibt ja auch eine Renaissance des Newsletters.
+ Also, das ist ja auch wieder ganz modern.
+ Wenn man also ab und zu mal die Welt erklärt, dann ist das gar nicht so dumm.
+ Man kann das dann abonnieren, man kann sich sogar von seinen  Abonnenten dafür bezahlen lassen.
  Es gibt ja auch prominente Menschen im Chaos, die sowas tun.
  Ja, sicherlich.
-- Mhm.
- Aber ansonsten ist bei uns alles open und frei und mit Soße und Schaf.
- Keine Paywalls, kein Payment überhaupt.
- Alles für alle, alles allen, genau.
+ Ja, ja, aber ansonsten ist bei uns hier alles  open und frei und so so und scharf und ja, keine Paywalls,  kein Payment überhaupt und alles für alle, alles allen, genau.
  Ja, genau.
-Deswegen, ihr könnt z.B.
-auch diese Folge hier ...
- ...
-und die anderen, so wie sie denn dann schon hochgeladen haben,  unter radio.ccc-p.org,  euch auch noch mal werbefrei noch mal anhören.
- Genau.
-Radio.ccc-p.org.
- Genau.
-- Mhm.
- Ja.
-- Ja.
- Ganz hervorragend.
-- Mhm.
- Es gibt überhaupt ziemlich viel ...
-- Ja, auch ein echten Rückstand.
- Es gibt doch eigentlich keinen anständigen Hexbase mehr,  gerade im Chaos-Computer-Club und Umgebung,  der nicht irgendwie seinen Podcast hat.
- Ja, das ist auch durchaus erhellend und wird man schlaufern.
- Wenn man das mit Videos nicht so hat, sondern lieber Audio hört,  dann abonniert man ein paar Chaos-Heske-Podcasts.
- Z.B.
-"Lockbuch-Netzpolitik" oder so, um mal einen zu placken.
- So für einen Steiger.
-- Ja.
- Genau das.
- Ansonsten, äh, ja, was ist denn, was ist denn sonst noch so passiert?
- Äh, ähm, mittlerweile ist alles digital, oder?
- Es ist alles digital.
-- Total.
- Und es ist Cybert.
-- Und es ist Cybert.
- Steffens-Cybert, oder ...
-- Werde auch.
- Der ist ja jetzt Regierungs-Sprecher, nicht Herr Cybert.
- Oder den nicht mehr, der war.
-- Nee, nicht mehr.
- Jetzt gibt es Herrn Hebestreit.
-- Ja, genau.
- Nein, tatsächlich ist ja jetzt zum Jahreswechsel  eine dieser Fristen vom Online-Zugangsgesetz abgelaufen.
- Aber ich glaube so wirklich, also ...
- Mir wäre jetzt nicht bekannt, dass ich da irgendwie was geändert hätte.
- Nee, nee.
-Es ist jetzt alles digital.
- Es gibt doch so ein, so ein 70er-Jahre-Witz irgendwie,  als etwa zeitgleich in der DDR und der BRD die Digital-Uhr,  die Quarz-Uhr so eingeführt wurde mit LCD-Display.
- Da gab es dann immer so diese Witze über die Digital-Uhr,  dass niemand verstand ja so richtig, was das war, nicht?
- Und irgendein bekannter Komiker erzählte dann ja,  kommt ein Mann zum Urmacher und sagt, ich hätte gerne eine flache Berg-Uhr.
+ Deswegen, ihr könnt zum Beispiel auch diese Folge hier und die anderen,  so wie sie denn dann schon hochgeladen haben,  unter radiopunktccc-p.org euch auch noch mal werbefrei noch mal anhören.
+ Genau, radiopunktccc-p.org.
+ Genau, ja, ja, ganz hervorragend.
+ Es gibt überhaupt ziemlich viel.
+ Ja, nur auch einen rechten Rückstand, gerade ein paar Fläche und irgendwann nicht mehr.
+ Also, es gibt doch eigentlich keinen anständigen Hexbase mehr,  gerade im Chaos Computer Club und Umgebung, der nicht irgendwie sein Podcast hat.
+ Also, da findet man doch auch einiges.
+ Ja, ja.
+ Das ist auch durchaus erhellend und wird man schlau von.
+ Wenn man, wenn man das mit Videos nicht so hat, sondern lieber Audio hört,  dann abonniert man ein paar Chaos-Heske-Podcasts.
+ Ja, zum Beispiel "Lockbuch-Netzpolitik" oder so,  um mal einen zu placken, so für Einsteiger.
+ Ja, genau das.
+ Ansonsten, ja, was ist denn, was ist denn sonst noch so passiert?
+ Mittlerweile ist alles digital, oder?
+ Es ist alles digital und es cybert.
+ Und es cybert.
+ Steffen cybert oder Werder auch?
+ Ja, der ist ja jetzt Regierungssprecher, nicht Herr Cybert oder in den nicht mehr, der war.
+ Nicht mehr.
+ Jetzt gibt es ja ein Hebestreit.
+ Ja, genau.
+ Nein, tatsächlich ist ja jetzt zum Jahreswechsel eine dieser Fristen vom  Onlinezugangsgesetz abgelaufen.
+ Aber ich glaube so wirklich, also, mir wäre jetzt nicht bekannt, dass ich jetzt da irgendwie was geändert hätte.
+ Nö, es ist jetzt alles digital, es gibt so ein 70er-Jahre-Witz irgendwie als etwa zeitgleich in der DDR  und der BRD, die Digital-Uhr, die Quarts-Uhr so eingeführt wurde mit LCD-Display.
+ Da gab es dann immer so diese Witze über die Digital-Uhr, dass niemand verstand ja so richtig, was das war, nicht?
+ Und irgendein bekannter Komiker erzählte dann, ja, kommt ein Mann zum Urmacher und sagt, ich hätte gerne eine flache Berg-Uhr.
  Und der Urmacher sagt, was soll denn das?
- Ein Freund von mir hat eine dicke Thaluhr, die geht immer nach, ja.
- Ja.
- Ein 50-Jahre-Alter-Witz, nicht so.
+ Ja, vor allem hat er eine dicke Taluhr, die geht immer nach, ja, ja, okay, ein 50 Jahre alter Witz.
  Ja, wie du siehst, er funktioniert immer noch.
- Ja, Leute wie ich, die sich mit Technik- und Kulturgeschichte beschäftigen,  wissen auch, dass das LCD-Display eine DDR-Erfindung ist,  die sie allerdings an die Japaner licenzieren mussten,  weil sie selber nicht auf die Kette gekriegt haben,  die in irgendeiner Form zu vermarkten.
- Aber tatsächlich, ja, eine der wenigen technologischen Beiträge  der Deutschen Demokratischen Republik zum Fortschritt der Menschheit,  zum technischen Fortschritt ist das LCD-Display.
- Ja, ja, was heute keiner mehr weiß,  es sei denn, man hört Technik- und Kulturgeschichts-Podcasts.
- Hm, ja, das ist's mal.
- Apropos technischer Fortschritt und Jahreswechsel.
- Ja.
- Mittlerweile gibt's ja für diese diversen Feuerwerk-Installationen,  die werden ja mittlerweile professionell gezündet.
- Mit Hilfe von auch digitaler Computertechnik.
- Da gab's ja durchaus einen interessanten Zwischenfall  ins San Diego zu Silvester.
- Oh ja.
+ Ja, Leute wie ich, die sich mit Technik-Geschichte und Technik-Kultur-Geschichte beschäftigen, wissen auch, dass das LCD-Display eine DDR-Erfindung ist, die sie  allerdings an die Japaner licenzieren mussten, weil sie selber nicht auf die Kette gekriegt haben, die in irgendeiner Form zu vermarkten.
+ Ja, aber tatsächlich, ja, eine der wenigen technologischen Beiträge der Deutschen Demokratischen Republik zum Fortschritt der Menschheit, zum technischen Fortschritt ist das LCD-Display.
+ Ja, ja, was heute keiner mehr weiß, es sei denn, man hört Technik- und Technik-Kultur-Geschichts-Podcasts.
+ Einfach pro technischer Fortschritt und Jahreswechsel.
+Mittlerweile gibt es ja für diese diversen Feuerwerk-Installationen, die werden ja mittlerweile professionell gezündet.
+ Mit Hilfe von digitaler Computertechnik.
+Da gab es ja durchaus einen interessanten Zwischenfall ins San Diego zu Silvester.
  Was ist da passiert?
- Haben sich da so ein Drogenfeuerwerk gemacht, oder was war das?
- Nee, nee, sie haben da schon so ein echtes Feuerwerk gemacht.
- Aber tatsächlich ist es so, dass da in das Feuerwerk,  das auf circa eine viertel Stunde geplant war,  innerhalb von 20 Sekunden abgefeuert wurde aufgrund eines ...
- Software-Fehlers, kann man nix machen.
- ...
-eines Software- oder Bin-Fehlers, ja.
- Das Beste war's, es war ja nicht nur eins,  in San Diego gibt es mehrere Feuerwerke.
- Ich glaub, zwei oder drei, die alle synchron sind,  und es bei allen von denen passiert, zeitgleich.
- Ja, so ist das mit einem Software-Fehler.
- Also, wenn man mal sich anschauen will,  wie das Hollenfeuer auf Erden ungefähr aussehen könnte,  dann kann man sich da so ein kleines Video anschauen.
- Dann kriegt man da einen ganz guten Eindruck von ...
- Ich schicke schon mal eine Trigger-Warnung voraus,  aber ich glaube, man kann sich vorstellen,  dass da einfach sehr viel hell und sehr viel laut da vorkommt  in diesem Video.
-- Ja.
+Haben sich da so ein droden Feuerwerk gemacht oder was war das?
+ Nee, nee, sie haben da schon so ein echtes Feuerwerk gemacht, aber also tatsächlich ist es so, dass da in das Feuerwerk, das auf ca.
+eine viertel Stunde geplant war, innerhalb von 20 Sekunden abgefeuert wurde, aufgrund eines Software-Fehlers.
+ Aufgrund eines Software-Fehlers, ja.
+ Das Beste war es, weil ja nicht nur eins, in San Diego gibt es mehrere Feuerwerke, ich glaube zwei oder drei, die alle synchron sind und es bei allen von denen passiert, zeitgleich.
+ Ja, so ist das halt mit einem Software-Fehler.
+ Also wenn man mal sich anschauen will, wie das Heulenfeuer auf Erden ungefähr aussehen könnte, dann kann man sich da so ein kleines Video anschauen, dann kriegt man da einen ganz guten Eindruck von.
+ Ich schicke schon mal eine Triggerwarnung voraus, aber ich glaube, man kann sich vorstellen, dass da einfach sehr viel hell und sehr viel laut da vorkommt in diesem Video.
  Ja, Spaß mit Computern.
- Ja.
-Also, Spaß liegt an der Stelle,  wie so oft im Auge das betracht, aber ja.
- Mhm.
-- Ja, ja, ja.
- Auch Dinge, die zum Jahreswechsel passiert sind.
- Mhm.
-- Das ist schön.
-- Ja, oder halt.
- War dann schnell vorbei.
-- Mhm.
- Na, jawohl.
-- Mhm.
- Mal sehen.
- Habt ihr irgendwelche Resta-Rituale vollführt?
- Irgendwelche ...
-- Nee.
- Dinne vor one aus der Blockchain euch angeschaut oder so?
- Nee, ich hab ...
- ...
-den Virus bekämpft und tatsächlich die Jahreswechsel verschlafen.
- Das ist mehr bei dem früheren Kongress auch schon mal passiert.
- Da kam ich so nach dem Kongress nach Hause und dachte,  na ja, morgen Silvester, und keine Ahnung, bin früh zu Bett gegangen.
- Und ich erwachte dann am Neujahrstag.
- Hatte also einen gesamten Verschlafen, das passiert schon mal.
- Wenn man so vier Tage wach ist, dann, ja.
- Das ist stimmt schon.
-Ja, ich hab gehört, da ging's ...
- anderen Menschen auch so, die Silvester einfach durchgeschlafen haben.
- Aber es ist doch ...
-- Ja.
- Ich fand, es war halt echt Gefeuerwerk dieses Jahr.
- So ein Schapur, wenn ihr schlafen konntet.
- Ja, das ist mir vollkommen egal, da bin ich mittlerweile abgebrüht.
- Und ich glaube, viele Leute haben einfach noch ihre Vorräte  aus den letzten Jahren verbrannt.
-- Nee, ich hab dieses Jahr viel neu gekauft.
- Dann ist das ja mit der Inflation und dem Geldmärgel in der Bevölkerung  doch nur ein Gerücht.
-Na ja, wer weiß, keine Ahnung.
- Es gibt auch so Hacker-Varianten von Feuerwerken,  in denen man so drohnenschwärme, schöne, bunte Lichter an und ausmachen lässt.
- Da bin ich eine Super-Innovation so.
- Der hier, der diese Themen macht das häufig.
- Ja, gibt's auch schöne Videos von so.
- Das wär auch mal was, so einen leuchtenden Drohnschwarm  durch Potsdam fliegen zu lassen, von dem niemand weiß, wo er herkommt  und was er tun wird.
-- Boah, boah, boah.
+ Ja, also Spaß liegt an der Stelle, wie so oft im Auge das betracht das, aber auch Dinge, die zum Jahreswechsel passiert sind.
+ Das ist schön.
+Ja, oder halt.
+War dann schnell vorbei.
+ Ah, jawohl.
+ Ja, mal sehen.
+ Habt ihr irgendwelche Rester-Rituale vollführt, irgendwelche Dinner-For-One aus der Blockchain angeschaut oder so?
+ Ich habe den Virus bekämpft und tatsächlich den Jahreswechsel verschlafen.
+ Das ist mir bei dem früheren Kongress auch schon mal passiert.
+ Ich kam mich so nach dem Kongress nach Hause und dachte, na ja, morgen Silvester und keine Ahnung, bin irgendwie früh zu Bett gegangen und ich erwachte dann am Neujahrstag.
+ Hatte also einen gesamten verschlafen.
+Es passiert schon mal.
+ Wenn man so vier Tage wach ist, dann ja.
+ Das stimmt schon.
+Ja, ich habe gehört, da gings anderen Menschen auch so, die Silvester einfach durchgeschlafen haben, aber es ist doch besser.
+ Ich fand, das war halt echt Gefeuerwerk dieses Jahr.
+Also, das ist Schapur, wenn ihr da schlafen konntet.
+ Ja, das ist mir vollkommen egal.
+Also, da bin ich mittlerweile abgebrüht und ich glaube, viele Leute haben einfach noch ihre Vorräte aus den letzten Jahren verbrannt, irgendwie.
+ Nee, ich glaube, wir haben dieses Jahr viel neu gekauft.
+ Dann ist das ja mit der Inflation und dem Geldmärgel in der Bevölkerung doch nur ein Gerücht.
+ Na ja, wer weiß, keine Ahnung.
+Also, es gibt ja auch so Hacker-Varianten von Feuerwerken, in denen man so drohnenschwärme, schöne, bunte Lichter an und ausmachen lässt.
+ Das ist eigentlich eine super Innovation so.
+ Der hier diese Themen macht das häufig.
+Ja, gibt es auch schöne Videos von so.
+ Das wäre auch mal was so, einen leuchtenden drohnenschwarmen durch Postam fliegen zu lassen, von dem niemand weiß, wo er herkommt und was er tun wird.
  Ja, genau.
 Ja, das ist doch das nächste große Ding.
  Drohnen sind doch die Zukunft, haben wir jetzt gemerkt.
- Die aus der Ukraine, die erzählen uns immer,  was man mit Drohnen alles an Schabernack machen kann.
- Das kann sehr lustig werden, nehm ich an.
- Ich kann's sicher, ob das jetzt meine Definition von lustig trifft,  aber oder notwendig, aber ...
-- Ja.
- Auch die Gegenmaßnahmen sind total lustig.
- Also, gibt ja so diverse Antiquitäten an Waffentechnik,  die man jetzt wieder ausgrillt, weil sie prima gegen Drohnen sind.
- Von daher wird das alles noch sehr, sehr lustig werden, glaub ich.
- Ja, ja, also, äh, äh, äh, genau.
- Also auch so was wie Selbstverteidigung gegen ...
- - ...
-Gegendrohnen, genau.
-- ...
-oder Selbstverteidigung mit Drohnen.
+ Die aus der Ukraine, die erzählen uns ja immer, was man mit Drohnen alles an Schaberdach machen kann.
+ Also, das kann sehr lustig werden.
+ Ich bin mir grad sicher, ob das jetzt meine Definition von lustig trifft oder notwendig.
+ Ja, auch die Gegenmaßnahmen sind total lustig.
+Also, gibt ja so diverse Antiquitäten an Waffentechnik, die man jetzt wieder auskrebt, weil sie prima gegen Drohnen sind und so.
+ Also, von daher wird das alles noch sehr, sehr lustig werden, glaube ich.
+ Ja, ja, also, genau.
+Also, auch so was wie Selbstverteidigung gegen Drohnen, oder Selbstverteidigung mit Drohnen.
+ Oder Selbstverteidigung gegen Robotserhunde, da gibt es ja auch durchaus schon Info-Zettel, wie man diesen Robo-Doc näht, der heißt irgendwie anders, wie man den Lamm legen kann.
  Genau.
-Oder Selbstverteidigung gegen Robotserhunde.
- Da gibt's ja auch durchaus schon Info-Zettel,  wie man diesen Robo-Doc, nee, der heißt irgendwie anders,  wie man den lahmlegen kann.
-- Genau.
- Dann hab's ja auch schon Videomontagen,  wo ...
-ähm, ähm, ähm, ähm ...
- ...
-tödliches Zeugs, den da irgendwie draufmunkiert wurde,  als Videomontage.
-- Ja.
- Aber in irgendwelchen Kellern wird das wahrscheinlich tatsächlich schon ...
- In irgendwelchen Kellern gibt es immer Wahnsinnige,  die an ihrer Version des Weltendes basteln, das ist ja klar.
+ Da gibt es ja auch schon Videomontagen, wo tödliches Zeugs, den da irgendwie draufmunkiert wurde, als Videomontage.
  Ja.
-Können wir ein schönes Weltende basteln?
- Mmh, ja, wenn wir das wollen.
- Oh, wär schon irgendwie nett.
+ Aber in irgendwelchen Kellern wird das wahrscheinlich tatsächlich schon...
+ In irgendwelchen Kellern gibt es immer Wahnsinnige, die an ihrer Version des Weltendes basteln.
+ Das ist ja klar.
  Ja.
-Mal sehen, wie lange das noch gut geht.
+ Können wir ein schönes Weltende basteln?
+ Ja, wenn wir das wollen.
+ Oh, wäre schon irgendwie nett.
+ Ja, mal sehen, wie lange das noch gut geht.
  Mit dieser Realwelt.
- Oder wir sind irgendwann alle im Metavers  und machen da unsere Camps und unsere Feuerwerke  und wechseln täglich unseren Körper und ohnehin.
- Hat denn jemand von euch schon mal ...
- ...
-irgendwas von diesem Metavers gesehen?
- Oder, wenn ja, irgendwas Überzeugendes?
- Ja, also, äh, das ist ja so mit dieser ganzen virtuellen Realität.
+ Oder wir sind irgendwann alle im Metavers und machen da unsere Camps und unsere Feuerwerke und wechseln täglich unseren Körper und ohnehin.
+ Hat denn jemand von euch schon mal irgendwas von diesem Metavers gesehen?
+ Oder wenn ja, irgendwas Überzeugendes?
+ Ja, also das ist ja so mit dieser ganzen virtuellen Realität.
  Man muss ja vielleicht erklären, was Metavers ist.
- Also, es gab ja vor zehn oder zwanzig Jahren  auch mal diesen Versuch, Second Life, also im Prinzip die Idee,  man könnte mit VR-Technologie, VR-Brillen und diversen anderen Accessoires  sich in eine virtuelle Welt begeben und dort sozusagen virtuell weiterleben.
- Wir karriquieren das ja auch ein bisschen, ihr erinnert euch,  während Corona haben wir so zweidimensionale Welten betrieben,  um uns untereinander zu treffen.
- Ähm, das, äh, das sind so technologische Wellen.
- So alle paar Jahre kommt da angeblich der nächste heiße Scheiß  und dann bleibt es immer so, zwei Jahre abzuwarten,  ob es dabei bleibt oder nicht.
- Mal gucken, Metavers ist natürlich soweit von übel,  als es, glaube ich, von Facebook betrieben wird.
- Ähm, was ja so eine von den Firmen ist,  die wir als Hacker sofort verbieten würden,  die wir mit dürften.
- Naja, und, äh, das, was ich neulich mal gesehen hatte,  das war tatsächlich gar nicht mal so gut.
- Da hat tatsächlich jemand mal, ist mal in diesem Metavers gegangen  und hat mal so einen 15 oder 20 Minuten Zusammenschnitt gemacht,  äh, um das mal zu zeigen.
- Und es, äh, also, mich hat es tatsächlich noch nicht überzeugt.
- Ich hab da damals dieses Second Life nie ausprobiert.
- Das war ja auch wirklich gehypt, wie sonst was.
- Ja.
- Und was ist das jetzt mit dem Metavers,  nämlich tatsächlich gar nicht so wahr?
- Also, ich kann jetzt irgendwie, ich könnte jetzt nicht sagen,  dass das ähnlich gehypt wird wie damals Second Life.
- Das war irgendwie, also, für mich gefühlt damals größer,  oder vielleicht bin ich da auch einfach nur  mittlerweile alt und abgehärtet,  äh, dass ich einfach so, ja, da gab es doch schon mal,  äh, mir so denke.
- Aber das hat mich jetzt nicht vorm Ofen vorgelockt.
- Und weil ihr dann irgendwie so siehst,  ähm, der war dann, der war dann in so einer, in so einer Bar  mit offenen Mikro im, also im Metaversum.
- Ja, und konnte dann irgendwelche Witze erzählen  oder andere Dinge machen auf der Bühne.
- Und, äh, damit man ihm Applaus schenken kann,  äh, musste man vorher irgendwelche digitalen Coins erst erwerben.
- Das ist doch, das ist doch der Hauptzweck der ganzen Sache.
- Die Leute sollen dort für ihre Kleidung bezahlen,  für die nicht vorhandene Luft zum Atmen und überhaupt.
- Es ist alles, es ist alles von übel und gehört daher abgeschafft.
- Ja, ich glaube, ich habe das gleiche Video wie du geschaut.
- Ah, ja, ja, ja, genau, genau.
- Also vielleicht wird das alles besser,  wenn wir dann echt erst mal Quantencomputer haben.
- Die haben dann vielleicht genügend Power für sowas.
- Mal sehen, bin ja mal gespannt.
- Ja, ach, genügend Power haben die Geräte meines Erachtens,  müssen die ja jetzt eigentlich auch schon haben.
- Ich meine, wir haben ja ein großes Serverfarm.
- Ob man das haben will, ist dann nur die andere Seite.
- Aber so machbar wäre das wahrscheinlich schon,  weil ich meine, du musst ja bloß mal anschauen,  die ganzen Massive-Multiplayer-Onlinespiele,  die es ja auch schon gibt.
- Also es ist jetzt nicht so,  als würde man das Rad neu erfinden.
- Ja, nee.
- Ja, falls jemand für euch Steamgames spielt,  "Seven Days to Die", mehr sage ich nicht,  könnt ihr ja mal gucken.
- Da kann man sich auch drin verlieren, so.
+ Also es gab ja vor 10 oder 20 Jahren auch mal diesen Versuch "Second Life" hier.
+ Also im Prinzip die Idee, man könnte mit VR-Technologie, VR-Brillen und diversen anderen Accessoires sich in eine virtuelle Welt begeben und dort sozusagen virtuell weiterleben.
+ Wir karriktieren das ja auch ein bisschen, ihr erinnert euch, während Corona haben wir so 2-dimensionale Welten betrieben, um uns untereinander zu treffen.
+ Das sind so technologische Wellen, so alle paar Jahre kommt da angeblich der nächste heiße Scheiß und dann bleibt es immer so 2 Jahre abzuwarten, ob es dabei bleibt oder nicht.
+ Mal gucken.
+ Metavers ist natürlich soweit von Übel, als es glaube ich von Facebook betrieben wird.
+ Was ja so eine von den Firmen ist, die wir als Hacker sofort verbieten würden, wenn wir dürften.
+ Naja und das, was ich neulich mal gesehen hatte, das war tatsächlich gar nicht mal so gut.
+ Da hat tatsächlich jemand mal in diese Metavers gegangen und hat mal so einen 15 oder 20 Minuten Zusammenschnitt gemacht, um das mal zu zeigen.
+ Mich hat es tatsächlich noch nicht überzeugt.
+Ich habe damals dieses Second Life nie ausprobiert, das war ja auch wirklich gehypt wie sonst was.
+ Ich nehme das jetzt mit dem Metavers, nämlich tatsächlich gar nicht so wahr.
+ Ich könnte jetzt nicht sagen, dass das ähnlich gehypt wird wie damals Second Life.
+ Das war für mich gefühlt damals größer oder vielleicht bin ich da auch einfach nur mittlerweile alt und abgehärtet.
+ Dass ich einfach so, ja, da gab es doch schon mal mir so denke.
+ Aber das hat mich jetzt nicht vom Ofen vor gelockt.
+ Und wenn ihr dann irgendwie so siehst, der war dann in so einer Bar mit offenen Mikro, also im Metaversum.
+ Und konnte dann irgendwelche Witze erzählen oder andere Dinge machen auf der Bühne.
+ Und damit man ihm Applaus schenken kann, musste man vorher irgendwelche digitalen Coins erst erwerben.
+ Das ist doch der Hauptzweck der ganzen Sache.
+ Die Leute sollen dort für ihre Kleidung bezahlen, für die nicht vorhandene Luft zum Atmen und überhaupt.
+ Es ist alles von übel und gehört daher abgeschafft.
+ Ich glaube, ich habe das gleiche Video wie du geschaut.
+ Ja, ja, genau.
+ Das ist alles besser, wenn wir dann erstmal Quantencomputer haben.
+Die haben dann vielleicht genügend Power für sowas.
+ Mal sehen.
+Bin ja mal gespannt.
+ Ja, genügend Power haben die Geräte meines Erachtens, müssen die ja jetzt eigentlich auch schon haben.
+ Ich meine, wir haben ja ein großes Server-Farm.
+ Ob man das haben will, ist dann nur der andere Seite.
+ Aber so machbar wäre das wahrscheinlich schon.
+ Ich meine, man muss ja bloß mal anschauen, die ganzen Massive-Multiplayer-Onlinespiele, die es ja auch schon gibt.
+ Es ist ja jetzt nicht so, als würde man das Rad neu erfinden.
+ Ja, nein.
+ Falls jemand für euch Steam Games spielt "Seven Days to Die", mehr sage ich nicht, könnt ihr ja mal gucken.
+ Da kann man sich auch drin verlieren.
  Ja, ja, ja, ja, ja.
- Ähm, ja, wo waren wir beim Quantencomputer?
+ Ja, wo waren wir beim Quantencomputer?
  Beim Quantencomputer, ja.
- Ah ja, also was passiert ist,  falls, um es mal wieder ein bisschen hackig zu machen,  also falls euch Verschlüsselung,  Kryptografie und Funktionsweise dieses Internets interessiert,  chinesische Forscher haben festgestellt,  dass man einen der wichtigsten,  einen der wichtigsten Verschlüsselungsalgorithmen  in diesem Internet, das sogenannte RSA-Protokoll, brechen kann.
- So man denn einen Quantencomputer,  wie wir ihn uns heute vorstellen, hätte,  und sie haben sogar mathematisch,  bisher unwiderlegt, nachgewiesen oder wollen nachgewiesen haben,  dass egal, wie lange Schlüssel man benutzt,  der Stromverbrauch eines solchen Quantencomputers  in Unterlinie A ansteigt.
- Also das heißt, wenn man erstmal einen hat,  dann bricht das auf die dauersempliche Kryptografie,  wie wir sie jetzt kennen.
- Ich habe da in unserem Sendungspet so ein Artikel verlinkt,  oder sogar ein PDF.
- Also wer gut in Mathe ist, kann sich mal das reinziehen,  was die Chinesen da so erdacht haben.
+ Ah ja, also was passiert ist, um es mal wieder ein bisschen hackig zu machen.
+ Also, falls euch Verschlüsselung, Kryptografie und Funktionsweise dieses Internets interessiert.
+ Chinesische Forscher haben festgestellt, dass man einen der wichtigsten Verschlüsselungsalgorithmen in diesem Internet,  das sogenannte RSA-Protokoll brechen kann.
+ So man denn einen Quantencomputer, wie wir ihn uns heute vorstellen, hätte,  und sie haben sogar mathematisch, bisher unwiderlegt, nachgewiesen oder wollen nachgewiesen haben,  dass, egal wie lange Schlüssel man benutzt, der Stromverbrauch eines solchen Quantencomputers in Unterlinie A ansteigt.
+ Also, das heißt, wenn man erstmal einen hat, dann bricht das auf die Dauer sämtliche Kryptografie, wie wir sie jetzt kennen.
+ Ich habe dann in unserem Sendungspet so ein Artikel verlinkt oder sogar ein PDF.
+ Also, wer gut in Mathe ist, kann sich mal das reinziehen, was die Chinesen da so erdacht haben.
  Ich verlinke auch nochmal einen Kommentar von den Kryptografen.
- Also Spoiler, Bottomline, theoretisch, ja, praktisch,  wird das alles noch ein Moment dauern.
- Ich glaube, vorher werden wir sehr viel mehr  uns damit zu beschäftigen haben,  was so die diversen künstlichen Minderintelligenzen  in diesem Netz anstellen.
- Ich sage nur hier, OpenAI, ChatGBT3 und so was, nicht?
- Also, Computerprogramme, die uns vorspiegeln,  sie seien mehr als ein Computerprogramm,  den man fragen stellen kann, mit dem man sich unterhalten kann  und irgendwann nicht mehr so richtig weiß, redig im Menschen oder nicht.
- Und der Mensch oder die künstliche Intelligenz  kann halt nicht nur Sprache,  sie kann dir auch irgendwelchen Code ausgeben  und der funktioniert sogar.
- Also du kannst diesem Chatbot sagen,  gib mir mal bitte in der und der Programmiersprache  einen Code, der das und das tut und du kriegst Code zurück.
- Na, da bin ich ja mal gespannt,  wann unsere Politiker anfangen,  von solchen künstlichen Minderintelligenzen  Software erzeugen zu lassen,  die dann darüber entscheiden,  ob wir ein Personal ausweisen können oder nicht oder so.
- Ja.
- Obwohl, anders als in Potsdam wäre ja keine Gefahr,  habe ich gehört, an die Potsdammer unter euch.
- Da ist ja der Cyber gerade mal wieder ausgebrochen,  wie schon mal vor zwei Jahren und ja, das ist dann wohl ungefährlich.
- Ja, also wenn es mal wieder der nächste Shutdown kommt  von elektronischer Infrastruktur.
- Genau, also wenn man auf Potsdam.de geht,  dann bekommt man so Hinweise.
- Eingeschreckter Service nach Hinweisen auf IT-Angriff.
- Ja, wie konnte das denn nur passieren?
- Ja, also offenbar zieht sich die Stadt Potsdam noch zu erzählen,  was denn vorgefallen sei und deklariert es als Vorsichtsmaßnahme.
- Nun ja, nun ja.
- Insofern braucht man da wahrscheinlich vorläufig vor der Diktatur  der künstlichen Minderintelligenz keine Angst zu haben.
- Jedenfalls nicht in Potsdam.
+ Also, Spoiler, Bottom Line, theoretisch, ja, praktisch wird das alles noch ein Moment dauern.
+ Ich glaube, vorher werden wir sehr viel mehr uns damit zu beschäftigen haben,  was so die diversen künstlichen Minderintelligenzen in diesem Netz anstellen.
+ Ich sage nur hier OpenAI, ChatGBT3 und so was, nicht?
+ Also, Computerprogramme, die uns vorspiegeln, sie seien mehr als ein Computerprogramm,  den man fragen stellen kann, mit dem man sich unterhalten kann  und irgendwann nicht mehr so richtig weiß, redig hier mit Menschen oder nicht.
+ Und der Mensch oder die künstliche Intelligenz kann halt nicht nur Sprache,  sie kann dir auch irgendwelchen Code ausgeben und der funktioniert sogar.
+ Also du kannst diesem Chatbot sagen, gib mir mal bitte in der und der Programmiersprache ein Code,  der das und das tut und du kriegst Code zurück.
+ Da bin ich ja mal gespannt, wann unsere Politiker anfangen,  von solchen künstlichen Minderintelligenzen Software erzeugen zu lassen,  die dann darüber entscheiden, ob wir ein Personalausweis kriegen oder nicht oder so.
+ Obwohl, anders als in Potsdam wäre ja keine Gefahr, habe ich gehört, an die Potsdamer unter euch.
+ Da ist ja der Cyber grad mal wieder ausgebrochen, wie schon mal vor zwei Jahren  und ja, das ist dann wohl ungefährlich.
+ Ja, also wenn mal wieder der nächste Shutdown kommt, von elektronischer Infrastruktur.
+ Genau, also wenn man auf potsdam.de geht, dann bekommt man so Hinweise.
+ Also eingeschreckter Service nach Hinweisen auf IT-Angriff.
+ Wie konnte das denn nur passieren?
+ Also offenbar zieht sich die Stadt Potsdam noch zu erzählen, was denn vorgefallen sei  und deklariert das als Vorsichtsmaßnahme.
+ Nun ja, nun ja, insofern braucht man da wahrscheinlich vorläufig vor der Diktatur  der künstlichen Minderintelligenz keine Angst zu haben, jedenfalls nicht in Potsdam.
  Ja, das ist alles irgendwie ziemlich furchtbar wieder, finde ich.
- Also, man sagt halt, dass man größere Ziele  der Infrastruktur abgeschalten hat.
- Und das ist ja nicht nur die Potsdamer Stadtverwaltung,  sondern das betrifft ja auch irgendwie das Ernst von Bergmann-Klinikum  und auch die Stadtwerke, meine ich.
+ Also man sagt halt, dass man größere Teile der Infrastruktur abgeschalten hat  und das ist ja nicht nur die Potsdamer Stadtverwaltung,  sondern das betrifft ja auch irgendwie das Ernst von Bergmann Klinikum  und auch die Stadtwerke, meine ich.
  Also tatsächlich wirklich größere Teile der Infrastruktur.
- Und natürlich kann halt abschalten von Infrastruktur  eine Möglichkeit sein, um erst mal so die Angriffspfläche  für mögliche Angreifer zu verringern.
+ Und natürlich kann halt abschalten von Infrastruktur eine Möglichkeit sein,  um erstmal so die Angriffsfläche für möglichen Reifen zu verringern.
  Hat natürlich in so einem Fall aber erhebliche Konsequenzen.
- Ja, auf der Seite der Stadt steht zwar,  dass z.B.
-so Sozialleistungen mittlerweile wieder pünktlich ausgezahlt werden.
- Aber natürlich irgendwelche Anträge stellen oder sowas per E-Mail.
- Das geht halt momentan einfach nicht, sondern es geht alles im Moment  nur postalisch, wie es so schön heißt.
- Ja, es ist doch schön, dass unsere Verwaltung ein bisschen schützt  und uns ja in Deutschland auch unsere Rückständigkeit gerade vor Cyber-Eingriffen.
- Also mangels Digitalisierung und wegen Benutzung von Faxgeräten und ähnlichem  ist ja unsere Verwaltung tatsächlich noch in der Lage zur Not,  so wie bei Opa's Wehrmacht alles mit Karteikarten zu verwalten  und man kann ein Fax schicken.
+ Ja, auf der Seite der Stadt steht zwar, dass zum Beispiel so Sozialleistungen  mittlerweile wieder pünktlich ausgezahlt werden, aber natürlich irgendwelche Anträge stellen  oder sowas per E-Mail, das geht halt momentan einfach nicht,  sondern es geht alles im Moment nur postalisch, wie es so schön heißt.
+ Ja, es ist doch schön, dass unsere Verwaltung ein bisschen schützt  und es ja in Deutschland auch unsere Rückständigkeit gerade vor Cyberangriffen.
+ Also mangels Digitalisierung und wegen Benutzung von Faxgeräten und Ähnlichem  ist ja unsere Verwaltung tatsächlich noch in der Lage zur Not,  so wie bei Opa's Wehrmacht alles mit Karteikarten zu verwalten  und man kann ein Fax schicken.
  Das ist möglicherweise im Sinne von Resilienz, wie das Neumodern heißt,  vielleicht gar nicht so dumm.
 Man wird sehen.
- Ja, ich bin mal gespannt.
- Ja, man wird halt glaube ich aber auch schauen müssen,  was da jetzt eigentlich gerade wieder der Fall war.
+Ja, bin mal gespannt.
+ Ja, man wird halt glaube ich aber auch schauen müssen, was da jetzt eigentlich gerade wieder der Fall war.
  Na ja, wahrscheinlich das übliche.
- Vor zwei Jahren war es irgendwie Shitrix hier,  diese Lücke im Citrix VPN-System.
- Und diesmal würde ich sagen, also generische Antworten Windows  Windows und andere Produkte dieses Herstellers  und der dümmste anzunehmende User in der Verwaltung,  der auf einen Link geklickt hat, den er besser nicht geklickt hätte.
- Muss nicht stimmen, ist aber so eine generische Antwort,  die meistens irgendwie nicht ganz falsch ist.
- Oder irgendwelche Hardware, die mit veralteten Softwareversionen läuft.
+Vor zwei Jahren war es irgendwie Shitrix hier,  diese Lücke im Citrix VPN-System.
+Und diesmal würde ich sagen, also generische Antworten, Windows,  Windows und andere Produkte dieses Herstellers und der dümmste anzunehmende User in der Verwaltung,  der auf einen Link geklickt hat, den er besser nicht geklickt hätte.
+ Muss nicht stimmen, ist aber so eine generische Antwort, die meistens irgendwie nicht ganz falsch ist.
+ Na oder irgendwelche Hardware, die mit veralteten Software-Versionen läuft?
  Ja, zum Beispiel.
- Ein uns bekannter Hacker hat ja mal einfach so die Standardsoftware,  das Hacker ist so angeworfen, mal geguckt, was die Stadt Potsdam so tut.
- Oh mein Gott, also schon auf den ersten Blick war,  wohl so aufmachen, hinkucken, Kopfschütteln wieder zu machen.
- Da gab es wohl unter anderem zwei Router,  die wohl so ein bisschen älterer Software hatten.
- Digitale Antiquitäten, sagen wir mal so, das wundert einen natürlich schon,  dass zwei Jahre nach einem sehr großen Cyberangriff  und monatelangen IT-Problemen so was noch passieren kann.
- Da fragt man sich wirklich, was für Leute dort eigentlich das alles  repariert zu haben, glauben, also, ja.
- Ohne Worte.
- Genau, da muss man einfach mal schauen, weil das wäre dann eben  nämlich genau noch mal einen Punkt für, ja, da muss auch die Verwaltung  auch einfach ein bisschen besser werden.
- Genau, aber wie gesagt, ich sage mal, ich persönlich halte mich da,  aber grundsätzlich erst mal ein Stück weit zurück,  bevor da nicht irgendwie klar ist, was da genau war.
- Aber ich sage mal so, die Erfolgen an sich,  finde ich jetzt erst mal nicht so geil, wenn man dann,  wenn quasi die erste Reaktion ist,  wir müssen jetzt erst mal alles ausschalten.
- Das ist so ein bisschen, hat so ein bisschen was von,  wir haben eigentlich noch keine Ahnung,  aber erst mal den Stecker ziehen, ist, wie gesagt,  grundsätzlich keine, keine komplett verkehrt.
- Ja, das ist auch Regel 1,  der Cyberwehr, für die, wie er immer eintreten, nicht wahr hat,  dass man Totschu Admins hat,  die einfach ganz schnell den Stecker ziehen,  und zwar den richtigen, bevor es zu spät ist.
- Genau, und aber besser wäre es natürlich,  wenn so was gar nicht erst gemacht werden müsste, zum Beispiel,  weil die Software entsprechend abgerät ist.
- Dass man beispielsweise auch irgendwie Angriffe im Zweifel  auch so wegkapseln kann oder nur die betroffene Systeme abschalten muss.
- Gegebenenfalls, das wäre natürlich ein bisschen besser,  als dass man irgendwie mit dem großen Holzhammer da system abschalten muss,  wo dann entsprechend auch behördliche und kritische Prozesse  vielleicht auch drauf mitlaufen.
- Es ist tragisch, es gibt diverse Podcasts aus dem Umfeld des Chaos-Computer-Clubs,  die sich mit der Digitalisierung der öffentlichen Verwaltung  und die diversen Pack-Ups dazu beschäftigen.
- Ich verweise an dieser Stelle auf die diversen Werke  unserer geschätzten Kollegin Ledith Wittmann.
+Also ein uns bekannter Hacker hat ja mal einfach so die Standardsoftware,  das Hacker ist so angeworfen, mal geguckt, was die Stadt Potsdam so tut  und oh mein Gott, also schon auf den ersten Blick war wohl so,  aufmachen, hinkucken, Kopfschütteln wieder zu machen.
+ Da gab es wohl unter anderem zwei Router, die wohl so ein bisschen älterer Software hatten.
+ So digitale Antiquitäten, sagen wir mal so.
+Das wundert einen natürlich schon,  dass zwei Jahre nach einem sehr großen Cyberangriff und monatelangen IT-Problemen so was noch passieren kann.
+ Da fragt man sich wirklich, was für Leute dort eigentlich das alles repariert zu haben, glauben.
+ Also ja, ohne Worte.
+ Genau, da muss man einfach mal schauen, weil das wäre dann eben nämlich genau nochmal  einen Punkt für, ja, da muss auch die Verwaltung auch einfach ein bisschen besser werden.
+ Genau, aber wie gesagt, also ich sage mal, ich persönlich halt mich da,  aber grundsätzlich erst mal ein Stück weit zurück, bevor da nicht irgendwie klar ist, was da genau war.
+ Aber ich sage mal so, die Erfolgen an sich, finde ich jetzt erst mal nicht so geil,  wenn man dann quasi die erste Reaktion ist, wir müssen jetzt erst mal alles ausschalten.
+ Das ist so ein bisschen, hat so ein bisschen was von, wir haben eigentlich noch keine Ahnung,  aber erst mal den Stecker ziehen ist, wie gesagt, grundsätzlich keine komplett verkehrte Idee.
+ Das ist auch Regel 1, der Cyberwehr, für die wir ja immer eintreten, nicht wahr, dass man  Totschu-Admins hat, die einfach ganz schnell den Stecker ziehen, und zwar den richtigen, bevor es zu spät ist.
+ Genau, aber besser wäre es natürlich, wenn sowas gar nicht erst gemacht werden müsste,  zum Beispiel, weil die Software entsprechend up-to-date ist.
+ Genau, dass man beispielsweise auch irgendwie Angriffe im Zweifel auch so wegkapseln kann,  wo die betroffenen Systeme abschalten muss, gegebenenfalls, das wäre natürlich ein bisschen besser,  als dass man irgendwie mit dem großen Holzhammer da System abschalten muss, wo dann entsprechend auch  behördliche und kritische Prozesse vielleicht auch drauf mitlaufen.
+ Es ist tragisch, es gibt diverse Podcasts aus dem Umfeld des Chaos-Computer-Clubs,  die sich mit der Digitalisierung der öffentlichen Verwaltung und den diversen Fuck-Ups dazu beschäftigen.
+ Ich verweise an dieser Stelle auf die diversen Werke unserer geschätzten Kollegin Lendit Wittmann.
  Die Suchmaschine des geringsten Misstrauens wird euch weiterhelfen.
- Es ist ein Kaninchenbau, also wenn man da reinguckt,  dann wird einem ganz anders, und es wird immer schlimmer,  je mehr man guckt.
- Ja, mit dem Wort Kaninchenbau habe ich ja in den letzten fast drei Jahren  so ein bisschen meine Probleme bekommen leider.
- Okay, ja, ja, immer.
- Suche dir eine andere Metapher aus.
- Ich könnte zu Matrix und rote und blaue Pille rüber wechseln,  aber das ist mir genauso verleidet worden.
- Oder du musst das Problem mit Kaninchenbau, ich habe es sich gecheckt.
- Deep down the rabbit hole, das ist doch irgendwie Alice im Wunderland,  glaube ich.
- Alice im Wunderland, und es gibt ja so ein paar Menschen,  die für sich beanspruchen, dass sie ins rabbit hole gegangen sind  und die Wahrheit gefunden haben.
+ Es ist ein Kaninchenbau, also wenn man da reinguckt, dann wird einem ganz anders,  und es wird immer schlimmer, je mehr man guckt.
+ Ja, mit dem Wort Kaninchenbau habe ich ja in den letzten fast drei Jahren so ein bisschen meine Probleme bekommen, leider.
+ Ja, ja, immer.
+Suche dir eine andere Metapher aus.
+ Ich könnte zu Matrix und rote und blaue Pille rüberwechseln, aber das ist mir genauso verleidet worden.
+ Oder du musst das Problem mit Kaninchenbau?
+Ich habe es sich gecheckt.
+ Deep down the vibatode, das ist doch irgendwie alles im Wunderland, glaube ich.
+ Das ist genau das alles im Wunderland, und es gibt ja so ein paar Menschen,  die für sich beanspruchen, dass sie ins Rebital gegangen sind und die Wahrheit gefunden haben.
  Die Wahrheit.
- Die Wahrheit, die Wahrheit, meistens bei Verschwörungsgläubigen.
- Ach, die haben jetzt, die haben schon Spazierengehende  zeitweise als Verb genommen, jetzt nehmen sie das,  musst du mal aufhören hier.
- Ja, wir haben die Wahrheit gefunden.
- Das geht immer weiter, also ich meine, man denkt an die Abendopfer,  die sowieso an Bord der Sea-Base kommen und irgendwie  falsch rum durch Sea-Gate gehen und dann irgendwie  in einem Realitätsabzweig gelandet sind,  den sie gar nicht hätten betreten wollen und in einen Zeitloch fallen.
- Also, kennen wir ja, und dann können wir hinterher sehen,  wie wir die wieder zum Klarkommen bringen.
+Die Wahrheit.
+Meistens bei Verschwörungsgläubigen dann.
+ Ach, die haben jetzt, die haben schon spazieren gehen in der Zeit, weil sie als Verb genommen sind.
+ Das ist, musst du mal aufhören hier.
+ Ja, ja, wir haben die Wahrheit gefunden.
+ Das geht immer weiter.
+Also ich meine, man denkt an die Abendopfer, die so an Bord der Seabase kommen  und irgendwie falsch rum durch Seagate gehen und dann irgendwie in einem Realitätsabzweig gelandet sind,  den sie gar nicht hätten betreten wollen und in einen Zeitloch fallen.
+ Also kennen wir ja und dann können wir hinterher sehen, wie wir die wieder zum Klarkommen bringen.
  Ach, hör auf.
- Ja, es ist nicht einfach mit diesen virtuellen Realitäten,  künstlichen Minderintelligenzen und anderen seltsamen Dingen,  die diese schöne Computerwelt für uns bereithält.
- Es ist hart, aber hier noch mal was zur Verwaltung,  nur mal so zum Einschieben.
- Ich bin seit gestern wieder Wahlvorsteher und zwar Briefwahlvorsteher  in Berlin, wir haben ja am 12.
+Es ist nicht einfach mit diesen virtuellen Realitäten, künstlichen Minderintelligenzen  und anderen seltsamen Dingen, die diese schöne Computerwelt für uns bereithält.
+ Es ist hart.
+Aber hier noch mal was zur Verwaltung.
+Nur mal so zum Einschieben.
+ Ich bin seit gestern wieder Wahlvorsteher und zwar Briefwahlvorsteher in Berlin.
+ Wir haben ja am 12.
 Februar eine Wiederholungswahl.
- Hey.
- Ja, genau, und alle, die in Berlin wahlberechtigt sind,  nehmen da hoffentlich auch daran teil,  weil eine hohe Wahlbeteiligung wäre schon irgendwie wichtig.
- Und Digitalisierung funktioniert insofern,  als wir einen neuen Landeswahlleiter haben  und der hat auch tatsächlich einen leicht aufzufinden Link  auf der Seite des Landesberlin Berlin.de.
- Briefwahl kann man einfach sich ergoogeln.
- Da kann man tatsächlich mit wenigen Klicks  mit oder ohne Wahlbenachrichtigung  sich seine Briefwahlunterlagen schon mal anfordern.
- Macht das doch gleich mal und schickt die rechtzeitig zurück,  kann ich als Briefwahlvorstand nur sagen.
- Hätten noch mehr Leute Briefwahl gemacht,  wäre uns der Fack ab vom letzten Jahr nämlich erspart geblieben.
- Das Interessante ist übrigens, es gibt da gar nicht  so viele Sicherheitsmaßnahmen im Sinne von Zugang.
- Also im Prinzip jeder, der den vollständigen Namen,  die Adresse und das Geburtsdatum  von einem Wahlberichtigen Berliner kennt,  kann für diesen Wahlunterlagen anfordern.
- Aber ich sage euch gleich,  das Anfordern von Briefwahlunterlagen  für jemand anderes als einen selbst ist illegal.
- Und man kann dabei auch erwischt werden  und das ist dann gar nicht schön.
- Mich haben halt als, so wie soll ich sagen,  statt bekannten Hacker nicht was gefragt haben,  ich hatte Leute gefragt, du sag mal, da kann ja jetzt jeder,  da könnte ich ja auch für mein Nachbarn oder Lehrer,  sind ja immer beliebte Opfer von irgendwelchen  online Bestellvorgängen.
- Ja, also Leute, lasst es bitte sein,  die Chance ist hoch, dass ihr erwischt werdet,  wenn ihr nicht genau wisst, was ihr da tut.
- Und es bringt ohnehin nichts, weil spätestens,  wenn der Herr Lehrer dann im Wahllokal auftaucht  und ihm erklärt wird, wie nee,  sie sind hier im Wahlwählerverzeihnis gestrichen,  weil sie haben doch Briefwahl gemacht,  spätestens dann fällt die Sache auf.
- Also, don't do it.
- Gib Probleme.
- Aber grundsätzlich, wie gesagt,  Leute macht Briefwahl und beantragt gleich mal eure Unterlagen online.
- Das ist alles schön und safe und so so und scharf.
+ Hey!
+ Ja, genau.
+Und alle, die in Berlin Wahlberechtigt sind, nehmen da hoffentlich auch dran teil,  weil eine hohe Wahlbeteiligung wäre schon irgendwie wichtig.
+ Und Digitalisierung funktioniert insoweit, als wir einen neuen Landeswahlleiter haben  und der hat auch tatsächlich einen leicht aufzufinden Link auf der Seite des Landesberlin Berlin.de.
+ Briefwahl kann man einfach sich ja googlen.
+ Da kann man tatsächlich mit wenigen Klicks, mit oder ohne Wahlbeunachrichtigung,  sich seine Briefwahlunterlagen schon mal anfordern.
+ Macht das doch gleich mal und schickt die rechtzeitig zurück, kann ich als Briefwahlvorstand nur sagen.
+ Hätten noch mehr Leute Briefwahl gemacht, wäre uns der F*ck ab vom letzten Jahr nämlich erspart geblieben.
+ Das Interessante ist übrigens, es gibt da gar nicht so viele Sicherheitsmaßnahmen im Sinne von Zugang.
+ Also im Prinzip jeder, der den vollständigen Namen, die Adresse und das Geburtsdatum von einem Wahlberechtigten Berliner kennt,  kann für diesen Wahlunterlagen anfordern.
+ Aber ich sage euch gleich, das Anfordern von Briefwahlunterlagen für jemand anders als einen selbst ist illegal.
+ Und man kann dabei auch erwischt werden und das ist dann gar nichts schön.
+ Mich haben halt als, so wie soll ich sagen, stattbekannten Hacker nicht was gefragt,  haben mich halt Leute gefragt, du sag mal, da kann ja jetzt jeder, da könnte ich ja auch für meinen Nachbarn oder Lehrer,  sind ja immer beliebte Opfer von irgendwelchen online Bestellvorgängen.
+ Also Leute, lasst es bitte sein, die Chance ist hoch, dass ihr erwischt werdet, wenn ihr nicht genau wisst, was ihr da tut.
+ Und es bringt ohnehin nichts, weil spätestens wenn der Herr Lehrer dann im Wahllokal auftaucht und ihm erklärt wird, wie, nee,  Sie sind hier im Wahlwählerverzeihnis gestrichen, weil sie haben doch Briefwahl gemacht, spätestens dann fällt die Sache auf.
+ Also don't do it, gib Probleme.
+ Aber grundsätzlich, wie gesagt, Leute macht Briefwahl und beantragt gleich mal eure Unterlagen online, das ist alles schön und safe und so, so und scharf.
  Und dann hätten wir weniger Probleme.
- Ja, ich hoffe ja nicht, dass diesmal auch  parallel dazu einen Marathon stattfindet.
+ Ja, ich hoffe ja nicht, dass diesmal auch paralleler zu einem Marathon stattfindet.
  Ja, ja, oder sonstige schöne Sachen.
- Oder, na ja, also der Marathon, ja, der auch,  aber in Berlin gab's eigentlich vorrangig zwei Probleme.
- Problem eins, der dümmste anzunehmende Verwaltungsmensch  hat versucht auszurechnen, wie viele Wahlkabinen,  denn wie lange von wie viele Leuten benutzt werden  und hat sich dabei um eine Kommastelle vertan.
- Und Keim ist es aufgefallen und das zweite Punkt war,  so Druckereien und Wahlunterlagen müssen ja immer von den Bieter  mit dem niedrigsten Angebot bestellt werden in diesem Staat.
- Und ja, da ist ein bedauerlicher Fehler in einer Druckerei passiert,  sodass die Kartons mit den Wahlzetteln falsch beschriftet waren.
- Das wusste man auch, hat das aber irgendwie ignoriert  und hat gesagt, na ja, wir können das ja on the fly noch irgendwie lösen.
- Konnte man natürlich nicht.
- Ja, es gibt einen schönen Bericht vom Landeswahlleiter  über die ganzen Fuckups der letzten Wahl und da kann ich sagen,  also die ganzen Wahlhelfer sind unschuldig,  die Briefwahlleute auch und die Schuldigen sind recht klar benannt.
- Es ist ein PDF mit irgendwie 200 Seiten oder so,  ist ganz nice, das mal durchzulesen so.
- Da kann man nur froh sein,  dass unter anderem wir der Chaos Computer Club dafür gesorgt haben,  dass Wahlcomputer in Deutschland verboten sind.
- Wäre das nämlich passiert, hätte niemand mehr nachvollziehen können,  was eigentlich los ist.
- Darum machen wir das alles auf Papier  und darum sagen wir Hecker auch,  dass es auch richtig das Wahlen auf Papier stattfinden  und dass das alles nachvollziehbar und zuguckbar ist.
- Also man kann übrigens auch in so ein Briefwahllokal gehen  und zugucken, ist tatsächlich möglich.
- Und man kann doch, glaube ich auch,  weil du das mit der Briefwahl auch erwähnt hattest vorhin,  dass da irgendwie dann Briefwahlunterlagen  für jemanden angefordert werden.
- Man müsste doch eigentlich auch mit Briefwahlunterlagen noch am Tag der Wahl  dann vor Ort im Wahllokal zur Not auch abwählen können, oder?
- Genau, die Briefwahlunterlagen bestehen ja aus zwei Teilen,  nämlich einmal dem einigen Stimmzettel und den Umschlägen dafür  und dem Wahlbriefumschlag und dem sogenannten Wahlschein.
- Der Wahlschein ist das physische Dokument,  was deine Wahlberechtigung dokumentiert.
- Und wenn du im Wählerverzeichnis gestrichen wurdest,  weil ein Wahlschein ausgestellt wurde,  dann ist dieser Wahlschein das Einzige, was dich befähigt, zu wählen.
- Also wenn du den versuchst, hast du Peche habt  und Wahlscheine werden nicht ersetzt, heißt es so schön.
- Und in der Tat solltest du es also fürchterlich verpeilt haben  und deinen Wahlbrief nicht rechtzeitig zurückgeschickt oder so,  dann kannst du in der Tat, in jedes beliebige Wahllokal,  in dem Wahlkreis, es ist wichtig, in dem Wahlkreis,  in dem du wahlberechtig bist, hingehen, deinen Wahlschein abgeben  und darf dann da wählen, das geht.
- Ja, aber bitte, Leute, don't do it.
- Es gibt auch immer diese Scherzkegse, die so am Wahlsonntag,  Nametag fällt denen dann so ein, sie müssen noch,  oder sie müssen dann noch ihren Wahlbrief irgendwie  beim Bezirkswahlamt abgeben, geht alles.
- Es gibt auch Kuriere, die das dann zum richtigen Briefwahl lokal bringen,  aber hey, Leute, don't do it.
- Also, solche Leute sind die ganz besonderen Freunde  der vielen Wahlhelfer, die sich da am Sonntag für die Demokratie  irgendwie den Feiertag verderben.
- Also, nicht schön.
- Rechtzeitig beantragen, rechtzeitig zurückschicken.
- Die Paranoiden unter euch können auch den Brief selber  im Bezirksrathaus einwerfen.
- Man kann sogar in jedem Bezirksrathaus,  die Liste steht auch auf dieser Briefwahlseite,  direkt hingehen und sozusagen den ganzen Briefprozess  gleich vor Ort beim Amt erledigen vorab  und kann sogar zugucken, wie der Briefwahlumschlag  dann in einer Ohne versenkt wird.
- Also, für diejenigen unter euch, die der Post misstrauen,  das kann man auch noch tun.
- Ja, und Tipp, weil es der am häufigsten vorkommende Fehler ist,  der zu Ungültigkeit von Stimmen führt,  es gibt ja wahlberechtigte Menschen, nicht nur in Berlin,  die sind nicht in der Lage, auch eine noch so schön  bebilderte Anleitung zu befolgen, die immer so dabei liegt  und den richtigen Zettel in den richtigen Umschlag,  in den richtigen Reihenfolge zu stecken.
- Also, bedauerliche Opfer, die irgendwie ihre Stimmzettel  offen zusammen mit ihrem Wahlschein,  wo Name und Adresse draufstehen, in denselben Umschlag tun,  die sind natürlich angeschissen, weil kein Wahlgeheimnis, ne?
- Da kann ich ja sehen, der Cyborg hat das und das gewählt.
- Führt dazu, dass der liebe Briefwahlvorstand leider sagen muss,  Stimme ungültig.
- Ja, also, Doofheit wird bestraft, ne?
-Auch hier.
- Und womit?
+ Oder der Marathon, ja, der auch.
+ Aber in Berlin gab es eigentlich vorrangig zwei Probleme.
+ Problem eins, der dümmste anzunehmende Verwaltungsmensch hat versucht auszurechnen,  wie viele Wahlkabinen denn wie lange von wie vielen Leuten benutzt werden und hat sich dabei um eine Kommastelle vertan.
+ Und Keim ist es aufgefallen und der zweite Punkt war, so Druckereien und Wahlunterlagen müssen ja immer von dem Bieter mit dem niedrigsten Angebot bestellt werden in diesem Staat.
+ Und ja, da ist ein bedauerlicher Fehler in einer Druckerei passiert, so dass die Kartons mit den Wahlzetteln falsch beschriftet waren.
+ Das wusste man auch, hat das aber irgendwie ignoriert und hat gesagt, naja, wir können das ja on the fly noch irgendwie lösen, konnte man natürlich nicht.
+ Ja, es gibt einen schönen Bericht vom Landeswahlleiter über die ganzen Fuckups der letzten Wahl und da kann ich sagen, also die ganzen Wahlhelfer sind unschuldig, die Briefwahlleute auch und die Schuldigen sind recht klar benannt.
+ Es ist ein PDF mit irgendwie 200 Seiten oder so, ist ganz nice das mal durchzulesen so.
+ Da kann man nur froh sein, dass unter anderem wir der Chaos Computer Club dafür gesorgt haben, dass Wahlcomputer in Deutschland verboten sind.
+ Wäre das nämlich passiert, hätte niemand mehr nachvollziehen können, was eigentlich los ist.
+ Darum machen wir das alles auf Papier und darum sagen wir Hecker auch, dass es auch richtig das Wahlen auf Papier stattfinden und dass das alles nachvollziehbar und zugugbeiß.
+ Also man kann übrigens auch in so ein Briefwahl lokal gehen und zugucken, ist tatsächlich möglich.
+ Und man kann doch, glaube ich auch, weil du das mit der Briefwahl auch erwähnt hattest vorhin, dass da irgendwie dann Briefwahlunterlagen für jemanden angefordert werden.
+ Man müsste doch eigentlich auch mit Briefwahlunterlagen noch am Tag der Wahl dann vor Ort im Wahllokal zur Not auch abwählen können.
+ Die Briefwahlunterlagen bestehen ja aus zwei Teilen, nämlich einmal dem einigen Stimmzettel und den Umschlägen dafür und dem Wahlbriefumschlag und dem sogenannten Wahlschein.
+ Der Wahlschein ist das physische Dokument, was deine Wahlberechtigung dokumentiert.
+ Und wenn du im Wählerverzeichnis gestrichen wurdest, weil ein Wahlschein ausgestellt wurde, dann ist dieser Wahlschein das Einzige, was dich befähigt, zu wählen.
+ Also wenn du den versuchst, hast du Peche habt und Wahlscheine werden nicht ersetzt, heißt es so schön.
+ Und in der Tat solltest du es also fürchterlich verpeilt haben und deinen Wahlbrief nicht rechtzeitig zurückgeschickt oder so, dann kannst du in der Tat in jedes beliebige Wahllokal in dem Wahlkreis,  es ist wichtig in dem Wahlkreis, in dem du wahlberechtigt bist, hingehen, deinen Wahlschein abgeben und darf dann da wählen, das geht.
+ Ja, aber bitte, aber bitte Leute, don't do it.
+Es gibt auch immer diese Scherzkeks, die so am Wahlsonntag, Nametag fällt denen dann so ein.
+ Sie müssen dann noch ihren Wahlbrief irgendwie beim Bezirkswahlamt abgeben, geht alles.
+ Es gibt auch Kuriere, die das dann zum richtigen Briefwahl lokal bringen, aber hey Leute, don't do it.
+ Also solche Leute sind die ganz besonderen Freunde der vielen Wahlhelfer, die sich da am Sonntag für die Demokratie irgendwie den Feiertag verderben.
+ Also nicht schön.
+Rechtzeitig beantragen, rechtzeitig zurückschicken, die Paranoiden unter euch können auch den Brief selber im Bezirksraithaus einwerfen.
+ Man kann sogar in jedem Bezirksraithaus, die Liste steht auch auf dieser Briefwahlseite, direkt hingehen und sozusagen den ganzen Briefprozess gleich vor Ort beim Amt erledigen vorab  und kann sogar zugucken, wie der Briefwahlumschlag dann in einer Ohne versenkt wird.
+Also für diejenigen unter euch, die der Post misstrauen, das kann man auch noch tun.
+ Ja.
+Ach ja, und Tipp, weil es der am häufigsten vorkommende Fehler ist, der zu Ungültigkeit von Stimmen führt.
+ Es gibt ja wahlberechtigte Menschen, nicht nur in Berlin, die nicht in der Lage auch eine noch so schön bebilderte Anleitung zu befolgen, die immer so dabei liegt und den richtigen Zettel in den richtigen Umschlag in den richtigen Reihenfolge zu stecken.
+ Also bedauerliche Opfer, die irgendwie ihre Stimmzettel offen zusammen mit ihrem Wahlschein, wo Name und Adresse draufstehen, in denselben Umschlag tun, die sind natürlich angeschissen, weil kein Wahlgeheimnis, da kann ich ja sehen, der Cyborg hat das und das gewählt, führt dazu, dass der liebe Briefwahlvorstand leider sagen muss, Stimme ungültig.
+ Ja, also Doofheit wird bestraft, auch hier.
+Und womit?
 Mit Recht.
- Alles ja nur um das Wahlgeheimnis und die allgemeine,  freie, gleiche Wahl.
- Freie, gleiche und geheime Wahl.
-Genau, das ist es nämlich.
+ Alles ja nur um das Wahlgeheimnis und eher gemeine freie, gleiche Wahl.
+ Freie, gleiche und geheime Wahl, genau das ist es nämlich.
  Zu sichern.
- Genau.
- Und von einem ähnlichen Hintergrund ist ja auch,  das habe ich auch erst diese Woche gelernt,  dass tatsächlich dadurch, dass es nur eine Wahlwiederholung ist,  tatsächlich alle Wahllisten und so, die es halt zu der Wahl gab,  dass die unverändert verwendet werden.
- Das heißt, die Parteien haben jetzt keine neuen Wahllisten dafür  aufgestellt, sondern so, wie es damals stattgefunden hat.
- Und wenn die Person vielleicht auch gar nicht mehr ...
- Es gibt ein paar Tote.
-Es gibt ein paar Deadman-Warning.
- Ja, die gibt es.
- Ja, das zum einen oder auch, wenn die tatsächlich gar nicht mehr  in der entsprechenden Partei oder ...
- Ja, die haben auch Pechdage, da gab es ...
+Genau.
+ Und von einem ähnlichen Hintergrund ist ja auch, das habe ich auch erst diese Woche gelernt, dass tatsächlich dadurch, dass es nur eine Wahlwiederholung ist, tatsächlich alle Wahllisten und so, die es halt zu der Wahl gab, dass die unverändert verwendet werden.
+ Die Parteien haben jetzt keine neuen Wahllisten dafür aufgestellt, sondern so, wie es damals stattgefunden hat, und wenn die Person vielleicht auch gar nicht mehr...
+ Es gibt ein paar Tote, es gibt ein paar Deadman-Warning, ja, die gibt es.
+ Ja, das zum einen oder auch, wenn die tatsächlich gar nicht mehr in der entsprechenden Partei oder...
+ Ja, die haben auch Pechdaga, da gab es...
  Genau, genau.
- Aber weißt du, wenn in dem Fall die Regierung ist verkackt  und das Parlament im Prinzip auf einer mangelhaften Wahl besteht,  dann ist halt die Stunde des Verfassungsgerichts gekommen.
- Und das Berliner Verfassungsgericht hat jetzt eben entschieden,  wie es gemacht wird.
- Das führt in der Tat dazu, dass ein paar Leute  nach der Wahl noch ein paar Probleme lösen müssen, ja.
+Aber weißt du, wenn in dem Fall die Regierung ist verkackt und das Parlament im Prinzip auf einer mangelhaften Wahl besteht,  dann ist halt die Stunde des Verfassungsgerichts gekommen und das Berliner Verfassungsgericht hat jetzt eben entschieden, wie es gemacht wird.
+ Das viel in der Tat dazu, dass ein paar Leute nach der Wahl noch ein paar Probleme lösen müssen, ja.
  Ja, nein, genau.
- Ich wollte ja auch nur darauf hinweisen, im Sinne von so ...
- Ich hab das halt gelernt und wollte das hier teilen an der Stelle.
- Und das klingt erst mal im ersten Moment irgendwie komisch.
- Aber wenn man sich überlegt, dass es tatsächlich ja eigentlich gut ist  im Sinne von, dass es schützt uns ja letztendlich dann auch davor,  dass man einfach neue Wahlen macht  und dann halt so lange irgendwie abstimmt,  bis irgendwie jemandem das Ergebnis irgendwie passt.
+Ich wollte ja auch nur darauf hinweisen im Sinne von so, ich habe das halt gelernt und wollte das halt hier teilen an der Stelle  und das klingt erst mal im ersten Moment irgendwie komisch, aber wenn man sich überlegt, dass es tatsächlich ja eigentlich gut ist im Sinne von,  dass es schützt uns ja letztendlich dann auch davor, dass man einfach neue Wahlen macht und dann halt solange irgendwie abstimmt,  bis irgendjemand das Ergebnis irgendwie passt.
  Ja, ja.
- Also sagen wir mal so, das ist durchaus von Land zu Land unterschiedlich.
- Die Berliner Landesverfassung hat es nun augenscheinlich  in den Augen des zuständigen Richters so gewollt.
- Also ich hätte auch nichts dagegen gehabt,  wenn das Verfassungsgericht einfach das Abgeordnetenhaus aufgelöst hätte  und erklärt hätte, Neuwahl in 60 Tagen, seht zu,  das wäre als Arschtritt für dieses grandiose Versagen  auch angemessen gewesen.
- Also da habe ich Demokratie, theoretisch und so eigentlich auch kein Problem.
- Nun wird man also das Ganze nochmal wiederholen.
- Und interessant, die Wahlperiode fängt auch nicht neu an zu laufen,  sondern das sind dann also ab jetzt dann eben noch 4,5 Jahre.
- Und ja, in der Tat, es werden auf den Stimmzetteln auch mal Kandidaten stehen,  die zwischenzeitlich verstorben sind.
- Und dann wird eben entsprechend so verfahren, als wären sie,  was ist ich, am Tag nach der Wahl verstorben  und da gibt es da dann Nachrücker, ne?
- Ja, ich bin mal gespannt, aber ich finde es auf jeden Fall gut.
- Dass sowas auch mal Folgen hat und dass nicht jedes totale Verwaltungsversagen  einfach so hingenommen wird, also das finde ich schon in Ordnung.
+Also sagen wir mal so, das ist durchaus von Land zu Land unterschiedlich.
+ Die Berliner Landesverfassung hat es nun augenscheinlich in den Augen des zuständigen Richters so gewollt.
+ Also ich hätte auch nichts dagegen gehabt, wenn das Verfassungsgericht einfach das Abgeordnetenhaus aufgelöst hätte und erklärt hätte,  Neuwahl in 60 Tagen, seht zu, das wäre als Arschstritt für dieses grandiose Versagen auch angemessen gewesen.
+ Also da habe ich Demokratie theoretisch und so eigentlich auch kein Problem.
+ Nun wird man also das Ganze nochmal wiederholen und interessant.
+ Die Wahlperiode fängt auch nicht neu an zu laufen, sondern das sind dann also ab jetzt dann eben noch 4,5 Jahre.
+ Und ja, in der Tat, es werden auf den Stimmzetteln auch mal Kandidaten stehen, die zwischenzeitlich verstorben sind  und dann wird eben entsprechend so verfahren, als wären sie, was ist ich, am Tag nach der Wahl verstorben und da gibt es dann Nachrücker, ne?
+ Ja, ich bin mal gespannt, aber ich finde es auf jeden Fall gut, dass sowas auch mal Folgen hat  und dass nicht jedes totale Verwaltungsversagen einfach so hingenommen wird.
+ Also das finde ich schon in Ordnung.
  Ja, so ist es.
- Also ich bin zu dem ganzen Wahlvorsteher Engagement gekommen,  eben wie gesagt vor vielen, vielen Jahren, als die Hacker einfach mal  Gott sei Dank erfolgreich den Politikern erklärt haben,  warum Wahlcomputer eine scheiß Idee sind.
- Und seitdem engagiere ich mich dafür, dass freie, gleichige Heime  und vor allem nachvollziehbare Wahlen stattfinden.
- Mit allen Fehlern, die es auch dargeben kann,  aber die sind wenigstens nachvollziehbar, ne?
+ Also ich bin zu dem ganzen Wahlvorsteher-Engagement gekommen, eben wie gesagt vor vielen, vielen Jahren,  als die Hacker einfach mal Gott sei Dank erfolgreich den Politikern erklärt haben, warum Wahlcomputer eine scheiß Idee sind.
+ Und seitdem engagiere ich mich dafür, dass freie, gleichige Heime und vor allem nachvollziehbare Wahlen stattfinden.
+ Mit allen Fehlern, die es auch dargeben kann, aber die sind wenigstens nachvollziehbar.
  Wollen mal gucken, wie das weitergeht.
- Also macht schön Briefwahl und ok, meldet euch als Wahlhelfer ist erledigt.
+ Also mach, ja, mach schön Briefwahl und okay, meldet euch als Wahlhelfer ist erledigt.
  Wir haben jetzt genügend, aber auch da, man kann das lernen.
  Ich muss irgendwie am 17.
-Januar oder so zu einer vierstündigen Schulung erscheinen,  obwohl ich das seit Jahren mache, aber Ordnung muss sein.
+Janne oder so zu einer vierstündigen Schulung erscheinen,  obwohl ich das seit Jahren mache, aber Ordnung muss sein.
  So, was haben wir denn hier noch?
- Deshalb, ja, den hatten wir eigentlich schon so gut.
- Ich könnte an dieser Stelle mal noch ein sehr hilfreiches Projekt erwähnen.
- Genau, und zwar den BIP-Bott, der hilft euch nämlich,  dass ihr kostenpflichtige Artikel lesen könnt  mit einem Bibliothekszugang, so wie ihr einen habt oder euch einzulegen wollt.
- Müsst ihr nicht bei allen möglichen Zeitungen  einen Monats-Abo oder sowas abschließen,  sondern könnt mit einem Zener pro Jahr beispielsweise in Berlin  könnt ihr dann eine ganze Reihe von kostenpflichtigen Artikeln euch so anschauen,  und zwar relativ bequem.
- Ich sehe gerade, es gibt sogar einen Plug-in für Firefox.
- Das könnt ich ja gleich mal probieren.
- Genau, für alle möglichen Browser gibt es einen Plug-in.
- Da muss man sich dann teilweise dann noch mal im Hintergrund öffnet,  sich dann tapft, wo man sich dann mit seinen Zugangsdaten  von der Bibliothek dann noch mal anmelden muss  und dann versucht er in den Datenbanken,  den passenden Artikel zu, diesen Bezahlartikel zu finden.
- Also das ist tatsächlich eine ganz schöne, ganz schöne Möglichkeit.
- Ja, ist ganz nett.
-Genau.
- So, ich bin ja tatsächlich auch stolzer Besitzer eines Berlin der Bibliotheks  Ausweises, von daher kann ich das theoretisch und praktisch auch tun, wenn ich möchte.
- Genau.
-Und zum Beispiel, einer der Artikel, die wir jetzt hier zur Vorbereitung hatten,  für zum Beispiel das Potsdamer IT Chaos, konnte ich damit zum Beispiel  die Bibliotheks dadurch lesen.
-Also insofern, das hat funktioniert.
+ Deshalb, ja, den hatten wir eigentlich schon.
+ Gut, ich könnte an dieser Stelle mal noch ein sehr hilfreiches Projekt erwähnen.
+ Und zwar den BIP-Bot, der hilft euch nämlich, dass ihr kostenpflichtige Artikel lesen könnt,  mit einem Bibliothekszugang, so wie ihr einen habt oder euch einen zulegen wollt.
+ Dann müsst ihr nicht bei allen möglichen Zeitungen einen Monats-Abo oder sowas abschließen,  sondern könnt mit einem Zehner pro Jahr beispielsweise in Berlin,  könnt ihr dann eine ganze Reihe von kostenpflichtigen Artikeln euch so anschauen,  und zwar relativ bequem.
+ Ah, ich sehe gerade, es gibt sogar einen Plug-in für Firefox, das kann ich ja gleich mal probieren.
+ Genau, für alle möglichen Browser gibt es da einen Plug-in,  da muss man sich dann teilweise dann nochmal im Hintergrund öffnet,  sich dann tapf, wo man sich dann mit seinen Zugangsdaten der Bibliothek dann nochmal anmelden muss  und dann versucht der in den Datenbanken den passenden Artikel zu, diesen Bezahlartikel zu finden.
+ Also das ist tatsächlich eine ganz schöne Möglichkeit.
+ Ja, ist ganz nett, genau.
+ So, ich bin ja tatsächlich auch stolzer Besitzer eines Berliner Bibliotheksausweises,  von daher kann ich das theoretisch und praktisch auch tun, wenn ich möchte.
+ Genau, und zum Beispiel einer der Artikel, die wir jetzt hier zur Vorbereitung hatten  für zum Beispiel das Potsdamer IT Chaos, konnte ich damit zum Beispiel im Volltext dadurch lesen.
+ Also insofern, das hat funktioniert.
  Ja, das ist eine gute Sache.
- Genau.
-Insofern, das war noch ein kurzer Technik,  Hinweis, Technik-Tipp und auch zum Kostensparen für euch an der Stelle.
+ Genau, und insofern, das war noch ein kurzer Hinweis, Technik-Tipp und auch zum Kostensparen für euch an der Stelle.
  Und genau, ja, ich denke, wir sind dann auch schon wieder am Ende unserer Sendung angelangt.
  Ich fürchte, ne?
 Ja, es geht immer so unheimlich schnell.
- Das ist es richtig, genau.
+ Das ist richtig, genau.
  Und deswegen, ja, das war das Chaos im Radio für Januar 2023.
  Genau.
-Ihr hört uns wieder am nächsten  zweiten Montag im Monat zwischen 21 und 22 Uhr auf 90,7 Megahertz und in Berlin auf 88,4.
- Und ansonsten wird diese und andere Folgen auch wieder auf radio.ccc-p.org geben.
- Oder ihr schreibt uns nette Dinge auf @chaospotsdam auf Twitter oder  @cccp@chaos.social auf Mastodon.
- Oder wir freuen uns auch über Mails unter radio@ccc-p.org.
- In diesem Sinne, Jean Ajuvo, vielen Dank euch.
- Vielen Dank.
-Bis bald.
-Tschüss.
+ Ihr hört uns wieder am nächsten zweiten Montag im Monat zwischen 21 und 22 Uhr auf 90,7 MHz und in Berlin auf 88,4.
+ Ansonsten wird diese und andere Folgen auch wieder auf radio.ccc-p.org geben.
+ Oder ihr schreibt uns nette Dinge auf @chaospotsdam auf Twitter oder @cccp@chaos.social auf Mastodon.
+ Oder wir freuen uns auch über mehr jetzt unter radio@ccc-p.org.
+ In diesem Sinne, Jean Ayubot, vielen Dank euch.
+ Ja, vielen Dank.
+ Bis bald.
+ Tschüss.
+ Tschüss.

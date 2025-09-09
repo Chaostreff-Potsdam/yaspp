@@ -1,328 +1,329 @@
- Knobs bitte rausschneiden.
+ Knurps bitte rausschneiden.
 Herzlich willkommen zur Februarfolge von Chaos im Radio.
-Heute  mit dabei sind der Hannes.
+Heute mit  dabei sind der Hannes.
 Hallo.
 Und der Cyroxx.
 Guten Morgen.
-Und ich, die Ginny.
-Hallo Ginny.
- Hallo Ginny.
-Und Knobs ist leider krank.
-Knobs ist krank.
+Und ich, die Gini.
+Hallo Gini.
+ Hallo Gini.
+Und Knurps ist leider krank.
+Ja, Knurps ist krank.
 Grüße an das Krankenbett.
-Grüße  genau.
+ Grüße, genau.
 Mit bald gesund.
 Aber er kann auch unsere Folge schneiden.
-Genau, so weit reicht es noch.
- Ja, es ist Februar.
+Genau, so weit  es noch.
+Ja, es ist Februar.
 Winter.
 Kalt.
 Wobei es geht, wird besser, oder?
-Es war schon kalt, aber es wird  besser.
+Es war schon kalt,  aber es wird besser.
 Und die Tage werden wieder länger.
-Also, ab jetzt wird es genau die Tage werden länger.
-Ja,  das merke ich aber auch total, wie die Tage länger werden.
-Ich fahre letztens so, oh, halb sechs,  es ist noch Lichter.
+Also, ab jetzt wird es genau die Tage werden  länger.
+Oh, ja, das merke ich aber auch total, wie die Tage länger werden.
+Ich war letztens so,  oh, halb sechs.
+Es ist noch Licht da.
 Krass.
 Also ein bisschen.
-Ja, und auch am anderen Ende des Tages, was für mich  entscheidend ist, ich darf jetzt wieder morgens bei Helligkeit zur Schule fahren.
-Das ist ein großer  Komfortgewinn wieder.
+Ja, und auch am anderen Ende des  Tages, was für mich entscheidend ist, ich darf jetzt wieder morgens bei Helligkeit zur Schule  fahren.
+Das ist ein großer Komfortgewinn wieder.
 Ich hasse es im dunkeln Fahrrad zu fahren.
-Ist ja auch gefährlich.
+Ist  die auch gefährlich?
 Eben.
-So,  was gab es?
+So, was gab es?
 Was ist los bei euch?
 Passiert was?
-Ich war letztes Mal nicht da, wie war letztes Mal?
- Ajuvo war dabei.
-Ja, es ist irgendwie gefühlt schon wieder so lange hier.
-Geht mir auch so,  ich habe keine Erinnerungen an die Folge.
-Wir haben auch heute gar nicht so viel vor.
-Wir  wollen auch den Knobchen ein bisschen entlasten.
+Ich war letztes  mal nicht da.
+Wir waren letztes Mal.
+Ah, Jovo war dabei.
+Ja, es ist irgendwie gefühlt schon wieder  so lange hier.
+Es geht mir auch so.
+Ich habe keine Erinnerung an die Folge.
+Wir haben auch heute  gar nicht so viel vor.
+Wir wollen auch den Knurps ein bisschen entlasten.
 Genau.
-Und wir können das ja schon mal antiesern,  dass ihr heute mehr Musik hören werdet, als sonst.
-Und natürlich wie immer nur unter freien  Lizenzen bleiben uns drohen.
-Wir holen quasi so ein bisschen das nach, was wir in manchen Folgen  vielleicht so ein bisschen versäumt haben, wo die eher redelastig waren.
-Holen wir jetzt quasi  so ein bisschen auf, indem wir ein bisschen mehr Musik spielen wollen heute.
+Und wir können  das ja schon mal antiesern, dass ihr heute mehr Musik hören werdet als sonst.
+Und natürlich wie  immer nur unter freien Lizenzen bleiben uns drohen.
+Wir holen quasi so ein bisschen dessen nach,  was wir in manchen Folgen vielleicht so ein bisschen versäumt haben.
+Da wo die eher redelastig  waren, holen wir jetzt quasi so ein bisschen auf, indem wir ein bisschen mehr Musik spielen wollen  heute.
 Ja.
+Genau, es gibt mehr Musik heute.
+Vielleicht entdeckt ihr noch aus einem oder  anderen Stück aus dem Freien Musikarchip, was euch gut gefällt.
 Genau.
-Es gibt  mehr Musik heute.
-Vielleicht entdeckt ihr noch das eine oder andere Stück aus dem freien Musikarchie,  was euch gut gefällt.
-Genau.
-Aber ich hatte trotzdem, wir haben vorhin mal kurz das angeteasert hier  vorher, dass wir vielleicht über Home Automatisierung reden wollen.
-Und weil das so das Thema ist,  was mich neben meinem Job gerade am meisten beschäftigt.
-Ich habe mich ja hier irgendwie  zu Hause eingeigelt.
-Ich hätte ein paar Sachen dazu, die ich erzählen könnte, wenn ihr Lust habt,  euch mit meinem Heim Setup zu auseinanderzusetzen.
-Es ist schön hackermäßig.
-Ja, also ich glaube,  wir können da alle so ein paar verschiedene Sichtweisen drauf liefern, dazu geben.
-Worum?
- Da fangen du doch mal an, dass ich nicht immer anfange.
-Ich rede eh viel.
-Du warst ja beim  letzten Mal gar nicht da, also hast du beim letzten Mal auch gar nicht mit irgendwas anfangen  können.
-Aber gut, ich übernehme das gerne.
-Tatsächlich, ich habe, also ich habe so  Heim Automatisierung kann man das nicht nennen.
-Ich habe so eine Home Assistant Installation hier  bei mir zu Hause, die verschiedenste Sensoren erstmal hat.
-Wo hast du den, wo hast du den  Diploid, den Home Assistant?
+Aber ich hatte trotzdem,  wir haben vorhin mal kurz das Angeteasert hier vorher, dass wir vielleicht über Home Automatisierung  reden wollen.
+Und weil das so das Thema ist, was mich neben meinem Job gerade am meisten beschäftigt.
+ Ich habe mich ja hier irgendwie zu Hause eingeigelt.
+Ich hätte da ein paar Sachen dazu, die ich erzählen  könnte, wenn ihr Lust habt, euch mit meinem Heim Setup zu auseinanderzusetzen.
+Es ist schön  hacker, hackermäßig.
+Ja, also ich glaube, wir können da alle so ein paar verschiedene Sichtweisen  drauf liefern.
+Dazu geben, so rum.
+Da fangen du doch mal an.
+Ich red eh viel.
+Du warst ja beim  letzten mal gar nicht da.
+Also hast du beim letzten mal auch gar nicht mit irgendwas anfangen können.
+ Aber gut, ich übernehme das gerne.
+Tatsächlich, ich habe, also ich habe so Heim Automatisierung,  kann man das nicht nennen.
+Ich habe so eine Home Assistant Installation hier bei mir zu Hause.
+ Die verschiedenste Sensoren erstmal hat so.
+Wo hast du den, wo hast du den Diploid,  den Home Assistant.
 Natürlich bei mir zu Hause, wie sich das gehört.
-Nee, auf  einem Raspberry oder?
-Auf einem Raspberry.
-Ich habe, ich war in der glücklichen Lage,  dass ich...
-Auf einem Raspberry Pi, ich wusste ewig nicht, was das mal heißen sollte übrigens.
- Ach so, ja genau, genau.
-Sehr gut, ja, genau.
-Also so Raspberry Pi, so ein kleiner Mini-Rechner  wird immer gerne genommen.
-Mittlerweile sind die ja gerade aufgrund von so Schwierigkeiten,  in der Lieferkette sind die teilweise, gerade die neueren Modelle, schwer lieferbar und auch  teurer als das, was man mal dafür gezahlt hat.
-Aber...
-Das ist ja gar kein Ausdruck.
-Das ist sehr taurig.
- Ich wollte jetzt auch mal gern welche haben.
-Ich wollte mich auch mit Home Automatisierung...
- Ha, nein, Haus Automatisierung.
-Heim Automatisierung?
-Ja, Haus Automatisierung, ja.
-Heim Automatisierung.
- Anfangen und dann weiß ich so, ja okay, Raspberry Pi macht Sinn und dann so uff, teuer, oh je.
-Dann  habe ich aufgehört.
-Dann habe ich gar nicht mehr weitergemacht zu demen.
-Das ist schon  Monat her, ich habe nicht mehr weitergegeben.
-Aber es gibt ja auch andere Einplatien-Rechner,  die man genauso gut verwenden kann.
-Dann erzähl mir mal drüber.
-Da bin ich sehr gespannt,  das zu hören.
-Aber kannst du es mir bei deiner Zeit auch weiterreden?
-Ich habe jetzt keine  Erfahrungsberichte für andere Platinen, aber es gibt auf jeden Fall andere Einplatien-Rechner,  weil am Ende läuft auf denen ja meistens dann doch irgendwie nur irgendeine Art von Linux und gut  ist.
-Da braucht man nicht unbedingt nur einen Raspberry Pi dafür.
-Es hat nur so...
-Es hat so ein  Ding, dass alle Nutzen es hat irgendwie und die Software-Unterschützung ist dafür ganz  gut.
-Aber es ist nicht unbedingt zwingend notwendig, wenn nicht das jetzt unbedingt ein Raspberry Pi sein muss.
- Es ist auch nicht unbedingt am besten dafür geeignet.
-Ich finde gerade der Neuere, der verbraucht  schon vergleichsweise viel Strom der Führer im Vergleich zu den Vorgänger-Versionen und vielleicht  brauchste gar nicht so viel.
-Also der Home Assistant ist ja mittlerweile auch relativ dick.
-Der mag  das schon, dass er mehr hat, vor allem wenn du...
-Ich weiß nicht, hast du den dann auch mit dem ganzen  Docker Setup und so laufen?
-Ja, ja.
-Vermutlich.
-Genau.
-Also da gibt es auch wieder, da kann man in  verschiedenen Varianten laufen lassen.
-Und ich habe das quasi als eine Art Distribution,  wo dann irgendwie Docker intern mit verwendet wird.
-Genau, das so läuft das bei mir.
-Ja,  vielleicht sollte man am Anfang noch ein bisschen sagen Home Assistant ist halt so eine Software  von auch wieder mehreren, die man da so nutzen kann, also der Zoo von "Ich möchte Dinge in  meiner Wohnung oder in meinem Haus irgendwie machen und automatisieren" oder vielleicht auch  manchmal einfach nur überhaupt erstmal so bunte Grafiken, bunte Grafen sehen.
-Das ist ja auch  manchmal schon für manche interessant genug.
-Da gibt es unterschiedliche Lösungen und Home  Assistant ist halt auch eine von mehreren Möglichkeiten das halt zu tun.
-Genau, ja, habe  ich mir halt jetzt installiert hier auf so einem Raspberry Pi und sobald man den halt mit dem lokalen  Netzwerk verbindet, kann der gleich mal, kann der gleich mal so verschiedenste Sensoren und Geräte  beispielsweise finden, die er halt so entdeckt.
-Sei es irgendwie Fernseher, sei es irgendwie gut  Geräte, dann wenn man den für die Fritzbox zum Beispiel berechtigt, also man kann dann ein  bisschen schauen, was hat man so für Geräte zu Hause und was zeigt der Home Assistant einem  dann gleich an.
-Übrigens, ich habe ein Gerät bei dir gefunden, möchtest du das noch irgendwie  fertig konfigurieren, das funktioniert schon ganz gut und manchmal muss man aber auch ein bisschen  mehr Sachen konfigurieren.
-Wie zum Beispiel, wenn du halt wissen willst, hey ich möchte gerne so ein  Billschen schauen, welche Geräte sind irgendwie gerade in dem WLAN oder in dem lokalen Netzwerk  anwesend, dann musst du dem halt Berechtigung geben, zum Beispiel bei einer Fritzbox, damit du da  ein paar mehr Sachen sehen kannst.
-Und wenn du das aber gemacht hast, kannst du dann so Sachen tun  wie hey, kannst du Dinge steuern anhand dessen, ob du in Vertretung durch eins deiner Geräte gerade  anwesend bist oder halt eben nicht.
-Was dann quasi so eine abgeleitete Metrik ist dann so du bis  dann zu Hause oder halt eben nicht und kannst dann zum Beispiel die Heizungssteuerung oder die Alarmanlagensteuerung  davon zum Beispiel abhängig machen.
-Also das sind ja dann schon mal ein paar erste Sachen, die man  da so tun kann.
-Oder einfach nur irgendwohin eine Nachricht schicken, eine Benachrichtigung.
- Übrigens XY hat gerade die Wohnung betreten oder hat gerade die Wohnung verlassen, wenn das für  Menschen wichtig ist.
-Genau und so für was ich ganz spannend fand, dass das für alle anderen  Dinge, also so mit den kleinen ESPs, macht man ja auch häufig viel zu home Automatisierungprojekte,  wenn man sich selber was bastelt.
-Und die eine der Firmwares, die man sich da drauf spielen kann,  mit der ich relativ viel rum spiele, ist TASMOTA.
-Das ist einfach nur so ein Stück Software mit einem  Webinterface, wo man dann einstellen kann, okay auf dem Pin kommt jetzt bitte das Signal raus und  hier will ich eine LED dran haben und hier ist ein Temperatursensor oder so.
-Also da geht es jetzt  wirklich um den kleinen Chip, der dann, wenn man so ein ESP nimmt, halt WLAN hat und wenn man  TASMOTA drauf spielt, dann macht er sich auch gleich beim Home Assistant bekannt und sagt halt hier  übrigens lieber Home Assistant, ich habe hier ein Temperatursensor für dich oder ein LED Streifen.
- Ja cool, ja das funktioniert ja meistens über so offene Standards, so wie MDNS zum Beispiel.
- Ja ist das bei, bei dem Home Assistant so, ist das MDNS ja.
-Was ist MDNS.
-Es hat unterschiedliche  Namen, einer davon ist MDNS, woher kommt das ja glaube ich von Apple und heißt doch da wie Moment.
+Ich war in der glücklichen  Lage.
+Auf einen Raspberry Pi.
+Ich wusste ewig nicht, was das mal heißen sollte übrigens.
+Ach so,  ja genau, genau, sehr gut.
+Also Raspberry Pi, so ein kleiner Mini-Rechner wird immer gerne genommen.
+ Mittlerweile sind die ja gerade aufgrund von so Schwierigkeiten in der Lieferkette sind die  teilweise gerade die neueren Modelle schwer lieferbar und auch teurer als das, was man mal dafür  gezahlt hat.
+Aber das ist ja gar keine Ausprüfung.
+Ich wollte es auch mal gerne welche haben.
+Ich  würde mich auch mit Home Automatisierung Heim Automatisierung anfangen und dann weiß so  ja okay Raspberry Pi macht sehen und dann so uff teuer.
+Dann habe ich aufgehört.
+Dann habe ich  gar nicht mehr weiter gemacht.
+Aber es gibt ja auch andere Einplatz-Rechner, die man genauso gut  verwenden kann.
+Dann erzählen wir drüber.
+Da bin ich sehr gespannt, dass du hörst.
+Aber kannst  du es mir über den Zettel?
+Ich habe jetzt keine Erfahrungen für andere Platinen, aber es gibt  auf jeden Fall andere Einplatin-Rechner, weil am Ende läuft auf denen ja meistens dann doch  irgendwie nur irgendeine Art von Linux und gut ist.
+Da braucht man nicht unbedingt nur ein Raspberry Pi  dafür.
+Es hat nur so, es hat so ein Ding, dass alle nutzen es halt irgendwie und die Software  Unterstützung ist dafür ganz gut.
+Aber es ist nicht unbedingt zwingend notwendig, dass jetzt  unbedingt ein Raspberry Pi sein muss.
+Es ist auch nicht unbedingt am besten dafür geeignet.
+Ich  finde gerade der Neure, der verbraucht schon vergleichsweise viel Strom der Fira im Vergleich  zu den Vorgänger-Versionen und vielleicht brauchst du gar nicht so viel.
+Also der Home Assistant ist  ja mittlerweile auch ein relativ dick.
+Der mag das schon, dass er mehr hat.
+Vor allem wenn du,  ich weiß nicht, hast du den dann auch mit dem ganzen Docker-Setup und so laufen vermutlich?
+ Genau.
+Also da gibt es auch wieder, da kann man in verschiedenen Varianten laufen lassen.
+Und ich  habe das quasi als eine Art Distribution, wo dann irgendwie Docker intern mit verwendet wird.
+Genau,  das so läuft das bei mir.
+Ja, vielleicht sollte man am Anfang noch ein bisschen sagen Home Assistant  ist halt so eine Software von auch wieder mehreren, die man da so nutzen kann.
+Also der Zoo von "Ich  möchte Dinge in meiner Wohnung oder in meinem Haus irgendwie machen und automatisieren" oder  vielleicht auch manchmal einfach nur überhaupt erst mal so bunte Grafiken, bunte Grafen sehen.
+ Das ist ja auch manchmal schon für manche interessant genug.
+Da gibt es unterschiedliche  Lösungen und Home Assistant ist halt auch eine von mehreren Möglichkeiten, das halt zu tun.
+ Ja, genau.
+Ja, habe ich mir halt jetzt installiert hier auf so einem Raspberry Pi und sobald man  den halt mit dem lokalen Netzwerk verbindet, kann der gleich mal so verschiedenste Sensoren  und Geräte beispielsweise finden, die er halt so entdeckt, sei es irgendwie Fernseher, sei es  irgendwie ja gut Geräte, dann wenn man den für die Fritzbox zum Beispiel berechtigt,  also man kann dann ein bisschen schauen, was hat man so für Geräte zu Hause und was zeigt  der Home Assistant einem dann gleich an.
+Übrigens, ich habe ein Gerät bei dir gefunden, möchtest du  das noch irgendwie fertig konfigurieren?
+Das funktioniert schon ganz gut und manchmal muss  man aber auch ein bisschen mehr Sachen konfigurieren.
+Wie zum Beispiel, wenn du halt wissen willst,  ich möchte gerne so ein bisschen schauen, welche Geräte sind irgendwie gerade in dem WLAN oder  in dem lokalen Netzwerk anwesend, dann musst du dem halt Berechtigung geben, zum Beispiel bei  einer Fritzbox, damit du da ein paar mehr Sachen halt sehen kannst.
+Und wenn du das aber gemacht  hast, kannst du dann so Sachen tun wie, hey, du kannst Dinge steuern anhand dessen, ob du in  Vertretung durch eines deiner Geräte gerade anwesend bist oder halt eben nicht, was dann quasi  so ein abgeleitete Metrik ist dann so du bis dann zu Hause oder halt eben nicht und kannst dann  zum Beispiel die Heizungssteuerung oder die Alarmanlagensteuerung davon zum Beispiel abhängig  machen.
+Also das sind ja dann schon mal ein paar erste Sachen, die man da so tun kann oder einfach  nur irgendwohin eine Nachricht schicken, eine Benachrichtigung.
+Übrigens, XY hat gerade die  Wohnung betreten oder hat gerade die Wohnung verlassen, wenn das für Menschen wichtig ist.
+ Genau und so für was ich ganz spannend fand, ist das für alle anderen Dinger, also so mit  den kleinen ESPs, macht man ja auch häufig viel zu Home-Automatisierungprojekte,  wenn man sich selber was bastelt.
+Und die eine der Firmwares, die man sich da drauf spielen kann,  mit der ich relativ viel rumspiele, ist TAS-Motor.
+Das ist einfach nur so ein Stück Software mit  einem Web-Interface, wo man dann einstellen kann, okay auf dem Pin kommt jetzt bitte das Signal  raus und hier will ich eine LED dran haben und hier ist ein Temperatur-Sensor oder so.
+Also da  geht es jetzt wirklich um den kleinen Chip, der dann, wenn man so ein ESP nimmt, halt WLAN hat.
+ Und wenn man TAS-Motor drauf spielt, dann macht er sich auch gleich beim Home Assistant bekannt und  sagt halt hier übrigens lieber Home Assistant, ich habe hier einen Temperatur-Sensor für dich oder  ein LED-Streifen.
+Ja cool, ja das funktioniert ja meistens über so offene Standards, wie MDNS  zum Beispiel.
+Ist das bei, beim Home Assistant so, ist das MDNS ja.
+Was ist MDNS?
+Das hat unterschiedliche  Namen, einer davon ist MDNS, woher kommt das ja glaube ich von Apple und heißt doch da wie Moment.
  Das Bonjour.
 Ja genau, Bonjour.
-Das sind alles so Discovery-Protokolle glaube ich,  kann man grob zusammenfassen, also dass, dass du irgendwie deine Geräte können irgendwo  hin an definierten Punkte schreien, ich bin ein Gerät und ich habe diese Eigenschaften und andere  und ein Stück Software kann halt sagen, ah gut, damit kann ich was anfangen.
-Also quasi wie  den ist im Internet nur im lokalen Netzwerk.
+Ja.
+Das sind alles so Discovery-Protokolle,  glaube ich, kann man grob zusammenfassen, also dass du irgendwie deine Geräte können irgendwo  hin an definiertem Punkt schreien, ich bin ein Gerät und ich habe diese Eigenschaften und  andere und ein Stück Software kann halt sagen, ah gut, damit kann ich was anfangen.
+Also quasi wie  den ist im Internet noch im lokalen Netzwerk?
 Ja, ja.
-Lass mal das finden kann, was man finden,  vielleicht oder was anderes.
-Ich glaube das Wichtige ist halt du brauchst, das ist halt so ein, wie sagt  man Zero-Config sagt man glaube ich, also du musst nicht, die gehen nicht davon aus, dass du  irgendeine IP-Adresse anschreiben musst oder so, es ist halt wirklich so, du meldest das Ding in deinem  Netzwerk an und dann macht sich das irgendwie bekannt.
-Also das weiß ich nicht, ob das dann  Broadcasting benutzt oder, also wie das technische und runter funktioniert, weiß ich nicht.
-Aber das  Wichtige ist halt du machst es an und es wird gefunden, ohne dass du da jetzt irgendwie das MDNS  steht für Multicast.
-Also es gibt dann halt gewisse, anhand dieser, anhand dieses Standards oder  dieser Spezifikation gibt es dann halt eben Möglichkeiten zu sagen, übrigens ich kann jetzt auf  diese Adresse irgendwie Dinge anpreisen, wer ich bin und was ich so kann nach einem bestimmten  Format und das erleichtert halt die Aufwendbarkeit und möglich dann eben tatsächlich so schöne  Sachen wie Hey und mein Home Assistant kann dann einfach schon wissen, ah da gibt es ein Gerät und  das ist dann vielleicht eben eine Temperatur und Luftfeuchte sind.
-So möchtest du den anbinden,  zum Beispiel.
-Das klingt mega cool.
-Das macht dann halt die ganze Konfiguration halt erleichtert  das halt ein bisschen.
+Also ich denke das Wichtige ist halt du  brauchst, das ist halt so ein, wie sagt man, Zero-Config sagt man, glaube ich, also du musst  nicht, die gehen nicht davon aus, dass du irgendeine IP-Adresse anschreiben musst oder so,  das ist halt wirklich so, du meldest das Ding in deinem Netzwerk an und dann macht sich das  irgendwie bekannt.
+Also das weiß ich nicht, ob das dann Broadcasting benutzt oder also wie  das technische und runter funktioniert, weiß ich nicht.
+Aber das Wichtige ist halt, du machst es an  und es wird gefunden, ohne dass du da jetzt irgendwie das MDNS steht für Multicast.
+Es gibt  dann halt gewisse, anhand dieser, anhand dieses Standards oder dieser Spezifikationen gibt es  dann halt eben Möglichkeiten zu sagen.
+Übrigens, ich kann jetzt auf diese Adresse irgendwie Dinge  anpreisen, wer ich bin und was ich so kann nach einem bestimmten Format und das erleichtert  halt die Aufwindbarkeit und möglich dann eben tatsächlich so schöne Sachen wie "Hey und mein  Home Assistant" kann dann einfach schon wissen, ah, da gibt es ein Gerät und das ist dann vielleicht  eben eine Temperatur und Luftfeuchte-Sensor möchtest du den anbinden, zum Beispiel.
+Also das  stinkt mega cool.
+Ja, das macht dann halt die ganze Konfiguration halt erleichtert das halt ein  bisschen.
 Ja, das ist schon funktioniert ganz gut.
-Nichtsdestotrotz, also ich weiß nicht,  Hannes, wie es bei dir so ist, aber ich habe also die wenigen Erfahrungen, die ich jetzt selber  damit hatte, wie gesagt, ich mache eigentlich hier ein bisschen keinen, keine Automatisierung so  wirklich, sondern mir so ein, ich habe hier Dinge, die das grundsätzlich können, denn habe mir jetzt  aber noch nicht irgendwie Zeit genommen, ernsthaft mal darüber nachzudenken, was für sinnvolle  Dinge man da jetzt tatsächlich mit tun könnte oder beziehungsweise auch nicht, also ich habe zwar  vielleicht auch so semi-intelligente Heizungsthermos Tarte, die mit meiner Fritzbox per Deck  sprechen können und die Deck unterstützt das von...
-Quatsch, die Fritzbox unterstützt das  von Haus aus, mit den Geräten reden zu können und den auch einen Zeitplan zu verpassen von Montag  bis Freitag und dann auch irgendwie eine gewisse Urlaubssteuerung machen zu können, aber spannend  wird es ja dann eigentlich erst, wenn du nicht nur...
-Also wie das halt standardmäßig dann  funktioniert, gerade wenn du die Heizung mal für den Moment nicht laufen lassen willst,  ist du machst einfach, ah, das Fenster auf und das Thermostat stellt fest, oh, es wird schlagartig  kühler, vielleicht sollte ich jetzt mal kurz runterregeln und dann kannst du in der Fritzbox  einstellen, für wie lange sich das Thermostat runterregeln soll, für 15 oder 20 oder 30  Minuten oder plus/minus, wie auch aber.
-Spannend wird es dann halt aber erst, finde ich, wenn du dann  anfängst mit Tür- und Fenster-Sensoren zu arbeiten, dass du halt nicht so per Daumen irgendwie guckst,  okay, wie lange soll das dauern, bis dann die Heizung wieder losgeht, sondern dass du dann  tatsächlich feststellen kannst, das Fenster ist offen.
-Vielleicht sollte ich noch nicht anfangen zu  heizen, weil ich heiz dann für die Umwelt und trage einfach noch zur Klimaerwerbung gerade bei.
- Das ist dann ziemlich ungeil, wenn man halt diese Zeit verpasst.
-Ich kann dir ein paar Beispielregeln  nennen, die ich im Einsatz habe.
-Ich benutze nicht Home Assistant, aber das System ist ja das gleiche,  also immer so Heimat und Notisierung heißt immer du machst dir irgendwelche Regeln.
-Ich habe eine,  also ich habe auch Fritzbox-Geräte, die per Deck miteinander reden aus dem Schalter, der erstaunlich  wenig kann.
-Und dann habe ich noch Tür-Sensoren von Shelly.
-Das ist so eine, ich kann das mal,  die kann ich glaube ich, guten Gewissens empfehlen.
-Das ist so eine Marke, die bauen, ich glaube aus  Polen, nicht mit rechtem Sinne.
-Die ursprünglich, die machen relativ günstige Geräte und die Geräte,  die sie bauen, haben alle offene Standards.
-Also die haben zwar eine Cloud, aber die sprechen alle  erst mal MQTT, was auch so ein Heimat automatisierungsprotokoll ist.
-Das ist ganz, ganz  einfaches Protokoll, womit Nachrichten ausgetauscht werden können, was eigentlich jeder implementiert,  der was mit Heimat automatisierung macht.
-Und man kann halt jegliche Cloud Funktionalität bei  den Dingern komplett abschalten.
-Das heißt, sie brauchen kein Internet und die reden auch nicht  mit daheim und die funktionieren auch noch, wenn bei Shelly mal die Server brauchen.
-Das war mir  also wichtig und ich habe da zwei Dinge.
+Nichtsdestotrotz, also ich weiß nicht Hannes,  wie es bei dir so ist, aber ich hab also die wenigen Erfahrungen, die ich jetzt selber damit hatte,  wie gesagt, ich mach eigentlich hier bislang keine Automatisierung so wirklich,  sondern mir so ein, ich hab hier Dinge, die das grundsätzlich könnten, hab mir jetzt aber  noch nicht irgendwie Zeit genommen, ernsthaft mal drüber nachzudenken, was für sinnvolle  Dinge man da jetzt tatsächlich mit tun könnte oder beziehungsweise auch nicht, also ich hab zwar  vielleicht auch so semi-intelligente Heizungsthermostate, die mit meiner Fritzbox per Deck  sprechen können und die Deck unterstützt das von, Quatsch, die Fritzbox unterstützt das von Haus  aus, mit den Geräten reden zu können und den auch einen Zeitplan zu verpassen von Montag bis  Freitag und dann auch irgendwie eine gewisse Urlaubssteuerung machen zu können.
+Aber spannend  wird es ja dann eigentlich erst, wenn du nicht nur, also wie das halt standardmäßig dann funktioniert,  gerade wenn du die Heizung mal für den Moment nicht laufen lassen willst, ist du machst einfach,  ah, das Fenster auf und das Thermostat stellt fest, oh, es wird schlagartig kühler,  vielleicht sollte ich jetzt mal kurz runterregeln und dann kannst du in der Fritzbox einstellen,  für wie lange sich das Thermostat runterregeln soll, für 15 oder 20 oder 30 Minuten oder plus,  minus, ja, aber spannend wird es dann halt, aber erst finde ich, wenn du dann anfängst,  mit Tür- und Fenstersensoren zu arbeiten, dass du halt nicht so per, per Daumen irgendwie guckst,  okay, wie lang, wie lang soll das dauern, bis dann die Heizung wieder losgeht, sondern dass  du dann tatsächlich feststellen kannst, das Fenster ist offen.
+Vielleicht sollte ich noch  nicht anfangen zu heizen, weil ich heize dann für die Umwelt und trage einfach noch zur  Klimaerwerbung gerade bei.
+Das ist dann ziemlich ungeil, wenn man halt diese Zeit verpasst.
+ Ich kann dir ein paar Beispielregeln nennen, die ich im Einsatz habe.
+Ich benutze nicht Home Assist,  aber das System ist ja das Gleiche.
+Also immer so Heimat und Notisierung heißt immer,  du machst dir irgendwelche Regeln.
+Ich habe eine, also ich habe auch Fritz-Box-Geräte,  die per Deckt miteinander reden.
+Machst einen Schalter, der erstaunlich wenig kann.
+Und dann  habe ich noch Tür-Sensoren von Shelly.
+Das ist so eine, ich kann das mal, die kann ich, glaube ich,  guten Gewissens empfehlen.
+Das ist so eine Marke, die bauen, ich glaube aus Polen,  nicht mit rechtem Sinne.
+Die ursprünglich, die machen relativ günstige Geräte.
+Und die  Geräte, die sie bauen, haben alle offene Standards.
+Also die haben zwar eine Cloud, aber die sprechen  alle erst mal MQTT, was auch so ein Heimat automatisierungsprotokoll ist.
+Das ist ganz,  ganz einfaches Protokoll, womit Nachrichten ausgetauscht werden können, was eigentlich jeder  implementiert, der was mit Heimat automatisierung macht.
+Und man kann halt jegliche Cloud-Funktionalität  bei den Dingern komplett abschalten.
+Das heißt, sie brauchen kein Internet und die reden auch nicht  mit daheim.
+Und die funktionieren auch noch, wenn bei Shelly mal die so wahr brauchen.
+Das war mir  also wichtig.
+Und ich habe da zwei Dinge.
 Also einmal habe ich durch Kind und auch selber blöde  Angewohnheiten.
 Passiert es mir manchmal, dass ich die Tür offen lasse.
 Also die fällt dann zwar zu,  aber die fällt mir ins Schloss.
-Das sieht man also nicht sofort, aber der Türsensor merkt und ich  wohne im Erdgeschoss.
-Das heißt, ich hatte dann häufiger, dass meine Nachbarn bei mir klingeln,  fragen, ob bei mir die Tür offen waren, aufsteilen soll.
-Dann habe ich mich mal gefragt, seit wann  bin ich es letzt mal durchgegangen, keine Ahnung.
-So und ich habe also eine Regel, die sagt, wenn die  Tür über zehn Minuten auf ist, schreibt mir mal eine Nachricht und eine andere Regel ist, wenn die  Fenster offener Erkennung anschlägt an den Fritzbox-Termostaten, dann die Termostate reagieren  ja sofort, aber sie sagen, der Fritzbox erst nach ein paar Minuten bescheid.
-Und in dem Moment  schreibe ich mir auch eine Nachricht und meistens ist das der Moment, an dem ich das Fenster wieder  zu machen sollte, wenn ich halt irgendwie stoßlüfte.
-Und das ist also für mich immer so die Erinnerung,  ja stimmt, ich habe ja vorhin vor drei Minuten ein Fenster aufgemacht im Bad, das sollte ich mal  wieder zu machen.
+Das sieht man also nicht sofort.
+Aber der Tür-Sensor merkt es und ich  wohne im Erdgeschoss.
+Das heißt, ich hatte dann häufiger, dass man Nachbarn bei mir klingeln  und fragen, ob bei mir die Tür offen waren aufsteilen soll.
+Und dann habe ich mich mal gefragt,  seit wann bin ich es letztens mal durchgegangen, keine Ahnung.
+So, und ich habe also eine Regel,  die sagt, wenn die Tür über zehn Minuten auf ist, schreibt mir mal eine Nachricht.
+Und eine andere  Regel ist, wenn die Fenster offene Erkennung anschlägt an den Fritzbocksthermostaten,  dann die Thermostatereagieren ja sofort.
+Aber sie sagen, der Fritzbox erst nach ein paar Minuten  bescheid.
+Und in dem Moment schreibe ich mir auch eine Nachricht.
+Und meistens ist das der Moment,  an dem ich das Fenster wieder zumachen sollte, wenn ich halt irgendwie Stoß lüfte.
+Und das ist  also für mich immer so die Erinnerung.
+Stimmt, ich habe ja vorhin vor drei Minuten ein Fenster  aufgemacht im Bad.
+Das sollte ich mal wieder zumachen.
 Gerade im Winter jetzt sehr schön.
-Und das andere, die andere Regel ist, wenn irgendwo  in der Wohnung unter 16 oder unter 15 Grad werden, schreibe ich mir auch eine Nachricht, das nämlich  meistens auch ein Zeichen dafür, dass irgendwo was schief ist.
+Und  das andere, die andere Regel ist, wenn irgendwo in der Wohnung unter 16 oder unter 15 Grad werden,  schreibe ich mir auch eine Nachricht, das nämlich meistens auch ein Zeichen dafür,  dass irgendwo was schief ist.
 Ja, das wäre auch sehr kalt.
-Also  am Türsensor vorne an der Wohnungstour habe ich es jetzt, wenn längere Zeiten unter 0 Grad sind,  ist die Temperatur da um die 15 Grad.
-Das ist leider so, weil der weit weg ist von allen  Heizungen und die Tür leider zu dünn.
-Aber als ich das letztes Jahr gemessen habe, da war teilweise  13 Uhr, also 13 Grad, das hat der Sensor, hängt halt auch irgendwo unter Kniehöhe.
-Und dann habe  ich gedacht, okay, wahrscheinlich ist hier was mit meiner, wahrscheinlich sollte ich da mal besser  dämmen.
-Und dann habe ich mir halt so Dichtungsgummis besorgt und habe die Tür abgeklebt.
-Und seit  dem habe ich tatsächlich mindestens zwei Grad mehr im Schnitt, nur an diesem Sensor.
-Da habe ich  tatsächlich auch was gelernt.
-Also man kann tatsächlich auch, wenn man sich ein bisschen mit  diesen Daten beschäftigt, kann man was über seine eigene Dinge lernen.
-So, und dann das andere ist,  ich habe mir in meinen Nachttisch einen kleinen ESP eingebaut mit einem Knopf.
-Ich weiß nicht,  ob ihr euch noch daran erinnert, dass ich mal wie blöd Knöpfe gesucht habe im Chaostreff.
- Ganz dunkel kann ich mich daran erinnern.
+Also am Türsensor vorne an der Wohnungstür  habe ich es jetzt, wenn längere Zeiten unter 0 Grad sind, ist die Temperatur da um die 15 Grad.
+ Das ist leider so, weil der weit weg ist von allen Heizungen und die Tür leider zu dünn.
+Aber  als ich das letztes Jahr gemessen habe, da war teilweise 13 Grad, das hat der Sensor hängt  halt auch irgendwo unter Kniehöhe.
+Und dann habe ich gedacht, okay, wahrscheinlich ist hier was mit  meiner, wahrscheinlich sollte ich da mal besser dämmen.
+Und dann habe ich mir halt so Dichtungsgummis  besorgt und habe die Tür abgeklebt.
+Und seitdem habe ich tatsächlich mindestens zwei Grad mehr  im Schnitt, nur an diesem Sensor.
+Da habe ich tatsächlich auch was gelernt.
+Also man kann  tatsächlich auch, wenn man sich ein bisschen mit diesen Daten dann beschäftigt, kann man was  über seine eigene Dinge lernen.
+So und dann das andere ist, ich habe mir in meinen Nachtisch  einen kleinen ESP eingebaut mit einem Knopf.
+Ich weiß nicht, ob ihr euch noch daran erinnert,  dass ich mal wie blöd Knöpfe gesucht habe im Chaos-Treff.
+Ganz dunkel, kann ich mich daran  erinnern.
 Ja, das ist schon sehr lange her.
-Ja, es war irgendwie  Anfang des Winteres.
-Und das war für dieses Projekt.
-Also da ist ein Knopf mit, der hat noch  ein Läppchen drin, aber im Wesentlichen ist nur ein Knopf.
-Wenn ich mich ins Bett lege, drücke ich  diesen Knopf und dann macht er in der ganzen Wohnung die Heizung aus.
-Alle Lichter, die irgendwie  ausschaltbar sind und drei schaltbare Steckdosen habe ich noch.
+Ja, es war irgendwie Anfang des Winteres und das war  für dieses Projekt.
+Also da ist ein Knopf mit, der hat noch ein Lämpchen drin, aber im Wesentlichen  ist es nur ein Knopf.
+Wenn ich mich ins Bett lege, drücke ich diesen Knopf und dann macht er in der  ganzen Wohnung die Heizung aus.
+Alle Lichter, die irgendwie ausschaltbar sind und drei schaltbare  Steckdosen habe ich noch.
 Die werden auch alle ausgemacht.
- Das ist cool.
-Ich brauche das auch.
-Oh mein Gott, machst du ein Workshop?
-Also ja, habe ich vor,  weil ich habe noch dazu und da kann ich jetzt mal auf mein Setup zu sprechen kommen.
-Ich habe auch  den Home Assistant lange benutzt, aber der war die UI.
-Der hat halt irgendwie eine Weboberfläche,  die ging nicht mehr auf meinem iPad Mini 1, weil das halt, da habe ich mich ja schon oft rüber  aufgeregt, weil das halt irgendwie keinerlei Updates mehr bekommt seit vielen Jahren.
-Und der  Home Assistant hat gerade für Temostat und so, hat er so moderne Elemente, die das Ding nicht mehr  verstanden hat.
-Und das war der Punkt für mich, an dem ich gesagt habe, ich mache es jetzt selber.
- Oh!
-Und auch nur ungefähr 250 Stunden später.
-Ich kann es anhand meiner Comments aufgedacht  nachschauen.
-Ich habe sehr viel Lebenszeit damit verschwendet, aber nein, nicht verschwendet,  ich habe sehr viel Lebenszeit verbracht.
+Das ist cool, euch braucht das auch.
+ Oh mein Gott, machst du Workshop?
+Also ja, habe ich vor, weil ich habe noch dazu und da kann ich  jetzt mal auf mein Setup zu sprechen kommen.
+Ich habe auch den Home Assistant lange benutzt,  aber der war die UI, der hat halt irgendwie eine Weboberfläche, die ging nicht mehr auf  meinem iPad Mini 1, weil das halt, da habe ich mich ja schon oft darüber aufgeregt, weil das  halt irgendwie keinerlei Updates mehr bekommt seit vielen Jahren.
+Und der Home Assistant hat  gerade für Temostat und so, hat er so moderne Elemente, die das Ding nicht mehr verstanden hat.
+ Und das war der Punkt für mich, an dem ich gesagt habe, ich mache es jetzt selber.
+Und auch nur  ungefähr 250 Stunden später.
+Ich kann es anhand meiner Commits aufgetan, nachschauen.
+Ich habe  sehr viel Lebenszeit damit verschwendet, aber nicht verschwendet.
 Ich habe sehr viel gelernt.
-Ich habe das genutzt,  um mir Go lang beizubringen, also Go, die Sprache, mit der man auch ganz gut Skripte schreiben kann  und vielleicht so ein bisschen, ich weiß gar nicht, wo ich das einsortieren würde.
-Das ist jetzt  keine Low-Level-Software, aber das Schöne, was Go macht, ist, kannst du dir dann binary rauskompilieren.
- Also das, was man dann einsetzt, da muss man nichts anderes installieren.
-Das ist völlig  unabhängig von anderer Software.
-Das heißt, ich schmeiß dann halt mein 700 Kilobytes.exe.
-Ist  keine Exe auf Linux, aber die schmeiß ich auf den Raspberry und starte die da.
-Das heißt, du  brauchst keine große Installation für Echtzeitjava.
-Also genau, das hat mich beim Home Assistant sehr  gestört.
+ Ich habe das genutzt, um mir Go lang beizubringen, also Go, die Sprache, mit der man auch ganz  gut Skripte schreiben kann und vielleicht so ein bisschen, ich weiß gar nicht, wo ich das  einsortieren würde.
+Das ist jetzt keine Low Level Software, aber das Schöne, was Go macht,  ist, du kannst dir da ein Binary rauskompilieren.
+Also das, was man dann einsetzt, da muss man  nichts anderes installieren.
+Das ist völlig unabhängig von anderer Software.
+Das heißt,  ich schmeiß dann halt mein 700 Kilobyte.exe, das ist keine Exe auf Linux, aber die schmeiß ich  auf den Raspberry und starte die da.
+Das heißt, du brauchst keine große Installation für Echtzeit  Java.
+Also genau, das hat mich beim Home Assistant sehr gestört.
 Ich finde Docker auch super.
-Ich arbeite auch viel mit, aber eigentlich ist mir das zu viel  auf dem Raspberry.
-Ich habe halt auch ein Raspberry 2 im Einsatz.
-Einerseits weil der einfach noch mal  ein Stückchen weniger Strom benutzt und andererseits weil der soll mir eine Webüberfläche anzeigen  und ein paar HTTP Request schicken.
-Also ich sehe das eigentlich nicht ein, dafür ein besseres  Gerät zu benutzen.
-Da war Docker immer schon ein bisschen zu dick für und da läuft halt einfach nur  dieses Go Binary.
-Das war super nett.
-Also das Setup in Go, die Sprache selber, darüber kann  man sich so ein bisschen streiten, aber das Setup ist einfach super, wie Abhängigkeiten  verwaltet werden und wie Versionierung und so weiter funktioniert.
-Das war einfach sehr beeindruckend  für mich.
-Genau, und da läuft also jetzt einfach nur so eine Exe, die ist mittlerweile 8 Megabyte  groß, weil sie noch ein paar Daten banken kann und so weiter.
-Aber ist immer noch relativ klein,  startet schnell.
-Und da habe ich sehr viel nachgebaut von dem, was Sie im Home Assistant machen.
-Alles  mit ganz, mit ganz hässlichen UIs, die aber halt alle HTML Old sprechen.
-Das ist auch das iPad,  das noch benutzt kann.
-Und dann ist halt das iPad Mini eben der Monitor quasi dafür, mit dem ich  das alles steuern kann.
-Und mittlerweile habe ich halt durch diese ESPs und TasMota habe ich schon  gesagt, da habe ich so viele von diesen Dicke in der Wohnung verteilt, die alles mögliche machen  und die hängen da alle irgendwie mit dran.
-Die machst du nur das eigentlich mit der Schrumpfersorgung,  weil ich meine, das eine ist ja okay, es gibt diese kleinen ESP, diese kleinen Platinen,  die halt WLAN und Bluetooth können und wo man auch jede Menge Sensoren irgendwie dran packen kann,  aber einen Punkt, über den ich neulich gestolpert bin, als ich überlegt habe, so einfach auch mal so,  so simple Dinge wie Temperatur, Luftfeuchtigkeit und vielleicht noch irgendwie andere Dinge  daran zu packen, ist halt tatsächlich ja Stromversorgung, weil in meiner Wohnung habe  ich gefühlt vielleicht gar nicht mal ausreichend Steckdosen oder nicht überall genug Steckdosen,  um das halt zu machen.
-Ja, ich spiele da noch ein bisschen mit Rom, also der an der Nachttisch,  der hängt sowieso mit an dem gleichen USB-Dingens, wo mein Telefon dran hängt, also da ist es kein  Problem.
-Ich habe so eine, ich weiß nicht, ob ihr diese IKEA Death Star-Lampe kennt, so eine Deckenlampe,  die man so auf und zuziehen kann, die so ein bisschen aussieht wie der Todesstern, der hat  einen ESP verpasst bekommen, der diese Mechanik aufzieht und wieder zuzieht, das war mein letztes  Projekt, habe ich auch viel gelernt bei.
-Also so mit Motoren?
-Ja, das war das andere mit meiner  alten Zahnwürste, also meine elektrische Zahnwürste, ich habe irgendwann mal ausgetauscht, weil  diese sehr siffig war, aber der Motor war noch gut und der zieht jetzt die Todessterne auf.
- Es war ja, also es ist ein schönes Projekt gewesen, aber der an dem hängt einfach nur so eine ganz  alte Powerbank, also so eine, so die gab es mal, zeitweise hat man von jedem auf jeder Messe irgendwie  Powerbanks von Firmen bekommen, die für moderne Handys eigentlich immer viel zu wenig Strom haben,  also die laden dann den Akku nachher voll, aber so ein ESP betreiben die doch eine ganze Weile,  das geht, es gibt auch so Battery Shields für den Wemos, mit drei Batterien, die halten auch  recht lang, ja ansonsten versuche ich eigentlich immer irgendwie USB Anschlüsse zu finden und  zu benutzen, irgendwo sowieso rumhängen, also auch hinten an dem Monitor hängt meistens noch ein USB  und so ein Mist.
-Also ich will dich jetzt mal besuchen, Hannes, und diesen Motor sehen.
-Ich kann  euch nachher mal ein Video schicken, das ist sehr witzig, ich will wirklich bei dir haben, das sieht  gut.
-Also ich habe das schon angemeldet, ich will den auch machen, ich will das alles mal zeigen,  was ich da so gemacht habe in der Machbar, auch unsere Hörerinnen und Hörer sind eingeladen,  irgendwann an der Mittwoch werde ich das demnächst mal machen.
-Ja cool, kann ich euch das mal zeigen.
- Ja, klingt auf jeden Fall nach einer super Sache und ich glaube, was man auch so ein bisschen  da dran sehen kann an schon allein unseren beiden Möglichkeiten, es gibt halt nicht die eine  Lösung, sondern ich habe halt im Moment, also ich mache jetzt noch nicht wirklich was, aber ich  könnte, wenn ich wollte und Zeit hätte und die notwendige Kreativität hätte, auch noch ein  bisschen Dinger weiterzubauen.
-Ich kann immerhin auch meinen Fernseher per Home Assistant die Kanäle  umschalten beispielsweise.
-Danke, einen gebauten, also auch dafür gibt es halt eine Integration für  Home Assistant, der halt die richtigen Befehle an meinen Fernseher per Lokal im Laden, per Laden  bzw.
+Ich  arbeite auch viel mit, aber eigentlich ist mir das zu viel auf dem Raspberry.
+Ich habe halt auch  einen Raspberry 2 im Einsatz.
+Einerseits weil der einfach nochmal ein Stückchen weniger Strom benutzt  und andererseits weil der soll mir eine Webüberfläche anzeigen und ein paar HTTP Request schicken,  also ich sehe das eigentlich nicht ein, dafür ein besseres Gerät zu benutzen.
+Und da war Docker  immer schon ein bisschen zu dick für und da läuft halt einfach nur dieses Go Binary.
+Ja, das ist für  mich die, das war super nett.
+Also das Setup in Go, die Sprache selber, darüber kann man sich so  ein bisschen streiten, aber das Setup ist einfach super, wie Abhängigkeiten verwaltet werden und  wie Versionierung und so weiter funktioniert.
+Das war einfach sehr beeindruckend für mich.
+ Genau, und da läuft also jetzt einfach nur so ein Exe, die ist glaube ich mittlerweile 8  Megabyte groß, weil sie noch ein paar Daten banken kann und so weiter, aber ist man auch relativ klein,  startet schnell.
+Und da habe ich sehr viel nachgebaut von dem, was sie im Home Assistant machen,  alles mit ganz hässlichen UIs, die aber halt alle HTML old sprechen, das auch das iPad,  das noch benutzt kann und dann ist halt das iPad Mini eben der Monitor quasi dafür,  mit dem ich das alles steuern kann.
+Und mittlerweile habe ich halt durch diese ESPs und TasMota  habe ich schon gesagt, da habe ich so viele von diesen Dicke in der Wohnung verteilt,  die alles Mögliche machen und die hängen da alle irgendwie mit dran.
+Wie machst du das eigentlich  mit der Schrummversorgung?
+Weil ich meine, das eine ist ja, das eine ist ja okay, es gibt diese,  diese, diese kleinen ESP, diese kleinen Platinen, die halt ja WLAN und Bluetooth können und wo man  auch jede Menge Sensoren irgendwie dran packen kann.
+Aber einen Punkt, über den ich neulich  gestolpert bin, als ich überlegt habe, so einfach auch mal so, so simple Dinge wie Temperatur,  Luftfeuchtigkeit und vielleicht noch irgendwie andere Dinge daran zu packen, ist ja tatsächlich  ja Stromversorgung.
+Weil in meiner Wohnung habe ich gefühlt, vielleicht gar nicht mal ausreichen,  Steckdosen oder nicht überall genug Steckdosen, um das halt zu machen.
+Ja, ich spiele da noch ein  bisschen mit Rom, also der an der, am Nachtisch, der hängt halt sowieso mit an dem gleichen USB-Dingens,  wo der mein Telefon dran hängt, also da ist kein Problem.
+Ich habe einen, ich habe so eine,  so eine, ich weiß nicht, ob ihr diese IKEA Death Star-Lampe kennt, so eine Deckenlampe,  die man so auf und zuziehen kann, die so ein bisschen aussieht wie der Todesstern.
+Der,  die hat einen ESP verpasst bekommen, der, der diese Mechanik aufzieht und wieder zuzieht.
+Das war  mein letztes Projekt, habe ich auch viel gelernt bei.
+Also so mit Motoren und...
+Ja, das war das  andere mit meiner alten Zahnwürste, also meine elektrische Zahnwürste.
+Ich habe irgendwann mal  ausgetauscht, weil die sehr siffig war, aber der Motor war noch gut und der zieht jetzt die  Todesstern auf.
+Es war, ja, also es ist ein schönes Projekt gewesen.
+Aber der, an dem hängt  einfach nur so eine ganz alte Powerbank, also so eine, so, die gab es mal, zeitweise hat man von  jedem, auf jeder Messe irgendwie Powerbanks von Firmen bekommen, die für moderne Handys eigentlich  immer viel zu wenig Strom haben, also die laden dann den Akku noch halb voll, aber so ein, so ein  ESP betreiben die doch eine ganze Weile.
+Das geht, es gibt auch so Battery Shields für den, für den  Wemos mit drei Batterien, die halten auch recht lang.
+Ja, ansonsten versuche ich eigentlich immer  irgendwie USB Anschlüsse zu finden und zu benutzen.
+Ich würde irgendwo sowieso rumhängen,  also auch hinten an dem Monitor hängt meistens noch ein USB und so ein Mist.
+Also ich würde  jetzt mal besuchen, Hannes, und diesen Motor sehen.
+Ich kann euch nachher mal einen Video schicken,  das ist sehr witzig.
+Ich will wirklich, was ihr habt, das sieht gut aus.
+Ja, also ich habe das  schon angemeldet, ich will den auch machen, ich will das alles mal zeigen, was ich da so gemacht  habe in der Machbar.
+Auch unsere Hörerinnen und Hörer sind eingeladen.
+Irgendwann eine  Mittwoch werde ich das demnächst mal machen.
+Ja, cool.
+Dann kann ich euch das mal zeigen.
+Ja,  das klingt auf jeden Fall nach einer super Sache und ich glaube, was man auch so ein bisschen  da dran sehen kann an schon allein unseren beiden Möglichkeiten, es gibt halt nicht die  eine Lösung, sondern ich habe halt im Moment, also ich mache jetzt noch nicht wirklich was,  aber ich könnte, wenn ich wollte und Zeit hätte und die notwendige Kreativität hätte auch noch  ein bisschen Dinge weiterzubauen.
+Ich kann immerhin auch mein Fernseher per Home Assistant, die Kanäle  umschalten beispielsweise.
+Danke, ein gebauter, also auch dafür gibt es halt eine Integration für  Home Assistant, der halt die richtigen Befehle an meinen Fernseher per Lokal im Lahn, per Lahn  bzw.
 die Beleinheit schicken kann.
-Da habe ich so ein Outdated Home Assistant Plugin übrigens  benutzt und das nachprogrammiert bei mir, weil das war auch ein so ein Feature.
-Das einzige,  was halt irgendwie noch anschalten das Fernsehen, also ausschalten und Kanäle umschalten und andere  Dinge kann ich aber anschalten.
-Ganz abgesehen davon, dass ich noch gar nicht weiß, was ich  das tatsächlich sinnvoll verwenden wollen würde, weil sowas wie ich sehe eigentlich noch nicht  wirklich so eine Art von, wie andere das dann vielleicht irgendwie machen, so Szenen im Sinne  von so keine Ahnung.
-Ich setze mich hin und gucke dann irgendwie Fußball oder so und will dann  plötzlich, dass irgendwie mein ganzes Zimmer in Grasgrün ist und der Rest gedimmt und die  Popcornmaschine anfängt zu laufen und dann irgendwie da Fußball läuft oder so, keine Ahnung,  Disclaimer, ich bin kein Fußballfan, aber einfach nur als Beispiel.
-Deswegen, das sehe ich jetzt  noch nicht.
-Aber ich finde es auf jeden Fall schön, dass es halt diese Integration gibt und eine sehr  große Open Source Community rund um sowohl den Home Assistant als auch eine andere Lösung ist ja  Node Red, wo es dann eher so ein bisschen darum geht, auch so ein bisschen grafisch dir deine  Automatisierung zusammenklicken zu können und das kannst du wiederum dann auch in Home Assistant  integrieren.
-Also gibt es ganz viele Möglichkeiten quasi von der Stange, aber dann gibt es natürlich  auch genug Projekte wie zum Beispiel jetzt Deins, die einfach sagen, ganz ehrlich, ich brauche diesen  ganzen Kram nicht, der ist irgendwie vielleicht auch ein bisschen zu überladen und das stimmt ja  auch letztendlich irgendwo und du hast auch die notwendigen Fähigkeiten, das selbst zu tun,  um dir halt dann deine eigene Lösung zu stricken, die halt für dich halt genau passt.
-Also genau,  denn die die die offenen Protokolle, die eingesetzt werden, sind halt einerseits meistens MQTT und  sonst sind es ja in der Regel nur ein paar HTTP Requests, die du an die Geräte schickst.
-Das heißt,  die technische Basis ist sehr, sehr gering.
-Also man kann halt wirklich mit sehr wenig Software  eigentlich viel erreichen.
-Das Spannende ist halt, wie definierst du deine Regeln?
-Da muss man  tatsächlich ein bisschen überlegen, wie man das so macht, dass es so komfortabel ist wie im Home  Assistant.
-Da gibt es dann, also gibt es bestimmt schon, ich bin dann sicherlich nicht up to date,  aber gibt es dann quasi dann wahrscheinlich nicht mehr den Feng Shui Berater, sondern den  Heimautomatisierungsberater.
-Also ich meine, das ist sicherlich auch jetzt schon gerade bei den  Häuslerbauern, denke ich, ist das schon durchaus ein Thema, gerade wenn man bereit ist.
-Neben dem  eigentlichen Haus dann auch noch irgendwie intelligente Dinge, vor allem wenn man sie  sinnvoll machen will, da irgendwie einzubauen.
-Da habe ich vorhin drüber nachgedacht.
-Also ich  glaube, das, was wir machen, ist Heimautomatisierung, denn ich meine Hausautomatisierung ist auch so  was, was Siemens und so weiter schon seit Jahren machen.
-Ich weiß, dass ich in den späten 2000ern  bin ich mal in, habe ich für ein halbes Jahr bei jemandem in einer Ein-Dealer-Wohnung gewohnt,  der neu gebaut hatte und der war damals sicherlich seinerzeit ein bisschen voraus,  aber nicht so weit.
-Der hatte so seinen Sicherungskasten und die Heizung und so weiter.
- Der war halt mit irgendwelchen Siemensgeräten versehen, die damals auch schon irgendein Protokoll  gesprochen haben, womit man dann eben von anderen Geräten auslesen konnte, was ist jetzt  hier der Verbrauch und kann ich das anschalten und abschalten und so weiter.
-Und ich glaube,  dass es eben diese Hausautomatisierung und genau an irgendeinem Punkt finden, die dann sicherlich  zusammen und dann kann man sagen, ah ja, dann kann ich halt hier irgendwie, wenn ich den Fritz-Box-Knopf  drücke, auch die Siemens-Heizung ausmachen.
-Ja, also ich meine natürlich mit properitären  Lösungen von Siemens und Co, geht das natürlich schon länger, ja.
-Ich glaube, was einfach passiert  ist, mittlerweile kannst du für, ist es einfach auch für wenig Geld, erschwingen nicht, dass du  dir selber solche smarten Geräte, die leider ganz oft mit eingebauter Cloud dann auch irgendwie  kommen und man denn das teilweise auch abtrainieren muss erstmal, ja, dass man sich das kaufen und  installieren kann und dass man mit relativ wenig Aufwand das selber auch mit, vor allem mit offenen  Standards meist hinbekommt.
-Und ich glaube, dass ist einfach so ein bisschen dieser Unterschied,  weil ich meine, wie gesagt, mit properitären Lösungen ging das ja schon länger, gerade auch so,  was mir gerade noch einviel ist, so Garage-Steuerung, gerade in Hinnuß Aas, das ist ja, glaube ich,  sehr beliebt, wo man deutlich mehr noch diese Konferenzion hat aus Thorsten Haus und hinten dran  eine Garage, die dann entsprechend auf und zuzumachen mit bestimmten Regeln oder ich fahre quasi in den  Umkreis meines Hauses, da soll doch bitte schon das Tor und das Eingangstor zur Auffahrt und das  Garage-Tor vielleicht noch auf sein, ja, kann man sich alles, ob man das jetzt braucht.
-So ein  kenne ich tatsächlich, ich habe einen Bekannten, der das so macht, also wenn der sich, wenn sein  Handy sich in seinem Wi-Fi einloggt, dann gehen oben die Lichter an, ich glaube, das wird im  Garage-Steuer, glaube ich, noch nicht hinbekommen, aber das fängt ja auch gelöst, ich müsste  nicht mehr vorschlagen, da ging, glaube ich, die Lichter an, die Heizung geht an und ja,  irgendwie, der ist so eine ganze Automatisierung, die dann ausgelöst wird und auch so, wenn er  dann geht und so, ja.
-Genau, also deswegen, da kann man sich beliebig austoben, sicherlich nicht  alles davon, also was man so machen kann, ist auch immer sinnvoll, beziehungsweise einfach sehr  individuell, was ist jetzt tatsächlich sinnvoll oder nicht.
-Und das ist halt zum einen das Schöne,  aber gleichzeitig auch die Schwierigkeit daran, das dann halt tatsächlich so einzustellen und ja,  und das ist auch völlig okay, wenn man diesen ganzen Smartgram nicht zu Hause haben will,  ja, also vielleicht, um das auch an der Stelle zu sagen, wir reden jetzt zwar hier und heute sehr  viel über Heimautomatisierung und was man alles für schöne Dinge machen kann, das muss aber  nicht sein, ja, also das ist auch völlig okay, ohne auszukommen, weil, ja.
-Also ich treibe da auch  relativ viel Aufwand, dass die nicht ins Internet können, also das mag ich auch nicht,  ich verstehe auch nicht, also das hat mich auch gestört an den ganzen kommerziellen Lösungen,  die man so als Atom-Mediamarkt findet, dass die alle mit irgendeiner Cloud reden möchten,  ja, ich will nicht mal, dass die Leute wissen, wann ich hier die Temperatur veränder.
-Ja,  also ich glaube so als Faustregel kann man sich überlegen, wenn geworben wird damit,  dass du dir das nur, dass du dir das nur hinstellen musst und dann per App von überall auf der Welt,  der angucken kannst, wie warm es bei dir ist, ohne dass du einen VPN oder sowas brauchst,  dann ist da meistens irgendeine Cloud-Lösung dahinter, muss man einfach so sagen.
-Ja,  wobei es bei der Fritzbox, glaube ich, auch so bewerben, aber bei denen ist es optional,  ne, so und das kann man immer abschalten und das ist schon ganz klar.
-Aber ich gar nicht weiß,  bei der Fritzbox ist es glaube ich, dass es ja eigentlich nur in Anführungsstrichen ein komfortablerer  Zugang zu deiner Fritzbox oder den Teil habe ich zumindest noch nicht ausprobiert, weil ich das  nicht brauche.
-Also auch nach meinem dafürhalten schickt die Fritzbox die Daten nicht ungefragt  noch mal irgendwo hin, wo sie gesammelt werden, sondern die werden halt auf deiner Fritzbox  gesammelt und die Fritzbox sagt nur irgendwo bei einem AVM Server Bescheid, wo man sie  gerade erreichen kann.
-Genau, also das an der Stelle ist noch möglich, also eine vertretbare  Lösung, aber so generell bei, ich habe jetzt smarte Geräte von Hersteller XY und der wirbt  damit, dass ich dann von überall her dann die Sachen irgendwie mir anschauen und steuern kann.
- Das ist dann halt meistens, da wären Daten dann irgendwo in die Cloud geliefert.
-Das ist so,  wie gesagt, als Faustregel, glaube ich, kann man das so sagen.
-Und ja, deswegen so eine Datensparsame  und die halt ihre Daten an einem Ort behält, Lösung, ist möglich, braucht aber mindestens mal so  drei, vier Handgriffe, damit man das dann halt hinbekommt.
+Da habe ich so ein outdated Home Assistant Plugin benutzt und  das nachprogrammiert bei mir, weil das war auch ein so ein Feature.
+Das einzige, was halt irgendwie  noch anschalten das Fernseher, also ausschalten und Kanäle umschalten und andere Dinge kann ich,  aber anschalten.
+Ganz abgesehen davon, dass ich noch gar nicht weiß, für was ich das tatsächlich  sinnvoll verwenden wollen würde, weil sowas wie ich sehe eigentlich noch nicht wirklich so eine Art  von wie andere das dann vielleicht irgendwie machen, so Szenen im Sinne von so keine Ahnung,  ich setze mich hin und gucke dann irgendwie Fußball oder so und will dann plötzlich, dass irgendwie  mein ganzes Zimmer in Grasgrün ist und der Rest gedimmt und die Popcornmaschine anfängt zu  laufen und dann irgendwie da Fußball läuft oder so, keine Ahnung, Disclaimer, ich bin kein Fußball  Fan, aber einfach nur als Beispiel.
+Deswegen das sehe ich jetzt noch nicht, aber ich finde es auf  jeden Fall schön, dass es halt diese Integration gibt und eine sehr große Open Source Community  rund um sowohl den Home Assistant als auch eine andere Lösung ist ja Node Red, wo es dann eher so  ein bisschen darum geht, auch so ein bisschen grafisch dir deine Automatisierung zusammenklicken  zu können und das kannst du wiederum dann auch in Home Assistant integrieren, also gibt es ganz  viele Möglichkeiten quasi von der Stange, aber dann gibt es natürlich auch genug Projekte wie  zum Beispiel jetzt Deins, die einfach sagen so ganz ehrlich, ich brauche diesen ganzen Kram nicht,  der ist irgendwie vielleicht auch ein bisschen zu überladen und das stimmt ja auch letztendlich  irgendwo und du hast auch die notwendigen Fähigkeiten, dass selbst zu tun, um dir halt dann  deine eigene Lösung zu stricken, die für dich halt genau passt.
+Also genau, denn die offenen  Protokolle, die eingesetzt werden, sind halt einerseits meistens MQTT und sonst sind es ja in der  Regel nur ein paar HTTP Requests, die du an die Geräte schickst, das heißt die technische Basis  ist sehr, sehr gering, man kann halt wirklich mit sehr wenig Software eigentlich viel erreichen,  dass das spannende ist, wie definierst du deine Regeln, dass es da muss man tatsächlich ein  bisschen überlegen, wie man das so macht, dass es so komfortabel ist wie im Home Assistant.
+ Da gibt es dann, also gibt es bestimmt schon, ich bin da sicherlich nicht up to date, aber gibt es  dann quasi dann wahrscheinlich nicht mehr den Feng Shui Berater, sondern den Heim Automatisierungs  Berater, also ich meine, das ist sicherlich ja auch jetzt schon, gerade bei den Häuslebauern,  denke ich, ist das schon durchaus ein Thema, gerade wenn man bereit ist, neben dem eigentlichen  Haus dann auch noch irgendwie intelligente Dinge, vor allem wenn man sie sinnvoll machen will,  da irgendwie einzubauen.
+Da habe ich vorhin drüber nachgedacht, also ich glaube,  das was wir machen ist Heim Automatisierung, denn ich meine, Haus Automatisierung ist auch so was,  was Siemens und so weiter schon seit Jahren machen.
+Ich weiß, dass ich in den späten 2000ern bin ich  mal in, habe ich für ein halbes Jahr bei jemanden in einer Eindilgerwohnung gewohnt, der neu gebaut  hatte und der war damals sicherlich seinerzeit ein bisschen voraus, aber nicht so weit, der hatte  so seinen Sicherungskasten und die Heizung und so weiter, war halt mit irgendwelchen Siemens-Geräten  versehen, die damals auch schon irgendein Protokoll gesprochen haben, womit man dann eben von anderen  Geräten auslesen konnte, was ist jetzt hier der Verbrauch und kann ich das anschalten und abschalten  und so weiter und ich glaube, das ist eben diese Hausautomatisierung und genau an irgendeinem Punkt  finden die dann sicherlich zusammen und dann kannst du sagen, ah ja, dann kann ich halt hier  irgendwie, wenn ich den Fritz-Box-Knopf drücke, auch die Siemens-Heizung ausmachen.
+Ja, also ich  meine natürlich mit propertären Lösungen von Siemens und Co.
+Geht das natürlich schon länger,  ja, ich glaube, was einfach passiert ist, mittlerweile kannst du für, ist es einfach auch für  wenig Geld, erschwingen nicht, dass du dir selber solche smarten Geräte, die leider ganz oft  auch mit eingebauter Cloud dann auch irgendwie kommen und man den das teilweise auch abtrainieren  muss erst mal, ja, dass man sich das kaufen und installieren kann und dass man mit relativ  wenig Aufwand das selber auch vor allem mit offenen Standards meist hinbekommt und ich glaube,  dass ist einfach so ein bisschen dieser Unterschied, weil ich meine, wie gesagt mit  propertären Lösungen ging das ja schon länger, gerade auch so, was mir gerade noch ein viel ist,  so Garagensteuerung, gerade in Hinnuß-Arst, das ist ja, glaube ich, sehr beliebt, wo man deutlich  mehr noch diese Konferenzion hat aus Thorstenhaus und hinten dran eine Garage, die dann entsprechend  auch und zuzumachen mit bestimmten Regeln oder ich fahre quasi in den Umkreis meines Hauses,  da soll doch bitteschön schon das Tor und das Eingangstor zur Auffahrt und das Garagentor  vielleicht noch auf sein, ja, kann man sich alles, ob man das jetzt braucht.
+So ein Kennig  tatsächlich, ich habe einen Bekannten, der das so macht, also wenn der sich, wenn sein Handy sich  in seinem Wi-Fi einloggt, dann gehen oben die Lichter an, ich glaube, das wird im Garage nur,  da glaube ich, noch nicht hinbekommen, aber das wäre eigentlich auch gelostig,  müsste ich mir vorschlagen, da ging glaube ich die Lichter an, die Heizung geht an und ja,  irgendwie, der hat so eine ganze Automatisierung, die dann ausgelöst wird und auch so, wenn er  dann geht und so, ja.
+Genau, also deswegen, da kann man sich beliebig austoben, sicherlich nicht  alles davon, also was man so machen kann, ist auch immer sinnvoll, bzw.
+das ist einfach sehr  individuell, was ist jetzt tatsächlich sinnvoll oder nicht und das ist halt zum einen das Schöne,  aber gleichzeitig auch die Schwierigkeit daran, das dann halt tatsächlich so einzustellen und ja,  und das ist auch völlig okay, wenn man diesen ganzen Smartgram nicht zu Hause haben will,  ja, also vielleicht um das auch an der Stelle zu sagen, wir reden jetzt zwar hier und heute sehr  viel über Heimautomatisierung und was man alles für schöne Dinge machen kann, das muss aber  nicht sein, ja, also es ist auch völlig okay, ohne auszukommen, weil, ja.
+Also ich treibe da auch  relativ viel Aufwand, dass die nicht ins Internet können, also das mag ich auch nicht, ich verstehe  auch, also das hat mich auch gestört an den ganzen kommerziellen Lösungen, die man so  als Atom-Mediamarkt findet, dass die alle mit irgendeiner Cloud reden möchten und da.
+Ich will  nicht mal, dass die Leute wissen, wann ich hier die Temperatur veränder.
+Ja, also ich glaube so  als Faustregel kann man sich überlegen, wenn geworben wird damit, dass du dir das nur hinstellen  musst und dann per App von überall auf der Welt, der angucken kannst, wie warm es bei dir ist,  ohne dass du einen VPN oder sowas brauchst, dann ist da meistens irgendeine Cloud-Lösung dahinter.
+ Muss man einfach so sagen.
+Wobei es bei der Fritzbox glaube ich auch so bewerben, aber bei  denen ist es optional, so und das kann man immer abschalten.
+Aber ich gar nicht weiß bei der Fritzbox  ist es glaube ich, dass es ja eigentlich nur in Anführungsstrichen ein komfortablerer Zugang  zu deiner Fritzbox oder den Teil habe ich zumindest noch nicht ausprobiert, weil ich das nicht brauchte.
+ Also auch nach meinem Dafürhalten schickt die Fritzbox die Daten nicht ungefragt  noch mal irgendwo hin, wo sie gesammelt werden, sondern die werden halt auf deiner Fritzbox  gesammelt und die Fritzbox sagt nur irgendwo bei einem AVM Server Bescheid, wo man sie gerade  erreichen kann.
+Genau, an der Stelle ist noch möglicherweise eine vertretbare Lösung,  aber so generell, weil ich habe jetzt smarte Geräte von Hersteller XY und der wirbt damit,  dass ich dann von überall her dann die Sachen irgendwie mir anschauen und steuern kann.
+Das ist  dann halt meistens, da wären Daten dann irgendwo in die Cloud geliefert.
+Das ist so wie gesagt als  Faustregel, glaube ich kann man das so sagen.
+Deswegen so eine Datensparsame und die halt  ihre Daten an einem Ort behält.
+Lösung ist möglich, braucht aber mindestens mal so drei, vier  Handgriffe, damit man das dann halt hinbekommt.
 So, wir haben ja Musik versprochen.
- Ja.
-Ich würde jetzt einmal einen kurzen Track spielen und zwar, wer hat noch nie Hip-Hop,  weil es gibt auch nicht so furchtbar viel Hip-Hop mit Creative Commons Lizenz, aber wir haben  diesmal einen gefunden, einen Track, einen kurzen.
-Und den möchte ich anspielen, einfach weil das  auch mal sein muss und danach hat Cyroxx ganz viel elektronische Dinge rausgefunden.
-Und da sind  wir auch ganz gespannt drauf, aber jetzt hört ihr einmal von Double F the King, Outlandish unter  einer Creative Commons Share a Like, vier Null Lizenz.
-Viel Spaß, bis gleich.
+Ich würde jetzt  einmal einen kurzen Track spielen und zwar wer hat noch nie Hip-Hop, weil es gibt auch nicht so  furchtbar viel Hip-Hop mit Creative Commons Lizenz.
+Aber wir haben diesmal einen gefunden,  einen Track, einen kurzen und den möchte ich anspielen, einfach weil es, weil das auch mal sein  muss und danach hat Cyroxx ganz viel elektronische Dinge rausgefunden und da sind wir auch ganz  gespannt drauf, aber jetzt hört ihr einmal von Double F the King Outlandish unter einer Creative  Commons Share Alike 4.0 Lizenz.
+Spaß, bis gleich.
 Bis gleich.
 , bis gleich.
+, bis gleich.
+, bis gleich.
+, bis gleich.
+ Hallo, Willkommen zurück.
+Der erste Hip-Hop-Song bei Chaos im Radio und für heute sicherlich  auf der Letzter, wie gesagt, so viele finden wir nicht im Free Music Archive, wo wir uns  meistens unsere Musik holen.
+Also um mal ganz kurz rein zu gerät, man hört dir tatsächlich  deine Enttäuschung ist vielleicht das falsche Wort, aber man hört schon an, du leidest darunter.
+ Ich leite da nö, ich habe früher sehr, sehr viel Hip-Hop gehört mittlerweile, sehr viel  breiteren Musikgeschmack, aber ich find's mal spannend, dass elektronische Musik ist eindeutig  am stärksten vertreten, würde ich sagen, bei den Creative Commons Geschichten, gerade im  Free Music Archive.
+Und dann gibt es natürlich auch immer noch mal so ein bisschen Jazz und  Blues und Crams, aber ich finde das schön, wenn sich auch mal aus einer anderen Ecke,  aus einem anderen Genre, was da breit macht.
+Coolo, Tsyrox, du hast ganz viel Musik ausgesucht,  erzählen uns, was du dir dabei gedacht hast.
+Ich habe mir dabei gedacht, wir sollten hier auch mal  wieder ein bisschen mehr Musik unterbringen und auch ein bisschen elektronische Musik und  lass uns die mal spielen.
+Zum Beispiel First Breath of a New Sun by Van Halia Projects und  dieses Stück steht unter Attribution Non-Commercial Share Like 3.0 International Lizenz und ich sag mal ab dafür.
 .
- [Musik]  Hallo, hallo, willkommen zurück.
-Der erste Hip-Hop-Song bei Chaos im Radio.
-Und für heute  sicherlich auf der Letzter, wie gesagt, so viele finden wir nicht im Free Music Archive, wo wir uns  meistens unsere Musik holen.
-Also, ich um da mal ganz kurz rein zu grätschen, man hört dir,  man hört dir tatsächlich deine Enttäuschung, ist vielleicht das falsche Wort, aber man hört  schon an, du leidest da drunter?
-Ich leite da nö, ich finde es, also ich habe früher sehr, sehr viel  Hip-Hop gehört mittlerweile, sehr viel breiteren Musikgeschmack, aber ich finde es mal spannend,  dass elektronische Musik ist eindeutig am stärksten vertreten, würde ich sagen, in der,  bei den Creative Commons Geschichten, gerade im Free Music Archive.
-Und dann gibt es natürlich auch  mal noch mal so ein bisschen Jazz und Blues und Crams, aber ich finde es schön, wenn sich auch mal  aus einer anderen Ecke, aus einem anderen Genre, was da breit macht.
-Tyrox.
-Ja.
-Du hast ganz viel  Musik ausgesucht, erzähl uns, was du dir dabei gedacht hast.
-Ich habe mir dabei gedacht, wir  sollten hier auch mal wieder ein bisschen mehr Musik unterbringen und auch ein bisschen elektronische  Musik und lass uns die mal spielen.
-Zum Beispiel "First Breath of a New Sun" bei Van Halia Project  und dieses Stück steht unter "Attribution Non-Commercial Share Like 3.0 International  Lizenz" und ich sage mal ab dafür.
-Das sind wir auch wieder zurück nach diesen sphärischen Klängen,  die uns die erste Sonne am morgigen Morgen vorangekündigt haben.
-Poethis, Poethis.
-Ist unsere  Sendung noch gar nicht am Ende.
-Wir haben ja noch ein bisschen, aber ich fand es tatsächlich ganz  schön.
-Es war ein bisschen im Gegensatz zu dem Hip-Hop, den wir quasi direkt zuvor hatten,  aber das ist vielleicht auch gar nicht schlimm, weil es zeigt ja auch einfach nur die Vielfältigkeit  von freier Musik an der Stelle wieder.
-Insofern, ja, es ist doch eigentlich ganz angenehm.
-Ja,  wir haben ja sowieso jetzt tatsächlich mehr schon gequatscht, als wir ursprünglich vorhatten,  aber auch das ist angenehm.
-Die gute Balance aus den verschiedenen Dingen.
-Man spricht ganz  anders, wenn man drei Minuten so ein sphärische Klänge geholt hat, oder?
-Ich merke das auch gar nicht,  so ein bisschen gleitet hier so.
-Ja, einfach so ein bisschen dahin gleiten lassen, ist doch net.
- Das ist uns ja noch mitgebracht.
-Also ich sehe, nach der Sonne könnte hier eventuell der Mond  kommen, kann das sein?
-Der Mond, nee, den Mond, den Mond machen wir auch heute nicht, aber wir  vielleicht begeben wir uns, nachdem wir die vorangekündigte Sonne hatten, vielleicht begeben  wir uns einfach auf einen Fahrt, auf einen etwas längeren Fahrt und gleiten damit dahin Richtung  der vollen Stunde, wenn ihr uns im Radio hört, auch im freien Radio Potsdam.
-Oh, das haben wir  auch gar nicht gesagt.
-Auf 90,7 Megahertz und in Berlin auf 88,4.
-Oder ihr hört uns per Podcast  zu finden auf radio.ccc-p.org.
-Und natürlich sind wir auch auf Twitter unter @chaospotsdam,  sowie auf Mastodon unter cccp@chaos.social zu finden und ihr könnt uns natürlich auch singe  schicken, Themen, Feedback und ähnliches unter radio@ccc-p.org, genau.
-Und ja, damit würde ich  tatsächlich jetzt die nächste Musik einleiten, aber euch nochmal die Möglichkeit geben, euch  von unseren Höris zu verabschieden.
-Ja, ich liebe Höris bis zum März, wenn es mir hoffentlich  noch fühlingshafter wird.
-Und dann wünsche ich an dieser Stelle auch Knurps noch gute Besserung.
+ Musikgeschmack, aber ich finde das schön, wenn du das aufstattest, dass du das aufstattest.
+Das ist ja auch ein bisschen elektronisch.
+ Musikgeschmack, aber ich finde das schön, wenn du das aufstattest, dass du das aufstattest.
+Das ist ja auch ein bisschen elektronisch.
+ Musikgeschmack, aber ich finde das schön, wenn du das aufstattest, dass du das aufstattest.
+ Musikgeschmack, aber ich finde das schön, wenn du das aufstattest, dass du das aufstattest.
+ Musikgeschmack, aber ich finde das schön, wenn du das aufstattest, dass du das aufstattest.
+ Musikgeschmack, aber ich finde das schön, wenn du das aufstattest, dass du das aufstattest.
+ So, und da sind wir auch wieder zurück nach diesen sphärischen Klängen, die uns die erste Sonne am morgigen Morgen vorangekündigt haben.
+ Da ist noch unsere Sendung noch gar nicht am Ende, haben ja noch ein bisschen, aber ich fand es tatsächlich ganz schön.
+ Es war ein bisschen im Gegensatz zu dem Hip-Hop, den wir quasi direkt zuvor hatten, aber das ist vielleicht auch gar nicht schlimm,  aber es zeigt ja auch einfach nur die Vielfältigkeit von freier Musik an der Stelle wieder.
+ Insofern, ja, es ist doch eigentlich ganz angenehm.
+ Wir haben ja sowieso jetzt tatsächlich mehr schon gequatscht, als wir ursprünglich vorhatten, aber auch das ist sehr angenehm.
+ Die gute Balance aus den verschiedenen Dingen.
+ Man spricht ganz anders, wenn man drei Minuten so eine sphärische Klinge geholt hat, oder?
+ Ich merke das auch gar nicht, so ein bisschen gleitet hier so.
+ Ja, einfach so ein bisschen dahin gleiten lassen ist doch nett.
+ Was hast du uns ja noch mitgebracht?
+Also ich sehe, nach der Sonne könnte hier eventuell der Mond kommen, kann das sein?
+ Nein, den Mond machen wir heute nicht, aber vielleicht begeben wir uns, nachdem wir die vorangekündigte Sonne hatten,  vielleicht begeben wir uns einfach auf einen etwas längeren Pfad und gleiten damit dahin Richtung der vollen Stunde,  wenn ihr uns im Radio hört, auch im freien Radio Potsdam.
+ Oh, das haben wir noch gar nicht gesagt.
+ Auf 90,7 MHz und in Berlin auf 88,4 oder ihr hört uns per Podcast, zu finden auf radio.ccc-p.org.
+ Und natürlich sind wir auch auf Twitter unter @kaospotsdam, sowie auf Mastodon unter cccp@kaos.social zu finden.
+ Und ihr könnt uns natürlich auch singe schicken, Themen, Feedback und ähnliches unter radio@ccc-p.org.
+ Und damit würde ich tatsächlich jetzt die nächste Musik einleiten und aber euch nochmal die Möglichkeit geben, euch von unseren Höris zu verabschieden.
+ Tschüss, liebe Höris, bis zum März, wenn es wir hoffentlich noch Frühlingshafter wird.
+ Und da möchte ich in dieser Stelle auch Knurps noch gute Besserungen wünschen.
  Nächstes Mal ist die letzte Sendung vor der Zeitumstellung.
-Da brechen, danach brechen  dann wieder neue Zeiten an.
-Vermutlich nicht die letzte Zeitumstellung, aber hoffentlich nicht.
+ Da brechen, danach brechen dann wieder neue Zeiten an.
+ Vermutlich nicht die letzte Zeitumstellung, aber nein.
+ Hoffentlich nicht.
  Okay, ja dann, alles Gute.
-Und nachdem wir nun Dinge von der sich vorankündigenden Sonne gehört  haben, hören wir als nächstes den Titel "Agraph" von Distant294.
-Ich sage das mal so.
-Dieser Song  steht unter attribution noncommercialsharelike3.0 international, Lizenz und im Anschluss einen  Titel, wo es ein bisschen um Mond geht, auch instrumental, und zwar den Song Magenta Moon  Part 2 von Line Noise.
-Und dieser steht unter attribution noncommercialsharelike3.0 international.
+ Und nachdem wir nun Dinge von der sich vorankündigenden Sonne gehört haben, hören wir als nächstes den Titel "Agraph" von Distant294.
+ Ich sage das mal so.
+ Dieser Song steht unter Attribution Non-Commercial Share Like 3.0 International Lizenz und im Anschluss einen Titel, wo es ein bisschen um Mond geht, auch instrumental.
+ Und zwar den Song Magenta Moon Part 2 von Lion Noise.
+ Und dieser steht unter Attribution Non-Commercial Share Like 3.0 International.
  Also viel Spaß mit diesen beiden Songs.
-Und damit verabschieden wir uns bis zum nächsten Mal.
-Tschüss!
+ Und damit verabschieden wir uns bis zum nächsten Mal.
+ Tschüss!
+ [Musik]  [Musik]  [Musik]  [Musik]  [Musik]  [Musik]  [Musik]  [Musik]  [Musik]  [Musik]  [Musik]  [Musik]  [Musik]  [Musik]  [Musik]  [Musik]  [Musik]  [Musik]  [Musik]  [Musik]  [Musik]  [Musik]  [Musik]  [Musik]  [Musik]  [Musik]  [Musik]  [Musik]  [Musik]  [Musik]  [Musik]  [Musik]  [Musik]  [Musik]  [Musik]  [Musik]  [Musik]  [Musik]  [Musik]  [Musik]  [Musik]  [Musik]  [Musik]  [Musik]  [Musik]  [Musik]  [Musik]  [Musik]  [Musik]  [Musik]  [Musik]  [Musik]  [Musik]  [Musik]  [Musik]  [Musik]  [Musik]  [Musik]  [Musik]  [Musik]  [Musik]  [Musik]  [Musik]  [Musik]  [Musik]  [Musik]  [Musik]  [Musik]  [Musik]  [Musik]  [Musik]  [Musik] 
