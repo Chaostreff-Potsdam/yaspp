@@ -111,6 +111,9 @@ find "$TARGET_DIR" -type f -name "*.txt" | while read -r txt_file; do
     dup_line=$(awk 'NR>2 && $0==prev && $0==prev2 {print $0; exit} {prev2=prev; prev=$0}' "$txt_file")
     if [ -n "$dup_line" ]; then
         echo "Warning: File '$txt_file' has a line repeated more than twice consecutively: \"$dup_line\""
+    else
+        basename_file=$(basename "$txt_file" .txt)
+        git add $basename_file.txt $basename_file.vtt
     fi
 done
 
