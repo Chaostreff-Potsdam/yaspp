@@ -2876,3 +2876,48 @@ long_summary_md: |-
 
   &#x1f3b6;&nbsp;[Amarent - Dance Away - Free Music Archive](https://freemusicarchive.org/music/amarent/free-soft-pop/dance-away-1/)
   &#x1f3b6;&nbsp;[Beat Mekanik - Dance the Night Away II - Free Music Archive](https://freemusicarchive.org/music/beat-mekanik/single/dance-the-night-away-ii/)
+---
+uuid: nt-2025-09-08
+title: 'CiR am 08.09.2025'
+subtitle: Der Chaostreff im Freien Radio Potsdam
+summary: >
+  Cyroxx, Knurps und Hannes reden über Podcast Publishing, Fake-Stimmen, Digitalisierung, Phishing und die Gute Alte Zeit mit wobbly windows.
+
+publicationDate: "2025-09-08T00:00:00+00:00"
+audio:
+  - url: $media_base_url/2025_09_08-chaos-im-radio.mp3
+    mimeType: audio/mp3
+chapters:
+  - start: '00:00'
+    title: 'Aufarbeitung der letzten 3 Jahre'
+  - start: '00:10'
+    title: 'Fahrrad und OSM'
+  - start: '00:15'
+    title: 'Synchronsprecher-Stimmenklau'
+  - start: '00:25'
+    title: 'Amarent - And the Beat Goes On - Free Music Archive'
+    href: 'https://freemusicarchive.org/music/amarent/free-trance-music/and-the-beat-goes-on/'
+  - start: '00:27'
+    title: 'Compiz, Wayland und Wayfire'
+  - start: '00:35'
+    title: 'Bund ID'
+  - start: '00:50'
+    title: 'Mastodon und dezentrale Altersprüfung'
+long_summary_md: |-
+  **Shownotes:**
+
+  * [https://github.com/ggml-org/whisper.cpp](https://github.com/ggml-org/whisper.cpp)
+  * [FMA: Musik unseres Podcasts](https://freemusicarchive.org/member/hannes-1/)
+  * [https://streetcomplete.app/](https://streetcomplete.app/)
+  * [taz:  Synchronsprecher gegen Stimmen-Kopie - Gericht stoppt KI-Stimmenklau](https://taz.de/Synchronsprecher-gegen-Stimmen-Kopie/!6107976/), Artikel vom 3.9.2025
+  * [mimikama: Fake-Video: Lars Klingbeil wirbt nicht für Finanz-Tricks](https://www.mimikama.org/lars-klingbeil-finanz-tricks-deepfake/)
+  * [https://www.tagesschau.de/wirtschaft/technologie/ki-anthropic-urheberrecht-100.html](https://www.tagesschau.de/wirtschaft/technologie/ki-anthropic-urheberrecht-100.html)
+  * [https://wayfire.org/](https://wayfire.org/)
+  * [https://wayland.freedesktop.org/](https://wayland.freedesktop.org/)
+  * [Heise.de: Nach Einmalzahlung: Hunderttausende inaktive BundID-Konten sind gelöscht](https://www.heise.de/news/Nach-Einmalzahlung-Hunderttausende-inaktive-BundID-Konten-sind-geloescht-10617296.html)
+  * [heise.de: Jugendschutz gegen Onlinedienste: Altersprüfung bei Mastodon "unmöglich"](https://www.heise.de/news/Jugendschutz-gegen-Onlinedienste-Alterspruefung-bei-Mastodon-unmoeglich-10626695.html)
+
+
+  **Musik:**
+
+  &#x1f3b6;&nbsp;[Amarent - And the Beat Goes On - Free Music Archive](https://freemusicarchive.org/music/amarent/free-trance-music/and-the-beat-goes-on/)
