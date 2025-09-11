@@ -139,8 +139,8 @@ func populateEntryFromSections(entry *CiREntry, contentBySection map[string][]st
 
 	if !entry.tags["no_music"] {
 		entry.LongSummaryMD = entry.LongSummaryMD + "\n\n**Musik:**\n"
-		
-		music := []string{}	
+
+		music := []string{}
 		for _, m := range mukke {
 			if strings.TrimSpace(m) == "" {
 				continue
@@ -190,7 +190,14 @@ func populateEntryFromSections(entry *CiREntry, contentBySection map[string][]st
 				}
 
 			}
-			entry.Chapters = append(entry.Chapters, CiRChapter{Start: chapter[0], Title: title, Href: href})
+
+			// Normalize timestamp format: add ":00" if only hh:mm format
+			timestamp := chapter[0]
+			if len(strings.Split(timestamp, ":")) == 2 {
+				timestamp = timestamp + ":00"
+			}
+
+			entry.Chapters = append(entry.Chapters, CiRChapter{Start: timestamp, Title: title, Href: href})
 		}
 		if len(entry.Chapters) == 1 {
 			entry.Chapters = nil
