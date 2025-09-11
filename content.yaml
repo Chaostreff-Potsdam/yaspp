@@ -2501,22 +2501,22 @@ audio:
   - url: $media_base_url/2024_03_11-chaos-im-radio.mp3
     mimeType: audio/mp3
 chapters:
-  - start: '00:00'
+  - start: '00:00:00'
     title: 'Tag des offenen Hackspaces'
-  - start: '00:04'
+  - start: '00:04:00'
     title: 'Go(lang)'
-  - start: '00:16'
+  - start: '00:16:00'
     title: 'DMR Hotspots'
-  - start: '00:19'
+  - start: '00:19:00'
     title: 'Masteredit - Clash - Free Music Archive'
     href: 'https://freemusicarchive.org/music/masteredit/synesthesia-1/clash/'
-  - start: '00:24'
+  - start: '00:24:00'
     title: 'RAF und Gesichtserkennung'
-  - start: '00:37'
+  - start: '00:37:00'
     title: 'Deutschlandticket und E-Rezept'
-  - start: '00:52'
+  - start: '00:52:00'
     title: 'Willy Chocolate Experience'
-  - start: '00:58'
+  - start: '00:58:00'
     title: 'Beat Mekanik - Electron (Free Stems) - Free Music Archive'
     href: 'https://freemusicarchive.org/music/beat-mekanik/single/electron-free-stems/'
 long_summary_md: |-
@@ -2547,22 +2547,22 @@ audio:
   - url: $media_base_url/2024_04_08-chaos-im-radio.mp3
     mimeType: audio/mp3
 chapters:
-  - start: '00:00'
+  - start: '00:00:00'
     title: 'Neues aus der Machbar'
-  - start: '00:10'
+  - start: '00:10:00'
     title: 'Fairphone 4 und 5'
-  - start: '00:20'
+  - start: '00:20:00'
     title: 'neuer Laptop'
-  - start: '00:26'
+  - start: '00:26:00'
     title: 'neue FritzBox'
-  - start: '00:34'
+  - start: '00:34:00'
     title: 'Nerds'
-  - start: '00:36'
+  - start: '00:36:00'
     title: 'Jon Shuemaker - Free Flow - Free Music Archive'
     href: 'https://freemusicarchive.org/music/jon-shuemaker/free-flow/free-flow/'
-  - start: '00:39'
+  - start: '00:39:00'
     title: 'Digitaler Frühjarhsputz'
-  - start: '00:50'
+  - start: '00:50:00'
     title: 'XZ Backdoor'
 long_summary_md: |-
   **Shownotes:**
@@ -2592,19 +2592,19 @@ audio:
   - url: $media_base_url/2024_05_13-chaos-im-radio.mp3
     mimeType: audio/mp3
 chapters:
-  - start: '00:00'
+  - start: '00:00:00'
     title: 'ArcSound - Sport Action Teaser - Free Music Archive'
     href: 'https://freemusicarchive.org/music/arcsound/single/sport-action-teaser/'
-  - start: '00:04'
+  - start: '00:04:00'
     title: 'Scheidungsversuch - verklickt'
-  - start: '00:12'
+  - start: '00:12:00'
     title: 'Der Weltall - Voyager Sonden, Sonnenstürme und GPS'
-  - start: '00:39'
+  - start: '00:39:00'
     title: 'CXR ATK - Impetus - Free Music Archive'
     href: 'https://freemusicarchive.org/music/cxr-atk/cxr-atk-3/impetus/'
-  - start: '00:43'
+  - start: '00:43:00'
     title: 'Gesichtserkennung'
-  - start: '00:55'
+  - start: '00:55:00'
     title: 'Kartenänderungen: überfüllte Busse in Barcelona und Kartierung von Waldwegen'
 long_summary_md: |-
   **Shownotes:**
@@ -2810,18 +2810,18 @@ audio:
   - url: $media_base_url/2025_05_12-chaos-im-radio.mp3
     mimeType: audio/mp3
 chapters:
-  - start: '00:00'
+  - start: '00:00:00'
     title: 'Intro & Vibe coding'
-  - start: '27:00'
+  - start: '00:27:00'
     title: 'Beat Mekanik - Night City - Free Music Archive'
     href: 'https://freemusicarchive.org/music/beat-mekanik/single/night-city/'
-  - start: '31:00'
+  - start: '00:31:00'
     title: 'NFC Visitenkarten'
-  - start: '44:00'
+  - start: '00:44:00'
     title: 'mastodon und bluesky'
-  - start: '53:00'
+  - start: '00:53:00'
     title: 'Peertube'
-  - start: '59:00'
+  - start: '00:59:00'
     title: 'HoliznaCC0 - Mutant Club - Free Music Archive'
     href: 'https://freemusicarchive.org/music/holiznacc0/power-pop/mutant-club/'
 long_summary_md: |-
@@ -2888,20 +2888,20 @@ audio:
   - url: $media_base_url/2025_09_08-chaos-im-radio.mp3
     mimeType: audio/mp3
 chapters:
-  - start: '00:00'
+  - start: '00:00:00'
     title: 'Aufarbeitung der letzten 3 Jahre'
-  - start: '00:10'
+  - start: '00:10:00'
     title: 'Fahrrad und OSM'
-  - start: '00:15'
+  - start: '00:15:00'
     title: 'Synchronsprecher-Stimmenklau'
-  - start: '00:25'
+  - start: '00:25:00'
     title: 'Amarent - And the Beat Goes On - Free Music Archive'
     href: 'https://freemusicarchive.org/music/amarent/free-trance-music/and-the-beat-goes-on/'
-  - start: '00:27'
+  - start: '00:27:00'
     title: 'Compiz, Wayland und Wayfire'
-  - start: '00:35'
+  - start: '00:35:00'
     title: 'Bund ID'
-  - start: '00:50'
+  - start: '00:50:00'
     title: 'Mastodon und dezentrale Altersprüfung'
 long_summary_md: |-
   **Shownotes:**
