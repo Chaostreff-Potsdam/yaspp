@@ -41,3 +41,27 @@ jobs:
             feed.xml
             cccp.css
           retention-days: 30
+
+      - name: Create tarball of website files
+        if: github.ref == 'refs/heads/master' || github.ref == 'refs/heads/main'
+        run: |
+          tar -czf website.tar.gz index.html feed.xml cccp.css
+
+      - name: Update latest release
+        if: github.ref == 'refs/heads/master' || github.ref == 'refs/heads/main'
+        uses: softprops/action-gh-release@v1
+        with:
+          tag_name: latest
+          name: Latest Build
+          body: |
+            Latest build from master branch
+            
+            **Commit:** ${{ github.sha }}
+            **Date:** ${{ github.event.head_commit.timestamp }}
+            
+            Download the tarball to get the latest version of the static website files.
+          files: website.tar.gz
+          prerelease: false
+          draft: false
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

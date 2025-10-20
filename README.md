@@ -37,4 +37,20 @@ Insbesondere die Links zur Musik sollten stimmen ("by Attribution"-Lizenz und so
 1. Wenn fertig, dann setzt das Tag `shownotes_complete` oben im Pad und klickt auf [Run Workflow](https://github.com/Chaostreff-Potsdam/yaspp/actions/workflows/create-pr-from-pad.yml) (Rechte im GitHub Repo nötig)
 1. Jeder Pull Request [generiert](https://github.com/Chaostreff-Potsdam/yaspp/actions/workflows/docker-build-and-run.yml) ein zip mit Preview der Webseite (zu finden unter Artifacts), das muss auf'm Server an der richtigen Stelle entpackt werden (geht hoffentlich bald automatisch)
 
+### Stable Download Link
+
+For automated deployments, you can always download the latest build from the master branch using this stable URL:
+
+```
+https://github.com/Chaostreff-Potsdam/yaspp/releases/download/latest/website.tar.gz
+```
+
+This tarball contains `index.html`, `feed.xml`, and `cccp.css` from the latest master build.
+
+Example usage:
+```bash
+curl -L -o website.tar.gz https://github.com/Chaostreff-Potsdam/yaspp/releases/download/latest/website.tar.gz
+tar -xzf website.tar.gz
+```
+
 Erzeugt keine Subsections innerhalb der Shownotes-Sections (sieht auf der Webseite komisch aus) und fasst euch kurz.
