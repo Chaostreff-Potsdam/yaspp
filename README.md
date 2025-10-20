@@ -45,7 +45,7 @@ For automated deployments, you can always download the latest build from the mas
 https://github.com/Chaostreff-Potsdam/yaspp/releases/download/latest/website.tar.gz
 ```
 
-This tarball contains `index.html`, `feed.xml`, and `cccp.css` from the latest master build.
+This tarball contains `index.html`, `feed.xml`, `cccp.css`, and `yaspp.css` from the latest master build.
 
 Example usage:
 ```bash
