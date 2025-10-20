@@ -40,12 +40,13 @@ jobs:
             index.html
             feed.xml
             cccp.css
+            yaspp.css
           retention-days: 30
 
       - name: Create tarball of website files
         if: github.ref == 'refs/heads/master' || github.ref == 'refs/heads/main'
         run: |
-          tar -czf website.tar.gz index.html feed.xml cccp.css
+          tar -czf website.tar.gz index.html feed.xml cccp.css yaspp.css
 
       - name: Update latest release
         if: github.ref == 'refs/heads/master' || github.ref == 'refs/heads/main'
