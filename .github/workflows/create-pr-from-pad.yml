@@ -22,16 +22,7 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
         with:
-          token: ${{ secrets.GITHUB_TOKEN }}
-          persist-credentials: true
-
-      - name: Ensure no duplicate Git auth header
-        run: |
-          # unset extraHeader in local and global configs if present
-          git config --local --unset-all http.extraHeader || true
-          git config --global --unset-all http.extraHeader || true
-          # show remaining git http config for debug
-          git config --list --show-origin | sed -n '/http\.extraHeader/,+2p' || true
+          persist-credentials: false
 
       - name: Set up Go
         uses: actions/setup-go@main
