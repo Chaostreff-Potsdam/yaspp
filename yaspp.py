@@ -1,6 +1,7 @@
 #!/usr/bin/env python
 
 import json
+import logging
 import os
 import string
 
@@ -33,11 +34,14 @@ def strip_html_tags(html):
 
 #-------------------------------------------------------------------------------
 
-def read_content_yaml(filename):
+def read_content_yaml(filename, data_dir=None):
 	for entry in yaml.load_all(open(filename), Loader=yaml.Loader):
 		for audio in entry["audio"]:
 			audio["url"] = string.Template(audio["url"]).substitute(
 					media_base_url=config.media_base_url)
+			if data_dir is not None:
+				audio["filename"] = string.Template(audio["url"]).substitute(
+					media_base_url=data_dir)
 		yield entry
 
 
@@ -105,6 +109,17 @@ def generate_feed(content, audio_idx=0):
 
 		return entry.get("summary"), long_summary
 
+
+	def load_media(entry):
+		media = podgen.Media.create_from_server_response(entry["audio"][audio_idx]["url"])
+		try:
+			if "filename" in entry:
+				return media.populate_duration_from(entry["filename"])
+		except:
+			logging.warning(f"Failed to load duration from file '{entry["filename"]}'")
+		return media
+        
+
 	p = podgen.Podcast(
 			name=config.podcast_title,
 			description=config.hello_text,
@@ -123,7 +138,7 @@ def generate_feed(content, audio_idx=0):
 			summary=entry["summary"],
 			long_summary=("<p>%s</p>\n%s" % create_long_summary(entry)),
 			publication_date=entry["publicationDate"],
-			media=podgen.Media.create_from_server_response(entry["audio"][audio_idx]["url"]),
+			media=load_media(entry),
 		) for entry in content]
 	return str(p)
 
@@ -139,13 +154,15 @@ def parseArgs():
 	parser.add_argument("yaml_file", type=str, help="The content file.")
 	parser.add_argument("-o", "--output-dir", type=str, default=".",
 			help="Output directory (default: .)")
+	parser.add_argument("-d", "--data-dir", type=str,
+			help="Folder containing all files for duration field in rss (optional)")
 
 	return parser.parse_args()
 
 
 def main():
 	args = parseArgs()
-	content = list(read_content_yaml(args.yaml_file))
+	content = list(read_content_yaml(args.yaml_file, args.data_dir))
 	with open(os.path.join(args.output_dir, "index.html"), "w") as outfile:
 		outfile.writelines(generate_html(content))
 
