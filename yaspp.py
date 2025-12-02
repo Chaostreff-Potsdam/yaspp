@@ -17,15 +17,15 @@ import templates
 import html.parser
 
 class HTMLStripParser(html.parser.HTMLParser):
-    def __init__(self):
-        super(HTMLStripParser, self).__init__()
-        self.result = []
+	def __init__(self):
+		super(HTMLStripParser, self).__init__()
+		self.result = []
 
-    def handle_data(self, data):
-        self.result.append(data)
+	def handle_data(self, data):
+		self.result.append(data)
 
-    def get_text(self):
-        return "".join(self.result)
+	def get_text(self):
+		return "".join(self.result)
 
 def strip_html_tags(html):
 	p = HTMLStripParser()
@@ -37,11 +37,11 @@ def strip_html_tags(html):
 def read_content_yaml(filename, data_dir=None):
 	for entry in yaml.load_all(open(filename), Loader=yaml.Loader):
 		for audio in entry["audio"]:
-			audio["url"] = string.Template(audio["url"]).substitute(
-					media_base_url=config.media_base_url)
 			if data_dir is not None:
 				audio["filename"] = string.Template(audio["url"]).substitute(
 					media_base_url=data_dir)
+			audio["url"] = string.Template(audio["url"]).substitute(
+					media_base_url=config.media_base_url)
 		yield entry
 
 
@@ -111,14 +111,15 @@ def generate_feed(content, audio_idx=0):
 
 
 	def load_media(entry):
-		media = podgen.Media.create_from_server_response(entry["audio"][audio_idx]["url"])
+		audio = entry["audio"][audio_idx]
+		media = podgen.Media.create_from_server_response(audio["url"])
 		try:
-			if "filename" in entry:
-				return media.populate_duration_from(entry["filename"])
+			if "filename" in audio:
+				media.populate_duration_from(audio["filename"])
 		except:
-			logging.warning(f"Failed to load duration from file '{entry["filename"]}'")
+			logging.warning(f"Failed to load duration from file '{audio.get("filename")}'")
 		return media
-        
+
 
 	p = podgen.Podcast(
 			name=config.podcast_title,
