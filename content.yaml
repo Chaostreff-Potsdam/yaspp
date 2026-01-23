@@ -3011,3 +3011,43 @@ audio:
   - url: $media_base_url/2025_12_08-chaos-im-radio.mp3
     mimeType: audio/mp3
 long_summary_md: "**Shownotes:**\n\n#### Einstieg\n* 26% - heute mehr als ein Viertel des benötigten Stroms selbst erzeugt\n* Heimautomatisierung: Offene Firmware für Xiaomi-Thermometer [https://github.com/pvvx/ATC_MiThermometer](https://github.com/pvvx/ATC_MiThermometer)\n\n#### Digitalgipfel und \"Digitale Souveränität\"\n\n* [https://www.heise.de/news/3-5-Milliarden-Konten-Komplettes-Whatsapp-Verzeichnis-abgerufen-und-ausgewertet-11082660.html?seite=all](https://www.heise.de/news/3-5-Milliarden-Konten-Komplettes-Whatsapp-Verzeichnis-abgerufen-und-ausgewertet-11082660.html?seite=all)\n* [https://netzpolitik.org/2025/karsten-wildberger-digitale-souveraenitaet-ganz-ganz-wichtig-nur-nicht-bei-palantir/](https://netzpolitik.org/2025/karsten-wildberger-digitale-souveraenitaet-ganz-ganz-wichtig-nur-nicht-bei-palantir/)\n* [https://www.heise.de/hintergrund/Wie-der-Digital-Omnibus-die-EU-Datenschutz-und-KI-Regulierung-aendern-soll-11072105.html?seite=5](https://www.heise.de/hintergrund/Wie-der-Digital-Omnibus-die-EU-Datenschutz-und-KI-Regulierung-aendern-soll-11072105.html?seite=5)\n\n#### 39c3\n* Es ist wieder Congress! - 39c3, vom 27. bis 30.12. in Hamburg\n* [https://events.ccc.de/category/39c3/](https://events.ccc.de/category/39c3/)\n* Thema: Power cycles\n* wir sind wieder mit dabei, als Teil der ChaosZone\n* vermutlich wieder in Halle H, bei den roten Regenschirmen\n* Kommt vorbei!\n* Mastodon: #39c3 #39c3tickets #chaoszone\n* Vorträge werden gestreamt\n\n### Playlist zur Mukke\n* [FMA: Link zur Playlist](https://freemusicarchive.org/member/hannes-1/cir-2025-12/)\n\n\n**Musik:**\n\n&#x1f3b6;&nbsp;[Equiloud - New Kid - Free Music Archive](https://freemusicarchive.org/music/equiloud/zero-plus-zero/new-kid/)\n&#x1f3b6;&nbsp;[1000 Handz - Smoothie - Free Music Archive](https://freemusicarchive.org/music/1000-handz/cc-by-free-to-use-electronicgaming-instrumentals/smoothie-1/)\n&#x1f3b6;&nbsp;[HappyWorldWithMochi - \U0001F60E [Pop/Electro] - Free Music Archive](https://freemusicarchive.org/music/happyworldwithmochi/popelectro/popelectro/)"
+---
+uuid: nt-2026-01-12
+title: 'CiR am 12.01.2026'
+subtitle: Der Chaostreff im Freien Radio Potsdam
+summary: >
+  Hannes, Knurps und Cyroxx frieren im Freiland-Studio und reden über den Kongress und digitale Unabhängigkeit.
+
+publicationDate: "2026-01-12T00:00:00+00:00"
+audio:
+  - url: $media_base_url/2026_01_12-chaos-im-radio.mp3
+    mimeType: audio/mp3
+long_summary_md: |-
+  **Shownotes:**
+
+  * [https://fahrplan.events.ccc.de/congress/2025/fahrplan/events](https://fahrplan.events.ccc.de/congress/2025/fahrplan/events)
+  * [https://media.ccc.de/c/39c3](https://media.ccc.de/c/39c3)
+  * 39c3 ssemblies
+  * ISDN auf dem Kongress:  [https://media.ccc.de/v/39c3-isdn-pots-telephony-at-congress-and-camp](https://media.ccc.de/v/39c3-isdn-pots-telephony-at-congress-and-camp)
+  * CERT - Sanitätsdienst auf dem Congress
+  * [https://media.ccc.de/v/39c3-chaospager-how-to-construct-an-open-pager-system-for-c3](https://media.ccc.de/v/39c3-chaospager-how-to-construct-an-open-pager-system-for-c3)
+  * FeTaP 611 unplugged
+  * [https://media.ccc.de/v/39c3-hacking-washing-machines](https://media.ccc.de/v/39c3-hacking-washing-machines)
+  * wheelchair.py / pwn2roll
+
+  * [https://di.day/](https://di.day/)
+  * [https://media.ccc.de/v/39c3-die-kanguru-rebellion-digital-independence-day](https://media.ccc.de/v/39c3-die-kanguru-rebellion-digital-independence-day)
+  * nächster Termin am 1.2. in der Machbar (unter anderem)
+  * Mastodon, nextcloud
+  * [https://www.4000-tonnen.de](https://www.4000-tonnen.de) Kartoffeln
+  * [https://www.freiland-potsdam.de/de/projekt/solikante](https://www.freiland-potsdam.de/de/projekt/solikante)
+  * DeltaChat und Matrix
+  * [https://media.ccc.de/v/39c3-pruf](https://media.ccc.de/v/39c3-pruf) PRÜF!
+  * Stromausfall Südwest-Berlin
+
+  * [FMA: Link zur Playlist](https://freemusicarchive.org/member/hannes-1/cir-2026-01/)
+
+  **Musik:**
+
+  &#x1f3b6;&nbsp;[Broke For Free - Night Owl - Free Music Archive](https://freemusicarchive.org/music/Broke_For_Free/Directionless_EP/Broke_For_Free_-_Directionless_EP_-_01_Night_Owl/)
+  &#x1f3b6;&nbsp;[Zane Little - Dizzy Racing - Free Music Archive](https://freemusicarchive.org/music/zane-little/a-bag-of-chips/dizzy-racing/)
