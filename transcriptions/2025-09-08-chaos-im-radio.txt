@@ -1,0 +1,513 @@
+ Doch ein großer, derartiger Anfang zu Chaos im Radio.
+ Hallo und herzlich willkommen.
+Es ist September und der zweite Montag im Monat.
+ Deshalb hört ihr uns im Freien Radio Potsdam und wir, das sind der Knurps.
+ Moin moin, der Cyroxx.
+ Hallo.
+ Und ich, der Hannes.
+ Hallo Hannes.
+ Ja, wir reden aus dem Freiland, um Leichtzeit versetzt.
+ Das ist die Gravitation.
+ Das müsste an am Mond liegen, aber das können wir ja nachher noch klären.
+ Also Gravitation funktioniert auf jeden Fall noch, haben wir gerade für euch getestet.
+ Richtig.
+ Was auch funktioniert ist UKW immer noch.
+ Und deswegen hört man uns da auf 90,7 MHz in Potsdam und in Berlin auf 88,4 MHz.
+ Und das sage ich jetzt hier voller Selbstbewusstsein.
+ Man hört uns jetzt auch wieder auf radio.ccc-p.org.
+ Ich habe den Witz übrigens 2023 fast durchgängig gemacht, dass man uns wieder hört.
+ Das kann ich jetzt auch sagen, weil da habe ich auch damals schon gesagt, wenn man es nicht hört, dann hört man es ja nicht.
+ Passt schon.
+ Aber ich bin voller frohsinn, dass wenn wir diese Episode hier rausbringen, demnächst dann werden auch alle anderen oder fast alle anderen mit rein purzeln.
+ Auch darüber kann man kurz sprechen.
+ Radio.ccc-p.org und ansonsten auch auf DRB+ oder FRBB und 24/3.
+ Das hat sich auch immer noch nicht beunertet.
+ Das hat 75 bis 239 MHz, mach egal.
+ Ach, ist das so?
+ Ja, ich habe Grenzen.
+ Ach, also dann auf DRB.
+ Da das aber digital ist, ist das nicht so wie beim analogen Radio, wo man so eine konkrete Frequenz ist.
+ Das ist keine Ahnung, Radio.
+ Guckt man das dann verschlüsselt, oder?
+ Nee, genau.
+ Und außerdem kann man es auch immer noch E-Mails schreiben an radio.ccc-p.org und sich mit uns freuen, dass wir bald wieder online sind.
+ Und außerdem @cccp@chaos.social ist unser Mastodon-Account, auf dem wir auch mal gucken, was so los ist.
+ Sagen wir wahrscheinlich auch nachher noch mal.
+ Genau, und da haben wir jetzt, glaube ich, alles.
+ Was hier oben in den blauen Kasten steht, haben wir ja alles vorgelesen jetzt,  sondern können wir jetzt auch über dieses Chaos reden, was wir...
+ Und den Lückenstoß dann, oder wie?
+ Genau.
+ Was passiert denn, oder was muss dann gerade passieren, damit wir wieder live und online auf der Webseite auch mit aktuellen Folgen verfügbar sind?
+ Genau.
+Es wird vermutlich passieren, dass eine unserer Folgen, die richtig schön war, ziemlich weit nach hinten rutscht.
+ Schade eigentlich.
+ Die können wir ja dann bei Gelingheit noch mal verlinken, spätestens nächsten Monat.
+ Ja, da bin ich mir gespannt.
+ Ich glaube, das war gar nicht das Problem.
+ Ich glaube, das Problem war einfach, dass wir einen Backlog hatten, und weil das ja so viel Arbeit war, haben wir das Backlog lieber erwachsen lassen.
+ Und dann unsere Hörerinnen, was ist eigentlich das Problem?
+ Wenn wir den Gerümpel hier veröffentlichen, dann ist das natürlich einmal im Radio und dann auch im Podcast.
+ Das ist an sich erst mal kein Unterschied.
+ Aber wir haben schon den Anspruch, dass wir in den Show Notes zumindest die Musiktitel nennen, die wir spielen.
+ Das steht ja sozusagen auch in der Lizenzbedingung.
+ Und das waren halt irgendwie immer 0,5 Minuten Arbeit, die wir nicht machen wollten.
+ Deswegen ist das Backlog erwachsen.
+ Und jetzt war das auf einmal mit einem mal ganz schön viel Arbeit.
+ Und dafür habe ich dann...
+ Ja, und auch, weil wir zumindest so ein paar Show Notes da irgendwie noch machen.
+ Genau, ein paar Show Notes.
+ Also bei dir klingt ja so, als wäre das so komplett trivial.
+ Aber es ist halt schon, wenn man sich so ein bisschen die Mühe macht über zum Beispiel auch so Sachen, die wir mal spontan irgendwie mit reingeworfen haben,  sich dann doch noch mal irgendwie mal noch einen Link raussuchen und dann noch mal irgendwie vielleicht auch noch einen zweiten oder so.
+ Dann kommt da schon ein bisschen was zusammen an, so zeitliche Investitionen.
+ Also die eigentliche Krux ist ja, dass wir im Prinzip ja Show Notes schreiben, aber halt nicht ins Reine.
+ Und je mehr Show Notes wir dann live geschrieben haben, desto mehr muss man nochmal drüber gucken,  was man da noch anpassen muss oder so.
+ Und deswegen genau.
+ Also ich glaube, ich habe es gegengerechnet, als ich dann wirklich im Flow drin war in meinem Urlaub,  habe ich so pro Folge mit anhören, etwa 15 bis 20 Minuten gebraucht, um es vorzubereiten.
+ Und dann müsste man natürlich nochmal irgendwie ein zweites paar Augen drüber schicken und so.
+ Also ja, wahrscheinlich steckt dann ungefähr noch mal eine Stunde drin pro Podcast.
+ Genau, aber was wir halt zumindest geschafft haben im Urlaub ist zu automatisieren, was zu automatisieren geht.
+ Also zumindest, dass das dann irgendwie veröffentlicht wird und so weiter, weil wir keine...
+ Also doch, wir nehmen ein bisschen Software von der Stange, aber nicht viel.
+ Also vor allen Dingen über kein WordPress oder sowas.
+ Und deswegen haben wir da ein bisschen selber Skriptchen geschrieben.
+ Die werden jetzt irgendwie in continuous integration angestoßen.
+ Und genau und dann das andere ist halt die Show Notes aus dem System, in dem wir so live freien Tippen  in unsere Gitarre-Prepositöre zu überführen, indem die letztendlich entstehen.
+ Das ist jetzt auch automatisiert mit ein bisschen Vibe-Coding in Go.
+ Soll heißen, also ja, man darf sich da ein bisschen schon mal freuen,  dass da wieder die Lücke geschlossen wird und alles viel besser und schöner und runter wird.
+ Und genau, lasst mich noch zwei Sachen anhängen.
+ Also die eine Sache, das haben wir auch öfter besprochen.
+ Ich hatte ja das Vergnügen quasi viel von dem, was wir in den letzten zwei Jahren erzählt haben, nochmal mehr anzuhören.
+ Wir haben öfter mal über transkribieren gesprochen.
+ Also tatsächlich in der ersten Episode, die wir nicht veröffentlicht haben, haben wir darüber gesprochen, wie schlecht transkribieren geht.
+ Ich möchte hier zu Protokoll geben, dass das jetzt ganz fantastisch geht.
+ Nämlich mit Whisper-CPP, was dann auch in den Show Notes steht.
+ Also Whisper war die eines der ersten Dinge, das was OpenAI veröffentlicht hat.
+ Haben wir damals auch ganz groß darüber gesprochen, dass das ja so eine Firma ist und bla bla bla.
+ Little did we know, dass drei Jahre später das wahrscheinlich jeder schon mal gehört hat von dieser Firma.
+ Genau, und die haben eben vor JetGPT auch schon dieses Whisper rausgebracht.
+ Und damit kann man ganz hervorragend transkribieren und irgendjemand auf Github hat.
+ Das Ganze nochmal in C++ umgeschrieben, also das Pool, was quasi das Modell dann antreibt.
+ Das heißt dann Whisper-CPP und das funktioniert ganz hervorragend auf dem Laptop.
+ Also man braucht nicht mal irgendeinen Internet Service oder so.
+ Und wenn man dann noch die Kommando-Zeilen-Argumente richtig zusammen drückt,  dann kommt da tatsächlich ganz brauchbare Untertitel raus.
+ Und wenn wir es richtig machen, dann kriegen wir die auch sogar noch irgendwie in die Portcatcher mit rein.
+ So dass man wie bei, was hast du uns vorhin gezeigt Knurps?
+ Das ist Laptop.
+ Das sieht man das ja auch schon und das können wir genau so machen.
+ Genau, das war das eine, was ich sagen wollte und das andere, wie unsere Hörerinnen wissen, spielen ja viel Musik aus dem Free Music Archive.
+ Und was ich in den letzten Jahren immer gemacht habe, war das auch in so Playlists zu schmeißen im FMA.
+ Und die habe ich jetzt im Zuge, der das glatt zieht, so gut zu sagen, auch alle mal veröffentlicht.
+ Also falls es jemanden interessiert, was wir da gemacht haben, kann man das auch dort im Free Music Archive unseren Playlists nachhören.
+ Ansonsten stehen halt auch alle Musikstücke in unseren Show Notes.
+ Den Link zu den Playlists packe ich also auch noch mit rein.
+ Und dann, was mir eine besondere Freude war, weil ich eben so sehr darauf geachtet habe, dass alle Musik immer verschau-notet ist.
+ Wir haben ganz oft und immer wieder über den Künstler Hollisner gesprochen, oder Hollisner.
+ Und weil der im Künstler-Namen, im Free Music Archive hat er noch CC0 hin dran stehen.
+ Was, wie wir schon vermutet haben, die Creative Commons-Lizenz sein soll.
+ Aber wir sind auch auf die Idee gekommen, dass das ja Hollisner-Show heißen könnte oder ähnliches.
+ Und dann will ich jetzt hier mal zur Protokoll geben.
+Nein, es gibt nämlich gerade im Free Music Archive ein Podcast mit ihm.
+ Und da wird sein Name korrekt ausgesprochen, Hollisner.
+ Und ja, das will ich jetzt hier mit nachreichen.
+ So heißt er.
+ Oder sie, ich habe den Podcast, ehrlich gesagt nicht, ich habe nur bis dahin gehört, wo der Name das erste Mal genannt wurde.
+ Genau, das war jetzt so quasi die Aufarbeitung der letzten drei Jahre.
+ Ja, dann können wir ja fortfahren in ganz entfernte Gebiete.
+ Ich habe auch noch so ein kleines süßes Thema mitgebracht für den Anfang.
+ Und zwar bezüglich fortfahren, man kann ja auch mit dem Fahrrad irgendwo hinfahren, Urlaub machen, längere Radtouren.
+ Und ich habe so was auch mal gemacht, das ist jetzt allerdings auch schon wieder so 20 Jahre her.
+ Man könnte sich vielleicht daran erinnern, dass es damals noch keine Smartphones gab.
+ Das hat Dinge schon mal ein bisschen anders gemacht.
+ Und war es mittlerweile halt schon längst möglich.
+ Ich habe jemanden in meinem Bekanntenkreis, der fährt gerade nach Rom mit dem Fahrrad und streamt dabei auf Twitch.
+ Und lässt sich natürlich auch navigieren mit OpenStreetMap.
+ Ja, also das ist auf jeden Fall eine ganz gute Sache.
+ Da kann man quasi von zu Hause der Person beim Rad hinzuschauen.
+ Und ein bisschen was von der Toskana zum Beispiel sehen.
+ Es ist schöner.
+ Ja.
+ Wie sieht es zu meinem Datenvolumen aus?
+Läuft es, oder?
+ Ja, läuft.
+ Wobei tatsächlich Datenvolumen auch auf der empfangenen Seite tatsächlich echt ein Thema ist.
+ Weil so Video Streaming unterwegs verbraucht dann doch erstaunlicherweise viel Datenvolumen.
+ So dass man dann doch mal schnell so eine Meldung erhält.
+ Sie haben, also was weiß ich, es ist die erste sieben Tage in den Monat hinein und dann kriegt man so eine Meldung.
+ Sie haben schon 80% ihres Datenvolumes verbraucht.
+ Okay.
+ Aber es ist ja ein europäisches Nicht-Deutsches Hindi-Netz wahrscheinlich ganz gut ausgebaut.
+ Ja.
+ Toskana ist ja auch flach dort.
+ Ja, also manchmal hast du natürlich noch Funkloch.
+Ja, aber geht schon, also insofern.
+ Und natürlich sieht man dann manchmal auch so dadurch Fehler auf Open-Street-Map.
+ Möglicherweise.
+ Oder wo halt irgendwie vielleicht man noch mal so ein bisschen nachschärfen sollte.
+ Zwei Highlights der Tour waren, sie wurden also erst noch mit einer anderen Person unterwegs gewesen, ein Stück weit.
+ Sie wurden unter anderem über die Europa-Brücke der Brenner Autobahn geleitet mit ihrem Fahrrad.
+ Also es gibt einen Fußweg, aber der ist halt gekennzeichnet auch als so, man kann dann mit dem Fahrrad lang als vielleicht nicht so ganz zu empfehlen.
+ Insbesondere wenn dann noch auf diesem gefühlt 50 cm breiten Stück zwischen Leitplanke und Zaunen, wo dahinter sich 300 m Abkont befinden, dann da noch irgendwie ein Schild im Weg steht.
+ Kommt man eher ein bisschen schwieriger vorbei.
+ Und das andere war so ein bisschen sehr off-road, wo du dann mit einem E-Bike, das war dann schon in Italien, wo sie dann halt irgendwie sehr viel schieben musste.
+ Berg hoch, Berg runter.
+ Mit einem Mountainbike wäre das vielleicht sogar gegangen, möglicherweise.
+ Aber so als so mit einem Trackingrad eher nicht so.
+ Und wenn dann auch dazu kommt, dass du nicht immer aus der Ferne irgendwie mitverfolgen kannst.
+ Was ist da jetzt eigentlich gerade passiert und dann der Stream wieder kommt mit so einer stönden und schnaufenden Person und dir so denkst du, okay,  ist ja da jetzt gerade irgendwo ganz böse irgendwo runtergestürzt und versucht, gerade mit letzten Kräften da jetzt irgendwie sich wieder in die Zivilisation zurückzuroppen.
+ Das ist dann schon auch ein bisschen abenteuerlich.
+ Also, das ist so der Klassiker von so, wenn einer eine Reise tut, dann kann er was erzählen.
+ Aber wir hatten, weil dir gerade Open-Street-Map da irgendwie auch mit zusammengebracht hat, ich glaube wir hatten das auch schon mal erwähnt, diese App "Street Complete",  mit der man genau nur nochmal das hier plagen, weil das ja so ein schöner Zeitvertreib beim Wandern ist  und andererseits auch so nützlich, dass man irgendwie Daten auf Open-Street-Map sammeln kann.
+ Ach so, und was auch noch witzig ist an der Stelle, lässt sich halt Kamera bei entsprechen und lässt sich auch per Text-to-Speech den Chat vorlesen  und kann dann natürlich auf diese Art und Weise dann mit dem Chat interagieren.
+ Also das ist dann natürlich eine schöne Art der 2-Wege-Kommunikation.
+ Und das sind halt alles so Sachen, die waren halt vor 20 Jahren halt noch nicht so in der Form möglich.
+ Und jetzt sind sie es aber.
+ Ich kann das übrigens so, weil wir es ja vorhin auch vom Transkribieren hatten, andersrum dieses Text-to-Speech.
+ Da gibt es ja, also eigentlich ist das ja Gefühl so gelöst, man kann halt ja mit wunderschöner Stimme sich Texte vorlesen lassen.
+ Aber wenn ich das immer versuche mal mit Open-Source-Tools zu reproduzieren, kommt immer ganz schöner Müll bei raus.
+ Also entweder habe ich halt immer noch so eine Stimme wie damals bei, weiß ich nicht, Windows XP, die sehr maschinell klingt  oder ich muss halt doch auf irgendein Service gehen, der halt im Internet hängt, um das schön zu machen.
+ Das hat mich so ein bisschen verwirrt.
+ Also ja, über Hinweise an radio@ccc-p.org, wie man schön Text-to-Speech macht, bin ich dankbar.
+ Also ich habe es jetzt auch vor allem in, vor allem bezahl, Dienste mal so ein bisschen mitgekriegt, die dann aber tatsächlich auch recht gut funktionieren.
+ Manchmal auch vielleicht ein bisschen zu gut, also ich schiehe da so ein bisschen auf eines der Themen, dass wir hier gerade in der Liste haben.
+ Da vielleicht wollen wir da einfach, weil wir gerade bei Text-to-Speech sind, da vielleicht mal hin.
+ Und zwar hatten wir ja vor zwei, drei Monaten ungefähr mal, glaube ich, schon erwähnt, dass Schauspieler*innen oder so Voice Actors,  also so ein Grundsprecher*innen, Klage erhoben haben gegen Menschen, die einfach ungefragt ihre Stimme benutzen für so genau solche Geschichten.
+ Sie haben dem nicht zugestimmt, kriegen kein Geld davon, aber deren Stimme wird irgendwie verwendet für so Stimmenklone.
+ Und da hat tatsächlich auch mittlerweile ein recht prominenter Fall jetzt Deutschland erreicht.
+ Und zwar in Form einesfalls anhand von Manfred Lehmann, diejenigen, die sich ein bisschen mehr mit Film und Werbung beschäftigen,  kennen den Namen vielleicht, ansonsten, wer wem der Name nix sagt.
+ Also wenn ihr mal die deutsche Version oder die deutsch synchronisierten Filme mit Bruce Willis, Gerade Padieu,  "Court Russell" gehört habt oder beispielsweise auch die Praktikerwerbung mit den 20% auf Tiernahrung,  das ist die Stimme von Manfred Lehmann und da gab es jetzt tatsächlich einen Fall, dass ein YouTuber seine Stimme genommen hat,  einen Klon daraus erzeugt hat und Videos damit mit seiner Stimme zu vertonen.
+ Und das fand er nicht so gut, weil das nämlich auch um Inhalte ging an der Stelle, zu denen er weder zugestimmt hat,  noch mit denen er sich identifiziert.
+Und das ist dann vor Gericht gelandet.
+ Falscher Mute-Button hier.
+Das hatten wir auch an, wo man da jetzt gerade gedacht,  ach so, nee, es gab ja das Gleiche auch schon oder das wird ja wahrscheinlich noch mehr kommen für tatsächlich so deep, deep Fakes.
+ Also wie jetzt z.B.
+Prinzessin Lea in den Star Wars Filmen nochmal nach ihrem Tod, also nach dem Tod der Schauspielerin Carrie Fisher,  noch aufgetaucht ist.
+Da gab es ja auch schon, ich glaube das haben wir ja auch schon thematisiert, irgendwie Bruce Willis,  der komplett KI generiert in irgendeiner Werbung aufgetaucht ist und da wohl sein Einverständnis gegeben hat.
+ Also da wird bestimmt noch viel Spannendes passieren.
+ Naja, also es gibt dazu passend ja auch gerade so die Fälle von Lars Klingbeil und Günther Jauch für Finanztrickswerben.
+ Also meint man im ersten Moment, aber tatsächlich ist auch das alles irgendwie KI generiert.
+ Ich habe es selber schon gesehen, dass mir ein vermeintlicher Günther Jauch in einem Interviewsetting Finanz- und Anlagetipps geben wollte  und klicken sie doch bitte hier für mehr Infos.
+ Und es gibt auch ein Artikel bei Mimi Karma, den wir in den Show Notes verlinken werden, wo es eben auch darum geht,  dass nein, es die prominenten Werben jetzt nicht für Finanztipps.
+ Bisher war das ja immer eher so irgendwie eingeblendete Werbung auf Webseiten, so geschaltete Anzeigen,  so von wegen so mit diesem, mit diesem Tipp sind die Promis zu Geld gelangt.
+ Oder der Tipp von Höhle der Löweninvestor und dann bist du auf irgendeiner komischen Seite gelandet  und jetzt erobern Sie offenbar die Bewegtbildplattform, indem Sie halt dann solche Clips relativ gut,  also wer nachahmen können oder produzieren können.
+ Man kann schon noch ein bisschen mitkriegen, dass es fake ist, aber es ist schon recht gut mittlerweile.
+ Also klassischer Fall von Dual Use, was man für gute Dinge verwenden kann,  kann man auch an der Stelle auch für negative Sachen und Betrugsgeschichten kommen in die Gruppe verwenden.
+ Ja, ich wollte auch hier noch, das ist die Tag an mir vorbeigeflogen, kam jetzt wieder raus,  also dass da so rechtlich halt irgendwie einiges gerade durchgeht  und sicherlich auch, das kommt ja immer noch dazu, dass China, Europa und Amerika da auch irgendwie grundsätzlich  unterschiedliche Meinungen dazu haben, was Urheberrecht ist und was dazuzählt.
+ Aber hier flog irgendwie sogar bei Tagesschau durch das Entrophic, das sind die mit,  ich glaube die sind von Amazon gebackt und machen halt auch so eine Art Chatchapity,  dass die jetzt irgendwie was 1,5 Milliarden in einen Fond einzahlen, der an Autoren rausgehen soll.
+ Aber das ist ja dann irgendwie auch eine Einmalzahlung, also ich bin gespannt, wie das weitergeht.
+ Aber irgendwie tut sich da was, es wird wahrscheinlich eh nicht laufen,  wie eben auch mit Musikstreaming und Video Streaming, dass das irgendwie alles aufgeräumt wird  und neu wird und KI in der Tat gerade alles.
+ Jedenfalls im Fall von Manfred Lehmann, wie gesagt das ging vor Gericht, und zwar vor das Landgericht Berlin.
+ Und dort hat man entschieden, dass so ein Grundstumm nicht mithilfe von KI imitiert  und für kommerzielle Zwecke genutzt werden dürfen, jetzt einfach mal eben so.
+ Genau, weil man hat da abgewogen die Meinungs- und Kunstfreiheit des YouTubers auf der einen Seite gegen die Persönlichkeitsrechte von Manfred Lehmann  und hat halt dafür entschieden, also da werden ja offenbar Sachen beworben  und jetzt nicht einfach nur das Mal aus Kunstgründen irgendwie verwendet  und das Persönlichkeitsrecht von Manfred Lehmann liegt an der Stelle halt höher oder deutlich höher  und deswegen war das an der Stelle jetzt nicht zulässig diese Stimme zu verwenden.
+ Genau, aber auch da ist eben die Frage generell, so was wird es immer wieder geben,  weil es ist halt auch einfach, solche Stimmklone zu erzeugen.
+ Ich hatte das glaube ich auch schon mal hier in diesem Rahmen erwähnt, es braucht tatsächlich nicht viel,  du brauchst wenige Minuten, wenn überhaupt, an Stimm-Schnipseln von einer Person, um da Stimmklone zu erzeugen  und deswegen, wenn wir da so Sachen häufiger bekommen, ist die Frage, ob dann vielleicht zukünftig  dann sowas gibt, zumindest für die so Grundsprecher, die irgendwo organisiert sind,  dass es dann vielleicht auch so eine Art Content-ID oder irgendwas in der Richtung vielleicht dann gibt,  die erkennt, wenn es sich da um eine bekannte Stimme handelt oder handeln könnte,  um entweder dann die Zustimmung zu erwirken oder das Ganze zu verbieten,  dass du das gar nicht erst hochladen kannst.
+ Also es wird durchaus interessant sein und auch wie eine entsprechende faire Beteiligung gegebenenfalls an so was aussehen kann.
+ Spannend jedenfalls, um wie viele Stellen es da in der Umgebung gibt.
+ Es ist ja auch schon wieder so ein kleiner Kaninchenbauer, ich meine es gibt Sicherheitssysteme, die auf Stimme basieren.
+ Wie sieht es denn da so aus?
+ Man darf wahrscheinlich nicht legalerweise den Fingerabdruck eines anderen fälschen.
+ Darf ich dann legalerweise die Stimme eines anderen fälschen?
+ Fälsch sie ja nicht, du kopierst sie nur.
+ Nein, aber genau, also Spaß beiseite, das war natürlich jetzt gerade nicht ernst gemeint,  aber das ist eben genau das, es verletzt halt die Persönlichkeitsrechte der Person.
+ Das ist ja eben genau das, was aus meiner Sicht aus diesem Gerichtsorteil jetzt rauskam.
+ Wir sind jetzt hier alle Kaninjuristen, aber für mich geht diese Artikel oder diese Urteil ist schon mein erster Wegweise,  in welche Richtung es ein bisschen gehen wird oder welche Sachen man gegeneinander auffegen muss.
+ Ja, ich habe meine Stimme nicht getroffen, deswegen ist Copyright natürlich kein Argument, aber irgendwo muss es da doch.
+ Ja, wie gesagt, ich denke, die Amis werden da zu einem anderen Schluss kommen als die Europäer.
+ Aber wer weiß, wer weiß.
+ Genau, hier apropos Urheberrecht und Lizenzen, lasst uns doch mal Musik spielen.
+ Das ist ein Free Music Archive, habe ich ja wieder was ausgegraben.
+ Und zwar aus den Charts diesen Monats kommt von Amarennd ein aus dem Album "Free Trans Music",  also ein bisschen was Elektronisches, ein Song der heißt "End the Beat Goes On"  und wir hören uns hier in 2 Minuten wieder bis dahin.
+ Bis gleich.
+ Ja, wir haben uns schon wieder Kalibrieren, was ja eigentlich los ist.
+ Wir sind Chaos im Radio aus dem Freiland, aus dem freien Radio Potsdam, jeden zweiten Montag im Monat,  auf immer noch UKW 90,7 MHz, totgesagt der Leben länger, und in Berlin auf 8,4 MHz  und auf die AB+ bei FR-BB und 24/3  und unter radio.ccc-p.org.
+ So, genau.
+ Und übrigens, wir sind ja aus der Machbar, wir 3 oder 4, je nachdem wie viele wir mal nicht mal hier sind,  manchmal sind wir auch viel mehr, habe ich mitgekriegt.
+ Und wir treffen uns dann mal mittwochs und 19 Uhr im Chaos-Treff,  aber auch ansonsten ist die Machbar ein Ort zum Aufhalten und zum Basteln,  vor allen Dingen Holzwerkstatt im Bund der feinen Werkstätten.
+ Kommt gerne vorbei im Haus 5 im Freiland, bevorzugt natürlich irgendwie Holz, genau.
+ Also Holz, 3D-Druck, nähen.
+ Ja, Stimmen nähen, ganz groß, ja.
+ Und Elektro halt löten, genau so.
+ Und Menschen, Menschen sind auch da.
+ Vorzug natürlich irgendwie abends und am Wochenende, da findet man eigentlich Menschen da.
+ Hier, ich wollte noch was Schönes.
+ Da hast du ja vorhin schon Cyroxx von der Zeit vor, vor dem Smartphone.
+ Ungefähr da hat sich auch noch was anderes eingesiedelt.
+ Kennt ihr den Kompiz noch?
+ Ich, ich, ich hatte Knoppix, glaube ich, hatte das alles, Distribution.
+ Der Herr Knopper hatte das.
+ Was ist, was ist, was ist Kompiz?
+ Ich habe keine Ahnung.
+ Du hast keine Ahnung?
+ Wie schreibt man oder wie ist man das?
+ Sehr gut, dass du keine Ahnung hast, dann kann man es hier nämlich mal erzählen.
+ C-O-M-P-I-Z.
+ Und das müsste so Windows XP-Zeit gewesen sein, also nur zur groben Einordnung.
+ Weißt du, was ich zu Windows XP-Zeit genutzt habe?
+ Windows XP?
+ Genau.
+ Der war für mich Linux noch kein Thema beispielsweise.
+ Und genau da kommen wir nämlich hin, weil was ja, was sicherlich heute noch viele bemengeln,  aber da gibt es halt mittlerweile mehr Möglichkeiten, ist es Linux noch sehr grau aussah.
+ Also, wer sich so ein bisschen damit beschäftigt, wie Linux funktioniert.
+ Das ist ja, Linux selber ist ja nur der Kernel, also der innere Kern.
+ Und das wie es aussieht, wenn man nicht gerade auf der Kommando-Zeile arbeitet,  ist ja die GUI, das Graphical-User-Interface.
+ Und das hat sich, das heißt im Linux-Sprech eigentlich,  ist das der Windows-Manager, mit dem man da zu tun hat.
+ Und da gibt es halt irgendwie einen riesigen Zoo von Windows-Managern.
+ Und was man damals, glaube ich, so kannte, war halt irgendwie Genome, der GNOME oder KDE.
+ Ich glaube sogar KDE ist irgendwie, nee, ich will nicht, ich weiß nicht genau, ob es hier kommt.
+ Auf jeden Fall, die haben es versucht, so ein bisschen bunt zu machen, sind aber da, ja, das war grau.
+ Das ist natürlich witzig, wenn man aus heutiger Zeit sich an Windows XP erinnert,  was ja auch eigentlich sehr grau ist aus heutiger Sicht.
+ Aber Linux sah halt vielleicht noch ein bisschen komischer aus.
+ Und genau in dieser Zeit ...
+ Also Windows sah vor Windows XP auch grau aus, muss man auch sagen.
+ Also mit Windows XP wurde das auch erst so knallig mit der Task-Leiste, die irgendwie blau und grün war.
+ Stimmt.
+Das stimmt.
+Also genau, es wurde irgendwie knallig.
+ Aber halt so Runde-Ecken und so ein Kram kam, glaube ich, in der Zeit auch auf, ja.
+ Und auch die Titel, die Title-Bars und so sah ja auch ein bisschen alles aus.
+ Naja, und jedenfalls genau in diese Zeit rein gab es dann so ein Projekt, das hieß Compits.
+ Und das war ein Window-Manager, der hat darauf aufgebaut,  dass endlich mal irgendwie funktionierende 3D-Grafiktreiber gab für Linux.
+ Und irgendwie haben sich eine Gruppe von Leuten gedacht, hey, lasst uns doch mal alles,  was es an grafischen 3D-Effekten gibt, in so ein Window-Manager einbauen.
+ Und ein paar Sachen hat man dann später, glaube ich, noch mal gesehen.
+ Aber es war fantastisch, weil das so überladen war mit 3D-Effekten,  was dann auf einmal auf dem Linux-Laptop blieb.
+ Also zum einen waren das Wobbly-Windows.
+ Das heißt also, wenn man ein Fenster hin und her schiebt mit der Maus,  ist es so hin und mitgewobbelt, als wäre es irgendwie aus Gummi.
+ Okay.
+ Und hat sich natürlich auch dementsprechend, also die ganze UI hat sich mit gehalten.
+ Wie so ein Wackelpudding oder was?
+ Ja, genau.
+ Du kannst natürlich das auch parametrisieren, wie sie erst wackelt.
+ Es hat natürlich auch noch nachgewackelt, wenn es an einem festen Platz war.
+ Und wenn du es maximiert hast, hat es extrem gewobbelt, also wirklich wie so ein Wackelpudding.
+ Das war das eine, das andere, wo einzelne Menschen, die wir hier nicht nennen,  aus dem Chaos-Treff heulen, wenn sie das heute sehen, vor Freude, war der Cube.
+ Der Cube war damals die Idee, dass du eben diese Workspaces-Size in fast allen Windowmanagers  jetzt, also die verschiedenen Desktops auf einem Würfel angeordnet hattest.
+ Und ich glaube damals war es auch so, dass man die, ja das war auch damals schon so,  man konnte die Windows-Taste drücken unter Linux und dann mit der Maus auf den Desktop greifen  und dann konnte man den Würfel, auf dem der Desktop war, halt drehen.
+ Okay.
+ Und wenn jetzt auf einer Seite zum Beispiel im VLC ein Video lief, dann lief das halt auch weiter  auf diesem Würfel.
+ Und das war natürlich in der Zeit, ja wann wird das gewesen sein, so "Northy" ist ja die  Ende des 2009en Zähnen irgendwie sowas, dass du da auf einmal irgendwie auf so einem 3D-Würfel  in laufendes Video hattest unter Linux, das war ja Wahnsinn.
+ Okay.
+ So, und es gab noch, ich weiß nicht, Klops, kannst du dich noch an andere lustige Effekte  erinnern, die die da eingebaut haben?
+ Also erschließen von Fenstern hatte, glaube ich, so drei oder vier verschiedene Effektmöglichkeiten,  mal so kleine Explosionen, mal aufgehend in Glitzer und auch das Ding, was ich später  noch bei MacOS, glaube ich, gesehen habe, so dieses Runterfahren in die Taskleiste.
+ Oh, stimmt, ja, dass das so nach unten verschwunden ist, genau, was es ja auch immer noch wahrscheinlich  ein Papierkorb gibt, dass sich das so reinsaugt.
+ Genau.
+ Das war schon spannend.
+ Also ich habe nichts Ahnend, irgendwann mal so eine Knoppix CD reingelegt, weil ich was  anderes tun wollte und dann kam mir Kumpels entgegen und ich dachte, moment, das läuft  mir hier gerade ab für einen Film.
+ Ja, genau, und genau so konnte man natürlich auch irgendwie so stufenloses Zoomen mit dem  Mausrad, ja, also sehr wilde Sachen.
+ Und neulich hatte ich ein bisschen Sehnsucht und habe gedacht, gibt es das eigentlich noch?
+ Und unter Ubuntu kann man halt tatsächlich Kompits noch installieren, aber es geht natürlich  nicht mehr.
+ Aber, und da kommen wir jetzt zur hier Empfehlung, wer also ein Linux Desktop benutzt, der die  kann ein Halbwegsmodern kann ein Window Manager namens Wayfire installieren.
+ Und das ist die Neuauflage von Kompits sozusagen, nur halt mit komplett geänderter Architektur,  weil ich meine, ich würde mich jetzt nicht zu sehr rumnörden, aber irgendwie wurde ja  unter Linux mal das ganze X-Windows-System durch Wayland ausgetauscht.
+ Ich packe das hier wieder mit in die Show Notes.
+ Und dann wird immer noch, oder?
+ Genau, also das ist immer noch nicht durch.
+ So ein bisschen ab hier vor 6.
+ Stimmt, genau, mittlerweile sind beides.
+ Aber genau dadurch muss man, also deswegen funktioniert glaube ich auch Kompits nicht mehr.
+ Genau, und dann kann man jetzt halt Wayfire benutzen.
+ Und das hat eben all die, also sie haben auch die Plugin-Namen behalten und so, die Parameter  sehen genauso aus, du kannst halt auch wieder Wobbly-Windows und Cube.
+ Und es ist schon fantastisch.
+ Also, wenn ich nicht so an meinem Hiling-Window-Manager i3 hängen würde,  ich würde ja wahrscheinlich umsteigen, um wieder den Cube benutzen zu können.
+ Genau, wer Lust hat, wie gesagt, Wayfire ist in den Repositories der meisten Distributionen drin,  kann man einfach installieren und dann startet man halt beim Anmelden einfach den anderen  Window-Manager und schon geht's los.
+ Ja, das ist ja zu eines der schönen Dinge Birlingox.
+ Viele Sachen Modular sind, dass man sich aussuchen kann, welche Variantät ich den heute gerne.
+ Genau.
+ Und ich meine, Hannes, nur weil du das auf deinem Arbeits- oder deinem Hauptrechner nicht verwenden möchtest,  heißt es ja noch lange nicht, dass man es nicht auf dem Bastelrechner der eigenen Wahl verwenden kann,  wenn der eine grafische Oberfläche hat.
+ Das stimmt, ich dachte mir gerade, ich muss mal gucken,  welches meiner Geräte jetzt schon mit Wayland läuft und welches noch nicht.
+ Ich glaube, in der Anwendung fällt es gar nicht auf, oder?
+ Nee, überhaupt nicht, nee.
+ Also es gibt halt, genau, also wenn du halt so ein bisschen mit der Kommando-Zeile rumbastelst,  dann weißt du halt ja, okay, alles was X im Namen hat, X im Namen hat, funktioniert jetzt wahrscheinlich nicht mehr so.
+ Also ich habe das Skripte geschrieben, die hier mein Monitor-Layout verändert haben und so,  die haben immer Xrandar oder wie auch immer das heißt, benutzt.
+ Das geht jetzt halt nicht mehr und keine Ahnung, wenn du Tastatur-Eingaben anfangen willst.
+ So, aber in der Benutzung merkst du dann nicht.
+ Na dann, auf, auf in neuer, alte Winno-Manager, vielleicht.
+ Ja, es ist sehr schön.
+Also wer kommt jetzt kennt, bitte macht das.
+ Wer es nicht kennt, legt mal eine alte Knoppix zu dir ein.
+ Ich glaube, ich weiß nicht, vielleicht so eine neue.
+ Also es lief damals, ich weiß nicht, es lief auf meinem 700-Euro-Laptop  und das war zu Zeiten, wo man eigentlich immer vierstellig für Laptops ausgeben musste  und ich hatte irgendwie so ein Zerron und sonst was.
+ Es lief auf den ganzen alten Kisten in der Uni.
+ Und wirklich erstaunlich performant, auch wenn man das Wort damals noch nicht verwendet hat.
+ Aber jetzt ist es ja Wayland, ob das da auch noch so ist?
+ Ja, also nicht unbedingt auf den alten Kreppel-Hardwaren, aber ja, ja.
+ Wollen wir mal gucken, ob das mit 32-Bit noch kompilieren kann?
+ Ich hatte da tatsächlich schon Schwierigkeiten mit alten Geräten.
+ Aber es waren sehr alte Geräte.
+ Ja, oder auch gewisse, also auch auf zumindest den älteren Raspberry Pies ist 64-Bit,  also da ist es eher, ja okay, aber das ist eher anders.
+ Das ist 64-Bit, vielleicht nicht ganz so unterstützt ist.
+ Wollen wir denn mal zu anderer, neuer oder alter Technik irgendwie, ich habe hier gelesen,  es gibt hier irgendwas mit zum Thema Studis, das hier immer dreingetackt hat.
+ Ach so, das ist mir beim Hören unserer alten Podcast-Episoden aufgefallen.
+ Wir haben da im März 2023 drüber gesprochen,  dass, wer sich noch erinnert, es gab mal diese Energie-Hilfe-Zahlung.
+ Ich weiß gar nicht, 200 Euro, 300 Euro einmalig, weil das Gas alle war,  drohte alle zu sein und deswegen war alles kurz mal teuer.
+ Ich glaube, es ist wahrscheinlich immer noch teuer, aber jetzt haben sie alle dran gewöhnt.
+ Und da hat der Bund über die Arbeitgeber irgendwie diesen Bonus ausgezahlt  und dann mal die Frage, wie machen das denn Studis?
+ Und die haben sich damals alle ganz frisch die Bund-ID besorgen müssen.
+ Wer damit jetzt nichts anfangen kann, ist auch nicht so schlimm.
+ Ich glaube, mit der Bund-ID kann man seine Rentenpunkte abrufen oder so.
+ Das hängt jedenfalls zusammen, hängend mit dem, was man mit dem Perso machen kann,  wenn man sich da mit der Ausweis-App irgendwo anmeldet.
+ Genau, und wenn man die Bund-ID anlegt und dann nicht benutzt, wie bei den meisten Sachen,  dann muss man ja laut DSGVO diesen Account auch irgendwann wieder einstampfen, dieses Konto.
+ Genau, und das war im März 2023 bzw.
+wir haben damals gesagt, die Deadline war gestern zum Anmelden.
+ Das war glaube ich alles noch nicht fertig.
+ Also jetzt sind halt die zwei Jahre auf jeden Fall rum und jetzt sind die ganzen Studis wieder rausgefallen aus der Bund-ID,  weil die dann danach das natürlich nie wieder benutzt haben oder was heißt natürlich.
+ Und jetzt ist hier nämlich rausgekommen, dass mehrere 100.000 von ca.
+5 Millionen Konten, also schon klingt so nach Größenordnung 10%,  der Konten sind halt jetzt wieder weg von Bund-ID.
+ Läuft halt ziemlich gut mit der Digitalisierung in Deutschland nicht.
+ Ja, also ob das jetzt ein Hinweis ist auf gute oder schlechte Digitalisierung,  ich sag mal so, was das ja zumindest mal mir so ein bisschen zeigt, ist so okay,  vielleicht hat man auch einfach nicht so oft mit dem Bund zu tun.
+ Vielleicht ist es auch noch nicht so, dass man für alles irgendwie das braucht, aber ich sag mal so,  wann muss ich mich mal gegenüber dem Staat irgendwie authentifizieren?
+ Nicht so oft und das ist jetzt auch nichts Schlechtes.
+ Stichwort Reisepass bestellen und so.
+Jetzt soll es ja so langsam mal...
+ Genau, aber das was du beschrieben hast ist ja jetzt erstmal grundsätzlich in Effekt dann auch von DSGVO,  dass nach zwei Jahren oder nach 24 Monaten, dass die Konten dann gesperrt oder gelöscht werden müssen nach Inaktivität  und das beißt sich halt mit "Hey, vielleicht will man dafür dann doch irgendwie vielleicht oder vielleicht doch nicht längere Konten haben",  aber also es ist jetzt erstmal so.
+ Ich denke es zeigt halt eher, dass die Bund-ID, ich meine das ist ja eine recht komplexe Infrastruktur mit Sicherheit,  dass die halt kaum Funktionalität hat, die man mal braucht.
+ Also ich denke eben auch, den Reisepass wird man vermutlich wieder nicht über die Bund-ID bestellen,  sondern bestimmt über kommunale Software.
+ Und dann existieren eben, das ist ja immer so Fluch und Segen zugleich.
+ Also wenn man mehrere Systeme hat, dann heißt das natürlich auch, dass nicht alles an einer Stelle liegt  und dezentrale Systeme haben ja ihre Vorteile.
+ Aber auf der anderen Seite hast du halt auch wieder 12 und 30 verschiedene Konten, die alle irgendwie komisch heißen.
+ Und was ich ja noch ansprechen wollte, war eben, dass mich so furchtbar irritiert,  dass Nachrichten, also auch hier wieder wie alle diese Konten, hat man da natürlich auch so ein Post-Eingang bei der Bund-ID,  wie man sie auch beim, keine Ahnung, eigenen Krankenkassenkonto hat und wo nicht auch noch sonst überall.
+ Und die Hinweise, dass jetzt eine neue Nachricht eingegangen ist, die kommen von einer Adresse,  die auf itsbund.de endet, also itzbund.de.
+ Und das war halt für mich so ein, kenne ich nicht, itsbund, weiß ich nicht, war ich nie.
+ Und natürlich sind auch unter itsbund, in der E-Mail Adresse sind dann halt Sachen verlinkt, die eben auf bund.de,  ist das eigentlich richtig?
+Ja, genau, verwaltung.bund.de gehen.
+ Und da frage ich mich ja, warum jetzt diese andere Domain für die E-Mails?
+ Das ist halt immer so, es ist halt auch super schwierig heutzutage Fishing, also dass jemand sich für jemanden ausgibt,  irgendjemand Vertrauenswürdigen in der Regel, dass das eben kaum noch möglich ist,  das zu unterscheiden von tatsächlichen, ernst gemeinten, in Anführungszeichen vertrauenswürdigen Nachrichten.
+ Also Scanner schicken allen E-Mails mit dem Scan von irgendwelchen seltsamen Adressen  und selbst der Bund schickt einem halt von einer irgendwie seltsamen Adresse eine E-Mail.
+ Ich finde ich nicht cool.
+ In dem Fall erst bei einer nicht genannten Versicherung, wo ich dann wirklich mal an meinen Versicherungsvertretern in der Mail geschickt habe,  Kopie, hier guck mal, ist das wirklich von euch.
+ Eine Woche später kam die Antwort, ja, es war wirklich von der Versicherung, ich hatte es beim Gehalten.
+ Ja, es war eben von der Mail-Adresse-Kam, wo ich die nicht gleich lautete wie die HTTPS-Webseite.
+ Ja, okay.
+Genau, also das sind dann natürlich auch nochmal so Sicherheits- und Benutzungsthemen,  wie oder welche E-Mail-Adressen werden für die Dienste verwendet.
+ Aber wie gesagt, das mit den gelöschten Bund-ID-Konten, wie gesagt, also für mich klingt das ja für einen Effekt von der Datenschutzgrundverordnung.
+ Okay, es ist ja eher so die Frage, wenn man mal in Richtung Akzeptanz denkt, okay,  jetzt habe ich das vielleicht irgendwie zwei Jahre nicht mehr gebraucht,  aber wenn ich dieses oder nächstes Jahr dann doch mal einen neuen Perso oder Pass brauche,  wie viel muss ich dann wieder machen, um das Konto zu reaktivieren oder mir ein neues Konto zu machen,  irgendwas in der Richtung.
+ Wenn das dann eben jedes Mal dann so ist, dass ich dann wieder ganz viel Papierkram  und vielleicht noch irgendwie was freischalten oder so machen muss, was ich nicht weiß.
+ Ich habe es noch nicht benutzt, aber das ist dann eher für mich, wer das in dem Team hat.
+ Weil wenn ich nur alle zwei, drei Jahre mal so an offizielle Stelle irgendwie was machen muss,  ist ja fein, also das ist jetzt nicht per se einen Problem, weil der Perso ist dann halt entsprechend zehn Jahre gültig.
+ Und dann muss ich den nur alle zehn Jahre ergänzen, ersetzen?
+ Also ich glaube, dass das alles in so eine Richtung geht, wo solche Technologien wie DNSSEC und RPKR,  also Resource Publicity Infrastructure, Signieren von Domänen, Namen und Domäneigentumsverhältnissen  wieder spannend werden kann.
+ Das heißt, dass man wirklich durch Signaturprozesse, die kryptografisch hinterlegt sind und halbwegs sicher sind  und wo es relativ schnell öffentlich werden dürfte, wenn sie geknackt werden, klar machen kann, ja,  alles was von dieser Adresse kommt, kommt auch wirklich von dieser Organisation und nicht von irgendwem anders.
+ Da muss ich ja irgendwie dann noch Domänes vertrauen, zum Beispiel.
+ Aber wenn dahinter so ein kryptografischer Prozess ist, RPK ist eine von diesen Technologien,  dann kann ich das halt auch irgendwie bis zu einem gewissen Grad.
+ Also ich hatte es neulich an einer sehr unerwarteten Stelle, nämlich von Google, der mir eine Mail geschrieben,  und zwar halt auch irgendwas automatisiert ist, das ich mal hier klicken soll und um weiß ich nicht was zu tun.
+ Und hinter dem Link, also das war so dieses Typische, da stand halt google.de/something,  aber der Link dahinter zeigte auch was anderes, der zeigte eben auf google-something-something.com  und das war auch legit, ja, also das war schon echt, das war vertrauenswürdig.
+ Aber mein E-Mail-Programm, was halt nicht Gmail ist, hat gesagt,  der Moment, also in dem Titel von dem Link steht 'ne andere Domain als in dem Link.
+ Und das ist halt das, was Kriminelle tun, und wenn der halt sogar Google das macht,  das ist wirklich, wirklich schwierig, damit noch klar zu kommen.
+ In dem Zusammenhang ist auch ein super spannenden Mail-Verteiler, also so ein Mailing-Listen-Server zu betreiben,  weil da kommen auch immer Adressen von den, sagen wir, Vereinsmitgliedern,  kommen rein mit deren Adresse und werden dann rausgeschickt mit der Adresse der Segelvereins.
+ Ja, es gibt diverse Technologien, die dann wieder nachweisen, dass das legit ist,  und dann geht's auch, aber das wird immer spannender, die auch dann ordentlich einzurichten  und die Schlüssel dahin zu legen, dass das auch gefunden wird.
+ Die Kim zum Beispiel als Stichwort, ein bisschen Sportes einzurichten.
+ Ja, ich weiß wovon du sprichst, auch ich hatte das in der letzten Zeit mal zu tun,  dass ich mal für einen meiner Domains mal einen anderen Mail-Server brauchte.
+ Aber wird schon, wird schon.
+ Ja, das Sport ist dazu gedacht hier, gemacht zu werden.
+ Und an der Stelle sind die Technologien, die sind alle open source, alle sauber standardisiert  und beschrieben und von daher geht das auch, ja, ist ein Aufwand.
+ Aber wo wir gerade so bei Identifikationen und Waren, Hannes,  möchtest du uns in dem Kontext was übermastet und erzählen?
+ Vielleicht?
+ Ja, genau, weil auch das gerade durch die Medien geht, die Geschichte mit der Altersprüfung.
+ Also es gibt ja, ich glaube durch die EU-Getrieben, immer wieder Gesetze,  die jetzt vor allem diesen Gatekeeper-Networks übergeholfen werden.
+ Also, könnt ihr gerade einen Beispiel was machen?
+ Ich habe keine Ahnung was mit Gatekeeper-Networks meinst.
+ Es gibt jetzt so eine Gateway, Gatekeeper, Gateway.
+ Also es gibt jetzt so Social-Networks, die so groß sind, dass sie eine Sonderrolle einnehmen  und andere Gesetze für sie gelten.
+ Okay, weil sie einfach eine besondere Verantwortung tragen und tragen sollten, okay?
+ Genau, und da war auf jeden Fall Facebook dabei.
+ Da war auf jeden Fall Facebook dabei und natürlich Instagram und ja, was nicht auch alles.
+ Und dann gibt es eben so manche, die klagen wieder, ja, nee, sind wir gar nicht.
+ Also, da geht es auch um die ganze Geschichte Interoperabilität.
+ Also muss der Messenger WhatsApp irgendwie langfristig mit iMessage reden können,  weil die in diese Kategorie, was auch immer, fallen, ich Google das gleich nochmal.
+ Und eine Sache, die da auch mit Schwung oder mit schwingt,  auf dieser ganzen Welle ist die Altersprüfung, die ja auch immer mehr durchgezogen werden soll.
+ Also das haben wir wirklich sicherstellen, dass halt nur Menschen volljährige den vollen Service nutzen können  und keine Ahnung, Kinder entweder gar nicht oder die sehen dann halt nur die Light-Variante des Services  oder stark reglementiert.
+ Das ist natürlich für so ein Netzwerk wie Facebook und so schon wichtig.
+ Bei YouTube haben es sicherlich auch viele mitbekommen, dass es da eine Jugendschutzeinstellung gibt  bis hin dazu, dass man so ein YouTube-Kids sogar hat, wo eben nur mehr oder weniger moderierte Inhalt auftaucht.
+ Und dann gibt es natürlich noch die ganzen Plattformen für, vor allem für Kinder, auf denen gezockt wird.
+ Also ich glaube, wir hatten hier von ein paar Monaten schon mal Roblox angesprochen, was keiner von uns kannte.
+ Das ist halt eine riesige Spieleplattform, aber auch Steam und Fortnite, wo Kids ja nicht nur spielen,  sondern auch miteinander interagieren und eben auch mit Erwachsenen interagieren.
+ Und in diesen Netzwerken soll es halt eine Altersprüfung verpflichtend geben  und die soll eben auch nach welchen Richtlinien auch immer funktionieren.
+ Also da gibt es ja dann immer wieder die Idee, das macht man mit Gesichtsscannen  und ja, also wie gut das funktioniert, keine Ahnung, kann jeder für sich selbst bewerten.
+ Aber es wird halt so langsam ernst und wird so langsam gerichtlich festgezogen.
+ So und jetzt haben wir einen besonderen Fall, nämlich Mastodon, was ja ein komplett dezentrales Netzwerk ist.
+ Das heißt nach außen und für Nutzer fühlt sich es an, als wäre es ein riesiges Netz,  wo alle miteinander reden können.
+ Das gilt ja auch nicht nur für Mastodon, sondern für das ganze Fediverse.
+ Und damit tritt es irgendwie als eine Plattform auf, aber die Art und Weise, wie man an der Plattform teilnimmt,  ist ja, das kann ja jeder dezentral irgendwie managen.
+ Also ich kann ja meinen eigenen Mastodon-Server auffahren und da selber mir nur ein Account machen  oder eben, wie es bei uns so üblich ist, so im Chaos, dann gibt es halt vom Chaos ein Mastodon-Server  oder, weil es nicht vielleicht hat, der Bund hat, glaube ich, auch einen, oder so häufig so Bildungsinstitut,  also Universitäten oder Forschungsinstitut, der Helmholtz-Gemeinschaft oder so,  und die haben dann ihren eigenen Instanz.
+ Oder Freundeskreise, wo halt einer ein bisschen technische Gelsite ist  und dann halt mal für alle da einfach so einen Server einfach haustet,  so wie man früher vielleicht einen Counter-Strike-Server gehaustet hat  oder einen Minecraft-Server auch immer noch haustet oder sowas in der Richtung.
+ Da kann man auch einen Mastodon-Server gehausten als Instanz,  der dann auch an dieser Plattform, weil es halt eben offen ist,  offene Standards und miteinander interoperabel, dann einfach mitspielt in dieser großen Plattform.
+ Genau, so und jetzt ist, glaube ich schon, irgendwie wird schon so langsam klar, wo das Problem ist.
+ Wenn jetzt also Facebook eine Alterspuffung machen muss für mehrere Milliarden Nutzer,  dann lassen die sich etwas einfallen und rollen das aus für mehrere Milliarden Nutzer.
+ Und durch so Skaleneffekte geht das schon, ist das halt für Facebook im Großen und Ganzen kein Problem.
+ Und bei etwas kleineren Serves mit vielleicht nur ein paar Millionen Nutzern ist es vielleicht auch okay.
+ Aber bei Mastodon ist es eben so, dass es Instanzen gibt,  die schon groß am Netzwerk teilnehmen und züglich auch irgendwie bekannt sind,  aber da sind vielleicht nur 1000 Nutzer.
+ Und wenn man jetzt bei 1000 Nutzer eine Alterspuffung machen will,  ist es eben so, es sind nicht so wenige, dass man sich von jedem den Ausweismachern zeigen kann  und zeigen lassen kann und das eben irgendwie händisch macht.
+ Es sind aber eben auch nicht so viele, dass es sich lohnt, den Prozess dafür zu etablieren und zu implementieren  und durchzuziehen, dann letztendlich steht man ja auch dafür gerade, wenn es schief geht.
+ Es wird ja immer was schief gehen, also machen wir uns ja nichts vor.
+ Und da ist halt jetzt die Frage ja, wie geht man denn rechtlich damit um?
+ Also wenn jetzt die Regel ausgerollt wird, wir müssen überall Alterspuffung machen,  was passiert dann bei Mastodon?
+ Ja, das stellen wir jetzt mal so als Frage in den Raum, ohne eine Antwort darauf zu haben.
+ Also es gibt ja auch andere Plattformen, die da keine richtige Antwort haben  und dann für Bundesstaaten einfach mal einen Stecker ziehen, Blue Sky sei da genannt.
+ Stimmt.
+ Die haben ja offenbar aufgrund eines Gesetzes in Mississippi sich dazu entschieden,  einfach den Dienst in Mississippi nicht mehr anzubieten.
+ Zumindest so lange bis laufende Widerspreche gegen das Gesetz,  worum es da irgendwie geht.
+ Ein Jugendschutzgesetz ist das wohl, wo es darum ging, bei allen Nutzern,  bei allen Nutzern die Vorjährigkeit zu überprüfen oder die älterliche Zustimmung einzuholen.
+ Und bis das halt geklärt ist, gibt es Blue Sky nicht in Mississippi.
+ Was natürlich auch schon wieder so eine Sache ist im Internet.
+ In Mississippi geht es nicht, ja klar.
+ Ich glaube, das Konzept von VPR-Netzwerken ist bekannt.
+ Ja gut, aber zumindest, ich glaube, das ist ein bisschen eine Frage aus,  welche Richtung man das sieht.
+ Blue Sky ist es natürlich aus rechtlicher Perspektive besser und sicherer,  dass erst mal dort bis zur weiteren Klärung erst mal nicht anzubieten.
+ Aus Sicht der Nutzenen, die sich vielleicht in Mississippi aufhalten,  die könnten das natürlich entsprechend umgehen.
+ Ja, zumindest Blue Sky wäre da fein raus.
+ Bei dem Mastodon-Fall würde mich tatsächlich mal interessieren,  wie das so weitergeht, weil ich könnte mir schon auch vorstellen,  dass es juristische Argumente gibt, die dann sagen,  okay, vielleicht ist nicht Mastodon als ein Netzwerk,  als eine Plattform so zu behandeln,  sondern vielleicht sind die einzelnen Serber als einzelne Plattformen zu behandeln,  die halt nur über entsprechende Schnittstellen und Protokolleheit  miteinander interagieren können.
+ Also, das könnte ich mir schon vorstellen,  dass es da entsprechende juristische Argumentationen auch gibt.
+ Was natürlich dann trotzdem ab einer gewissen Zahl von Nutzenden gegeben hat,  falls es bedeutet in der Zukunft, dass da Versuche unternommen werden,  dass man da wieder so eine Altersprüfung einbauen will,  wird sich zeigen und ihr hattet das ja oder anders überhattet,  dass ja gerade so ein bisschen mal so angedeutet,  dass generell solche Alters-Verefizierungsprozesse immer so ein zweischneidiges Schwert sind.
+ Es wird immer gesagt, es geht um den Jugendschutz,  aber gleichzeitig ist es halt auch...
+ Ja, es ist halt sehr schwierig, das durchzusetzen,  vor allem diese Verefizierungsprozesse lassen sich halt oft genug überlisten.
+ Das war ja auch der Grund zum Beispiel hier mit...
+ Was war das, Verimi oder so?
+ Mit Videoidenten, die du halt auch überlisten konntest,  egal ob das jetzt Technik im Zweifel ist oder ob das Menschen sind, die dahinter sind,  weil da kommen wir dann wieder mit zu dem Thema von wegen,  das was wir vorhin hatten, mit sehr guter KI im Zweifel dann auch je besser das auch wieder wird,  das dann lassen sich dann...
+ Dann ist es auch umso mehr ein Katzen-Maut-Spiel,  dann kannst du für die Liebligenpersonen dann im Zweifel bewegt,  das Bild mit wenig Latents erzeugen und vielleicht dann auch einigermaßen echt aussehendes Videomaterial  von irgendeinem Personalausweis.
+ Ja, und ich wollte noch eine Anekdote dranhängen, weil das gerade so schön passt.
+ Bei Google selbst gibt es ja Kinder-Accounts, die sind dann quasi...
+ Da ist immer ein volljähriger Zuggewiesen, also in der Regel die Eltern,  die dann verschiedene Einstellungen haben können zu dem Account,  also wo kann sich das Kind anmelden oder wie viel Zeit kann es wo verbringen,  weil das dann natürlich auf Android abzählt.
+ Und was mir neu passiert ist, ich habe das Telefon "Meine Sohn", es wurde geklaut  und deswegen musste ich ein neues besorgen.
+ Ich habe mich für ein altes Pixel-Telefon entschieden  und habe eins von denen erwischt, wo es mal so ein Akku-Problem gab.
+ Keine Ahnung, ob das jetzt schlimm ist oder nicht, aber das Gerät zeigt mir halt, weil es ein Pixel ist an.
+ Ja, da könntest du ein Problem mit deinem Akku geben.
+ Da hast du dir dieses Software-Update bekommen, aber klick doch mal hier  oder drück doch mal hier, um rauszufinden, ob du Anspruch auf Austausch hast.
+ Genau, jetzt drücke ich da halt drauf auf dem Telefon und das sagt mir dann halt, naja,  das Handy hier, gib mir mal die E-Mail, okay, gebe ich ein und dann sagt er,  mit dem Account geht es nicht, es ist ein Kinder-Account.
+ Okay, und versuche ich es halt mit meinem Account zu machen  und dann sagt halt, das Handy ist aber gar nicht auf deinen Account zugelassen.
+ Und hängst du halt da, das ist halt so Kinder-Accounts, da hängen so viele Effekte dran,  so viele Seiteneffekte und das dann eben für so große Unternehmen abzubilden,  ist sicherlich schwierig, aber machbar, aber halt bei kleinen, dezentralen Service,  ist das nahezu unmöglich.
+ Und gleichzeitig sind Kinder ja auch nicht doof.
+ Ich habe auch zwei, sehr bekannt, und ich habe alles es drum ging, naja, Handy  unter Zeiten und Freischalten und Pippa-Po und Kinder-Account.
+ Es hat nicht lange gedauert, bis Wege aus nochum gefunden wurden.
+ Nein, ich habe sie nicht verraten.
+ Ja, aber das Internet hat es ihnen, das war für Verraten, auch ohne KI?
+ Nicht mal, selber draufgekommen.
+ Ach so.
+ Und zwar technisch sehr kreativ, danke dafür.
+ Ja, das ist richtig gemacht.
+ Die Motivation und die Zeit.
+ Ja.
+ Und auch die Leidensfähigkeit ist sehr hoch, wenn so etwas geht.
+ Ich bin da auch immer wieder, da kann so ein Kind schon mal eine Stunde lang immer  wieder auf den selben Knopf drücken, um rauszufinden, was passiert,  wenn man da 3.000 Mal draufgedrückt hat.
+ Ja.
+ Wenn man Hörspiele zum Beispiel zu einer gewissen Zeit nicht mehr hören sollte,  aber aufgezeichnete Tonderteilen, kann man immer abspielen.
+ Ja.
+ Ja.
+ Ja.
+ Soll jetzt kein Tipp sein.
+ Nein.
+ Sehr gut.
+ Auf jeden Fall die Junghacker von heute sind die Technik-Basierten von morgen.
+ Ja.
+ Und mit souveränen Umgang und Spaß am Gerät, das ist ja durchaus unterstützenswert,  auch wenn die Erziehungsberichtigten manchmal da ein bisschen grauer Haare damit kriegen  mögen.
+ Deswegen gibt es von uns ja auch wieder Tonderteilen zum Zeit souveränen nachhören.
+ Genau.
+ Aber ich glaube, für heute ist diese Sendung erstmal hier zu Ende,  denn wir haben schon wieder Kasten.
+ Genau.
+ Wir müssen das heute beschließen.
+ Wir freuen uns, dass ihr heute wieder mit dabei wart und zugehört habt bei allem,  was wir so gesagt haben.
+ Wir sind Chaos im Radio, im Freien Radio Potsdam jeden zweiten Montag im Monat von 21 bis  20 Uhr zu hören.
+ Auf UKW 90,7 MHz und auf Berlin unter 88,4 und auch auf DAB plus unter FR-BB und 24/3.
+ Jawohl.
+ Das.
+ Damit sagen wir tschüß.
+ Bis zum Oktober.
+ Bis dahin.
+ Tschüß.
+ Tata.

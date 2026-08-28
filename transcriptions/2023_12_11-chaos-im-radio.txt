@@ -1,0 +1,539 @@
+ Hallo, herzlich willkommen zu Chaos im Radio, werte Hörerinnen und Hörer, wir haben eine  8-Bit Weihnachtsmusik für euch gefunden und damit wird ihr auch ordentlich attributieren,  denn wie unsere Gewohnheitshörer wissen, spielen wir nur frei Musik im Radio und die  will genannt werden unter einer Creative Commons-Lizenz heute "The Day Before Boxing Day Eve" von J.
+ Arthur Keynes aus dem Free Music Archive.
+ Richtig fetzig.
+ Richtig fetzig.
+ Weihnachten kann kommen.
+ Weihnachten kann kommen, in 16-Bit, naja, wir sind heute hier und heißen Cyroxx und hallo  Tazo.
+ Knurps.
+ Ach, das war völlig falsch.
+ Das ist ja nur noch ein paar Beides.
+ Und Hannes ist hier.
+ Hallo Hannes.
+ Und haben Regler sozusagen.
+ Und schöne Grüße an.
+ Gini.
+ Gini.
+ Gini war.
+ Er kältet.
+ Alle sind, er kältet.
+ Ja.
+ Die anderen werden.
+ Die anderen sind.
+ Genau.
+ Wann das wohl liegt?
+ Das muss an diesen kleinen Radio-Studios liegen, in denen sich alles gut verteilt.
+ Nicht verteilt.
+ Wir haben heute einen bunten Blumenstrauß an Themen, von denen ich keine Ahnung habe.
+ Schon wieder.
+ Jedes Jahr wieder.
+ Mindestens gesundes Halbwissen.
+ Stimmes Halbwissen.
+ Ach, egal.
+ Achso, ich lese mal hier unseren Helden vor, heute sind wir im Freien Radio Potsdam.
+ Jeden zweiten Monat, Montag im Monat, also auch im Januar wieder.
+ Das ist die letzte Folge des Jahres 2023.
+ Ihr hört uns immer noch auf UKW, 90,7 MHz in Potsdam und 88,4 MHz in Berlin.
+ Auf so eine alten Technologie.
+ Mal sehen wie lang es das noch gibt.
+ Todgesagt.
+ Er leben länger.
+ Außerdem ganz digital und frisch in 64-Bit auf FRBB und 24/3 auf der B+.
+ Kann gar nicht sein, ich schneide mit 24-Bit.
+ Ach so.
+ Das schneitst uns doch die oberen Bits weg.
+ So.
+ Völlig überbewertet.
+ Außerdem findet ihr uns unter voll-bit-Verschlüsselung auf radio.ccc-p.org und auf mastodon.cccp@caus.social  und für jegliche Kritik und Lob sind wir erreichbar unter radio@ccc-p.org.
+ Darf ich da gleich mal eine erste Kritik loswerden, bis ihr dir sicher, dass wir da voll-bit verschlüsselt  sind?
+ Also, ich ...
+ Voll-bit verschlüsselt mithilfe des Kryptoschefs.
+ Wo wir gerade bei Kritik und Lob waren, also ich hab ein Lob.
+ Ich war heute völlig von den Socken, also wir nehmen heute neben der Machbar auf.
+ Also quasi so wie wenn wir live werden, aber nicht live.
+ Live?
+ Ich glaub das nennt sich live on tape.
+ Ja.
+ Gut.
+ Aber in diesem Machbar lag heute ein kleines Holzkästchen und das hat sich vom Hocker gehauen,  weil ...
+ Da stand dein Name drauf.
+ Da stand mein Name drauf.
+ Richtig.
+ Da hab ich mich in der Machbar hinterlegt.
+ Bei diesen Menschen möchte ich mich total speziell bedanken, Sarah, Paul, Tim und Arnim.
+ Danke für dieses kleine, wundervolle Kästchen in der Machbar.
+ Ich glaub das Kästchen begeistert dich gar nicht so, der Inhalt.
+ Doch.
+ Ja, Kästchen und Inhalt.
+ Das ist ein Gesamtprojekt.
+ Also, ich hatte so einen Lehrauftrag an der HWR bei den Elektrotechnik, du allen Studierenden  und da gab es lustige Projekte und eines davon ist so ein elektronischer Würfel, den man  im Stil von D.O.D., Dungeons & Dragons umschalten kann zwischen einem Viren, einem Sechsen,  einem ...
+und 20er-Würfel, also und verschiedene Zahlen dazwischen und das war so ein schönes  Projekt, das hat mir echt Spaß gemacht und am Ende ...
+ich hab auch einen gekriegt, danke  dafür.
+ Yay.
+ Und den planst du zu Würfeln?
+ Aber selbstverständlich, das ist quasi ein ...
+ist kein Unikat, es gibt fünf Stück davon,  aber eins, danke dafür.
+ Ich husste auch an alle anderen Mikrofone, macht nix.
+ Gut, also danke an den D.O.D.-Würfel.
+ Ja.
+ Genau, wie ihr hört, für die, die uns nicht regelmäßig hören, sind wir eine Chaos-Truppe  aus dem Chaos-Treff in Potsdam, heimisch in der Machbar im Freiland, wir nehmen gerade  im Studio nebenan auf, im freien Radio Potsdam, hier halt Frabbo, da oben steht's und ansonsten  treiben wir uns da auch wieder rum, ich find keine Brücke ins nächste Wasser.
+ Ja, Brücken führen ja auch über Wasser und nicht ins Wasser, nein.
+ Naja, aber ich mein, es kursiert ja überall und ihr meint es ja vorhin schon, alles hustet  und schnieft und woran das wohl liegen mag, man weiß es ja überhaupt nicht, vielleicht  aber auch doch, es gibt ja seit Mitte vergangenen Jahres, gibt's ja eine Messung der Viruslast  im Abwasser für Covid-19 oder SARS-CoV-2 Genfragmente, hat man auch endlich in Deutschland angefangen  mal so ein bisschen Abwasser-Monitoring zu betreiben und da kann man darauf erkennen,  dass das gerade ziemlich durch die Decke geht, tatsächlich, also schon alleine SARS-CoV-2  von anderen Erkältungskrankheiten ganz zu schweigen, glaube ich, also so.
+ Ich höre mich gerade mehr als doppelt so hoch wie im letzten Jahr zur gleichen Zeit,  ne?
+ Ja.
+ Das war auch schon mal so zum Herbst-Winter, also ich habe da, glaube ich, von, das war  mal in Berlin so ein lokales Messgeschehen, musste ich noch rauskommen.
+ Man kann auf der Seite, kann man teilweise auch für die einzelnen Bundesländer da mindestens  mal links finden, glaube ich, ja, aber jetzt so für die Messstation an sich so insgesamt  ist das wohl gerade seit Beginn der Aufzeichnung, wie es so schön heißt, das ist jetzt gerade  ein ordentliches Maximum, also ein, also ordentlich im Sinne von nicht schön, aber was man halt  mit so gewissen Methoden und Metriken mal so sehen kann tatsächlich, aber das nur als  Informations-Bit zwischendurch.
+ Wir sehen hier, vielleicht sagen wir das einmal durch, das ist auf dem Corona-Pandemieradapunkt.de  verfügbar oder kommt das direkt vom RKI letztendlich, die Daten, weiß man gar nicht,  aber also da steht was mit Bundesministerium für Gesundheit und der Koch-Institut steht  auch mit dran.
+ Also macht hier Corona-Pandemierer da, macht nur die Visualisierung wahrscheinlich.
+ Ja, sehr cool, mit dem RKI-Abwasserwochen-Bericht, ja, ja.
+ Und der Hygiene-Minus-Monitor-Punkt.de, also Berliner Wasserbetreiber haben auch den  Sport mit Open Data aus Berlin dazu.
+ Ja, und das Open Data-Love.
+ Apropos Liebe, ja, die Küche wird nicht ganz so, also da geht es auch ein bisschen nach  oben, aber nicht so drastisch wieder an.
+ Apropos Liebe, ja, Weihnachten ist ja bekanntlich die Zeit der Liebe, das ist richtig.
+ Ja, und die BVG wirbt mit "Wir lieben dich".
+ Das sowieso, genau, und passend zur Weihnachtszeit hat sie jetzt auch ein Musical rausgebracht,  dass ich dann in Tarifzone liebe und zum Zeitpunkt aufzeichne, am vergangenen Montag, am 4.
+ Dezember, gab es tatsächlich im Admiraltspalast Berlin eine U-Aufführung.
+ Ja, man konnte sich da vor einer ganzen Weile, konnte man sich dafür Tickets klicken und  klicken lassen und ich hatte glücklicherweise das Glück, da bei der U-Aufführung dabei sein  zu können mit ein paar Menschen.
+ Oh, schon.
+ Ich habe Ausschnitte gesehen, es war, also es ist herrlich.
+ Es ist herrlich, ja, also ich sage mal so, man muss sich so ein bisschen gefasst machen  auf die, auf die, sehr viele Wortspiele.
+ Der Schenkel sollte stabil sein zum draufklopfen.
+ Richtig, genau, aber wenn man da so mit einem gewissen Augenzwinkern sich das zu Gemüte  führt und auch so ein bisschen diese, na ich will jetzt nicht sagen, schmalzige Liebesgeschichte  aber so ein ganz kleines bisschen Cringe ist dann schon auch ein bisschen dabei vielleicht.
+ Ja, aber so, weißt du so, wenn man das so ein bisschen abkann, dann ist das einfach  eine ganz nette Sache.
+ Also die Aufzeichnung auf YouTube ist jedenfalls kompetent anschaubar.
+ Ich weiß nicht, ob ich eineinhalb Stunden durchhalten würde, aber es war auch wie qualitativ,  ist auf jeden Fall gut.
+ Also für in Zeiten wie diesen muss doch mal ein bisschen Zeit für Liebe sein.
+ Also...
+ Und Spaß dabei.
+ Und Spaß dabei.
+ Ja.
+ Ach so viel Spaß.
+ Ah, Probus Spaß.
+ Beginnst du jetzt alle, beginnst du jetzt alle über Brückung mit Apropos und hier Stichwort  einfügen.
+ Wo wir gerade dabei sind.
+ Ja, also...
+ Ja, genau.
+ Also diesen Musical kann man sich anschauen, es gibt auch einen, ich habe ja auch mal in  den Show notes einen Tatsartikel verlinkt, der da auch so ein bisschen darauf hinweist,  so ja, es ist so, es gibt so eine halbe Station in Richtung dieses sehr bekannten Musicals  Linie 1.
+ Das ja, also wer es noch nicht gesehen hat, das ist tatsächlich auch sehr sehenswert.
+ Da ist aber auch ein bisschen Kritik drin in diesem Tatsartikel.
+ Aber apropos Spaß, Hannes.
+ Die Belegkeit, ob ich lauter Spaß hier noch 'ne Nacht mit Weihnachtsmusik einspiel, weil  ich diese schön finde und ich glaube, ich mach das jetzt einfach.
+ Ja.
+ Und zwar hören wir, da haben wir auch schon oft öfter gehört aus dem Free Music Archive  von "Holy Nug Null", wobei CC Null, also wahrscheinlich "Holy Nug Zero", ja, I don't  know.
+ Nug mit N-A-C-K.
+ N-A-C-C-Null, also wahrscheinlich Creative Commons, mit drin im Namen Nug Nug Null, Nug  Zero.
+ Haben wir auf jeden Fall schon öfter gehört, hab ich schon öfter Probleme gehabt den auszusprechen  oder die oder das und hat ein sehr schönes Low-Fi-Christmas-Album aufgenommen, unter anderem  mit diesem Titel hier mit dem Namen "Oh, Holy Night", hm, auf geht's.
+ Und sie took her first of the sun, and she wrapped him in cloths and laid him in a manger, because  there was no wind around the end, and in the same region there were some shephers staying  out in the fields and keeping watch over the flood by night.
+ And an angel of the Lord suddenly stuck before them, and the glory of the Lord showing around  them, and they were totally frightened.
+ Herzlich willkommen zurück zu Chaos im Radio, hier im Freien Radio Potsdam.
+ Da haben wir sogar noch ein bisschen weißes Schneerauschen gehört am Ende, das war Teil  des Songs.
+ Ja, das kam hier von meiner zerkratzten Platte, von der ich diesen Song abgespielt habe.
+ Ja, wie viel Umdrehung hatte die?
+ Da lag Schnee drauf.
+ Ja, da lag Schnee drauf.
+ So ist es.
+ So, ja, wenn euch das gefallen hat, schreibt uns doch an radio-cct-p.org, ansonsten lese  ich das hier nicht nochmal alles vor, aber ich mach's.
+ Während wir diesen Song gehört haben, hab ich mich gefragt, ob der Künstler bzw.
+ die Künstlerin eventuell "Nacho" ausgesprochen werden.
+ Ach, "Nacho".
+ Ah, kann sein.
+ Klingt plausibel.
+ Müsste man, vielleicht gibt's ja irgendwo ein Track war seinen Namen einsch, oder Sie,  ihren Namen oder es, Namen Sie, Nami, einspricht.
+ Ja, wir sind nicht aus der Machbar, aber gleich von neben dran, und in der Machbar ist was  Schönes passiert, mit viel Spaß vor zwei Wochen, stimmt das, drei vielleicht auch.
+ Naja, jedenfalls hatten wir einen Geekend, und an diesem Geekend wart ihr auch beide  da.
+ Jawohl.
+ Und wir haben eingeladen aus dem Chaos-Treff, um mit uns zusammen Pressschilder zu modifizieren.
+ Pressschilder, wie man sie kennt, aus Elektronik-Märkten, und mittlerweile hängen die, glaube ich,  an allerlei anderen Real-Life-Shops.
+ Spielzeuglehnen teilweise.
+ Spielzeuglehnen, richtig.
+ Also, die, ja, so kleine E-Paper-Displays, da steht normalerweise der Preis drauf des  Artikels, und weil sich das ja gerne mal ändert, wie der Benzinpreis, wurde das mittlerweile  von Papier auf digital umgestellt.
+ Oder der Obstpreis, kurz bevor das Wochenende droht.
+ Und das sind also kleine, ja, Preisschildgroße-Dinger mit einer einfachen Urin-Batterie drin, manchmal  auch zwei, die ihre Daten aus der Luft bekommen.
+ Was ganz spannend ist für uns natürlich, weil, ja, die Frage ist, kriegt man da nicht auch  was anderes drauf als nur ein Preis.
+ Zum so praktische Sachen, wie das Wetter oder ein lustiges Bild, wir haben die auch als  Namensschildchen benutzt zum Teil.
+ Unser täglichen Witz gibt uns heute sowas in der Richtung zum Beispiel, oder teilweise  auch Bildchen, Grafiken, die sind ja nicht nur textfähig, also die können nicht nur Preise  wiedergeben, sondern auch Pixel modifizieren und gleich in zwei verschiedenen Farben.
+ Genau, das spannen ja eigentlich alles über die Luft, also man musste keinen Kabel anschließen,  nichts.
+ Was man aber machen musste, war, eins von diesen Dingern auseinandernehmen, um es als Access-Point  zu modifizieren.
+ Also jetzt Sender, der die ganzen Sachen dann fernsteuern kann, damit kommunizieren kann,  ja.
+ Ich glaube, im normalen Laden ist es nicht zwingend so, dass man da eins modifiziert und auseinander  nimmt.
+ Das ist das teure AP-Access-Point-Gerät, was wir jetzt nicht haben.
+ Genau, das kann man dann kaufen.
+ Es sind auch standardisierte Protokolle, die da im Hintergrund laufen.
+ Ja, das wollen wir eigentlich noch rausfinden, was wir benutzt haben, war irgendwie vorgefertigt  das Projekt von GitHub, OpenE-Ink, das ist ein Open-E-Paper-Display, der die Dinger auch  fertig verkauft irgendwo, für relativ viel Geld, aber eben alles offen zeigt.
+ Also relativ viel Geld, da muss ich jetzt mal ...
+ Naja, ich weiß ja, also, na ja, da steckt ja eine Arbeit rein, also von da ist das okay.
+ Ja, komm, aber ich meine, so ein Display für, ich glaube, genaue Zahlen, ich weiß nicht,  aber Gerüchte, weil es ist so um ein Euro rum und der hat die wirklich alle einzeln  programmiert und da ist die Firma schon drauf und in der Kiste gepart.
+ Ich glaube, das war, das war, weil wir so viel von bestellt haben.
+ Also ich habe gedacht, ich bestelle mir mal zwei und noch einen Access Point dazu und  dann war es eher bei so 50 Euro.
+ Ja, okay.
+ Aber wie gesagt dafür, dass er sich halt das löten und so weiter alles aufnimmt, ist  das auch völlig okay und da das alles offen ist und das ja, ist ja meine freie Entscheidung,  ob ich das kaufen will oder ob ich es einfach selber mache.
+ Das sieht man halt auch mal wieder, dass OpenSource jetzt nicht in einem Geschäftsmodell irgendwie  gesteht.
+ Korrekt, genau.
+ Genau.
+ Also wenn ich zu faul bin, zu Hause in den Löhtkolben zu schwingen, dann gebe ich halt die, weiß  ich nicht, 30, 35 Euro aus.
+ Ja.
+ Ist auch gut.
+ Wir haben natürlich irgendwie alle selber gemacht und haben vorher im großen Stil geordert  und alle, die da waren, du waren es 50 bis 70 Leute, waren es glaube ich über die drei  Tage.
+ Das waren, das waren um die 70 Leute waren.
+ Ich glaube, wir hatten mit 50 erst mal eingeladen und dann waren aber die Warteliste schnell  voll und dann hat man sich so angeguckt und gesagt, und gesagt, "Jud, komm, lass die Warteliste  noch durch."  Und dann waren wir bei 75 und dann glaube ich hatten immer noch ein paar, zwei, drei Interesse  und dann war es knapp.
+ Genau.
+ Also wir haben ja auf jeden Fall ganz gut an dem Wochenende im Freiland die Fläche  bespielt.
+ Bei uns in der Machbar, im Haus 5, aber auch hier im Haus 2, im Café.
+ Und andere haben die Spartefläche auch noch bespielt und es gab so einen kleinen Austausch  auch.
+ Wir haben ja über Bar ein bisschen bespielt und die Bar war sehr schön.
+ Und also es waren ja jetzt auch nicht nur Leute hier aus Innen und Potsam da, sondern wir  haben ja das mindestens mal in der ganzen Chaoszone gestreut.
+ Chaoszone hatten wir ja auch schon mal rund um Camp, hatten wir das ja schon mal besprochen.
+ So ein loser Zusammenschluss von Spaces.
+ Genau.
+ Und ja, deswegen, also wir waren eine ganze Reihe von Menschen und es hat mich persönlich  tatsächlich ganz stark gefreut, dass wir da eben nicht nur die Potsdamer Bubble, die  sicher eh schon mehrheitlich kennt, sondern dass wir auch eine ganze Reihe anderer Gesichter  für Kante, wie auch uns noch nicht so gekannte Gesichter gesehen haben, weil es ist natürlich  auch eine ganz schöne Möglichkeit mal so ein bisschen in den Austausch zu kommen weiterhin  und einfach anhand des gemeinsamen Projekts auch ein paar bisschen Austauscheben zu haben.
+ Genau, das ist auch ein bisschen der Grund, warum ich mich aus dem Projekt selber, also  nein, ich habe an dem Tag, glaube ich, ein bisschen aber nicht viel gelötet, sondern  mich da so ein bisschen ausgenommen und um Infrastruktur und Menschen glücklich machen  gekümmert.
+ Ja.
+ Das war...
+ Weil Menschen...
+ Weil Menschen müssen ja versorgt werden, mit Essen und Trinken habe ich gehört, acht  Bits reichen da jetzt auch nicht aus.
+ Kaffee.
+ Kaffee.
+ Waffel.
+ Stimmt Waffel.
+ Das ist ja die Waffel gemacht, ja.
+ Irgendwer muss, ja.
+ Ja.
+ Ich glaube, du hast noch irgendwo ein Waffeleisen rumstehen, kann das sein?
+ Ja, ja.
+ Nee, das andere Waffeleisen ist bei der Besitzerin zurück und das hat schon die nächsten Menschen  glücklich gemacht.
+ Das war ja so High-Tech, das war doch kein Waffeleisen, das war doch ein Waffeltitan.
+ Nein.
+ Eine Waffelautomaten.
+ Ja.
+ Eine Waffelmanufaktur.
+ Was?
+ Ja.
+ Genau.
+ So, und was, Cyroxx, was hast du denn da emotional durchlebt?
+ Also ich...
+ Genau.
+ Das klingt jetzt so ein bisschen wie Gesprächstherapie hier gerade.
+ Nein, aber du sprichst, glaube ich, drauf an auf den Stichpunkt, den ich hier in die  Show Notes gepackt habe.
+ Also nicht nur ich, sondern ich hatte auch den Eindruck, dass auch mehrere andere Menschen  bei diesem Event dann aber schon auch ein bisschen die verschiedenen Phasen der Trauer durchlebt  haben.
+ Also wir haben ja gesprochen über dieses, man muss da diesen Access Point löten, der  dann mit den anderen Geräten interagieren kann und das war tatsächlich gar nicht so  einfach.
+ Also es ist jetzt...
+ Klein.
+ Es ist klein, ja, man sollte ein bisschen löten können und selbst wenn man löten kann,  also ich behaupte von mir schon, teilweise Zeiten meines Lebensgeld mit Lüten verdient  zu haben und nicht ganz, selbst ich habe verkackt, also gut löten können hat teilweise immer  noch nicht gerecht.
+ Ja, und das, was das Ganze ja so anstrengend gemacht hat, ist man wusste ja nicht, welcher  der 16 Kontakte denn jetzt nicht ganz funktioniert hat.
+ Oder...
+ Ah, genau, weil man hat dann immer so eine Fehlermeldung gekriegt, also das war ein bisschen  unspezifisch und man wusste nicht, aber bei ganz vielen kam man an den Punkt, wo das Gerät  selber ein Stück weit hochgefahren ist und dann gesagt hat so, ah übrigens, irgendwas  stimmt hier nicht, überprüft doch mal bitte deine Verkabelung, was dann regelmäßig  dann darin endete, dass Menschen mit ihren Tränen, genau, ja, das ist nicht das, was  ich sagen wollte.
+ Mit Multimetern.
+ Von daher waren es Multimetern in den Augen.
+ Bitte nicht zu Hause nachmachen, Multimetern sind im Auge total gesundheitsschädlich,  habe ich gehört.
+ Nein, mit einem Multimeter dann geguckt haben an den Kontakten, wo ist jetzt dein Kontakt  und wo ist jetzt keiner?
+ Es ist aber auch gemeint, dass man diesen Strom nicht sieht.
+ Und dann bei mir war es tatsächlich so, ich hatte dann tatsächlich zwischen zwei Kontakten  also eine Verbindung, die da nicht sein sollte.
+ Das Blöde ist nur, die wieder wegzukriegen, weil die war so, es gibt da so ein flexibles  Kabel, wo man dann halt so Kontakte zwischen dem Kabel und der Platine löten muss, aber  unter diesem, also zwar zwischen dem Kabel und der Platine, da sammelte sich dann so  Lötsinn.
+ Das ist da nicht hin sollte.
+ Das ist da nicht hin sollt und wenn dieses Lötsinn von einer Lötsstelle auf die nächste  quasi übergeht, weil es auch nicht so ganz passgenau zwischen dieser Folie oder zwischen  diesem Connector und der Platine ist, dann entsteht da plötzlich ein Kontakt, der da nicht  sein sollte.
+ Und das bedeutet Elektrisch halt Murks.
+ Ich habe ja die 16 schönsten Lötepunkte meines Lebens gesetzt, mich das, hat mir das angeschaut.
+ Das klingt wie so ein Buchtitel.
+ Ja.
+ Die 16 schönsten Lötepunkte meines Lebens.
+ Ja, ne, also die waren grandios und dann habe ich noch mal drauf geguckt, dann festgestellt,  naja gut, aber 180 Grad verdreht, also habe ich die 16 schönsten Lötepunkte meines Lebens  auch wieder entlötet.
+ Und die 16 hässlichsten Lötepunkte meines Lebens hinterher gesetzt.
+ Okay.
+ Und dann hat es funktioniert.
+ Nicht.
+ Also das gute Stück fährt bei mir hoch, also der Access Point fährt hoch, der zeigt mir  auch was an, aber er sieht die ganzen Displays nicht.
+ Was sehr, sehr gemein, aber den Access Point nicht davon abgehalten hat, mir trotzdem alle  Displays anzuzeigen, die Software, weil die irgendeinen Mashing da rein implementiert haben.
+ Das heißt, mein Access Point hat übers WLAN einen anderen Access Point gesehen und hat  nachgefragt, ey, wen kennst du und dann habe ich eine Stunde lang mich drüber gefreut,  wie alles so semi gut funktioniert und dann damit nach Hause zu gehen, wo auf einmal  keiner anderen Access Points mehr in WLAN waren und da war Ende.
+ Stimmt, genau.
+ Das war auch noch so eine Quelle für Verwirrung, warum kann ich jetzt mit meinem Access Point  nicht da was Neues auf dieses Text schreiben, weil das eigentlich unter der Kontrolle eines  anderen Access Points war.
+ Das war dann natürlich auf so einem kleinen Raum, wie in der Machbar war das dann auch  manchmal ein Quell von Irritation.
+ Gerade wenn man halt noch nicht mit dieser Software interagiert hat oder noch nicht so  ganz genau, wir wussten ja, oder viele von uns wussten wir jetzt noch nicht so ganz genau,  wie das alles miteinander interagiert.
+ Genau, also die vorher erwähnten Sarah, Paul, Tim und Arnim, die wissen genau, wie ich  beim Leaftrag über Toleranzen auf elektronischen Schaltungen gesprochen habe und ja, fürchterlich,  wenn man halt wirklich nur so ein bisschen daneben und ich hatte selber die Situation  nicht.
+ Ich hatte eine Verbindung auf meinem Modulchen und ich dachte so, ach verflickst der Achse,  da hast du einen Kurzschluss drin und dann gucke ich mir ein bisschen genauer und schaue  mal wieder Schaltpläne rein und stell fest, ja Moment, ja da ist eine Verbindung, aber  die soll da auch sein.
+ Das ist kein Kurzschluss, der da nicht hin soll, sondern da liegt wirklich ein Stückchen  Kupfer drunter, das ist dahin und deswegen ist da, also man musste da in zwei Richtungen  aufpassen.
+ Ja, ja.
+ Also ich habe da auch mehrere Anläufe gebraucht, also erst mal das Zulösen, das Versuchen  zu beheben, was nicht funktioniert hat, weil nachdem zwei Lötstellen irgendwie überbrückt  waren, waren es dann am Ende irgendwas zwischen vier und sechs, das dann Versuchen zu entlöten,  dann nochmal neu zulöten, was dann auch nicht ging und am Ende dieser dreitägigen Veranstaltung,  es ging ja von Freitag bis Sonntag, am Ende hat mir persönlich geholfen, ein Chaoswesen,  das dann für mich den Lötjob dann fertig gemacht hat und dann hatte ich tatsächlich  auch ein extra Point, den ich mit nach Hause nehmen konnte.
+ Ich will auch einen, wir können ja nochmal reingucken, es soll auch, also richtig, eines  der herausfordernden Dingern war ja diese flexible Leiterplatte, die so ein, zwei Lötversuche  durchaus mal mitmacht, aber dann irgendwann halt auch aufgibt und Spatzen zwitschern  von den Dächern, dass es dann noch mehr geben soll, also wir werden nochmal nachproduzieren,  falls jemand uns hört und noch zu Hause mit diesen flexiblen Leiterplatten kämpft,  es wird mehr geben.
+ Es könnte sein, dass es mehr geben wird möglicherweise unter eurem Ständen.
+ Ja, genau.
+ Wir wollen ja nicht zu viel versprechen.
+ Nein, aber so ein bisschen schon, so ein bisschen Hoffnung machen kann man ja.
+ Ja.
+ Apropos Hoffnung.
+ Ja.
+ Wenn hier der Techniker...
+ Ich dachte, jetzt kommt schon die nächste Überleitung wieder.
+ An die Mailingliste schreibt, während wir eine Radiosendung aufnehmen, "Hey, sorry,  mein Liebesradio, ihr müsst mal wieder als Teste erhalten."  Achso.
+ End of mail.
+ Ja, gut.
+ Mein Gott.
+ Also, was testet ihr?
+ Ich glaube, es wurde nur getestet, dass der Mailversand wieder funktioniert, weil während  wir hier sprachen, tatsächlich auch in der Vorbereitung gerade, hatten wir so ein bisschen, so, leicht  Schock und Angst, weil unser Pet war kurzzeitig weg, weil da wurde einmal feucht durchgefeudelt  und alles wieder auf den aktuellsten Stand gebracht in der Infrastruktur.
+ Ja.
+ Diese Mail war, glaube ich, Teil des Ganzen.
+ Die ist ein gutes Zeichen, wir haben sie gekriegt.
+ Ja.
+ Stimmt.
+ Genau.
+ Also deswegen, Mailversand funktioniert, lieber Techniker, der du uns jetzt gerade nicht  hören kannst.
+ Genau.
+ Weil wir aufzeichnen.
+ Aber dann sei es hier mit einer leicht verspäteten Nachricht, aber...
+ Danke.
+ Dafür.
+ Genau.
+ Danke dafür.
+ Eine Sache, die man nicht unterschätzen sollte, Techniken, sollte von Leuten gewartet  werden, nicht, dass wir dann wieder so Sachen haben wie, oh, wir müssen da mal die ganze  Infrastruktur runterfahren, weil da haben wir eine Sicherheitslücke drin.
+ Also ist ja...
+ Oder die ganze Infrastruktur fällt von selbst runter, weil der Strom weg ist.
+ Hatten wir auch in einem kleinen Teil Berlins letzte Woche.
+ Ah.
+ Wegen Schnee und Eis?
+ Ja.
+ Wegen, es gibt Neubauten und Neubauten möchten an Stromnetze angeschlossen werden und das  macht man ungern unter Last und deswegen wird halt Bums kurz ein Minütchen in der Strom  weg.
+ Ah, okay.
+ Abgeworfen.
+ Ja.
+ Aber ist alles wieder hochgefahren.
+ Lastabwurf, wie bei den Ballonfahrern.
+ Gut.
+ Ja.
+ Apropos Ballonfahrer...
+ Eine Überleitung.
+ So ähnlich wie Reimlich oder ich Frestig, nein, ich habe tatsächlich auch keine Überleitung,  aber es gibt neue Urteile.
+ Ja.
+ Kommen wir doch mal zu juristischen Dingen.
+ Es gibt Urteile.
+ Tatsächlich eine auffallende Menge an Selvigen.
+ Also zum einen, wir hatten vor ziemlich genau zwei Jahren, am 13.12.
+haben wir es gesendet,  ein Kraus im Radio, wo wir relativ am Anfang über heise.de/quad9 verliert vom Landgericht  Hamburg.
+ Und Quad9-Widerspruch gegen Gerichtsurteile hatten als Show-Notes.
+ Ah, ist das schon wieder zwei Jahre her?
+ Ist das zwei Jahre her?
+ War es Hamburg?
+ Die bleibt sich?
+ Hamburg.
+ Vor zwei Jahren war es Hamburg.
+ Ach was?
+ Ja.
+ Genau.
+ Und Gerichtsprozesse sind alles andere als schnell.
+ Klar.
+ Hat jetzt zwei Jahre gedauert und nach zwei Jahren turns out.
+ Na?
+ Gewonnen.
+ Ah ja, genau.
+ Also dieses Gericht von vor zwei Jahren wurde, das Urteil von vor zwei Jahren wurde wohl  kassiert.
+ Und jetzt sind DNS-Anbieter doch nicht für die Urheberrechtsverletzungen verantwortlich,  die irgendwo in der Nähe ihrer Infrastruktur passieren könnten.
+ Nein.
+ Also wenn ich ein Telefonbuch schreibe, bin ich nicht zwingend dafür verantwortlich,  wenn jemand dieses nimmt und jemanden anruft.
+ Und der am anderen Ende da böse Dinge erzählt und macht.
+ Ja.
+ Genau.
+ Das Honigmusik ins Telefon singt.
+ Also ich bin vielleicht mehr dafür verantwortlich, wenn ich dieses Telefonbuch nehmen und körperlich  werde.
+ Bitte nicht.
+ Aber das ist auch nicht der Telefonbuchverlag.
+ Das ist echt schon zwei Jahre her verrückt.
+ Ja genau.
+ Also kassiert hat es jetzt, glaube ich, wenn ich das richtig in Erinnerung habe, Dresden.
+ Und das ist jetzt auch final, also keine Revision und Berufung zugelassen.
+ Genau.
+ Dresden war es.
+ Und genau.
+ Also hier, um das nochmal zu wiederholen, da ging es also darum, dass Sony in dem Fall  gegen Quad9 geklagt hatte, dass die ja wohl dafür verantwortlich sind, wenn sie mit  den Adressen zu bösen Songs, zu illegal kopierten Songs auflösen.
+ Und aus irgendwelchen Gründen haben die am ersten Gericht das für richtig gehalten.
+ Es wurde erklärt, dass, ja, da gab es ganz schöne juristische Formulierungen in dem  Dokument.
+ Die haben mir gut gefallen.
+ Hast du ein Beispiel dafür, böse Frage?
+ Also da war es so was wie die sind nicht maßgeblich beteiligt.
+ Also es ging dann darum, ja, die sind schon irgendwie, das hat schon irgendwie was damit  zu tun, dass es diese Telefonbuch gibt, dass man auch aufzugreifen kann.
+ Aber das leistet jetzt irgendwie keinen signifikanten Beitrag.
+ Aber die Diskin, die genaue Formulierung kriege ich nicht mehr zusammen.
+ Aber das fand ich ganz...
+ Also es geht ja dann bei solchen Sachen auch immer so um so was wie Störerhaftung und so  was.
+ Nicht ursächlich beteiligt, war glaube ich irgendwie sowas.
+ Ja, also genau, das sind sehr gute Nachrichten für Quad9, auch für mich, weil ich die nämlich  habe, benutze.
+ Ah, okay.
+ Wobei es natürlich jetzt wohl noch nicht, vielleicht noch nicht ganz final ist, weil  zumindest Sony will die Entscheidung wohl nicht hinnehmen, heißt es in diesem Netzpolitikartikel  und könnte eventuell noch beim Bundesgerichtshof noch eine Nicht-Zulassungsbesperre, also gegen  diese Nicht-Zugelassene Revision einlegen.
+ Das klingt aber so als würde das noch viel, viel länger dauern.
+ Ich glaube quasi erst mal zwei Jahre warten, bis sie dann in Revision gehen dürfen oder  so.
+ Ja, spannend.
+ Was da so los ist.
+ Es geht auch nicht um Quad9, da irgendwie ein gutes Ding zum Exempel statuieren ist.
+ Naja.
+ Wieso jetzt?
+ Was?
+ Man kann sich, glaube ich, an anderen Organisationen abarbeiten, die tatsächlich mehr mit Urheberrechtsverletzungen  zu tun haben und davon auch mehr profitieren als ein DNS-Anbieter.
+ Naja, also ich meine letztendlich Aussicht von so einem Unternehmen wie Sony, ist es natürlich  schon relevant, ob du auch so einen DNS-Betreiber mit in die...
+ Ich sage jetzt mal ganz unjuristisch Haftung nehmen kannst, mit in die Verantwortung ziehen  kannst für solche Dinge, weil das natürlich da ein Werkzeugkasten für, wie kannst du  gegen tatsächliche oder vermeintliche Urheberrechtsverletzungen halt vorgehen, natürlich erhöht oder  ausbeutet.
+ Also insofern, Aussicht von Sony macht es total Sinn, das zu tun, dass jetzt technisch so  richtig ist gegen den DNS-Betreiber vorzugehen, der, wie Knurps ja schon gesagt hat, eigentlich  nichts anderes als ein Telefonbuch und was dahinter passiert, das ist eigentlich nicht  Aufgabe des DNS-Betreibers, ist dann wieder der andere Seite.
+ Insofern, ja, es ist durchaus zu begrüßen, dieses Urteil an der Stelle.
+ Was haben wir noch?
+ Andere schöne Urteile.
+ Also ich habe ja vorher gesagt, das ist eine Häufung an Urteilen gefallen, die Schufa.
+ Die Schufa, glaube ich, wurde so ein bisschen eingegrenzt eigentlich und mal...
+ Also nicht ein...
+ Ja, doch, doch, ich glaube, man kann sagen, es war ein Schrankengewiesen.
+ Ja.
+ Ich glaube, er gab es jetzt nicht schon mal, aber es ist mal wieder entschieden worden und  dass so ein automatischer Score nicht alleine darüber entscheiden darf, ob jemand jetzt  einen Kredit kriegt oder nicht, sondern dass am Ende jedenfalls noch ein Mensch darüber  mitentscheiden muss.
+ Das ist, glaube ich, ein Ding, was generell erspannt ist, dass Maschinen eben nicht über Menschen  entscheiden sollen.
+ Das ist an der Stelle mal wieder gesagt worden, rechtlich durchgesetzt.
+ Ich bin da auch kennig, ob Dinge an der Stelle fest, dass da mal wieder ein Urteil so gefallen  ist, wie man es...
+ Ich hoffe, ja.
+ Ja, gerade wenn bei diesem Score ganz viele Faktoren irgendwie mit einfließen, auf die  man teilweise gar keinen echten Einfluss hat.
+ Richtig.
+ Also wir hatten das ja, glaube ich, in der Vergangenheit auch schon mal gesagt, dass da manchmal auch  so Sachen einfließen wie "in was für ein Gegenwohnst du?"  Ja.
+ Ja, klar.
+ Also was mich in diesen Artikeln, die über das Urteil jetzt berichten, immer so ein bisschen  aufhält, ist ein automatischer Score allein, dieses Wort allein darf nicht.
+ Da ist noch nicht so richtig klar, okay, ich darf der automatische Score jetzt zum 99,99  Prozent entscheiden und das restliche 0,1 Prozentchen macht dann ein Mensch.
+ Weil hier steht auch noch Ausschlaggebend, mit einem nicht Ausschlaggebenden, aber ja,  ist schon ein bisschen schwammig.
+ Ja, ich glaube, das sind so Dinge, die einfach in der Gesellschaft insgesamt noch eine Weile  tätiert werden, die auch bewegen, also ich glaube, ist nichts statisch.
+ Beziehungsweise, wo dann halt jetzt auch die Jurist*innen da entsprechend sehen werden,  was bedeutet das?
+ Genau.
+ Das ist ein Thema, was spannend ist, was auch relevant ist für verschiedenste Bereiche des  Lebens und was deswegen wahrscheinlich auch immer wieder mal diskutiert werden wird in  verschiedensten Richtungen.
+ Und zum Beispiel die Schufa, die Schufa sieht insofern so ein bisschen Resultat für sich  daraus, dass sie ganz, ganz marketingmäßig sagt, ja, das überwiegende Feedback unserer  Kunden lautet, dass ja sie ihre Entscheidungen nicht in aller Regel nicht allein entscheiden.
+ Also dass der Schufa-Score allein zwar wichtig ist für sie, aber in aller Regel nicht allein  für sie, für den Vertragsabschluss entscheidend sein.
+ Also quasi so, ja, ja, wir müssen eigentlich nichts ändern, weil es ist ja jetzt schon so,  dass er nicht ganz allein entscheidend ist.
+ Es ist halt auch so eine Sache der Perspektive, wir hatten vorher gesagt, aus der Sicht von  Sony ist es völlig normal, gegen den DNS-Provider anzugehen, aus der Sicht von dem Rest der  Menschen vielleicht nur bedingt, aber ich meine, aus der Sicht der Schufa machen die  natürlich auch durchaus sinnvolle Dinge.
+ Und es gibt jede Menge Leute, die nutzen deren Dienste und da sind mit Sicherheit auch sinnvolle  Sachen dabei und sinnvolle Perspektiven dabei und deswegen ist es halt ein bisschen differenziert  und differenzieren kann, glaube ich, verschwinden.
+ Ja, ich wollte eigentlich eher darauf hinaus, dass es halt so ein bisschen wirklich so ein  Marketing-Sprech ist, also wenn man das mal zur Grundlage nimmt, wie die Schufa das sieht,  dann klingt das ja so wie schön, dass sie das gerichtlich festgestellt haben.
+ Es ist ja quasi eh schon so, wir müssen, wir müssen, und das ist ja eh, der Score alleine  ist ja eh nicht ausschlaggebend alleine, deswegen, aber insofern und wir und unsere Kunden entsprechen  dem ja, wir müssen ja da nichts ändern, könnte man jetzt da rauslesen als, wir machen das  so weiter wie bisher, weil es ist ja, gehen Sie weiter, es gibt nichts zu sehen.
+ Genau, da, da, da wird man dann mal schauen, inwiefern das wirklich so ist und die Schufa  nicht dann doch mal Dinge noch ändern muss.
+ Zumindest das Gerichtsurteil scheint das ja ein Stück weit auch herzlichen, ja.
+ Wir hatten noch, wobei jetzt geht es raus Richtung Europa?
+ Europa.
+ Da gab es jetzt kein Gerichtsurteil, sondern eine Entscheidung.
+ Ich wollte gerade Europa, ich wollte gerade Europa, ich wollte gerade Europa, ich wollte  mir das doch verknüpfen.
+ Europa.
+ Ich habe, ich habe die digitale Brieftasche, was macht die, was ist denn da passiert?
+ Knurps, was ist denn da passiert?
+ Ich habe das überhaupt nicht bekommen.
+ Die ging ja schon, wir hatten ja schon mal so den Ansatz einer digitalen Brieftasche, wie  ist das Ding?
+ ID-Wallet, ja.
+ Ah, das war bedeutscht, das war bedeutscht.
+ Das war deutsch, richtig, genau.
+ Und hier, es geht es da um den digitalen Euro, nee, EI, das.
+ EI, das.
+ Also ich habe schon elektronischer Ausweis, aber diesmal jetzt eben auf europäischer  Ebene.
+ Die Brieftasche, wobei ich glaube, also ich stecke in dem Thema auch nicht tief drin,  ich bin jetzt kein EI, das ist Spezialist, A, Bär, es soll halt so ein bisschen wallet  werden und Infrastruktur und mal gucken, was da noch so alles kommt.
+ Also ich weiß, dass da teilweise eben schon Standardisierung stattfinden und dass da schon  seit einer ganzen Beiliterie diskutiert wird.
+ Nicht erst seit ID-Wallet, das ging auch davor schon, so es gab davor schon ein Standardst  in dem Bezug und es gab davor auch schon Diskussionen vor der ID-Wallet, aber das ist jetzt noch  mal hochgekommen und es ist ein Thema, was auch schon wieder seit langem diskutiert wird  und wo es jetzt eine Entscheidung gab in, ich glaube in Brüssel, Europa klingt sie nach  Brüssel.
+ Und es gibt jetzt eine EI, das 2.0 Verordnung, die so sagt, na ja, gibt es mal Butter bei  Fische 2026, glaube ich, soll jeder Staat seinen Bürgern sowas anbieten und bis 2030  wollen wir soweit sein, dass so eine grobe Mehrheit das dann auch hat.
+ Wie es da so ist in europatechnischer Details sind da, glaube ich, nur bedingt drin, aber  so eine Umsetzung geht halt nicht ohne Technik und ohne Details und so das ist erst mal die  grobe Richtung, ist da gesetzt.
+ Ja, würde man so ein bisschen gucken müssen, wie das dann wieder ist, es gibt da tatsächlich  auch eine Lock-Buch-Netz-Politik-Folge von vor Kurzem mit Thomas Blödinger, der da so  ein bisschen Einblick gibt in diese ganze europäische Gesetzgebung bezüglich Eiders und  Chat-Kontrolle und dass man da auch ein bisschen gucken werden muss, weil da so diese Q-Wags,  wo irgendwas mit Zertifikaten und so vorkommen und das hat wohl sehr viel damit zu tun, dass  dann die Telefone potenziell, also die dann immer dann vielleicht potenziell eine App drauf  kommt und so und dass die dann potenziell gewissen Zertifikaten der Staaten vertrauen  müssen.
+ Was man ja auch schon im Zusammenhang mit der Chat-Kontrolle schon mal gehört hat, dass  der Staatenzertifikate ausstellen, was glaube ich in anderen Staaten durchaus auch schon  gang und gäbe, ist, dass Staatenzertifikate ausstellen und wo im verschiedensten Folgen  Lock-Buch-Netz-Politik und andere auch schon mal drauf eingegangen wurde, was denn das  so verfolgen hat, wenn Staatenzertifikate ausstellen.
+ Also insgesamt glaube ich, ist da ein Stück Infrastruktur am Start, ja?
+ Also das Zertifikate ausstellen ist ja nicht das Problem.
+ Genau.
+ Also ein Problem wird es dann, wenn Hersteller per Gesetz dazu verpflichtet werden, gewissen  Zertifikaten zu vertrauen und man auch als Benutzer keine Möglichkeit hat das irgendwie  abzuwenden.
+ Weil es gibt halt vielleicht gewisse Staaten, da will ich nicht einfach jedes Zertifikat  von denen den vertrauen.
+ Ja, richtig.
+ Und das ist so ein Ding, was natürlich in verschiedene Richtungen Möglichkeiten eröffnet.
+ Und da hast du genau richtig gesagt, wir müssen jetzt mal schauen, wie sich das so entwickelt.
+ Das glaube ich, ist was jetzt in den nächsten Monaten erfällig, einfach mal so zu gucken,  entwickeln und wenn irgendwas in Richtung geht, die halt dann wirklich bedenklich werden,  auch mal.
+ Was heißt denn hier wirklich bedenklich?
+ Ist das so, dass das klingt so?
+ Das ist halt, man weiß es ja nicht.
+ Und man hat ja durchaus die Hoffnung, also da entsteht ein Stückchen Technologie und das  macht Dinge möglich.
+ Wie das Internet auch, das Internet macht ja auch Dinge möglich, was ja durchaus sinnvoll  ist.
+ Und wir hatten auch, ich glaube es war auch die letzte Lochbruchnetz-Politik-Folge, ging  so ein bisschen um die Richtung, dass man immer so ein bisschen gucken muss, was ist  denn am Ende Gewinn und das Internet macht bei allem, was es möglich macht, natürlich  auch Dinge möglich wie Copilot Verletzungen, wie wir beauftragen irgendwelche Verbrecher  im Darknet, Dinge zu tun, die nicht lustig sind und so weiter.
+ Also es hat alles zwei Seiten und vielleicht nicht nur zwei, sondern auch mehr.
+ Das ist alles irgendwo im analogen Bereich und am Ende brauche ich eine Abwägung.
+ Möchte ich jetzt diesen Nutzen haben mit den Risiken, die dabei entstehen.
+ Und gibt es nicht vielleicht noch eine andere Lösung?
+ Auch das.
+ Ja.
+ Ich glaube zu dem Thema oder auch generell zu diesen europäischen Themen, es hilft auf  jeden Fall, Netzpolitik.org zu verfolgen, was da so auch rumkommt in nächster Zeit.
+ Gerade zu den Themen Eiders und Chat-Kontrolle und auch Lockpuch-Netz-Politik als Podcast  sind auch immer ganz gut informiert.
+ Genau.
+ Und du hattest ja mal gefragt, was kann da Schlimmes passieren?
+ Da haben wir noch einen schönen Link im Pad.
+ Mit Daten, die irgendwie plötzlich irgendwo landen?
+ Wenn man Daten hat, dann und wenn die existieren, weil die gesammelt wurden irgendwo in einer  Stückchen Infrastruktur.
+ Dann.
+ Daten existieren, entstehen Begehrlichkeiten und dann sind auch so die fiesen Hacker tatsächlich  auch nicht weit.
+ Ja, hat jetzt mit Politik- und Regierungsprojekten gar nicht so viel zu tun, aber es gibt da  diesen privaten Anbieter 23andMe, der eine andere kennt sie vielleicht, weil das ist  ein Dienst, wo man da kann man, ich glaube, sein Speichel hinschicken und dann kriegt  man da so eine Genauswertung und kriegt dann zum Beispiel gesagt, zu wie viel Prozent  bürst du?
+ Welcher Ethnähe irgendwie an, welchen biologischen Hintergrund hast du so und wie viel über  wie viele Stufen bist du mit anderen?
+ Nein, ich glaube, das steht da nicht drin, aber so sinngemäß, dass man so seinen genetischen  Fingerabdruck und du hast so ein so viel Risiko, glaube ich, für bestimmte Krankheiten, glaube  ich auch.
+ Kann man da alles irgendwie hinkriegen, was die natürlich dafür machen müssen?
+ Die müssen das irgendwie analysieren.
+ Ja, und das sind ja schon Daten, wo man gerade in der DSGVO unter den Gesundheitsdaten  durchaus spannende und nicht ganz unkritischen Daten liest.
+ Ja, sind natürlich persönliche Daten an der Stelle, ja.
+ Und da sind irgendwie Dinge passiert, die da lieber nicht passieren sollten, nämlich  sind da wohl von 6,9 Millionen Menschen Daten entwendet worden bei 23andMe, also entwendet  ist natürlich immer so ein bisschen plat ausgedrückt, weil die Daten wurden im Zweifel  halt einfach kopiert.
+ Ja, das sind halt woanders, die sind ja nicht weg.
+ Genau, aber was haben wir damit, aber es war eigentlich ja ursprünglich ganz schön  wenig.
+ Das war ja völlig harmlos, 0,1 Prozent der Daten.
+ Ach Mensch, das ist ja nischt, das ist ja ein Tausendstel, also 0,1 Prozent, ich kann  jetzt gerade nicht so stark im Kopf rechnen, also okay.
+ Ja, also das waren wohl so die ersten Meldungsjahre, das ist ganz harmlos, es waren nur 0,1 Prozent  der Daten.
+ Und irgendwann am Ende der Turns Out, es waren wohl doch 6,9 Millionen.
+ Wir sagen, da wären ja 0,1 Prozent zufällig, 0,1 Prozent der Menschheit.
+ Also es gibt wohl 14 Millionen Nutzerprofile bei 23andMe, Brote da geschrieben und da  wären 0,1 Prozent, 14.000 und dann ist es halt wie die Wurstscheibchenpolitik und wenn  irgendwie nachweisen kann, dass es dann doch mehr ist, dann gibt man halt zu Jahr ein bisschen  mehr.
+ Also es ist ja ein bisschen mehr als 14.000, also vielleicht doch und am Ende sind wir  jetzt bei 9.000.
+ Du meinst so wie die Warns4 oder Warns14 Kreditkarten, Daten bei Motel 1 neulich, ich weiß auch  nicht ob es da noch ein Update gab, aber da gab es ja auch ein größeres Daten weg.
+ Ja, aber also bei 23andMe, wie gesagt, ja, das ist also ärgerlich, ist noch sehr euphemistisch  ausgedrückt, das sollte einfach nicht passieren, liegt wohl aber mindestens mal zum Teil auch  ein bisschen da dran, an der Faulheit der Menschen selber, also und da halt für alle, die irgendwo  Entscheidungen treffen und Infrastrukturen bauen, das Einzige was dagegen hilft, ist  diese Infrastrukturen resilient und sicher zu bauen.
+ Moment, Moment, Moment, Moment, Moment, das was, das was ich, worauf ich hinaus wollte  ist, es lag wohl zum Teil da dran, dass Menschen ihre Passwörter wiederverwendet haben, also  dass der mindestens mal einen Teil des Angriffes darauf beruhte, dass Menschen bei anderen  Diensten genau daslle Passwort verwendet haben, dass dort erbeutet wurde und das hat dann  blöderweise auch bei 23andMe funktioniert.
+ Und auch da wieder Infrastrukturen geben, Dinge hier, es gibt zwei Faktor-Attentifizien  und Sprubs haben es völlig egal, wenn Menschen die gleichen Passwörter überall verwenden.
+ Wenn Infrastrukturen gebaut werden, sollten die so gebaut werden, dass nach dem Stand der  Technik und nach dem Stand dessen, was man da an Daten hat, das halt so safe ist, dass  man gut schläft.
+ Das glaube ich immer so mein Kriterium beim Bauen von Dingen.
+ Und Passwörter sollten nicht im Klartext gesprochen werden und man sollte nicht bei  einen Diensten dasselbe Passwort verwenden und man sollte testen, dass die Backups wieder  zurückgespielt werden können und man sollte zusehen, dass Backups nach dem Backup nicht  mehr verändert werden können und dass die Backups hinter Schranken liegen, so dass  nicht jeder rankommt, dass Backups hinter Schranken liegen sollten, so dass nicht jeder  rankommt, weil es glaube ich seit dem Schlüssel weg kam auch mal Microsoft.
+ Das haben wir jetzt nicht im Patch stehen, aber das war mir jetzt ein bisschen sehr weit  ausgeholt.
+ Ich wollte erstmal vor allem darauf hin, dass halt liebe Leute benutzt nicht überall  dasselbe Passwort, sondern nutzt unterschiedliche Passwörter, die am besten auch ausreichend  schwierig sind und damit ihr euch die merken könnt oder nicht merken müsst, benutzt gerne  auch ein Passwortmanager.
+ Nein, einer einzelnen Anhänger ist nicht ausreichend und auch nicht die Jahreszahl  um eins zu erhöhen ist auch nicht ausreichend.
+ Passwortmanager.
+ Genau.
+ Gut.
+ Wolltest du jetzt auf die Sache mit Microsoft noch irgendwie hinaus oder eher nicht?
+ Ich kann es nachdem ich jetzt den Bogen dahin geschlagen habe, ja nochmal kurz erwähnen.
+ Es gab da so einen Kiel von Microsoft, der sich in eine Backup-Fund des Menschen gefunden  haben, wo es nicht gefunden werden sollte und irgendwie es ist seit dem Entschlüssel,  der nicht draußen sein sollte, zumindest nicht mehr so geheim wir sein sollte und in nähere  Details müsste ich jetzt auch dann raus suchen.
+ Ist das nicht der Grund dafür, dass ich jetzt immer zu sagen muss, wenn ich nach GitHub  pushe, dass ich dem Server da vertraue, weil die irgendwann mal alle ihre Schlüssel neu  ausrollen mussten, weil die Alten halt, also das war wohl so ein Master-Kiel, der da rum  ging.
+ Ich weiß es nicht mehr.
+ Weil Microsoft mehrere Stories gleichzeitig, ich weiß einer war so ein Azure Cloud Master-Kiel,  womit sie quasi auch einmal die zwei Drittel aller Kunden-Accounts aufmachen könnten  theoretisch und das andere war ein GitHub Master-Kiel, das war auch so.
+ Ja, okay.
+ Also da ist noch nicht gesagt, dass irgendwas Schlimmes passiert ist, da kommen aber die  Möglichkeit besteht, wenn das Ding nicht ganz geheim.
+ Weil wie das mit Generalschlössern immer so ist, man hat potenziell Zutritt zu Dingen,  wo man nicht hin sollte und dann muss man erstmal alle Schlösser wechseln und ja genau.
+ Und vielleicht noch einen ganz kleinen Bogen zurück zu 24 in Mie, also so ein Master-Kiel  ist zwar schwer auszutauschen, kann man aber austauschen.
+ Das Problem bei biometrischen Daten ist, die kann man nie austauschen.
+ Also wenn die DNA Sequenz einmal offen ist, dann ist das halt so.
+ Also ein Fingerabdruck kann es auch nicht mehr austauschen und das ist dann.
+ Also aus allen Science-Fiction-Filmen, die dann meistens nicht gut ausgehen, das ist es  richtig.
+ Das sind dann meistens eher Dystopien, also die Fliege oder so.
+ Ich glaube, wir müssen so langsam zum Ende kommen.
+ Ja, machen wir doch.
+ Ich meine, das ist schon ein Ende.
+ Es ändert sich, es ändert sich, es endet ja langsam das Jahr, wir haben ja glaube ich  auch schon beim letzten Mal erwähnt, es wird dieses Jahr wieder ein Kongress geben, nämlich  den 37C3, die Ticket-Vergabe ist so weit, relativ weit geliegen schon.
+ Ich glaube, jeder in dem Umfeld, der dich kennen, der einen Ticket haben wollte, hat  eins gekriegt.
+ Ja, und ja, die Vorbereitungen laufen auch auf Hochtouren, auch bei uns.
+ Es wird auf jeden Fall sehr spannend, wir werden uns dieses Jahr mit einer, also neuen alten  Location auseinandersetzen müssen, da mal ein bisschen schauen, was kriegen wir da auf  die Beine und in welchem Zeitraum und wie das Ganze überhaupt werden wird in Hamburg,  statt in Leipzig.
+ Bislang haben wir ja als Graustreff, waren wir ja in Leipzig unterwegs und auf dem Camp.
+ Richtig, ich war auch tatsächlich nur auf Leipziger Kompressen bis jetzt.
+ Ja, im Hamburg kenne ich, aber wird auf jeden Fall spannend, wie man jetzt quasi das, was  man jetzt, was in Leipzig entstanden ist, also wie sich das jetzt auf Hamburg überträgt  oder was vielleicht auch einfach anders sein wird.
+ Genau.
+ Ich bin auf Hamburg gespannt, ich habe es noch nie gesehen, doch in der Hamburg habe  ich schon gesehen, aber nicht in Kongress dort.
+ Potentiell möglicherweise gibt es noch Tickets unter tickets.events.cc.de und ansonsten wird  es und ja, auf den CCC-Seiten dann auch wieder Streaming geben.
+ Nein?
+ Nein, Tickets sind nicht mehr verfügbar.
+ Ah, ja dann gibt es keine Tickets mehr.
+ Kurz vorher eine Ticketbörse oder so, aber Hotelzimmer gibt es vermutlich auch nicht  mehr.
+ Doch.
+ Ja, hat geklappt, ja.
+ Hamburg ist groß genug meins.
+ Hamburg ist groß genug.
+ Und mir ist bekannt, dass es noch Hotelkontingente auch gibt, also sofern.
+ Aber Streaming wird es geben, weil du da so mit Nein reingekretcht bist, weil du eigentlich  Tickets meintest, also Streaming wird es geben für die, die zuhause bleiben oder zuhause  bleiben müssen.
+ Es wird auch so ein paar dezentrale Sachen wieder geben, schön und größer die Hölle.
+ Genau.
+ Gut.
+ Würdest du mir hier noch ein Rausschmeißer oder wie?
+ Kann man machen.
+ Nein, du willst auch nur wieder unsere Stimmen beschleunigen.
+ Machen wir doch.
+ Machen wir doch.
+ Ja, ihr habt gehört das Chaos im Radio, die letzte Sendung des Jahres 2023.
+ Wir werden auch nächstes Jahr wieder Chaos machen, jeden zweiten Montag im freien Radio  Potsdam.
+ Immer noch auf UKW 88,7, 88,4 in Berlin und 90,7 in Potsdam oder auf die AB Plus, Fr-BB  und 24 schrei.
+ Hinterlass uns Grüße, sendet uns Weihnachtsgröße an Radio LCCC-P.org und ansonsten wünschen  wir euch eine wunderschöne Weihnacht.
+ Vielleicht sehen wir uns auf dem Kongress in Hamburg, wenn nicht rutscht gut rein und  bis das Jahr.
+ Und ihr hört jetzt noch abschließend einen winterlichen Titel auch wieder mit einer Creative  Commons Lizenz von Audio Coffee, der Titel Winter Fun.
+ Tschüss.
+ Tschüss.
+ Tada.

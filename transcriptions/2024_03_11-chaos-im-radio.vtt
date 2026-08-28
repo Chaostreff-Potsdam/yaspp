@@ -1,0 +1,3086 @@
+WEBVTT
+
+00:00:00.480 --> 00:00:07.650
+ Dumm die dumm herzlich willkommen zur März Ausgabe von Chaos im Radio. Heute mit dabei sind der Knurps.
+
+00:00:07.650 --> 00:00:13.320
+ Endlich wieder der Cyroxx. Hallo, ist mal live von der Farbe. Und der Hannes.
+
+00:00:13.320 --> 00:00:24.200
+ Und die bezaubernde Gini. Hallo Gini. Was gibt es noch? Waffeln. Heute gibt es keine Waffeln.
+
+00:00:24.200 --> 00:00:32.090
+ Waffeln. Waffeln. Waffeln. Waffeln. Anspielung auf den Waffelsraum. Ja, ist der Waffel. Genau.
+
+00:00:32.090 --> 00:00:39.120
+ Wir haben uns am letzten Podcast-Folge, wie auch immer angekündigt, das war "Tag des offenen Hexbases" am zweiten, dritten.
+
+00:00:39.120 --> 00:00:44.250
+ Ja, zweiter, dritter, genau eine Woche her. Aber wir nehmen ein bisschen Feuer auf. Also quasi nicht mehr als eine Woche her.
+
+00:00:44.250 --> 00:00:50.820
+ Ich bin jetzt schon verwirrt. Schön. Ja, und die Machbar oder ja, das ist ja der Hexbass, ist die Machbar, oder?
+
+00:00:50.820 --> 00:00:59.320
+ Ich bericht ich aber, Leute. Es gab Waffeln. Es gab kleine, runde, nette Leute. Was gab es noch? Reparierte Laptops?
+
+00:00:59.320 --> 00:01:05.230
+ Total wurschtig. Ja, wir haben gehackt am Tag des offenen Hexbases. Ich habe mir gehackt.
+
+00:01:05.230 --> 00:01:11.110
+ Du hast mir gehackt. Ich hätte lieber Schokolade hacken sollen, oder? Wir sind voller gewesen.
+
+00:01:11.110 --> 00:01:16.390
+ Ja, aber wie hackt man mir? Ja, das würdest du begegnen wissen. Da hättest du da sein müssen.
+
+00:01:16.390 --> 00:01:24.100
+ Darf ich meine Leidensgeschichte erzählen? Ja, gleich. Aber ich habe mein Mixer hier auch vergessen.
+
+00:01:24.100 --> 00:01:28.490
+ Dann wird es auch noch irgendwo liegen. Okay, jetzt darfst du deine Leidensgeschichte erzählen.
+
+00:01:28.490 --> 00:01:35.910
+ Ich habe am Tag des offenen Hexbases zwei Sachen gemacht hier in der Machbar. Das erste war Hardware Hacking.
+
+00:01:35.910 --> 00:01:46.740
+ Und zwar habe ich seit Monaten einen relativ günstigen, irgendwas, Laptop von 2015 oder so mit mir rumgeschleppt.
+
+00:01:46.740 --> 00:01:54.120
+ Ich wollte mal irgendjemanden zur Verfügung stellen, der den braucht. Also keine Ahnung, die Jungs und Mädels von...
+
+00:01:54.120 --> 00:02:01.630
+ Na, wie heißen sie? HPI, die Kinderkurse... Kodadojo? Das Kodadojo, danke. Das ist nicht nur HPI, aber...
+
+00:02:01.630 --> 00:02:06.220
+ Genau, aber der Potsdamer ab der Zweig ist ja im großen Platz vom HPI.
+
+00:02:06.220 --> 00:02:11.730
+ Genau, den wollte ich eventuell so einen Laptop hingeben. Der ging und dann hatte ich den zu Hause
+
+00:02:11.730 --> 00:02:15.280
+ und wollte nochmal einen abschließenden Check machen und drück auf den Knopf und nichts geht.
+
+00:02:15.280 --> 00:02:19.830
+ Nichts passiert. So, irgendwie vorne die LEDs gingen kurz an und gingen wieder aus und das war es.
+
+00:02:19.830 --> 00:02:21.510
+ Ganz viel nichts.
+
+00:02:21.510 --> 00:02:26.900
+ Ganz viel nichts. So, und dann habe ich den halt, wie man das so macht, einmal auseinandergenommen,
+
+00:02:26.900 --> 00:02:32.210
+ was schon schmerzhaft war, weil dieser Hersteller das nicht so macht, dass man die auseinandernehmen kann.
+
+00:02:32.210 --> 00:02:37.000
+ Man hat aber irgendwie geklappt, aber auch nichts kaputt gemacht, haben wieder zusammengesetzt, keine Änderung, wenig überrascht.
+
+00:02:37.000 --> 00:02:44.230
+ So, und dann habe ich über mehrere Monate mit recherchieren und immer mal wieder dran rumzubillen, festgestellt.
+
+00:02:44.230 --> 00:02:47.350
+ Oha, eine leere Mainboard-Batterie könnte das Problem sein.
+
+00:02:47.350 --> 00:02:50.690
+ Also bei den Geräten, die ich sonst so kenne, heißt das eigentlich nur, dass die Uhrzeit nicht mehr geht,
+
+00:02:50.690 --> 00:02:54.860
+ wenn die Mainboard-Batterie leer ist oder irgendeine Hand sei gekommen, die Hilfe deiner Mainboard-Batterie ist leer.
+
+00:02:54.860 --> 00:02:57.050
+ Oder das ist beim Starten mal F1 und dann geht es weiter.
+
+00:02:57.050 --> 00:03:03.110
+ Exakt. Also so eine kleine Knopfzelle, aber nein, bei diesem Modell ist es so, der geht dann nicht mehr an.
+
+00:03:03.110 --> 00:03:07.690
+ Was ganz schön dramatisch ist, finde ich so. Das ist schon geplante Obsolistenz, finde ich.
+
+00:03:07.690 --> 00:03:16.930
+ So, noch dazu war das natürlich eine fest eingelötete Knopfzelle, die auch wirklich alles einmal auseinander nehmen musstest, um dieses Ding da rauszuholen.
+
+00:03:16.930 --> 00:03:19.120
+ Und dann habe ich mich da mit dem Löten noch schwer getan.
+
+00:03:19.120 --> 00:03:23.540
+ Naja, keine Ahnung, jedenfalls am Tag des Auf-Nen-Hacks-Bases habe ich fest vorgenommen, das zu schaffen.
+
+00:03:23.540 --> 00:03:32.010
+ Und ich habe es geschafft und der ging auf einmal an und ich hatte damit nach Monaten das rumzubillens nicht damit gerechnet, dass der angeht.
+
+00:03:32.010 --> 00:03:35.160
+ Und dann ging das alles und das war eigentlich alles so schön.
+
+00:03:35.160 --> 00:03:36.440
+ Ein schönes Erfax-Erlebnis.
+
+00:03:36.440 --> 00:03:46.920
+ Ja, und heute war ein anderer Laptop kaputt, von einem anderen Hersteller, der ging an mit dem Hinweis, dass der Lüfter-Fan-Error "something, something".
+
+00:03:46.920 --> 00:03:56.690
+ Also habe ich den auch aufgemacht und das erste, was mich da anblickte, nachdem ich drei Schrauben gelöst habe, war eine Knopfzelle, die man einfach so hätte wechseln können.
+
+00:03:56.690 --> 00:03:59.190
+ Nicht so schön.
+
+00:03:59.190 --> 00:04:00.700
+ Ist das gemein?
+
+00:04:00.700 --> 00:04:02.550
+ Naja, den habe ich dann geputzt, dann ging auch wieder alles gut.
+
+00:04:02.550 --> 00:04:03.790
+ Aber der Lüfter war eingelötet.
+
+00:04:03.790 --> 00:04:06.200
+ Der Lüfter war eingelötet.
+
+00:04:06.200 --> 00:04:11.690
+ Ja, und das andere wollte ich auch noch loswerden, war nämlich unser Podcast Publishing.
+
+00:04:11.690 --> 00:04:19.540
+ Wenn hier alles gut läuft, dann hört man diese Folge auch mal wieder übers Internet, nicht nur übers Radio.
+
+00:04:19.540 --> 00:04:27.440
+ Weil ich ein Skript geschrieben habe, was das in das andere Skript rein baut, was unseren Feed erzeugt.
+
+00:04:27.440 --> 00:04:28.830
+ Ein Go-Skript?
+
+00:04:28.830 --> 00:04:30.030
+ Ein Go-Skript, genau.
+
+00:04:30.030 --> 00:04:36.210
+ Was ich durchgelesen habe und dachte, oh ja, ich sollte mal Go lernen, um meinen professionellen Background zu erweitern.
+
+00:04:36.210 --> 00:04:38.320
+ Kannst du irgendwann mal?
+
+00:04:38.320 --> 00:04:40.520
+ Womit bringt dir dein Go in Verbindung?
+
+00:04:40.520 --> 00:04:42.520
+ Mit einem Hamster, es ist ein Hamster.
+
+00:04:42.520 --> 00:04:43.680
+ Ach so, das kann sein.
+
+00:04:43.680 --> 00:04:45.200
+ Ein Go-Fahr, ja.
+
+00:04:45.200 --> 00:04:46.720
+ Das sieht ähnlich aus wie ein Hamster war.
+
+00:04:46.720 --> 00:04:50.470
+ Also bei Go denke ich an Tooling, an DevOps, an Skripte.
+
+00:04:50.470 --> 00:04:51.470
+ Noch was?
+
+00:04:51.470 --> 00:04:53.470
+ Schnell, Performance.
+
+00:04:53.470 --> 00:04:55.470
+ Also zumindest nett, parallelisierbar.
+
+00:04:55.470 --> 00:04:58.460
+ Ich muss an Rust denken dabei.
+
+00:04:58.460 --> 00:05:00.460
+ Vielleicht Go denke ich an Rust.
+
+00:05:00.460 --> 00:05:03.460
+ Aber ich glaube, es sind schon unterschiedliche Anwendungsfälle.
+
+00:05:03.460 --> 00:05:08.970
+ Also ich meine, die meisten denken wahrscheinlich an Google, dachte ich so, weil Go die Google-Sprache ist.
+
+00:05:08.970 --> 00:05:14.080
+ Manchmal auch furchtbarer Name für eine Programmiersprache.
+
+00:05:14.080 --> 00:05:16.080
+ Zwei Buchstaben sind eine ganz schlechte Idee.
+
+00:05:16.080 --> 00:05:20.680
+ Im Besondere, wenn du im Internet nach Dingen suchst, wie mache ich Dinge in Go?
+
+00:05:20.680 --> 00:05:22.670
+ Oder ich habe ein Problem mit Go.
+
+00:05:22.670 --> 00:05:24.670
+ Ein Rollstuhl, bitte schön.
+
+00:05:24.670 --> 00:05:26.670
+ Deswegen heißt es meistens Go lang.
+
+00:05:26.670 --> 00:05:36.100
+ Und ich glaube, weshalb du das mit DevOps irgendwie assoziierst, ist, dass das so die Kernskripting-Sprache in Kubernetes ist.
+
+00:05:36.100 --> 00:05:38.100
+ Ah, das kann sein.
+
+00:05:38.100 --> 00:05:40.100
+ Ah, das sitzen wir auch.
+
+00:05:40.100 --> 00:05:44.090
+ Genau, also so irgendwie, das ist ja mittlerweile im Deployment relativ üblich.
+
+00:05:44.090 --> 00:05:48.090
+ Da irgendwie Kubernetes als Plattform zu benutzen, weil Container reißt und so weiter.
+
+00:05:48.090 --> 00:05:52.080
+ Und da sind so kleine Mini-Services und so sind gerne mal in Go geschrieben.
+
+00:05:52.080 --> 00:05:54.080
+ Genau, deswegen gibt es Go.
+
+00:05:54.080 --> 00:06:00.070
+ Ich weiß nicht, ob es jetzt wirklich, also ich glaube, wenn man es runterkompiliert, ist es tatsächlich hier relativ flott.
+
+00:06:00.070 --> 00:06:02.070
+ Die Sprache an sich.
+
+00:06:02.070 --> 00:06:06.070
+ Ich habe vorhin schon gesagt, das einzige, was ich an der Programmiersprache nicht mag, ist die Programmiersprache.
+
+00:06:06.070 --> 00:06:13.190
+ Also die Sündtags und so ein paar Paradigmen, die Sie da übernehmen, sind furchtbar.
+
+00:06:13.190 --> 00:06:20.180
+ Also finde ich für meinen Geschmack, ich komme aus der C-Welt und habe auch lange irgendwie Python gemacht und C++ und so weiter.
+
+00:06:20.180 --> 00:06:22.180
+ Das ist sehr verbose.
+
+00:06:22.180 --> 00:06:26.170
+ So Error-Handling, da haben die ihr eigenes, ihre eigenes Manifesto.
+
+00:06:26.170 --> 00:06:33.160
+ Das halt, du musst explizit immer gucken, was macht hier, kam hier wirklich Error, ein Error zurück oder ist Error nil.
+
+00:06:33.160 --> 00:06:39.150
+ Das macht dann immer so ein "if er nil" hast du durch den ganzen Code überall drin stehen.
+
+00:06:39.150 --> 00:06:43.150
+ Exceptions gibt es nicht, Vererbungen gibt es nicht.
+
+00:06:43.150 --> 00:06:47.140
+ Es ist auch nicht wirklich objektorientiert, aber auch nicht wirklich was anderes.
+
+00:06:47.140 --> 00:06:49.140
+ Also ein bisschen komisch.
+
+00:06:49.140 --> 00:06:55.130
+ Aber all das ist es wert, weil alles drum herum halt einfach super durchdacht ist.
+
+00:06:55.130 --> 00:07:02.120
+ Also da war es man eben früher so in C++ und Python vielleicht schon eher, weil C++ nicht mitgedacht hat war.
+
+00:07:02.120 --> 00:07:07.120
+ Wie kümmest du dich denn um Versionierung, wie kümmest du dich um Dependency Management?
+
+00:07:07.120 --> 00:07:15.110
+ Und dann gibt es halt irgendwie immer fünf verschiedene Standards, die jemand drum herum gebastelt hat, mit denen man jetzt Dependency Management macht.
+
+00:07:15.110 --> 00:07:17.100
+ Also bei Python ist es ja häufig pip.
+
+00:07:17.100 --> 00:07:23.100
+ Irgendwie bei C++ gibt es von jedem was anderes und nichts funktioniert.
+
+00:07:23.100 --> 00:07:32.270
+ Und bei Go ist es halt einfach eingebaut und das ist tatsächlich über Git und GitHub Repositories im Wesentlichen realisiert.
+
+00:07:32.270 --> 00:07:39.250
+ Also die Version deines Modules, was du einbindest, ist halt einfach ein Tag in deinem Git Repository.
+
+00:07:39.250 --> 00:07:46.230
+ Du schreibst oben tatsächlich ganz klar einfach den Link zu dem Git Repository rein, von dem du das Modul konsumierst.
+
+00:07:46.230 --> 00:07:52.220
+ Und wenn das Git Repository in einem bestimmten Format angelegt ist, was jetzt auch irgendwie super lesbar ist und alles gut funktioniert,
+
+00:07:52.220 --> 00:07:55.210
+ dann hast du damit deine Abhängigkeiten erledigt.
+
+00:07:55.210 --> 00:08:03.190
+ Und dann kannst du es in die Sprache eingebaut, wie da jetzt irgendwie Updates funktionieren von Abhängigkeiten und wie das gecached wird,
+
+00:08:03.190 --> 00:08:07.380
+ dass du nicht alles jedes Mal neu baust und so ein Kram, also das haben sie richtig gut gemacht.
+
+00:08:07.380 --> 00:08:09.360
+ Und testen ist ähnlich gut eingebaut.
+
+00:08:09.360 --> 00:08:15.320
+ Auch hier ist die Sonntags wieder furchtbar, aber kannst du halt statt Go Run, gibst du halt Go Test ein und dann führt er deine Testgases aus.
+
+00:08:15.320 --> 00:08:16.310
+ Das passt super.
+
+00:08:16.310 --> 00:08:23.290
+ Und dadurch, dass das alles das Setup relativ einfach ist, ist halt die Anzahl von verfügbaren Libraries relativ hoch.
+
+00:08:23.290 --> 00:08:25.660
+ Kann man viel mitmachen.
+
+00:08:25.660 --> 00:08:34.740
+ Vor Libraries oder Pakete, wie sieht das da so aus, wie sinnvoll oder wie furchtbar sind, die da so geschneidert.
+
+00:08:34.740 --> 00:08:38.720
+ Ist das sinnvoll oder hat man da so ähnlich wie bei Node.js so ein Left-Pad-Problem,
+
+00:08:38.720 --> 00:08:44.700
+ dass man irgendwie so für simple Dinge einzelne Pakete hat und viele Modul erben.
+
+00:08:44.700 --> 00:08:47.690
+ Dann kannst du da irgendwie Erfahrungen...
+
+00:08:47.690 --> 00:08:51.680
+ Also es ist nicht ganz so extrem wie bei Node.js.
+
+00:08:51.680 --> 00:08:55.670
+ Also herz es typisch hier, ich will zwei Zahlen zusammen addieren, das gibt es da nicht.
+
+00:08:55.670 --> 00:08:58.710
+ Aber mir ist auch schon aufgefallen, dass auch in Go lang...
+
+00:08:58.710 --> 00:09:03.670
+ Also immer wenn dependency-Management sehr einfach ist, fangen die Leute an halt die Entkram nicht mehr selber zu schreiben,
+
+00:09:03.670 --> 00:09:06.650
+ sondern auch die einfachsten Sachen zu konsumieren.
+
+00:09:06.650 --> 00:09:08.640
+ Die Standard-Library ist auch relativ klein.
+
+00:09:08.640 --> 00:09:14.710
+ Also zum Beispiel fehlen die so Dubli-Link-Lists und so, die holst du dir dann meistens aus irgendwelchen Abhängigkeiten.
+
+00:09:14.710 --> 00:09:18.670
+ Also es ist nicht ganz so schlimm wie bei Node.js, aber es kann schon überborden.
+
+00:09:18.670 --> 00:09:23.930
+ Also wenn du da auf Projekte kommst, die halt da nicht so acht drauf geben,
+
+00:09:23.930 --> 00:09:26.930
+ dann kann es schon sein, dass du dir sehr, sehr, sehr viele Abhängigkeiten mit reinholst.
+
+00:09:26.930 --> 00:09:32.920
+ Und wenn dann Leute dann versuchen, alles möglichst wegzumodularisieren und als Abhängigkeit irgendwie darzustellen,
+
+00:09:32.920 --> 00:09:36.920
+ damit dann halt das Ergebnis irgendwie vielleicht kleiner und schneller ist.
+
+00:09:36.920 --> 00:09:40.920
+ Ob das überhaupt die Zutrift ist, ist dann vielleicht nochmal die andere Frage möglicherweise.
+
+00:09:40.920 --> 00:09:42.910
+ Ich habe jetzt keine Ahnung von Go.
+
+00:09:42.910 --> 00:09:48.910
+ Also das kann ja alles passieren. Das Gute ist, am Ende kannst du Go runterkompilieren.
+
+00:09:48.910 --> 00:09:53.910
+ Das ist das, was mir in Python immer enorm gegen den Strich ging,
+
+00:09:53.910 --> 00:09:57.900
+ dass es so schwierig ist, ein Executable irgendwie zu delivern.
+
+00:09:57.900 --> 00:10:00.900
+ Also so als typischer Linux-Nutzer brauchst du es nicht.
+
+00:10:00.900 --> 00:10:04.900
+ Wozu sollst du das auch runterkompilieren, wenn du e-Python auf dem Rechner hast.
+
+00:10:04.900 --> 00:10:09.890
+ Aber so unter Windows wird es ja eigentlich eine Ex haben.
+
+00:10:09.890 --> 00:10:12.890
+ Und manchmal ist es auch unter Linux ganz nett.
+
+00:10:12.890 --> 00:10:18.880
+ Und halt die Möglichkeit in Go irgendwie Tools und sinnvolle Binarys zu bauen,
+
+00:10:18.880 --> 00:10:23.880
+ die weniger als, weiß ich nicht, 100 Kilobyte groß sind, das geht out of the box.
+
+00:10:23.880 --> 00:10:26.880
+ Also machst halt Go-Build und dann fällt da ein Binary raus.
+
+00:10:26.880 --> 00:10:30.870
+ Cross-Compilation für andere Plattformen und so ist alles mit eingebaut.
+
+00:10:30.870 --> 00:10:33.870
+ Also das sind auch Dinge, die einfach sehr gut funktionieren.
+
+00:10:33.870 --> 00:10:36.870
+ Und das ist dann auch wurscht, wie viele Dependencies hinten dran sind,
+
+00:10:36.870 --> 00:10:41.860
+ dass halt halbwegs gut modularisiert ist, findet der compiler schon heraus, was er braucht und was nicht.
+
+00:10:41.860 --> 00:10:44.860
+ Kann aber sein, dass das runterladen und so einmal am Anfang sehr lange dauert,
+
+00:10:44.860 --> 00:10:46.860
+ wenn jemand die Dependencies hat.
+
+00:10:46.860 --> 00:10:49.860
+ Aber an sich würdest du sagen, so was du damit gekriegt hast,
+
+00:10:49.860 --> 00:10:53.850
+ ist ein an sich gutes Ökosystem, wie es ja so schon heißt.
+
+00:10:53.850 --> 00:10:56.850
+ Genau, also durchaus.
+
+00:10:56.850 --> 00:10:58.850
+ Und bisher habe ich immer alles gefunden.
+
+00:10:58.850 --> 00:11:00.850
+ Also meistens ist es so, wenn ich jetzt irgendwie versuche rausfinde,
+
+00:11:00.850 --> 00:11:04.840
+ hey, modernes Software Projekt X gibt es da irgendwie eine Library,
+
+00:11:04.840 --> 00:11:05.840
+ dann finde ich meistens zuerst die Python Library.
+
+00:11:05.840 --> 00:11:10.840
+ Und dann als nächstes aber auch schon eine Go-Library, die meistens ganz gut sind.
+
+00:11:10.840 --> 00:11:13.840
+ Und wenn nicht, kriegt man es auch ganz gut, schnell selber gehackt.
+
+00:11:13.840 --> 00:11:14.950
+ Okay.
+
+00:11:14.950 --> 00:11:16.940
+ Genau, also ich bin da Fan von.
+
+00:11:16.940 --> 00:11:20.920
+ Es geht für insbesondere ab der Größe, wo es dann bei Python schwierig wird.
+
+00:11:20.920 --> 00:11:25.890
+ So die Mittelgroßen des großen Projektes, da funktioniert Go, finde ich noch ganz gut.
+
+00:11:25.890 --> 00:11:30.860
+ Ja, ich weiß nicht, wenn ich eine Datenbank baue, benutze ich weiterhin C und C++.
+
+00:11:30.860 --> 00:11:34.110
+ Genau, aber das wollte ich immer loswerden.
+
+00:11:34.110 --> 00:11:40.080
+ So, und unser kleines, weil ich halt relativ viel als Hobby in Go-Arbeiter habe,
+
+00:11:40.080 --> 00:11:43.070
+ ich habe unser kleines Podcast-Publishing-Skript in Go geschrieben,
+
+00:11:43.070 --> 00:11:47.050
+ was dann dem anderen Python-Skript hinwirft, was das eigentlich tun soll.
+
+00:11:47.050 --> 00:11:50.040
+ Weil wir modern sind, ist alles in Docker gebraten.
+
+00:11:50.040 --> 00:11:52.030
+ Was, was, was?
+
+00:11:52.030 --> 00:11:55.020
+ Ich habe es doch gereist.
+
+00:11:55.020 --> 00:11:56.050
+ Oh mein Gott.
+
+00:11:56.050 --> 00:11:59.230
+ Ja, weil ich halt hier kein Python auf meinem Rechner habe.
+
+00:11:59.230 --> 00:12:01.230
+ Und das wollte auch ziemlich viel gedöns.
+
+00:12:01.230 --> 00:12:05.220
+ Also kein Python in der Version, die dieses Skript hinterhaben wollte.
+
+00:12:05.220 --> 00:12:07.210
+ Auch was, was mir bei Python sehr oft auffällt,
+
+00:12:07.210 --> 00:12:11.200
+ dass sich schon noch auch in der Standardbibliothek Dinge relativ häufig ändern,
+
+00:12:11.200 --> 00:12:15.200
+ auch bei zwischen, weiß ich nicht, einer Version 3, 6 und 3, 8.
+
+00:12:15.200 --> 00:12:17.190
+ Funktioniert auf einmal was nicht mehr, das fand ich immer komisch.
+
+00:12:17.190 --> 00:12:19.190
+ Das ist mir bei Go jetzt auch noch nicht passiert.
+
+00:12:19.190 --> 00:12:20.190
+ Oder ich hatte Pech.
+
+00:12:20.190 --> 00:12:23.180
+ Also es kommen, ich hätte gesagt, es kommen eher Dinge dazu.
+
+00:12:23.180 --> 00:12:27.170
+ Ja, es werden auch mal Sachen als Faltet markiert, weil, ja, aber die geht eigentlich.
+
+00:12:27.170 --> 00:12:30.160
+ Ich glaube, der Argumentpaar ist allerdings zweimal, oder? Kann das sein?
+
+00:12:30.160 --> 00:12:33.160
+ Gibt es einen Argpaar und einen Paar-Arg oder so was?
+
+00:12:33.160 --> 00:12:35.150
+ Irgendwo bin ich mal drüber gefallen.
+
+00:12:35.150 --> 00:12:36.150
+ Ja, kann sein.
+
+00:12:36.150 --> 00:12:38.150
+ Also lange nicht mehr so schlimm wie bei PHP.
+
+00:12:38.150 --> 00:12:39.140
+ Schuldigung.
+
+00:12:39.140 --> 00:12:42.140
+ Das ist aber auch die Toten, wenn ihr freundet.
+
+00:12:42.140 --> 00:12:44.110
+ Zurecht.
+
+00:12:44.110 --> 00:12:48.870
+ Gut, okay, also das heißt, wir haben da ein paar Neuerungen in der Art und Weise,
+
+00:12:48.870 --> 00:12:54.830
+ wie wir dann unseren Workflow, keine Ahnung, gibt es ein gutes deutsches Wort für Workflow.
+
+00:12:54.830 --> 00:12:56.820
+ Aber es ist am Lauf.
+
+00:12:56.820 --> 00:12:58.810
+ Aber es ist am Lauf, wo?
+
+00:12:58.810 --> 00:12:59.800
+ Prozess.
+
+00:12:59.800 --> 00:13:00.800
+ Oh.
+
+00:13:00.800 --> 00:13:07.110
+ Wie wir es hinkriegen, da irgendwie eine Tondatei zur Verfügung zu stellen,
+
+00:13:07.110 --> 00:13:10.090
+ damit ihr euch das Zeitsoberäum nachhören könnt.
+
+00:13:10.090 --> 00:13:14.070
+ Und wir haben dann verbunden, gerade eine oder an Go quasi gehört.
+
+00:13:14.070 --> 00:13:15.060
+ Ja.
+
+00:13:15.060 --> 00:13:18.050
+ Habt ihr sonst noch irgendwelche schicken Sachen am Tag?
+
+00:13:18.050 --> 00:13:22.100
+ Ja, ich hatte das Ding, was ich mir schon ganz lange vorgenommen hatte
+
+00:13:22.100 --> 00:13:24.090
+ und das war es ganz lange in meiner kleinen roten Tasche,
+
+00:13:24.090 --> 00:13:27.070
+ der nicht angefangenen Projekte lag, war rausgekratzt
+
+00:13:27.070 --> 00:13:32.050
+ und den Tag des offenen Hackerspaces genutzt, um mal wenigstens eins anzufangen.
+
+00:13:32.050 --> 00:13:35.040
+ Und das war ein DMR-Hotspot.
+
+00:13:35.040 --> 00:13:36.030
+ DMR.
+
+00:13:36.030 --> 00:13:38.020
+ Das musst du erklären.
+
+00:13:38.020 --> 00:13:40.020
+ Jetzt muss ich erst mal wieder abgerissen.
+
+00:13:40.020 --> 00:13:42.050
+ Aber das Gespräch hat man doch auch am Tag schon.
+
+00:13:42.050 --> 00:13:44.030
+ Ja, ich habe es noch nicht nachgeschlagen.
+
+00:13:44.030 --> 00:13:47.980
+ Also es ist im Prinzip ein digitales Funk-Protokoll.
+
+00:13:47.980 --> 00:13:49.260
+ DMR, schauen wir nochmal.
+
+00:13:49.260 --> 00:13:51.250
+ Ja, steht wahrscheinlich irgendwas wie Radio?
+
+00:13:51.250 --> 00:13:54.240
+ Ja, Digital Mobile Radio, das war es.
+
+00:13:54.240 --> 00:13:57.230
+ Genau, also im Prinzip ein Amateur-Funk auf digital.
+
+00:13:57.230 --> 00:13:59.220
+ Und das Gerät dazu habe ich schon länger.
+
+00:13:59.220 --> 00:14:03.200
+ Und wenn man in der Nähe eines Brandmeister-Relais ist,
+
+00:14:03.200 --> 00:14:06.180
+ Brandmeister ist ein großes Netzwerk von verschiedenen,
+
+00:14:06.180 --> 00:14:08.180
+ ich sage mal, Basisstationen, Relistationen,
+
+00:14:08.180 --> 00:14:10.170
+ die dann wieder über das Internet verknüppert sind,
+
+00:14:10.170 --> 00:14:13.220
+ dann ist der Chick und dann kann man Reichweite so,
+
+00:14:13.220 --> 00:14:16.210
+ durchaus mal 7, 8, 9, 12 Kilometer,
+
+00:14:16.210 --> 00:14:18.200
+ bis zum nächsten Relais funken
+
+00:14:18.200 --> 00:14:20.200
+ und wird von da aus dann ins Internet vermittelt,
+
+00:14:20.200 --> 00:14:22.190
+ zu dahin, wo der andere ist, oder die andere,
+
+00:14:22.190 --> 00:14:25.180
+ oder auch Gruppenrufe, die da möglich sind.
+
+00:14:25.180 --> 00:14:28.170
+ Und wenn man nicht in der Nähe von unserem Relais ist,
+
+00:14:28.170 --> 00:14:30.160
+ dann gibt es die Möglichkeit, sich ein Hotspot zu setzen.
+
+00:14:30.160 --> 00:14:32.160
+ Das ist im Endeffekt ein kleiner Raspberry Pi
+
+00:14:32.160 --> 00:14:34.150
+ und ein Platinchen oben drauf mit zwei Antennen,
+
+00:14:34.150 --> 00:14:36.150
+ oder einer Antenne, je nachdem, ob man duplex
+
+00:14:36.150 --> 00:14:40.130
+ oder nur höheren oder sprechen gleichzeitig haben möchte.
+
+00:14:40.130 --> 00:14:42.130
+ Und da habe ich mich mal mit der Software so ein bisschen
+
+00:14:42.130 --> 00:14:43.180
+ auseinandergesetzt.
+
+00:14:43.180 --> 00:14:46.180
+ Und ja, am Ende des Tags des offenen Hexpaces
+
+00:14:46.180 --> 00:14:49.170
+ hatte ich mein DMR Hotspot auf dem Raspberry Pi drauf.
+
+00:14:49.170 --> 00:14:50.160
+ Ja, cool.
+
+00:14:50.160 --> 00:14:53.160
+ Und dieses DMR ist das irgendwie
+
+00:14:53.160 --> 00:14:55.150
+ ein bestimmter Frequenzbereich
+
+00:14:55.150 --> 00:14:57.140
+ und damit verbunden ein konkretes Protokoll,
+
+00:14:57.140 --> 00:15:01.130
+ oder ist es quasi nur ein Dienst,
+
+00:15:01.130 --> 00:15:03.130
+ den man dann in diesem Frequenzspektrum
+
+00:15:03.130 --> 00:15:05.120
+ da irgendwie verwenden kann, weißt du das?
+
+00:15:05.120 --> 00:15:06.120
+ Ja, es ist so ein Funkstandard.
+
+00:15:06.120 --> 00:15:09.110
+ Also im Prinzip ist es so eine Kombination aus Frequenzen,
+
+00:15:09.110 --> 00:15:11.100
+ in denen man das üblicherweise spielt,
+
+00:15:11.100 --> 00:15:13.100
+ oder spielt ein Dach als Amateurfunker.
+
+00:15:13.100 --> 00:15:17.090
+ Das heißt, die sind dann exklusiv für dem R an der Stelle?
+
+00:15:17.090 --> 00:15:19.490
+ Ich weiß es jetzt gar nicht.
+
+00:15:19.490 --> 00:15:22.460
+ Also das ist so ein Bereich, in dem man das üblicherweise tut.
+
+00:15:22.460 --> 00:15:24.430
+ Wenn man grad nicht Amateurfunker ist,
+
+00:15:24.430 --> 00:15:28.670
+ dann kann man auch als Firma oder als Veranstaltung
+
+00:15:28.670 --> 00:15:30.630
+ bei der Bundesseatsagentur da, glaube ich,
+
+00:15:30.630 --> 00:15:32.600
+ Frequenz-Zurteilungen erwerben.
+
+00:15:32.600 --> 00:15:35.660
+ Also ja, klar, es braucht eine Frequenz.
+
+00:15:35.660 --> 00:15:39.650
+ Und dazu gehört dann aber auch die digitale Modulation,
+
+00:15:39.650 --> 00:15:42.650
+ die da umdrauf moduliert wird auf diese Frequenzen.
+
+00:15:42.650 --> 00:15:45.640
+ Und was jetzt genau die MR ist,
+
+00:15:45.640 --> 00:15:49.640
+ ich nutze das, aber ich habe mich noch nicht so tief damit beschäftigt,
+
+00:15:49.640 --> 00:15:51.630
+ um genau zu wissen, wie weit es geht.
+
+00:15:51.630 --> 00:15:53.630
+ Man muss ja irgendwo anfangen, quasi.
+
+00:15:53.630 --> 00:15:54.630
+ Richtig.
+
+00:15:54.630 --> 00:15:56.630
+ Und der Einstieg ist jetzt gemacht.
+
+00:15:56.630 --> 00:15:59.620
+ Also meine Frage zieht ihr so ein bisschen darauf ab.
+
+00:15:59.620 --> 00:16:02.620
+ Ich hab halt keine Ahnung von so Digitalfunk,
+
+00:16:02.620 --> 00:16:05.610
+ oder diesen Digitalfunk für Amateur,
+
+00:16:05.610 --> 00:16:06.610
+ was du gerade meintest.
+
+00:16:06.610 --> 00:16:09.600
+ Und deswegen, Hintergrund war so ein bisschen,
+
+00:16:09.600 --> 00:16:11.600
+ ob man da quasi einfach so einen Frequenzbereich
+
+00:16:11.600 --> 00:16:13.600
+ für diesen digitalen Amateurfunk hat
+
+00:16:13.600 --> 00:16:15.590
+ und wo es einfach verschiedene Dienste gibt,
+
+00:16:15.590 --> 00:16:17.590
+ oder ob das quasi die einzelnen Dienste
+
+00:16:17.590 --> 00:16:19.590
+ auf verschiedene Frequenzen sind.
+
+00:16:19.590 --> 00:16:22.580
+ Ja, also am Ende ist es eine Kombination aus beiden.
+
+00:16:22.580 --> 00:16:25.580
+ Und das Thema für sich, man kann sich da renden
+
+00:16:25.580 --> 00:16:28.570
+ und moneterlang mit nichts anderem beschäftigen
+
+00:16:28.570 --> 00:16:32.740
+ und hat es immer noch nicht völlig durchgestiegen.
+
+00:16:32.740 --> 00:16:34.750
+ Also bei mir ist das so ein kleines Randthema,
+
+00:16:34.750 --> 00:16:36.750
+ dass man mal wieder vorholt
+
+00:16:36.750 --> 00:16:38.740
+ und dann immer wieder ein Stück Kinder weiter rein bohr,
+
+00:16:38.740 --> 00:16:39.740
+ wie es geht.
+
+00:16:39.740 --> 00:16:41.740
+ Ja, schick.
+
+00:16:41.740 --> 00:16:43.730
+ Aber wie gesagt, so die nächste Hürde war jetzt
+
+00:16:43.730 --> 00:16:46.730
+ dieser kleine Hotspot, um auch mal zu Hause ein bisschen
+
+00:16:46.730 --> 00:16:50.720
+ zu experimentieren, ohne gleich einen großen Relais-Standort
+
+00:16:50.720 --> 00:16:52.720
+ etablierend zu müssen im Netz.
+
+00:16:52.720 --> 00:16:53.710
+ Ja.
+
+00:16:53.710 --> 00:16:54.710
+ Und da geht es jetzt dann weiter.
+
+00:16:54.710 --> 00:16:55.710
+ Ja.
+
+00:16:55.710 --> 00:16:58.700
+ Ich glaube, wir sind gespannt auf weitere Erkenntnisse damit.
+
+00:16:58.700 --> 00:16:59.700
+ Ich auch.
+
+00:16:59.700 --> 00:17:00.700
+ Das kann ich versprechen,
+
+00:17:00.700 --> 00:17:02.700
+ dass es bei der nächsten Sendung schon was gibt.
+
+00:17:02.700 --> 00:17:04.690
+ Das ist ein Randthema, aber irgendwann gibt es was.
+
+00:17:04.690 --> 00:17:05.690
+ Ja, ja.
+
+00:17:05.690 --> 00:17:08.690
+ So war das jetzt auch nicht gemeint.
+
+00:17:08.690 --> 00:17:13.680
+ Ich kenne das ja auch mit meinen eigenen Privatprojekten.
+
+00:17:13.680 --> 00:17:18.670
+ Es ist halt manchmal so einfach monatelang einfach nichts
+
+00:17:18.670 --> 00:17:20.660
+ und dann findet man mal wieder Zeit.
+
+00:17:20.660 --> 00:17:22.660
+ Dann funktioniert es auf einmal.
+
+00:17:22.660 --> 00:17:23.660
+ In dem Fall.
+
+00:17:23.660 --> 00:17:25.810
+ Also dieses Ding, das ist halt ein Camp-Rum.
+
+00:17:25.810 --> 00:17:26.800
+ Ja, ich hätte auch meinen...
+
+00:17:26.800 --> 00:17:27.800
+ Du dich auch sein Camp-Rum?
+
+00:17:27.800 --> 00:17:29.790
+ Nee, ja, immer noch.
+
+00:17:29.790 --> 00:17:32.780
+ Ich hatte auch mal den Handy-Display vor dem Camp gekauft
+
+00:17:32.780 --> 00:17:36.760
+ und dann habe ich es irgendwie im Januar eingebracht.
+
+00:17:36.760 --> 00:17:39.740
+ Hast du auch eine rote Tasche mit angefangenen Projekten
+
+00:17:39.740 --> 00:17:41.730
+ oder wir müssten mal Projekten?
+
+00:17:41.730 --> 00:17:44.720
+ Ja, ich nenne es mal eine Electro-Schrottkiste, aber ja.
+
+00:17:44.720 --> 00:17:46.900
+ Ich habe die Tasche noch nicht sogar vergrößert.
+
+00:17:46.900 --> 00:17:48.870
+ Aber jetzt wohl der große Laptop raus ist.
+
+00:17:48.870 --> 00:17:49.860
+ Ja, siehst du.
+
+00:17:49.860 --> 00:17:50.850
+ Da ist der Platz drin.
+
+00:17:50.850 --> 00:17:52.830
+ Ich habe immer noch die ganzen e-Paper-Displays da drin.
+
+00:17:52.830 --> 00:17:54.810
+ Ach, die wollte ich auch mal machen.
+
+00:17:54.810 --> 00:17:56.440
+ Ja.
+
+00:17:56.440 --> 00:17:59.430
+ So, lass uns doch mal ein bisschen Musik rein spielen
+
+00:17:59.430 --> 00:18:00.430
+ zwischenzeitlich.
+
+00:18:00.430 --> 00:18:01.420
+ Musik klingt gut, ja.
+
+00:18:01.420 --> 00:18:05.410
+ Da wollte ich doch extra hier Musik im Free-Music-Archiv rausgesucht haben.
+
+00:18:05.410 --> 00:18:09.390
+ Genau, wie ihr wisst, spielen wir Musik
+
+00:18:09.390 --> 00:18:12.380
+ unter Creative Commons-Dizenz.
+
+00:18:12.380 --> 00:18:17.360
+ Und heute erheulen wir sozusagen live aus dem Free-Music-Archiv
+
+00:18:17.360 --> 00:18:21.350
+ von "Mastered It" den Titel "Clash".
+
+00:18:21.350 --> 00:18:22.400
+ Bis gleich.
+
+00:18:22.400 --> 00:21:53.790
+ Willkommen zurück zu Kasum Radio.
+
+00:21:53.790 --> 00:21:57.910
+ Es ist der zweite Monat im Monat.
+
+00:21:57.910 --> 00:22:01.510
+ Ich will gar nicht, dass ich das sage, aber ich will das sagen.
+
+00:22:01.510 --> 00:22:04.480
+ Genau, deswegen hört ihr unseren freien Radio Potsdam
+
+00:22:04.480 --> 00:22:06.420
+ auf 90,7 MHz UKW.
+
+00:22:06.420 --> 00:22:07.390
+ Gibt es UKW noch?
+
+00:22:07.390 --> 00:22:08.500
+ Keine Ahnung.
+
+00:22:08.500 --> 00:22:10.520
+ Und in Berlin auf 88,4 MHz.
+
+00:22:10.520 --> 00:22:12.440
+ Und ansonsten hört ihr uns im digitalen
+
+00:22:12.440 --> 00:22:17.800
+ DAW+ unter FR-BB und 24 drastisch.
+
+00:22:17.800 --> 00:22:19.730
+ Wir haben auch kurz mal rausgefunden, warum das so heißt,
+
+00:22:19.730 --> 00:22:22.370
+ wenn es irgendwie drei Tage die Woche ist.
+
+00:22:22.370 --> 00:22:23.440
+ Ja, total.
+
+00:22:23.440 --> 00:22:30.570
+ Genau, dann könnt ihr uns außerdem jetzt auch wieder bestimmt
+
+00:22:30.570 --> 00:22:33.540
+ unter radio.ccc-p.org.
+
+00:22:33.540 --> 00:22:37.230
+ Teilzuverhehen nachhören, als Mast-Hu-Hu-Hu.
+
+00:22:37.230 --> 00:22:40.290
+ Wenn ihr uns dazu gratulieren wollt, schreibt doch gerne
+
+00:22:40.290 --> 00:22:44.240
+ auf Mastodon unter cccp@chaos.social
+
+00:22:44.240 --> 00:22:47.200
+ oder schreibt uns eine liebe E-Mail an Radio@ccc-p.org.
+
+00:22:47.200 --> 00:22:50.640
+ Und was man vielleicht auch noch mit erwähnen kann,
+
+00:22:50.640 --> 00:22:53.870
+ ist, das erwähnen wir vielleicht hier zu selten,
+
+00:22:53.870 --> 00:22:56.810
+ dass immer Mittwochs ab 19 Uhr hier in der Machbar im Freiland
+
+00:22:56.810 --> 00:22:59.000
+ im Haus 5 ist immer unser Chaos-Treff,
+
+00:22:59.000 --> 00:23:00.940
+ dem man gerne hinkommen kann.
+
+00:23:00.940 --> 00:23:01.930
+ Genau.
+
+00:23:01.930 --> 00:23:03.960
+ Hier sind auch sonst andere Veranstaltungen in der Machbar
+
+00:23:03.960 --> 00:23:05.930
+ ist, aber nicht immer das Chaos.
+
+00:23:05.930 --> 00:23:08.890
+ Manchmal sind auch einfach Näherinnen da oder Näher
+
+00:23:08.890 --> 00:23:11.580
+ oder Holzmenschen.
+
+00:23:11.580 --> 00:23:12.520
+ Freier Werkstatt, Machbar.
+
+00:23:12.520 --> 00:23:13.950
+ Genau.
+
+00:23:13.950 --> 00:23:17.860
+ Jo, ein ernstes Thema sollte angesprochen werden.
+
+00:23:17.860 --> 00:23:20.000
+ Das mache ich nicht.
+
+00:23:20.000 --> 00:23:21.970
+ Du bist ja nicht für die ernsten Themen zuständig,
+
+00:23:21.970 --> 00:23:23.940
+ oder wie darf ich das verstehen?
+
+00:23:23.940 --> 00:23:29.710
+ Es gibt mir ums Hand relativ viele Polizei in Berlin,
+
+00:23:29.710 --> 00:23:31.700
+ habe ich gehört.
+
+00:23:31.700 --> 00:23:35.680
+ Und es gab tatsächlich auch eine Festnahme,
+
+00:23:35.680 --> 00:23:39.660
+ die mindestens bundesweit für Aufmerksamkeit gesorgt hat,
+
+00:23:39.660 --> 00:23:45.640
+ nämlich Daniela Kletter, die zur ARF, zur Roten Armee-Fraktion gehört,
+
+00:23:45.640 --> 00:23:48.630
+ wurde jetzt kürzlich festgenommen in Berlin.
+
+00:23:48.630 --> 00:23:54.950
+ War jetzt gehört zur letzten Generation der ARF, glaube ich,
+
+00:23:54.950 --> 00:23:57.930
+ oder zur dritten Generation.
+
+00:23:57.930 --> 00:24:04.890
+ Und lebte jetzt offenbar lange Jahre unerkannt,
+
+00:24:04.890 --> 00:24:06.880
+ offenbar in Berlin, ohne Mietvertrag.
+
+00:24:06.880 --> 00:24:08.310
+ Was?
+
+00:24:08.310 --> 00:24:10.300
+ Was erlauben Sie sich, ja?
+
+00:24:10.300 --> 00:24:14.280
+ Also, ja, das war nur ein Randthema,
+
+00:24:14.280 --> 00:24:17.270
+ aber es gab irgendwie ein Zeitungsartikel in den letzten Tagen,
+
+00:24:17.270 --> 00:24:19.260
+ wo es dann irgendwie ging,
+
+00:24:19.260 --> 00:24:21.250
+ dass sie da ohne Mietvertrag gewohnt hat.
+
+00:24:21.250 --> 00:24:22.250
+ Na, ist so was.
+
+00:24:22.250 --> 00:24:23.240
+ Die Bar bezahlt, oder?
+
+00:24:23.240 --> 00:24:26.230
+ Ich habe mir den Artikel jetzt nicht durchgelesen, weil ganz ehrlich,
+
+00:24:26.230 --> 00:24:28.220
+ das ist so ein Randdetail.
+
+00:24:28.220 --> 00:24:32.520
+ Also, ja, wenn du im Untergrund lebst,
+
+00:24:32.520 --> 00:24:35.500
+ oder wenn du nicht willst, dass man dich findet,
+
+00:24:35.500 --> 00:24:38.480
+ dann hast du in Normalfall, glaube ich,
+
+00:24:38.480 --> 00:24:41.470
+ keinen Mietvertrag, der zufälligerweise auf deinen Namen läuft.
+
+00:24:41.470 --> 00:24:47.440
+ Egal. Gut, jedenfalls gab es da eine Festnahme,
+
+00:24:47.440 --> 00:24:50.560
+ und das steht ja auch im Zusammenhang mit,
+
+00:24:50.560 --> 00:24:56.550
+ es wurde ja insgesamt nach drei Angehörigen der ARF gefahndet,
+
+00:24:56.550 --> 00:24:58.550
+ und Daniela Klett ist halt eine davon,
+
+00:24:58.550 --> 00:25:02.550
+ und die anderen beiden sind nach wie vor noch nicht gefasst.
+
+00:25:02.550 --> 00:25:05.540
+ Ja, bestimmt irgendwo eine WhatsApp-Gruppe zusammen.
+
+00:25:05.540 --> 00:25:07.540
+ Telegram.
+
+00:25:07.540 --> 00:25:09.540
+ Weiß ich nicht.
+
+00:25:09.540 --> 00:25:13.530
+ Nein, aber deswegen ist auf jeden Fall in Berlin gerade jede Menge los.
+
+00:25:13.530 --> 00:25:16.530
+ Also, die Ermittlungsbehörden versuchen offenbar,
+
+00:25:16.530 --> 00:25:18.530
+ den Ermittlungsdruck hochzuhalten.
+
+00:25:18.530 --> 00:25:21.520
+ Gab es zum Beispiel am Marktgraffendamm,
+
+00:25:21.520 --> 00:25:27.520
+ gab es in einer Wagensiedlung auch eine Durchsuchung,
+
+00:25:27.520 --> 00:25:31.510
+ oder wurde auch ein Wagenbeschlagnamen beispielsweise.
+
+00:25:31.510 --> 00:25:35.510
+ Ja, und teilweise in der Berichterstattung
+
+00:25:35.510 --> 00:25:43.500
+ wird zitiert, dass sich die niedersächsische Polizei,
+
+00:25:43.500 --> 00:25:45.490
+ die hier die Ermittlungen führt,
+
+00:25:45.490 --> 00:25:49.490
+ dass die sich wohl in Berlin nicht ganz so rümlich wohl aufführen,
+
+00:25:49.490 --> 00:25:52.490
+ und dass die auch wohl vor den Berliner Behörden auch,
+
+00:25:52.490 --> 00:25:55.480
+ dass sie dann nicht ganz so viel Informationen mit den Teilen,
+
+00:25:55.480 --> 00:25:57.480
+ ja, okay, gut.
+
+00:25:57.480 --> 00:26:01.470
+ Aber warum sprechen wir jetzt hier in dem Rahmen davon?
+
+00:26:01.470 --> 00:26:06.470
+ Und zwar, weil Daniela Klett aufgrund von Gesichtserkennung,
+
+00:26:06.470 --> 00:26:09.780
+ also, dass ihr Aufenthaltsort,
+
+00:26:09.780 --> 00:26:11.770
+ also, dass sie da wieder erkannt wurde,
+
+00:26:11.770 --> 00:26:13.750
+ aufgrund von Gesichtserkennung.
+
+00:26:13.750 --> 00:26:16.730
+ Und wir hatten jetzt im Vorgespräch schon festgestellt,
+
+00:26:16.730 --> 00:26:25.360
+ dass zum Beispiel der Hannes da auch ein bisschen mehr Hintergrund-Infos bekommen hat.
+
+00:26:25.360 --> 00:26:27.360
+ Also, nicht Hintergrund-Infos.
+
+00:26:27.360 --> 00:26:29.360
+ Das sind doch die Geheimen.
+
+00:26:29.360 --> 00:26:34.360
+ Genau, es sind keine Geheimen, sondern du hattest, glaube ich,
+
+00:26:34.360 --> 00:26:37.350
+ irgendwie mitgekriegt so ein paar Details,
+
+00:26:37.350 --> 00:26:40.350
+ die auch veröffentlicht waren in anderen Medien.
+
+00:26:40.350 --> 00:26:42.350
+ Erzähl doch mal lieber Hannes.
+
+00:26:42.350 --> 00:26:44.350
+ Genau, ich erzähl doch mal.
+
+00:26:44.350 --> 00:26:46.350
+ Es gibt einen wunderschönen Podcast,
+
+00:26:46.350 --> 00:26:48.340
+ einen unterhaltsamen Podcast zu dem Thema.
+
+00:26:48.340 --> 00:26:51.340
+ Der nennt sich "Legion".
+
+00:26:51.340 --> 00:26:54.340
+ Ich glaube, eine Kooperation aus RBB und NDR,
+
+00:26:54.340 --> 00:26:57.340
+ also einer von diesen vielen tollen Podcasts,
+
+00:26:57.340 --> 00:27:00.330
+ der unsere öffentlich-rechtlichen Sender.
+
+00:27:00.330 --> 00:27:06.330
+ Und genau, und in diesem Podcast ging es ursprünglich mal um Anonymous,
+
+00:27:06.330 --> 00:27:08.330
+ wohl vor zwei Jahren oder so.
+
+00:27:08.330 --> 00:27:10.330
+ Die haben da ein bisschen recherchiert und haben versucht,
+
+00:27:10.330 --> 00:27:13.320
+ wer steht dahinter, wer meldet das an und so weiter.
+
+00:27:13.320 --> 00:27:16.320
+ Gebt es zu, ich habe das nie gehört.
+
+00:27:16.320 --> 00:27:21.320
+ Aber in dem Zusammenhang haben die letztes Jahr
+
+00:27:21.320 --> 00:27:24.310
+ von einem der Menschen, die sie da interviewt haben,
+
+00:27:24.310 --> 00:27:26.310
+ den sie in dem Podcast Sebastian nennt,
+
+00:27:26.310 --> 00:27:28.310
+ haben sie einen Hinweis bekommen,
+
+00:27:28.310 --> 00:27:33.310
+ dass der von einer anderen Person erfahren hat,
+
+00:27:33.310 --> 00:27:36.300
+ Daniela Kletter ist unterwegs und wohnt in Köln.
+
+00:27:36.300 --> 00:27:39.300
+ Und jetzt gibt es da 90 Minuten lange Story,
+
+00:27:39.300 --> 00:27:43.300
+ die die beiden aufrollen, wie jetzt dieser Sebastian auf diese Idee kommt
+
+00:27:43.300 --> 00:27:45.300
+ und was da dran ist.
+
+00:27:45.300 --> 00:27:49.290
+ Und letztendlich, das kann ich glaube ich schon spoilern,
+
+00:27:49.290 --> 00:27:51.290
+ weil die meisten das jetzt wissen,
+
+00:27:51.290 --> 00:27:53.290
+ hat man also keine Daniela Kletter in Köln gefunden,
+
+00:27:53.290 --> 00:27:55.290
+ sondern in Berlin.
+
+00:27:55.290 --> 00:27:59.280
+ Und zwar weil das auch nicht die Gesuchte war,
+
+00:27:59.280 --> 00:28:01.280
+ die Sebastian da kennengelernt hat.
+
+00:28:01.280 --> 00:28:04.280
+ Und es war auch total unklar, ob der sich das jetzt alles ausgedacht hat
+
+00:28:04.280 --> 00:28:07.280
+ oder ob er selber irgendwie ein bisschen paranoid war
+
+00:28:07.280 --> 00:28:08.280
+ oder keine Ahnung.
+
+00:28:08.280 --> 00:28:11.270
+ War es auch immer seine Hintergründe gewesen sein?
+
+00:28:11.270 --> 00:28:13.270
+ Genau, aber im Kontext dieser Recherchen,
+
+00:28:13.270 --> 00:28:15.270
+ die da angestellt worden sind,
+
+00:28:15.270 --> 00:28:18.270
+ wurde eben moderne Gesichtserkennungssoftware benutzt.
+
+00:28:18.270 --> 00:28:22.490
+ Und zwar die, die die eigentlich auch allen zur Verfügung steht,
+
+00:28:22.490 --> 00:28:25.490
+ wo man einfach sagt, hier, ich schmeiß mal ein Foto rein
+
+00:28:25.490 --> 00:28:29.480
+ und such mal das Internet durch nach allen anderen Fotos,
+
+00:28:29.480 --> 00:28:31.480
+ die das gleiche Gesicht zeigen.
+
+00:28:31.480 --> 00:28:35.480
+ Ja, ich glaube der Dienst, der ja genutzt wurde, war PimEis.
+
+00:28:35.480 --> 00:28:40.470
+ Also der, der zugeschlagen hat, war glaube ich das.
+
+00:28:40.470 --> 00:28:43.470
+ Ja, es gibt noch einen von Amazon, glaube ich.
+
+00:28:43.470 --> 00:28:46.460
+ Der hat wohl nicht die richtigen Ergebnisse gebracht, aber ja.
+
+00:28:46.460 --> 00:28:47.460
+ Okay.
+
+00:28:47.460 --> 00:28:50.460
+ Und also wie man sich das so ein bisschen vorstellen muss,
+
+00:28:50.460 --> 00:28:55.450
+ also der ein oder andere kennt vielleicht die Google-Bildersuche
+
+00:28:55.450 --> 00:28:57.450
+ oder die Rückwärtssuche.
+
+00:28:57.450 --> 00:29:01.450
+ Und in ähnlicher Form gibt es dann dementsprechend Dienste,
+
+00:29:01.450 --> 00:29:03.440
+ wie zum Beispiel PimEis und andere,
+
+00:29:03.440 --> 00:29:07.440
+ die halt gezielt den Anwendungsverhaben,
+
+00:29:07.440 --> 00:29:09.440
+ dass es da um Gesichter gehen soll
+
+00:29:09.440 --> 00:29:11.430
+ und das wieder erkennt von Gesichtern.
+
+00:29:11.430 --> 00:29:15.430
+ Hoffentlich sind da, glaube ich, die Gesichter aus Social Networks
+
+00:29:15.430 --> 00:29:18.430
+ oder die Datenbilder aus Social Networks rausgenommen,
+
+00:29:18.430 --> 00:29:23.420
+ weil die weder Facebook, ja, der Meta-Konzern noch Google
+
+00:29:23.420 --> 00:29:25.420
+ oder Twitter haben da Interesse dran,
+
+00:29:25.420 --> 00:29:27.410
+ weil sie das nicht vermarkten können,
+
+00:29:27.410 --> 00:29:30.410
+ aber es existieren ja auch so viele Fotos im Internet.
+
+00:29:30.410 --> 00:29:34.410
+ Genau, und in dem Zusammenhang ist wohl auf der Suche,
+
+00:29:34.410 --> 00:29:37.400
+ sind wohl Bilder aus einem Caprera-Verein aufgetaucht.
+
+00:29:37.400 --> 00:29:38.400
+ Ja, ja.
+
+00:29:38.400 --> 00:29:44.550
+ Und das war wohl so, dass sich die Frau Kletter da in den Vorjahren,
+
+00:29:44.550 --> 00:29:50.520
+ also in den späten 2010er in dem Verein aufgehalten hat
+
+00:29:50.520 --> 00:29:52.510
+ und dort eben auch häufiger mal auf Fotos aufgetaucht ist.
+
+00:29:52.510 --> 00:29:53.510
+ Das waren auch alte Fotos?
+
+00:29:53.510 --> 00:29:55.500
+ Das waren relativ alte Fotos, ja.
+
+00:29:55.500 --> 00:29:57.490
+ Und ich glaube, das ist auch das Spannende.
+
+00:29:57.490 --> 00:30:01.470
+ Die Lehre, die sicherlich auch für uns interessant ist
+
+00:30:01.470 --> 00:30:03.460
+ oder für jeden interessant sein sollte,
+
+00:30:03.460 --> 00:30:06.520
+ die Gefahr ist gar nicht so sehr,
+
+00:30:06.520 --> 00:30:10.520
+ dass man jetzt sofort irgendwo auf einem Bild entdeckt wird,
+
+00:30:10.520 --> 00:30:14.510
+ was gerade gemacht wird oder so dieses typische Hollywood-Szenario,
+
+00:30:14.510 --> 00:30:16.510
+ wo irgendwie die CIA, die Kamera,
+
+00:30:16.510 --> 00:30:19.500
+ es von allen Bahnhöfen anzeigt und rausfindet,
+
+00:30:19.500 --> 00:30:21.500
+ vor zwei Minuten war der Gesuchte da oder da.
+
+00:30:21.500 --> 00:30:23.500
+ Darum geht es gar nicht so sehr,
+
+00:30:23.500 --> 00:30:25.500
+ sondern wie man immer wieder betonen kann,
+
+00:30:25.500 --> 00:30:26.490
+ das Internet vergisst nichts,
+
+00:30:26.490 --> 00:30:28.490
+ so speziell, wenn man an Kinder denkt,
+
+00:30:28.490 --> 00:30:31.490
+ an seine eigenen oder die in der Familie.
+
+00:30:31.490 --> 00:30:35.480
+ Was man da jetzt hoch lädt, das ist für immer da
+
+00:30:35.480 --> 00:30:37.480
+ und das kann auch immer wiedergefunden werden
+
+00:30:37.480 --> 00:30:41.470
+ mit Tools, wie eben so Gesichtserkennungstools,
+
+00:30:41.470 --> 00:30:44.470
+ die kramen das alles wieder raus.
+
+00:30:44.470 --> 00:30:47.470
+ Es gibt zwar natürlich das Recht auf vergessen werden,
+
+00:30:47.470 --> 00:30:50.460
+ dass man sagen kann, ich möchte nicht,
+
+00:30:50.460 --> 00:30:53.460
+ dass gewisse Sachen nicht in den Suchmaschinen auftauchen,
+
+00:30:53.460 --> 00:30:56.450
+ weil das irgendwie für mich negative Konsequenzen hat.
+
+00:30:56.450 --> 00:31:02.450
+ Aber ich sage mal so, das erfordert ja letztendlich,
+
+00:31:02.450 --> 00:31:05.440
+ aber auch, dass du es zum Beispiel zu tun hast,
+
+00:31:05.440 --> 00:31:09.440
+ die sich da wohl verhalten.
+
+00:31:09.440 --> 00:31:15.430
+ Wenn interessierte Quellen da Fotodatenbanken anlegen,
+
+00:31:15.430 --> 00:31:20.570
+ dann hat man da weniger und weniger Handhaber.
+
+00:31:20.570 --> 00:31:23.550
+ So was wie Google und so funktioniert ganz gut,
+
+00:31:23.550 --> 00:31:25.540
+ aber irgendwelche staatlichen Akteure
+
+00:31:25.540 --> 00:31:27.530
+ oder auch Privatpersonen geben,
+
+00:31:27.530 --> 00:31:29.510
+ die aus welchen Motiven auch immer da
+
+00:31:29.510 --> 00:31:34.490
+ vielleicht größere Daten anlegen mit Fotos.
+
+00:31:34.490 --> 00:31:38.640
+ Es ist ein bisschen spekulativ, aber es liegt ja durchaus nahe.
+
+00:31:38.640 --> 00:31:41.630
+ Die Sache ist halt auch, dass dieses Recht auf vergessen
+
+00:31:41.630 --> 00:31:43.620
+ auf ein sehr schnellen Spiel durchzusetzen ist.
+
+00:31:43.620 --> 00:31:47.610
+ Ich denke, wo es halt funktioniert, ist so,
+
+00:31:47.610 --> 00:31:50.610
+ dass du, wenn du mal in irgendeinem Kontext,
+
+00:31:50.610 --> 00:31:52.600
+ in einem komischen Zeitungsartikeln,
+
+00:31:52.600 --> 00:31:55.600
+ in irgendeinem komischen Shitstorm gelandet bist,
+
+00:31:55.600 --> 00:31:57.590
+ dass dann nicht jeder Arbeitgeber
+
+00:31:57.590 --> 00:32:01.580
+ gleich beim ersten Google sofort wieder auf diesen Text kommt,
+
+00:32:01.580 --> 00:32:03.580
+ da ist sicherlich das Recht auf vergessen,
+
+00:32:03.580 --> 00:32:06.570
+ und dass das von Google durchaus auch umgesetzt wird.
+
+00:32:06.570 --> 00:32:08.570
+ Das funktioniert da so halbwegs,
+
+00:32:08.570 --> 00:32:10.560
+ aber es hilft jetzt nicht für jemanden,
+
+00:32:10.560 --> 00:32:12.560
+ der tatsächlich nach dir sucht
+
+00:32:12.560 --> 00:32:16.550
+ oder nach Dreckl in deiner Vergangenheit wühlt oder ähnliches.
+
+00:32:16.550 --> 00:32:19.790
+ Genau, so, das war die Geschichte um Daniela Klett.
+
+00:32:19.790 --> 00:32:22.780
+ Wolltest du da noch aus dem...
+
+00:32:22.780 --> 00:32:25.770
+ Nadib, eine Frage könnte ja durchaus sein,
+
+00:32:25.770 --> 00:32:29.760
+ warum braucht es denn offenbar Privatmenschen,
+
+00:32:29.760 --> 00:32:31.750
+ Menschen, die da irgendwie
+
+00:32:31.750 --> 00:32:35.740
+ so einen Gesichtserkennungsdienst benutzen und warum...
+
+00:32:35.740 --> 00:32:38.730
+ Warum kann die Polizei das denn nicht machen?
+
+00:32:38.730 --> 00:32:40.720
+ Also auf keinen Fall mehr das mal hier.
+
+00:32:40.720 --> 00:32:43.710
+ Ich fühle sich die gute, rechtschaffende Bürgerin,
+
+00:32:43.710 --> 00:32:45.710
+ die das bitte möchte, dass sie das auch machen.
+
+00:32:45.710 --> 00:32:48.700
+ Warum machen die das nicht?
+
+00:32:48.700 --> 00:32:50.790
+ Warum machen die das nicht?
+
+00:32:50.790 --> 00:32:53.790
+ Weil die das nicht dürfen oder zumindest nicht,
+
+00:32:53.790 --> 00:32:55.780
+ nur teilweise.
+
+00:32:55.780 --> 00:32:58.780
+ Also, natürlich, wir wurden jetzt schon
+
+00:32:58.780 --> 00:33:00.780
+ die ersten Forderungen laut mit...
+
+00:33:00.780 --> 00:33:02.770
+ Na ja, okay, da zeigt sich wieder mal,
+
+00:33:02.770 --> 00:33:05.770
+ die Sicherheitsbehörden sind mit viel zu wenig Rechten ausgestattet
+
+00:33:05.770 --> 00:33:07.760
+ und eigentlich müssen wir doch jetzt mal das,
+
+00:33:07.760 --> 00:33:09.760
+ was andere Menschen auch können,
+
+00:33:09.760 --> 00:33:11.760
+ weil sie es tun,
+
+00:33:11.760 --> 00:33:13.750
+ müssen die Polizeibehörden doch jetzt auch mal dürfen.
+
+00:33:13.750 --> 00:33:17.750
+ Und da zeigt sich, ja, also unter bestimmten,
+
+00:33:17.750 --> 00:33:21.740
+ unter bestimmten Rahmenbedingungen darf
+
+00:33:21.740 --> 00:33:24.740
+ Gesichtserkennung schon benutzt werden,
+
+00:33:24.740 --> 00:33:28.730
+ aber halt jetzt nicht einfach so, nicht einfach so wahllos.
+
+00:33:28.730 --> 00:33:31.720
+ Also, weil wir wollen ja, es gibt ja nicht ohne Grund
+
+00:33:31.720 --> 00:33:34.720
+ gewisse Schranken, die uns davor schützen sollen,
+
+00:33:34.720 --> 00:33:37.710
+ dass wir eben nicht auf, einfach mal so,
+
+00:33:37.710 --> 00:33:40.710
+ auf Schritt und Tritt überwacht werden können
+
+00:33:40.710 --> 00:33:42.700
+ von unseren Sicherheitsbehörden.
+
+00:33:42.700 --> 00:33:44.700
+ Hat ja durchaus auch historische Gründe,
+
+00:33:44.700 --> 00:33:46.700
+ warum man das nicht können soll.
+
+00:33:46.700 --> 00:33:49.770
+ Also ja, so muss ich es sagen.
+
+00:33:49.770 --> 00:33:53.190
+ Also, ich meine, das ist, weil die Folge wäre dann natürlich,
+
+00:33:53.190 --> 00:34:01.160
+ dass man eben gerade nicht mehr sich so frei bewegen könnte.
+
+00:34:01.160 --> 00:34:04.140
+ Wir erinnern uns da vielleicht mal an diese Versuche,
+
+00:34:04.140 --> 00:34:07.130
+ an diese Gesichtserkennungsversuche am Südkreuz,
+
+00:34:07.130 --> 00:34:10.120
+ über die wir ja, glaube ich, auch schon mal gesprochen hatten hier,
+
+00:34:10.120 --> 00:34:13.260
+ wo dann mit, zum einen natürlich,
+
+00:34:13.260 --> 00:34:18.240
+ mit einer irigen hohen Fehlerquote handiert wurde.
+
+00:34:18.240 --> 00:34:21.230
+ Also, was in relativem Zahlen sieht das zwar gut aus,
+
+00:34:21.230 --> 00:34:23.220
+ aber die Anzahl der Fehlalarm einfach riesig ist.
+
+00:34:23.220 --> 00:34:25.220
+ Und natürlich, auf der anderen Seite,
+
+00:34:25.220 --> 00:34:28.200
+ ist es diese Kameraüberwachung
+
+00:34:28.200 --> 00:34:30.200
+ und Gesichtserkennung im öffentlichen Raum,
+
+00:34:30.200 --> 00:34:33.180
+ der man sich dann, wie stärker das wird,
+
+00:34:33.180 --> 00:34:34.180
+ einfach nicht entziehen kann.
+
+00:34:34.180 --> 00:34:37.170
+ Und wurde dann natürlich auch entsprechende Effekte,
+
+00:34:37.170 --> 00:34:42.200
+ wurde dann natürlich dann auch entsprechende negative Effekte
+
+00:34:42.200 --> 00:34:44.190
+ auch für die Gesellschaft an sich hasst,
+
+00:34:44.190 --> 00:34:47.170
+ dass du eben nicht so frei bewegen kannst generell.
+
+00:34:47.170 --> 00:34:50.160
+ Also, die Frage ist, wollen wir in einer repressiven Gesellschaft leben.
+
+00:34:50.160 --> 00:34:53.140
+ Oder wollen wir in einer Gesellschaft leben,
+
+00:34:53.140 --> 00:34:56.420
+ in der man sich grundsätzlich frei bewegen kann.
+
+00:34:56.420 --> 00:34:57.540
+ Ich find's auch nicht so gut.
+
+00:34:57.540 --> 00:34:59.520
+ Ich wollte nur Avocado di Avoli.
+
+00:34:59.520 --> 00:35:00.510
+ Wie heißt das?
+
+00:35:00.510 --> 00:35:03.480
+ (Gelächter)
+
+00:35:03.480 --> 00:35:05.460
+ Avocado.
+
+00:35:05.460 --> 00:35:10.040
+ Avocados di Avoli.
+
+00:35:10.040 --> 00:35:12.020
+ Die Anwältin des Teufels.
+
+00:35:12.020 --> 00:35:15.000
+ Ich guck mich an der Essensfotos an, das ist ein Problem.
+
+00:35:15.000 --> 00:35:16.990
+ Hat da jemand Hunger?
+
+00:35:16.990 --> 00:35:18.980
+ Ja.
+
+00:35:18.980 --> 00:35:20.970
+ Ich würde nicht ganz richtig zum Armbrot machen.
+
+00:35:20.970 --> 00:35:23.950
+ Ich glaube, es werden mir gar eine Bürger mehr.
+
+00:35:23.950 --> 00:35:27.070
+ Aber sehr schonmal so vielens.
+
+00:35:27.070 --> 00:35:29.060
+ Gesichtserkennung ist ja auch schon krass,
+
+00:35:29.060 --> 00:35:31.050
+ aber hatte ich mal von euch vorletztens
+
+00:35:31.050 --> 00:35:34.040
+ mal versucht, ein neues Deutschlandticket zu kaufen bei der Bahn?
+
+00:35:34.040 --> 00:35:35.030
+ Ein neues Deutschlandticket?
+
+00:35:35.030 --> 00:35:36.030
+ Nee.
+
+00:35:36.030 --> 00:35:38.020
+ Nee, also ich hab mal ein Zeit, seit letztem Jahr...
+
+00:35:38.020 --> 00:35:39.010
+ Ja, sei froh.
+
+00:35:39.010 --> 00:35:41.010
+ Ich war letztens eins kaufen.
+
+00:35:41.010 --> 00:35:43.990
+ Und sorry, das ist so leichtes D-Wail-Thema.
+
+00:35:43.990 --> 00:35:48.030
+ Aber man muss sich jetzt immer... wie bitte?
+
+00:35:48.030 --> 00:35:50.070
+ D-Wail-Wing-Deutsche-Bahn.
+
+00:35:50.070 --> 00:35:53.060
+ Ja, darüber konnte ich auch eine Geschichte erzählen wegen dem Streik.
+
+00:35:53.060 --> 00:35:54.060
+ Aber nein.
+
+00:35:54.060 --> 00:35:57.050
+ Und ich wollte halt schnell ein Deutschlandticket kaufen.
+
+00:35:57.050 --> 00:35:59.040
+ Hatt ich schon ein paar mal gemacht, aber ich hab es immer so ein bisschen
+
+00:35:59.040 --> 00:36:02.040
+ opt-in, opt-out so gemacht, aber man das halt braucht doch nicht.
+
+00:36:02.040 --> 00:36:05.030
+ Und stattdessen halt den München an der Straßenbahn.
+
+00:36:05.030 --> 00:36:08.020
+ Und hatte noch vier Minuten bis zur nächsten Bahn.
+
+00:36:08.020 --> 00:36:09.020
+ Hat nicht geklappt.
+
+00:36:09.020 --> 00:36:12.010
+ Hat auch nicht in den 14 Minuten bis zur übernächsten Bahn geklappt.
+
+00:36:12.010 --> 00:36:15.000
+ Und zwar wollen die jetzt, dass du dich verifizierst.
+
+00:36:15.000 --> 00:36:16.000
+ Ja, stimmt.
+
+00:36:16.000 --> 00:36:18.990
+ Und da haben sie halt nur so zwei Dienste, die das irgendwie machen.
+
+00:36:18.990 --> 00:36:20.980
+ Und du lässt dich halt in den Online-Making irgendwie einloggen
+
+00:36:20.980 --> 00:36:22.980
+ mit Vérymy oder mit Tink.
+
+00:36:22.980 --> 00:36:25.030
+ Tink und Vérymy auf alle Fälle.
+
+00:36:25.030 --> 00:36:27.030
+ Das gibt halt irgendwie, lasst sich halt, gibt in der Online-Daten ein
+
+00:36:27.030 --> 00:36:29.030
+ und loggt dich halt ins Online-Making ein.
+
+00:36:29.030 --> 00:36:31.020
+ Das fand ich super sketchy.
+
+00:36:31.020 --> 00:36:34.020
+ Dann gab es Lade, ein Bild von deinem Personalausfall ist hoch.
+
+00:36:34.020 --> 00:36:36.020
+ Fand ich auch nicht so gut.
+
+00:36:36.020 --> 00:36:39.010
+ Und dann war irgendwas mit digitaler wallet und macht das so.
+
+00:36:39.010 --> 00:36:41.010
+ Und das hat alles nicht funktioniert.
+
+00:36:41.010 --> 00:36:43.010
+ Also klickst du halt auf die Links drauf.
+
+00:36:43.010 --> 00:36:45.010
+ Aber erst war ich noch so, nein, nein, nein, nein, nein.
+
+00:36:45.010 --> 00:36:47.000
+ Ich will nicht, dass ich noch eine wallet irgendwie auf meinem Handy habe.
+
+00:36:47.000 --> 00:36:50.000
+ Ich habe doch eine und außerdem gibt es auch die offizielle Ausweis-App
+
+00:36:50.000 --> 00:36:52.990
+ und so, warum kann man denn das nicht nehmen und so, vom Start.
+
+00:36:52.990 --> 00:36:54.990
+ Und das hat auf alle Fälle nichts funktioniert.
+
+00:36:54.990 --> 00:36:56.990
+ Ich habe mir dann ein Papier-Ticket am Automaten gekauft,
+
+00:36:56.990 --> 00:36:59.980
+ weil man kann ja auch am Automaten in der Bahn kein Deutschland-Ticket kaufen.
+
+00:36:59.980 --> 00:37:01.980
+ Ich habe mir eine normale Wochenkarte gekauft.
+
+00:37:01.980 --> 00:37:04.980
+ Aber das war nur so ein Freundin, wo ich so auch so dachte,
+
+00:37:04.980 --> 00:37:06.970
+ ich will doch nur ein Ticket haben, wo mein Name draufsteht.
+
+00:37:06.970 --> 00:37:09.970
+ Warum muss ich da für meine Online-Making-Daten irgendwo eingehen?
+
+00:37:09.970 --> 00:37:11.970
+ Das finde ich immer noch so sketchy, ehrlich gesagt.
+
+00:37:11.970 --> 00:37:14.960
+ Das ist ja häufig bei so Crash-Hairing-Anbietern.
+
+00:37:14.960 --> 00:37:18.960
+ Es ist ähnlich, dass man sich da sehr naggig machen muss,
+
+00:37:18.960 --> 00:37:20.950
+ damit man das machen kann.
+
+00:37:20.950 --> 00:37:24.950
+ Das letzte Mal, dass ich mein Personal ausweis, ein Bild hochladen sollte,
+
+00:37:24.950 --> 00:37:31.940
+ das war, als ich kurz darauf viel Geld für den nicht existierenden e-mail-Kleinenzeichen-Gangstand losgeworden bin.
+
+00:37:31.940 --> 00:37:33.940
+ Ja, das ist so ein typisches Game, ja.
+
+00:37:33.940 --> 00:37:36.090
+ Seitdem bin ich da ein bisschen.
+
+00:37:36.090 --> 00:37:37.090
+ Ja, genau.
+
+00:37:37.090 --> 00:37:41.080
+ Ja, ich spiele halt auch mal, weil ich hätte nur lose recherchiert,
+
+00:37:41.080 --> 00:37:45.060
+ aber irgendwie gab es auch schon ein paar Masikkeitspannen oder so bei diesen Anbietern in der Vergangenheit.
+
+00:37:45.060 --> 00:37:47.060
+ Da fühlt man sich halt ja auch...
+
+00:37:47.060 --> 00:37:51.050
+ Ja, Weremie, insbesondere diese ID-Wallet von Weremie,
+
+00:37:51.050 --> 00:37:53.040
+ die war ja durchaus schon mal ein Thema.
+
+00:37:53.040 --> 00:37:55.030
+ Unter anderem bei Lilith Wittmann beispielsweise.
+
+00:37:55.030 --> 00:37:56.030
+ Ja, dann war das das, genau.
+
+00:37:56.030 --> 00:37:58.030
+ Also irgendwas hat er halt geklingelt, und dann dachte ich so,
+
+00:37:58.030 --> 00:38:00.020
+ ja, eigentlich möchte ich das nicht.
+
+00:38:00.020 --> 00:38:02.010
+ Also ich habe es auch nicht mehr beschafft, aber...
+
+00:38:02.010 --> 00:38:04.010
+ Ich glaube, wir haben da sogar eine Frage zu.
+
+00:38:04.010 --> 00:38:06.000
+ Folgt drüber, ja, wahrscheinlich.
+
+00:38:06.000 --> 00:38:08.000
+ Das steigt schon ein paar Jahrechen her.
+
+00:38:08.000 --> 00:38:11.050
+ 22 war das auf jeden Fall Thema.
+
+00:38:11.050 --> 00:38:14.050
+ Ja, wir haben 24, das ist schon zwei Jahre her, ja.
+
+00:38:14.050 --> 00:38:17.050
+ Aber wie gesagt, ich finde, das ist halt super komisch,
+
+00:38:17.050 --> 00:38:19.050
+ weil irgendwie es gibt ja auch noch andere Lösungen,
+
+00:38:19.050 --> 00:38:21.050
+ also dachte ich zumindest halt, also es gibt ja auch so...
+
+00:38:21.050 --> 00:38:25.050
+ Muss man ja gerade die komischste ID-Wallet ever irgendwie dafür nehmen?
+
+00:38:25.050 --> 00:38:28.050
+ Für so einen großen Konzern wie die Bahn muss man anscheinend aber...
+
+00:38:28.050 --> 00:38:32.050
+ Ja, da gehen ja die Diskussion gerade drauf und runter, was die sinnvolle Variante ist.
+
+00:38:32.050 --> 00:38:35.050
+ Und ich glaube, am Ende kondensieren diese ganzen Diskussionen immer wieder auf den Ehepaar so, oder?
+
+00:38:35.050 --> 00:38:38.040
+ Ja, na ja, am besten Fall, ja.
+
+00:38:38.040 --> 00:38:41.040
+ Und ich glaube, da war ja das Problem, dass nicht jeder den...
+
+00:38:41.040 --> 00:38:44.040
+ Nicht jeder Dienst darf den verwenden,
+
+00:38:44.040 --> 00:38:49.040
+ sondern du musst denn wiederum bei welcher Behörde auch immer dafür authentifiziert sein,
+
+00:38:49.040 --> 00:38:51.040
+ dass du diesen Dienst benutzen darfst.
+
+00:38:51.040 --> 00:38:54.040
+ Na, wenn ich mir richten würde, war das doch die Bundesdruckerei,
+
+00:38:54.040 --> 00:39:00.040
+ wo du dann halt erst mal einen sehr aufwendigen und auch kostspieligen Prozess halt durchlaufen musst.
+
+00:39:00.040 --> 00:39:02.040
+ Also du kannst es nicht einfach so...
+
+00:39:02.040 --> 00:39:04.040
+ Du kannst jetzt nicht einfach mal so sagen, okay,
+
+00:39:04.040 --> 00:39:10.030
+ ich möchte jetzt hier gern in meine Website Verifikation einbauen
+
+00:39:10.030 --> 00:39:13.030
+ und möchte das jetzt mal über den Ehepaar so laufen lassen.
+
+00:39:13.030 --> 00:39:15.030
+ Da stecken größere Prozesse dahinter.
+
+00:39:15.030 --> 00:39:17.030
+ Wobei auch da gibt es immer wieder Dienstlöster, die...
+
+00:39:17.030 --> 00:39:21.030
+ Nextcloud unsere Segelferenz lässt jetzt Authentifizierung mit dem Ehepaar so zu,
+
+00:39:21.030 --> 00:39:23.030
+ weil ich mal wissen wollte, wie es geht und ja, es geht.
+
+00:39:23.030 --> 00:39:24.030
+ Okay.
+
+00:39:24.030 --> 00:39:25.030
+ Und wie läuft das dann?
+
+00:39:25.030 --> 00:39:27.030
+ Also nimmt man dann diese Ausweis im Handy oder wie geht das?
+
+00:39:27.030 --> 00:39:28.030
+ Ja, genau.
+
+00:39:28.030 --> 00:39:31.030
+ Ja, weil das für dich noch am sichersten einstufen,
+
+00:39:31.030 --> 00:39:33.030
+ dass das so als Kartenleser nimmst und so und das geht ja auch echt gut.
+
+00:39:33.030 --> 00:39:36.020
+ Aber ja, also da bin ich mal wieder so ein bisschen...
+
+00:39:36.020 --> 00:39:39.020
+ Also eigentlich find ich es schön, dass es geht, aber auch bei einer Krankenkasse letztes,
+
+00:39:39.020 --> 00:39:43.020
+ da raucht ich auch nochmal eine andere App um das dann halt einzulesen und so.
+
+00:39:43.020 --> 00:39:47.020
+ Krankenkasse, das ist natürlich nochmal eine ganz andere Story.
+
+00:39:47.020 --> 00:39:51.020
+ Wer da mal versucht hat, die Rezept aufzusetzen.
+
+00:39:51.020 --> 00:39:53.020
+ Das hab ich noch nicht versucht, nein, willst du das?
+
+00:39:53.020 --> 00:39:55.020
+ Du musst erzählen.
+
+00:39:55.020 --> 00:40:00.020
+ Wir machen so eine ganz große Themenwanderung.
+
+00:40:00.020 --> 00:40:02.020
+ Was völlig okay ist, ich wollte es nur erwähnt haben.
+
+00:40:02.020 --> 00:40:05.010
+ Ja, also die, wer es noch nicht weiß, die E-Rezepte kann...
+
+00:40:05.010 --> 00:40:10.010
+ E-Rezepte kann man ja heute mit seiner Gesundheitskarte einfach einlösen.
+
+00:40:10.010 --> 00:40:16.010
+ Also man geht zur Apotheke, sagt da hier ist meine Gesundheitskarte und dann steht darauf,
+
+00:40:16.010 --> 00:40:19.010
+ beziehungsweise wird da von irgendeiner Claude wahrscheinlich abgerufen,
+
+00:40:19.010 --> 00:40:21.010
+ welche E-Rezepte gerade hinterlegt sind.
+
+00:40:21.010 --> 00:40:23.010
+ Das funktioniert.
+
+00:40:23.010 --> 00:40:27.010
+ Aber wenn man für andere Personen zum Beispiel eine E-Rezepte abholen,
+
+00:40:27.010 --> 00:40:31.010
+ einlösen möchte oder einfach nur sehen möchte, welche Rezepte gerade hinterlegt sind,
+
+00:40:31.010 --> 00:40:33.000
+ gibt es eben auch eine App.
+
+00:40:33.000 --> 00:40:37.000
+ Die ist nicht zwingend erforderlich, aber fand ich ganz interessant, wollte ich mal ausprobieren.
+
+00:40:37.000 --> 00:40:40.000
+ Also von anderen Personen sehen möchte, was da spannend ist.
+
+00:40:40.000 --> 00:40:45.000
+ Du kannst sozusagen für deinen Sohn, kannst du zum Beispiel halt ohne seine Karte rumzuschleppen,
+
+00:40:45.000 --> 00:40:47.000
+ irgendwie das einlösen.
+
+00:40:47.000 --> 00:40:50.000
+ Das kann alles ganz praktisch sein, ja, keine Ahnung.
+
+00:40:50.000 --> 00:40:54.000
+ Aber um halt einmal zu hinterlegen, dass du das bist, der diese E-Rezepte benutzen darf,
+
+00:40:54.000 --> 00:40:57.000
+ brauchst du je nach Krankenkasse natürlich andere Apps.
+
+00:40:57.000 --> 00:41:00.000
+ Und es sind in der Regel nicht die Apps, die du schon installiert hast,
+
+00:41:00.000 --> 00:41:03.990
+ sondern noch mal die Krankenkasse Ident App oder so,
+
+00:41:03.990 --> 00:41:07.990
+ die dann wiederum verlangen, dass du doch am besten eine Gesundheitskarte
+
+00:41:07.990 --> 00:41:11.990
+ nach neuem Standard so und so hast, die auch wieder als Verifizierung,
+
+00:41:11.990 --> 00:41:14.990
+ also irgendwie die, die du an deinem Telefon halten kannst,
+
+00:41:14.990 --> 00:41:16.990
+ oder eben den E-Person.
+
+00:41:16.990 --> 00:41:19.990
+ Und dazu brauchst du dann natürlich die E-Ausweis-App.
+
+00:41:19.990 --> 00:41:22.990
+ E-Ausweis 2 heißt ja...
+
+00:41:22.990 --> 00:41:24.990
+ Das soll sich ja wo ändern, habe ich gehört, aber...
+
+00:41:24.990 --> 00:41:27.990
+ Und das wiederum hat bei mir nicht funktioniert.
+
+00:41:27.990 --> 00:41:30.980
+ Also ich bin da in so eine Endlussschleife von Crashing der App
+
+00:41:30.980 --> 00:41:33.980
+ und war da noch mal in den Moment gekommen.
+
+00:41:33.980 --> 00:41:36.980
+ Genau, und das war wohl auch ein bekanntes Phänomen.
+
+00:41:36.980 --> 00:41:39.980
+ Also ich habe da irgendwie als technisch versierter Mensch
+
+00:41:39.980 --> 00:41:42.980
+ eine Stunde meines Lebens vergeutet, um am Ende nichts zu können.
+
+00:41:42.980 --> 00:41:44.980
+ Schön.
+
+00:41:44.980 --> 00:41:46.980
+ Herzlichen Glückwunsch.
+
+00:41:46.980 --> 00:41:48.980
+ Und dann hier möchte ich noch eine Sache zum E-Rezept,
+
+00:41:48.980 --> 00:41:53.980
+ mit dem mir so Mindblown war, also wenn du ein E-Rezept von deinem Arzt,
+
+00:41:53.980 --> 00:41:57.980
+ deiner Ärztin ausgestellt bekommst, dann kannst du das nicht sofort abholen.
+
+00:41:57.980 --> 00:42:02.970
+ Es sei denn es ist ein, und jetzt falsche Terminologie, der Arzt markiert das,
+
+00:42:02.970 --> 00:42:05.970
+ als das ist ein super wichtiges Rezept, das muss sofort abholbar sein.
+
+00:42:05.970 --> 00:42:10.970
+ Dann kannst du für den an diesem Tag vorgesehene "Sofortapotheke"
+
+00:42:10.970 --> 00:42:12.970
+ kannst du da hingehen und das gleich abholen.
+
+00:42:12.970 --> 00:42:15.970
+ Bei jeder anderen Apotheke und bei jedem anderen Rezept
+
+00:42:15.970 --> 00:42:18.970
+ wartest du in der Regel zwei Tage, bis das synchronisiert wird.
+
+00:42:18.970 --> 00:42:20.970
+ Ach so lange, ich dachte es so ein paar Minuten.
+
+00:42:20.970 --> 00:42:22.970
+ Nee, nee.
+
+00:42:22.970 --> 00:42:26.970
+ Und das heißt, sie haben dann auch irgendwelche Service-Prioritäten hinterlegt
+
+00:42:26.970 --> 00:42:29.960
+ und keine Ahnung, es ist alles, wo du dich fragst, wieso, wieso.
+
+00:42:29.960 --> 00:42:33.960
+ Du kannst dann trotzdem noch das abholen, indem du deinen Arzt darum bittest,
+
+00:42:33.960 --> 00:42:37.960
+ dir das E-Rezept, den QR-Code zu auszudrucken, dann ist das gleichgültig.
+
+00:42:37.960 --> 00:42:40.960
+ Da weigern sich aber viele, weil die das selber nicht wissen oder keine Ahnung.
+
+00:42:40.960 --> 00:42:46.960
+ Und ich habe meine, habe die Vorzimmerdame bei meinem Hausarzt angeguckt,
+
+00:42:46.960 --> 00:42:49.960
+ wie ein Auto, als sie meinte, ich muss jetzt zwei Tage warten,
+
+00:42:49.960 --> 00:42:51.960
+ ob ich meine Rezepte hier abholen kann.
+
+00:42:51.960 --> 00:42:53.960
+ Archibiotika am besten.
+
+00:42:53.960 --> 00:42:55.960
+ Das ist doch aber, verstehe ich nicht.
+
+00:42:55.960 --> 00:42:58.050
+ Ist doch digital.
+
+00:42:58.050 --> 00:42:59.990
+ Ja, und mit Papier machen die gar nix.
+
+00:42:59.990 --> 00:43:06.130
+ Also da besteht natürlich auch noch Lernbedarf bei den Praxen,
+
+00:43:06.130 --> 00:43:09.120
+ aber ja, es ist schon sehr, sehr spannend.
+
+00:43:09.120 --> 00:43:13.110
+ Ich war froh, dass ich letztens beim Kinderarzt ein echtes Papierezept gekriegt habe.
+
+00:43:13.110 --> 00:43:15.110
+ Was sie eigentlich gar nicht mehr machen dürfen.
+
+00:43:15.110 --> 00:43:17.100
+ Eigentlich dürfen sie nur noch privat partieren.
+
+00:43:17.100 --> 00:43:20.100
+ Und dann gehen sie in die Apotheke, die sie mitnehmen und fertig.
+
+00:43:20.100 --> 00:43:25.080
+ Also ich meine, die Idee für, ich brauche regelmäßig Medikamente zum Beispiel.
+
+00:43:25.080 --> 00:43:29.070
+ Und das ist ganz schön, dass ich dafür nicht jedes Mal zum Arzt trennen muss,
+
+00:43:29.070 --> 00:43:31.070
+ nur um halt meine Medikamente nachzufrischen.
+
+00:43:31.070 --> 00:43:36.060
+ Das geht, ich schreibe denen halt, hey, ich möchte gerne Wiederholungsmedikament das wieder abholen
+
+00:43:36.060 --> 00:43:38.050
+ und dann kriege ich das ohne dahin zu gehen.
+
+00:43:38.050 --> 00:43:40.050
+ Das ist ja nicht verkehrt.
+
+00:43:40.050 --> 00:43:42.040
+ Aber natürlich im Moment auch nur innerhalb eines Quartals,
+
+00:43:42.040 --> 00:43:44.040
+ weil so oft musst du deine Grate da reinstecken.
+
+00:43:44.040 --> 00:43:48.480
+ Aber ansonsten ist die Umsetzung noch ein bisschen krenkelt.
+
+00:43:48.480 --> 00:43:53.470
+ Ja ja, und generell die Technik an sich, wie das umgesetzt ist,
+
+00:43:53.470 --> 00:43:58.460
+ ist teilweise hat da auch einige große Fragezeichen, auch was für Sicherheit.
+
+00:43:58.460 --> 00:44:01.460
+ Und auch persönliche, also wir sind von Gesundheitsdaten,
+
+00:44:01.460 --> 00:44:03.450
+ sind einfach mal höchstsensible Daten auch.
+
+00:44:03.450 --> 00:44:05.450
+ Und auch da gibt es durchaus einige Schwächen.
+
+00:44:05.450 --> 00:44:09.440
+ Es gab, war das die letzte oder vielleicht sogar schon vorletztes Jahr,
+
+00:44:09.440 --> 00:44:13.440
+ beim Chaos Computer Club in Berlin,
+
+00:44:13.440 --> 00:44:17.430
+ gab es einen Vortrag von Flüppke im Rahmen des Datengartens,
+
+00:44:17.430 --> 00:44:21.420
+ und zwar wie funktioniert das E-Rezept, wo mal so ein bisschen die technischen Details
+
+00:44:21.420 --> 00:44:24.420
+ hinter dem E-Rezept auch erklärt werden.
+
+00:44:24.420 --> 00:44:26.410
+ Da kann man gerne mal reinschauen.
+
+00:44:26.410 --> 00:44:29.410
+ Es findet sich auch unter anderem auf media.cc.de.
+
+00:44:29.410 --> 00:44:34.400
+ Und wenn ihr diese Folge als Podcast hört online, dann steht es auch in den Schaunen.
+
+00:44:34.400 --> 00:44:36.400
+ Also jetzt gerade, wir sind die Schaunen uns eingetragen.
+
+00:44:36.400 --> 00:44:43.610
+ Es steht ja dann quasi nachher direkt da, indem es durch 3 Mrd. Großzeilen durchgewürzt wird.
+
+00:44:43.610 --> 00:44:46.560
+ Wir sind hier nicht bei NordJayers, haben wir ja schon vorhin geklärt.
+
+00:44:46.560 --> 00:44:48.530
+ Das sind nur 300.
+
+00:44:48.530 --> 00:44:57.050
+ Nein, wir haben jetzt einen großen Bogen geschlagen von RF- und Gesichtserkennung
+
+00:44:57.050 --> 00:45:02.020
+ über E-Person, Deutschland-Tickets bis hin zum E-Rezept.
+
+00:45:02.020 --> 00:45:05.000
+ Also alles, was irgendwie mit Identität...
+
+00:45:05.000 --> 00:45:06.000
+ Identität.
+
+00:45:06.000 --> 00:45:07.980
+ ...die Identität zu tun hat.
+
+00:45:07.980 --> 00:45:14.110
+ Ja, und dann auch teilweise fest, dass mit diesen digitalen Infrastrukturen
+
+00:45:14.110 --> 00:45:20.070
+ Deutschland jetzt nicht unbedingt so vorbereiter ist, aber das wussten wir ja vielleicht auch schon vorher.
+
+00:45:20.070 --> 00:45:27.490
+ Ja, andererseits, ich denke mal so in vielen Ländern ist es halt auch sehr Harnbüchen möglichst schnell umgesetzt.
+
+00:45:27.490 --> 00:45:30.470
+ Und da sind... das wäre schön, da irgendwie einen gesunden Mittelweg zu finden,
+
+00:45:30.470 --> 00:45:35.450
+ aber ich bin grundsätzlich auch ganz dankbar, dass nicht alles sofort bei AWS und Microsoft
+
+00:45:35.450 --> 00:45:41.440
+ in die Cloud hochgeladen wird, mit einem MD5-Hash-Verschlüssel.
+
+00:45:41.440 --> 00:45:45.650
+ Was dir fehlt, ist eine Souveräne Cloud.
+
+00:45:45.650 --> 00:45:50.640
+ Das ist aber das Cloud, bitte.
+
+00:45:50.640 --> 00:45:58.130
+ Apropos Souveräne Cloud, das klingt ja irgendwie nach Schokolade.
+
+00:45:58.130 --> 00:46:01.130
+ Wow, wow.
+
+00:46:01.130 --> 00:46:06.120
+ Ich möchte jetzt jetzt gerne wissen, ich habe keine Ahnung, worum es geht, bei diesem Thema.
+
+00:46:06.120 --> 00:46:13.120
+ Genau, du bist heiß drauf, weil wir haben hier in unserem Vorbereitungspad, wo wir immer unsere Themen sammeln,
+
+00:46:13.120 --> 00:46:19.110
+ steht nämlich neben RF und Co, steht nämlich noch was anderes drin, was irgendwie mit Schokolade zu tun hat.
+
+00:46:19.110 --> 00:46:21.110
+ Warte, ich kann nicht prime, ich kann nicht prime.
+
+00:46:21.110 --> 00:46:27.100
+ Also still dir vor, du wohnst in Glasgow oder irgendwo in UK und du läufst so durchs Internet
+
+00:46:27.100 --> 00:46:30.100
+ und dann siehst du so eine richtig tolle Anzeige.
+
+00:46:30.100 --> 00:46:36.090
+ Willy Wonka's Chocolate Wonderland oder irgendwie so ein Chocolate-Experience.
+
+00:46:36.090 --> 00:46:40.080
+ Und du guckst die Fotos an und die sehen wahnsinnig magisch aus.
+
+00:46:40.080 --> 00:46:48.080
+ Also da sind halt ganz viele tolle Dekorationen, leicht gedimpftes Gesicht, Schokolade.
+
+00:46:48.080 --> 00:46:54.070
+ Und du denkst so, oh ja geil, das klick ich mir für mich und meine Kinder, es ist halt immer in dem einen Wochenende oder so.
+
+00:46:54.070 --> 00:46:59.060
+ Und da fahren wir alle hin und vielleicht fahren auch noch Leute aus London extra dahin, weil das so toll aussieht.
+
+00:46:59.060 --> 00:47:04.060
+ Also wirklich sehr, sehr bunt, sehr vielfältig, also wirklich so.
+
+00:47:04.060 --> 00:47:12.050
+ Es sah aus wie Disneyland nur für Willy Wonka, so ein bisschen so Disneyland auf LSD.
+
+00:47:12.050 --> 00:47:17.040
+ Ja, und dann fährst du da halt hin und hast halt richtig viel Geld für deinen Ticket ausgegeben.
+
+00:47:17.040 --> 00:47:22.040
+ Und kommst da hin und da stehst du in einer leeren Lagerhalle.
+
+00:47:22.040 --> 00:47:23.120
+ Das war nicht leer.
+
+00:47:23.120 --> 00:47:28.090
+ Warte, warte, ich glaube, es war so ein Regenbogen-Deko-Ding, was da stand
+
+00:47:28.090 --> 00:47:33.070
+ und ein Lolli und so wie zwei Leute, wie halt Elfen oder so was, wie die Dinger heißen.
+
+00:47:33.070 --> 00:47:35.050
+ Ne, wie hießen die Dinger bei Willy Wonka?
+
+00:47:35.050 --> 00:47:36.050
+ Da war was.
+
+00:47:36.050 --> 00:47:40.030
+ Genau, gekleidet sind und, na ja.
+
+00:47:40.030 --> 00:47:41.150
+ Um Parlumpas.
+
+00:47:41.150 --> 00:47:43.130
+ Um Parlumpas, genau.
+
+00:47:43.130 --> 00:47:48.070
+ Und auch eigentlich ein komischer Bezei, das ist nicht auch super rassistisch, na ja, egal.
+
+00:47:48.070 --> 00:47:53.370
+ Also kann man glaube ich bestimmt irgendwie nachlesen im Wikipedia-Ticket zu Willy Wonka
+
+00:47:53.370 --> 00:47:56.360
+ und ein bisschen mit Charlie und die Schokoladenfabrik.
+
+00:47:56.360 --> 00:47:59.350
+ Na ja, und was passiert halt denn dann?
+
+00:47:59.350 --> 00:48:01.340
+ Leute werden natürlich wütend.
+
+00:48:01.340 --> 00:48:03.340
+ Also es kam halt immer mehr Leute.
+
+00:48:03.340 --> 00:48:04.340
+ Moment, Moment.
+
+00:48:04.340 --> 00:48:05.330
+ Erzähl du weiter.
+
+00:48:05.330 --> 00:48:08.330
+ Ich wollte dir auch nur so was im Ende geben, aber du kannst gerne.
+
+00:48:08.330 --> 00:48:09.320
+ Ach so, ne.
+
+00:48:09.320 --> 00:48:10.320
+ Mach, mach, mach du.
+
+00:48:10.320 --> 00:48:12.320
+ Ich übergebe an Starbucks.
+
+00:48:12.320 --> 00:48:20.300
+ Ich wollte dich jetzt gar nicht so unterbrechen, aber ich wollte vielleicht noch so ein bisschen illustrieren.
+
+00:48:20.300 --> 00:48:25.280
+ Also du hast dann halt eben so den Willy, der tatsächlich auch gar nicht Willy Wonka heißt,
+
+00:48:25.280 --> 00:48:27.280
+ aus Gründen.
+
+00:48:27.280 --> 00:48:35.470
+ Du hast dann so um Parlumpas und du hast dann irgendwie so, gibt es eine Schokoladenfabrik
+
+00:48:35.470 --> 00:48:39.880
+ und da wird dann irgendwie, da ist dann irgendwie so eine komische Anordnung,
+
+00:48:39.880 --> 00:48:47.870
+ so mit, wie aus dem Chemiebaukasten, so mit, so mit diesen ganzen Glastrichtern und Röhrchen und so.
+
+00:48:47.870 --> 00:48:52.860
+ Und das sieht alles ein bisschen, das sieht alles ein bisschen dürftig aus.
+
+00:48:52.860 --> 00:48:56.860
+ Es gibt auch noch eine Brücke über so einen Schokoladenfluss beispielsweise,
+
+00:48:56.860 --> 00:49:00.850
+ was aber auch so ein bisschen aussieht wie dreckiges Wasser, wie es wohl hieß.
+
+00:49:00.850 --> 00:49:07.840
+ Du hast auch, hast auch so ein bisschen, so ein paar andere Deko noch mit irgendwie so Pilze,
+
+00:49:07.840 --> 00:49:12.830
+ die da irgendwie so ein, also so eine verlorene Ansammlung an Pilzen,
+
+00:49:12.830 --> 00:49:14.830
+ die da irgendwie als eine große Skulptur da irgendwie rumstehen.
+
+00:49:14.830 --> 00:49:17.830
+ Aber ansonsten klingt ein bisschen wie Willy Wonka auf den Fisch bestellt.
+
+00:49:17.830 --> 00:49:18.820
+ Ja.
+
+00:49:18.820 --> 00:49:19.820
+ Ein bisschen sehr.
+
+00:49:19.820 --> 00:49:20.820
+ Ein bisschen sehr.
+
+00:49:20.820 --> 00:49:23.820
+ Also, du musst, du musst dir halt das irgendwie...
+
+00:49:23.820 --> 00:49:24.820
+ Team, egal.
+
+00:49:24.820 --> 00:49:28.810
+ Ja, genau, aber halt wirklich so und dann hast du dann mal irgendwie,
+
+00:49:28.810 --> 00:49:33.800
+ dann hängt dann irgendwie an der Wand vielleicht noch so ein farbiger Stofffetzen,
+
+00:49:33.800 --> 00:49:37.800
+ wo dann irgendwie so ein Haus irgendwie drauf, also wirklich so komplett verloren,
+
+00:49:37.800 --> 00:49:41.790
+ irgendwie so eine Art Hintergrund, was das sein soll oder was danach aussieht.
+
+00:49:41.790 --> 00:49:46.850
+ Und dann kommt dann noch dazu die Schauspielerin,
+
+00:49:46.850 --> 00:49:50.840
+ haben dann, haben dann entsprechend ihre Rollen, also der Willy,
+
+00:49:50.840 --> 00:49:54.830
+ und dann haben wir da Umpalumpas oder einzelne Umpalumpas.
+
+00:49:54.830 --> 00:49:59.820
+ Und dann gibt es noch irgendwie ein Spiegel und hinter diesem Spiegel,
+
+00:49:59.820 --> 00:50:02.810
+ also die Kinder werden dann da durchgeführt mit ihren Eltern
+
+00:50:02.810 --> 00:50:06.800
+ und dann wird irgendwie Dinge erzählt und man kann irgendwie Fotos machen.
+
+00:50:06.800 --> 00:50:11.790
+ Und dann kommt man da zu einem Spiegel und dann sagt der Willy, ja, hier, pass auf.
+
+00:50:11.790 --> 00:50:17.780
+ Und, oh, was ist das? Und dann kommt da irgendwie so eine schwarz gekleidete Figur mit Maske.
+
+00:50:17.780 --> 00:50:21.770
+ Also wirklich, du kannst das Gesicht nicht sehen, sondern so mit Maske total gruselig vor.
+
+00:50:21.770 --> 00:50:23.770
+ Und dann ist das the unknown.
+
+00:50:23.770 --> 00:50:27.760
+ Eine Figur, die ist in Willy Wonka bzw. Charlie und die Schokolade...
+
+00:50:27.760 --> 00:50:28.760
+ Ich kann mich nicht erinnern.
+
+00:50:28.760 --> 00:50:30.750
+ Exakt. Die ist da einfach schlichtweg nicht gibt.
+
+00:50:30.750 --> 00:50:32.750
+ Die ist da einfach schlichtweg nicht gibt.
+
+00:50:32.750 --> 00:50:33.750
+ Okay.
+
+00:50:33.750 --> 00:50:34.900
+ So.
+
+00:50:34.900 --> 00:50:37.850
+ Für einen Haufen Geld, was?
+
+00:50:37.850 --> 00:50:38.840
+ Für 35 Pfund.
+
+00:50:38.840 --> 00:50:40.810
+ Ja, 35 Pfund pro Person.
+
+00:50:40.810 --> 00:50:44.430
+ Und es gab nicht mal Schokolade.
+
+00:50:44.430 --> 00:50:48.410
+ Die Kinder bekamen eine Jellybean. Ein, ne?
+
+00:50:48.410 --> 00:50:50.400
+ Also wenn ihr jetzt etwas Jelly...
+
+00:50:50.400 --> 00:50:52.390
+ Ja, sehr klein.
+
+00:50:52.390 --> 00:50:56.370
+ Irgendwie so oder man könnte vielleicht auch so mit Tiktok oder so für die Größe ungefähr.
+
+00:50:56.370 --> 00:51:01.340
+ Eine Jellybean und ein Viertelbecher Limonade.
+
+00:51:01.340 --> 00:51:02.400
+ Viertel?
+
+00:51:02.400 --> 00:51:04.390
+ Ja, ein Viertelbecher Limonade.
+
+00:51:04.390 --> 00:51:11.390
+ Und diese gesamte Willys-Chocolate-Experience hat halt irgendwie so 2 Minuten gedauert.
+
+00:51:11.390 --> 00:51:15.380
+ Also da bist du halt einfach einmal durchgelaufen.
+
+00:51:15.380 --> 00:51:18.380
+ Hast dann irgendwie die paar wenigen Dinge, die es da irgendwie gab, dir angeguckt.
+
+00:51:18.380 --> 00:51:21.380
+ Hast deine Kinder traumatisiert durch The Unknown.
+
+00:51:21.380 --> 00:51:25.380
+ Also da gibt es auch entsprechende Videos, die kursieren oder dann auch in der...
+
+00:51:25.380 --> 00:51:26.380
+ Das ist richtig geil mitbekommen.
+
+00:51:26.380 --> 00:51:29.370
+ Wie dann halt die Kinder auch einfach weinen.
+
+00:51:29.370 --> 00:51:30.370
+ Also wirklich weinen.
+
+00:51:30.370 --> 00:51:34.370
+ Also natürlich, es ist halt ein bisschen horrormäßig.
+
+00:51:34.370 --> 00:51:35.370
+ Ja, natürlich.
+
+00:51:35.370 --> 00:51:38.370
+ Und du kommst dann, also erwartest halt irgendwie eine kinderfreundliche Veranstaltung.
+
+00:51:38.370 --> 00:51:41.360
+ Und dann kommt dann halt sowas.
+
+00:51:41.360 --> 00:51:46.360
+ Und also ein riesengroßer, ja...
+
+00:51:46.360 --> 00:51:47.360
+ Schwierig.
+
+00:51:47.360 --> 00:51:51.350
+ Da haben wir ein paar Bilder aus dem Guardian in den Show Notes verlinkt.
+
+00:51:51.350 --> 00:51:52.350
+ Genau.
+
+00:51:52.350 --> 00:51:55.350
+ Und klingt so ein bisschen wie eine Festival 2017.
+
+00:51:55.350 --> 00:51:57.350
+ Firefest 2017.
+
+00:51:57.350 --> 00:52:02.350
+ Ja, naja, und das geilste, fand ich ja noch, war natürlich Leute wütend.
+
+00:52:02.350 --> 00:52:04.340
+ Da musst du sogar die Polizei kommen.
+
+00:52:04.340 --> 00:52:06.340
+ Ich glaub, hier hat man angefangen, auch Refans zu machen.
+
+00:52:06.340 --> 00:52:11.340
+ Und was ich auch noch interessant fand, der Veranstalter hatten ja auch diesen Darstellern,
+
+00:52:11.340 --> 00:52:13.340
+ die halt diese Schauspielersachen spielen sollten.
+
+00:52:13.340 --> 00:52:14.340
+ Den hatten die auch Quatcha erzählt.
+
+00:52:14.340 --> 00:52:16.330
+ Und Wuranakzweger, wer war schuld?
+
+00:52:16.330 --> 00:52:18.330
+ Na, die hatten ja nicht Quatcha erzählt.
+
+00:52:18.330 --> 00:52:22.330
+ Also die haben halt einen Tag vorher, haben die halt so ein 15-seitiges Skript bekommen,
+
+00:52:22.330 --> 00:52:23.330
+ das sie halt lernen sollten.
+
+00:52:23.330 --> 00:52:26.330
+ Und das war halt teilweise echt viel, echt viel.
+
+00:52:26.330 --> 00:52:30.320
+ Die hatten ja gar nicht ihre ganzen, also die Special Effects und Props,
+
+00:52:30.320 --> 00:52:32.320
+ die den versprochen oder waren ja auch alle nicht da.
+
+00:52:32.320 --> 00:52:34.320
+ Die kamen ja in so ein halblieres.
+
+00:52:34.320 --> 00:52:35.320
+ Also wirklich wie Fire, ja.
+
+00:52:35.320 --> 00:52:36.320
+ Ja.
+
+00:52:36.320 --> 00:52:39.310
+ Und statt einer Bubble Machine gab es zum Beispiel auch keine Bubble Machine,
+
+00:52:39.310 --> 00:52:41.310
+ sondern halt so Nebel.
+
+00:52:41.310 --> 00:52:42.310
+ Seifenblasen.
+
+00:52:42.310 --> 00:52:44.310
+ Ja, statt der Seifenblasen gab es dann halt Nebel,
+
+00:52:44.310 --> 00:52:46.310
+ was halt auch so nicht vorgesehen war.
+
+00:52:46.310 --> 00:52:47.310
+ Genau.
+
+00:52:47.310 --> 00:52:48.310
+ Wer war schuld wieder?
+
+00:52:48.310 --> 00:52:49.310
+ Beim Advertisement?
+
+00:52:49.310 --> 00:52:51.300
+ Die böse KI mal wieder.
+
+00:52:51.300 --> 00:52:52.300
+ Die böse KI.
+
+00:52:52.300 --> 00:52:55.300
+ Ja, das waren nämlich alles Bilder, waren natürlich AI generated.
+
+00:52:55.300 --> 00:52:57.300
+ Ja, das sieht man ganz gut.
+
+00:52:57.300 --> 00:53:00.300
+ Das Skript war AI generiert.
+
+00:53:00.300 --> 00:53:04.400
+ So kann zum Beispiel auch die Unknown rein.
+
+00:53:04.400 --> 00:53:06.380
+ Ach so, ist ja klar.
+
+00:53:06.380 --> 00:53:10.350
+ Sie konnten es natürlich nicht Willy Wonka nennen,
+
+00:53:10.350 --> 00:53:14.320
+ weil Markenschutzrechte und beispielsweise deswegen,
+
+00:53:14.320 --> 00:53:18.180
+ deswegen hieß es zum Beispiel auch noch Willys Chocolate Experience.
+
+00:53:18.180 --> 00:53:21.170
+ Und das Unternehmen hat sich zum Beispiel auch,
+
+00:53:21.170 --> 00:53:23.160
+ hat zum Beispiel auch gemeint,
+
+00:53:23.160 --> 00:53:26.160
+ dass ein Grund, warum das jetzt nicht so war,
+
+00:53:26.160 --> 00:53:28.150
+ wie es hätte eigentlich sein sollen,
+
+00:53:28.150 --> 00:53:31.140
+ dass sie Probleme mit einem Lieferanten gehabt haben,
+
+00:53:31.140 --> 00:53:34.130
+ der eigentlich diese fotorealistische Tapete
+
+00:53:34.130 --> 00:53:37.120
+ oder Wanddekoration hätte liefern sollen,
+
+00:53:37.120 --> 00:53:39.120
+ dass die halt nicht rechtzeitig kamen.
+
+00:53:39.120 --> 00:53:42.110
+ Aber man hat sich ja offenbar dennoch dafür entschieden,
+
+00:53:42.110 --> 00:53:45.100
+ also es wurde halt irgendwie innerhalb von 24 Stunden vorher,
+
+00:53:45.100 --> 00:53:47.100
+ bevor es eröffnet wurde,
+
+00:53:47.100 --> 00:53:50.090
+ wurde diese Halle überhaupt erstmal dekoriert.
+
+00:53:50.090 --> 00:53:51.090
+ Ja, ja.
+
+00:53:51.090 --> 00:53:55.240
+ Es gab übrigens auch noch zusätzlich noch eine mickrige kleine Hüpfburg.
+
+00:53:55.240 --> 00:53:57.240
+ Okay, okay.
+
+00:53:57.240 --> 00:54:00.230
+ Ja, Befire, also das ist ja wirklich das Gleiche,
+
+00:54:00.230 --> 00:54:04.230
+ irgendwie mit Low Effort, aber viel Marketing.
+
+00:54:04.230 --> 00:54:07.230
+ Das klingt wieder so wie so Generation Marketing.
+
+00:54:07.230 --> 00:54:10.220
+ Wir erschlagen alles, was technologisch nicht losbar ist,
+
+00:54:10.220 --> 00:54:13.220
+ einfach mit Marketing, wir werfen schöne KI generierte Bilder drauf
+
+00:54:13.220 --> 00:54:15.220
+ und dann wird das schon passen.
+
+00:54:15.220 --> 00:54:17.220
+ Also ich habe ja auch den Link zum Feierfestival,
+
+00:54:17.220 --> 00:54:19.210
+ wer das nicht kennt, habe ich auch in die Show Notes gepackt.
+
+00:54:19.210 --> 00:54:21.210
+ Da gibt es auch eine sehr schöne Dokumentation drüber,
+
+00:54:21.210 --> 00:54:23.210
+ die ich empfehlen kann,
+
+00:54:23.210 --> 00:54:25.210
+ wenn man ein bisschen mit offener Mundform fernsel sitzen will.
+
+00:54:25.210 --> 00:54:28.200
+ Ja, also vielleicht kann man noch kurz sagen,
+
+00:54:28.200 --> 00:54:31.200
+ ein Festival, das in den höchsten Tönen angepriesen und gelobt,
+
+00:54:31.200 --> 00:54:34.200
+ also angepriesen wurde, auch mit, ich glaube,
+
+00:54:34.200 --> 00:54:37.190
+ so Prominente, die das vorab beworben haben.
+
+00:54:37.190 --> 00:54:39.190
+ Ohne KI noch?
+
+00:54:39.190 --> 00:54:42.190
+ Riesen-Line-Up, also sie haben da auch irgendwie die größten Stars.
+
+00:54:42.190 --> 00:54:45.180
+ Also das einzig Gute an diesem Feierdingen war eigentlich,
+
+00:54:45.180 --> 00:54:48.180
+ dass sie im Wesentlichen das Geld von Leuten genommen haben,
+
+00:54:48.180 --> 00:54:50.180
+ die sehr viel Geld hatten.
+
+00:54:50.180 --> 00:54:52.170
+ Weil es auch eine sehr, sehr teure Veranstaltung war.
+
+00:54:52.170 --> 00:54:54.170
+ Das war ein bisschen ein Tausend oder so, ne?
+
+00:54:54.170 --> 00:54:56.170
+ Ja, genau.
+
+00:54:56.170 --> 00:54:58.170
+ Und dann haben sie halt diese ganzen Hochkarätigen Kützer,
+
+00:54:58.170 --> 00:55:00.170
+ die haben alle kurz vorher abgesagt,
+
+00:55:00.170 --> 00:55:02.160
+ dass sie gesehen haben, was der Zustand von dem allen ist.
+
+00:55:02.160 --> 00:55:04.160
+ Und die Leute sind da alle irgendwie angereist
+
+00:55:04.160 --> 00:55:06.160
+ und sind dann auf einem Parkplatz,
+
+00:55:06.160 --> 00:55:08.160
+ wenn er nicht fertig war,
+
+00:55:08.160 --> 00:55:10.150
+ mit dem Party-Ksi-Close gehandelt.
+
+00:55:10.150 --> 00:55:12.150
+ Und das exklusive Essen und so,
+
+00:55:12.150 --> 00:55:14.150
+ das da versprochen wurde,
+
+00:55:14.150 --> 00:55:17.150
+ war dann eher nicht so hochwertig.
+
+00:55:17.150 --> 00:55:19.420
+ Genau, da war es wohl so,
+
+00:55:19.420 --> 00:55:21.420
+ dass der Gründer des Ganzen,
+
+00:55:21.420 --> 00:55:23.410
+ der hat auch bis zum Ende behauptet,
+
+00:55:23.410 --> 00:55:25.400
+ dass alles gut läuft.
+
+00:55:25.400 --> 00:55:27.400
+ Also wenn schon alle Leute,
+
+00:55:27.400 --> 00:55:29.390
+ die da mit dran gearbeitet haben,
+
+00:55:29.390 --> 00:55:31.390
+ irgendwie Muffensausen hatten,
+
+00:55:31.390 --> 00:55:33.380
+ dass das richtig fies sind.
+
+00:55:33.380 --> 00:55:35.380
+ Wenn es anfängt, nicht gut zu laufen musste,
+
+00:55:35.380 --> 00:55:37.370
+ halt mehr Marketing machen.
+
+00:55:37.370 --> 00:55:39.370
+ Ja, genau.
+
+00:55:39.370 --> 00:55:41.360
+ Am Ende ist alles gut.
+
+00:55:41.360 --> 00:55:43.360
+ Und wenn es nicht gut ist, dann ist es noch nicht das Ende.
+
+00:55:43.360 --> 00:55:45.350
+ Wissen wir ihr?
+
+00:55:45.350 --> 00:55:47.350
+ Ich weiß immer nicht mal.
+
+00:55:47.350 --> 00:55:49.340
+ Ja, es gibt ja auch "Fire Festival 2".
+
+00:55:49.340 --> 00:55:51.340
+ Ist das so ähnlich wie "Titanic 2"?
+
+00:55:51.340 --> 00:55:53.330
+ Alles passiert nochmal.
+
+00:55:53.330 --> 00:55:55.330
+ Nur anders.
+
+00:55:55.330 --> 00:55:57.430
+ So, wir haben genug gequatscht
+
+00:55:57.430 --> 00:55:59.400
+ und hören uns im April wieder.
+
+00:55:59.400 --> 00:56:01.370
+ Wir sind auch Leute,
+
+00:56:01.370 --> 00:56:03.850
+ wollen in die Machbare heilen.
+
+00:56:03.850 --> 00:56:05.830
+ Das war übrigens mein Nachbar.
+
+00:56:05.830 --> 00:56:07.820
+ Ich bin gespannt.
+
+00:56:07.820 --> 00:56:09.800
+ Vielleicht brennt dein Haus.
+
+00:56:09.800 --> 00:56:13.820
+ Genau, wir hören uns im April wieder.
+
+00:56:13.820 --> 00:56:15.910
+ Und freuen uns darauf,
+
+00:56:15.910 --> 00:56:17.910
+ wenn ihr mal schaut,
+
+00:56:17.910 --> 00:56:19.910
+ ob wir unseren Podcast wir öffentlich haben.
+
+00:56:19.910 --> 00:56:21.910
+ Und dann schreibt uns doch
+
+00:56:21.910 --> 00:56:23.910
+ an radioeccct-p.org
+
+00:56:23.910 --> 00:56:25.910
+ Oder hört uns einfach
+
+00:56:25.910 --> 00:56:27.910
+ nächstes Jahr, nächsten Monat wieder.
+
+00:56:27.910 --> 00:56:29.910
+ Am zweiten Montag, im freien Radio Potsdam.
+
+00:56:29.910 --> 00:56:31.910
+ So sieht es aus.
+
+00:56:31.910 --> 00:56:33.910
+ Und zum Abschluss gehen wir mit Musik raus
+
+00:56:33.910 --> 00:56:35.910
+ und hören von Beat Mechanic
+
+00:56:35.910 --> 00:56:37.910
+ über die Technik.
+
+00:56:37.910 --> 00:56:39.910
+ Und wir hören von Beat Mechanic
+
+00:56:39.910 --> 00:56:41.910
+ Elektron.
+
+00:56:41.910 --> 00:56:43.900
+ Tschüss!
+
