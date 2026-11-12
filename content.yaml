@@ -3298,3 +3298,28 @@ long_summary_md: |-
   **Musik:**
 
   &#x1f3b6;&nbsp;[Ketsa - Dark Night - Free Music Archive](https://freemusicarchive.org/music/Ketsa/vintage-modernity/dark-night/)
+---
+uuid: nt-2026-10-12
+title: 'CiR am 12.10.2026'
+subtitle: Der Chaostreff im Freien Radio Potsdam
+summary: >
+  Hannes, cyrroxx und Fabian reden über Apps.
+
+publicationDate: "2026-10-12T00:00:00+00:00"
+audio:
+  - url: $media_base_url/2026_10_12-chaos-im-radio.mp3
+    mimeType: audio/mp3
+long_summary_md: |-
+  **Shownotes:**
+
+  - [https://keepandroidopen.org/](https://keepandroidopen.org/)
+  - PWA: Webapps am Besipiel von [Meenow](https://meenow.de/)
+  - [https://unifiedpush.org/](https://unifiedpush.org/)
+  - OpenAI löst 100 Matheprobleme: [Link 1](https://github.com/openai/math), [Link 2](https://proofsandprompts.com/2026/10/08/100-reactions-to-100-solutions/)
+  - [https://www.youtube.com/dorfuchs](https://www.youtube.com/dorfuchs)
+
+
+  **Musik:**
+
+  &#x1f3b6;&nbsp;[Smallpox - You&#039;re a Tourist - Free Music Archive](https://freemusicarchive.org/music/smallpox/orphans-vol-4/youre-a-tourist/)
+  &#x1f3b6;&nbsp;[Grumplefunk - Electron - Free Music Archive](https://freemusicarchive.org/music/grumplefunk/single/electron/)
