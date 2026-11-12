@@ -3251,54 +3251,6 @@ long_summary_md: |-
 
   &#x1f3b6;&nbsp;[1000 Handz - Street Anthem - Free Music Archive](https://freemusicarchive.org/music/1000-handz/cc-by-free-to-use-melodic-rap-instrumentals-vol-2/street-anthem/)
 ---
-uuid: nt-2026-11-09
-title: 'CiR am 09.11.2026'
-subtitle: Der Chaostreff im Freien Radio Potsdam
-summary: >
-  Hannes, Fabian und cyrroxx sprechen über aktuelle Sicherheitslücken, Wasserzeichen in KI-Texten
-
-  und KI-gestützte Videoüberwachung.
-
-publicationDate: "2026-11-09T00:00:00+00:00"
-audio:
-  - url: $media_base_url/2026_11_09-chaos-im-radio.mp3
-    mimeType: audio/mp3
-long_summary_md: |-
-  **Shownotes:**
-
-  - Aktuelle Sicherheitslücken
-  - [https://de.wikipedia.org/wiki/PHP2Shell](https://de.wikipedia.org/wiki/PHP2Shell)
-  - [https://broccoli2shell.com/](https://broccoli2shell.com/)
-  - [https://sshhole.com/](https://sshhole.com/)
-  -  [https://en.wikipedia.org/wiki/Ping_of_death](https://en.wikipedia.org/wiki/Ping_of_death)
-  - [https://heartbleed.com/](https://heartbleed.com/)
-
-  * [https://simplications.tucmi.de](https://simplications.tucmi.de)
-
-  * [https://www.heise.de/news/Kurz-vor-historischem-Meilenstein-Kontakt-zu-Voyager-1-steht-wieder-11513463.html](https://www.heise.de/news/Kurz-vor-historischem-Meilenstein-Kontakt-zu-Voyager-1-steht-wieder-11513463.html)
-
-  - Wasserzeichen in KI-Texten
-  * [https://www.anthropic.com/news/claude-text-watermark](https://www.anthropic.com/news/claude-text-watermark)
-  * [https://www.pangram.com/](https://www.pangram.com/)
-  * [https://support.claude.com/de/articles/16266773-wie-claude-ki-generierte-inhalte-kennzeichnet](https://support.claude.com/de/articles/16266773-wie-claude-ki-generierte-inhalte-kennzeichnet)
-  * [https://openai.com/index/eu-text-provenance/](https://openai.com/index/eu-text-provenance/)
-
-  - KI-gestützte Videoüberwachung
-  * [https://www.tagesschau.de/inland/regional/berlin/rbb-polizei-startet-projekt-zur-ki-unterstuetzten-videoueberwachung-am-kotti-100.html](https://www.tagesschau.de/inland/regional/berlin/rbb-polizei-startet-projekt-zur-ki-unterstuetzten-videoueberwachung-am-kotti-100.html)
-  * [https://netzpolitik.org/2026/ki-gestuetzte-videoueberwachung-ccc-warnt-berlin-vor-automatischer-verhaltenserkennung/](https://netzpolitik.org/2026/ki-gestuetzte-videoueberwachung-ccc-warnt-berlin-vor-automatischer-verhaltenserkennung/)
-  * [https://netzpolitik.org/2026/rechtlich-fragwuerdig-bundesregierung-will-biometrische-fotofahndung-im-netz/](https://netzpolitik.org/2026/rechtlich-fragwuerdig-bundesregierung-will-biometrische-fotofahndung-im-netz/)
-  * [https://netzpolitik.org/2026/ki-training-berliner-verhaltensscanner-sollen-privatfirmen-mit-echtdaten-fuettern/](https://netzpolitik.org/2026/ki-training-berliner-verhaltensscanner-sollen-privatfirmen-mit-echtdaten-fuettern/)
-  * [https://taz.de/KI-Videoueberwachung-in-Kreuzberg/!6225655/](https://taz.de/KI-Videoueberwachung-in-Kreuzberg/!6225655/)
-
-  - [https://www.tu.berlin/zifg/studium-und-lehre/ringvorlesungen/aktuelle-ringvorlesung](https://www.tu.berlin/zifg/studium-und-lehre/ringvorlesungen/aktuelle-ringvorlesung)
-  - [https://whispertome.de/](https://whispertome.de/)
-  - [https://events.ccc.de/congress/2026](https://events.ccc.de/congress/2026)
-
-
-  **Musik:**
-
-  &#x1f3b6;&nbsp;[Ketsa - Dark Night - Free Music Archive](https://freemusicarchive.org/music/Ketsa/vintage-modernity/dark-night/)
----
 uuid: nt-2026-10-12
 title: 'CiR am 12.10.2026'
 subtitle: Der Chaostreff im Freien Radio Potsdam
@@ -3323,3 +3275,31 @@ long_summary_md: |-
 
   &#x1f3b6;&nbsp;[Smallpox - You&#039;re a Tourist - Free Music Archive](https://freemusicarchive.org/music/smallpox/orphans-vol-4/youre-a-tourist/)
   &#x1f3b6;&nbsp;[Grumplefunk - Electron - Free Music Archive](https://freemusicarchive.org/music/grumplefunk/single/electron/)
+---
+uuid: nt-2026-11-09
+title: 'CiR am 09.11.2026'
+subtitle: Der Chaostreff im Freien Radio Potsdam
+summary: >
+  Hannes, Fabian und cyrroxx sprechen über aktuelle Sicherheitslücken, Wasserzeichen in KI-Texten
+
+  und KI-gestützte Videoüberwachung.
+
+publicationDate: "2026-11-09T00:00:00+00:00"
+audio:
+  - url: $media_base_url/2026_11_09-chaos-im-radio.mp3
+    mimeType: audio/mp3
+long_summary_md: |-
+  **Shownotes:**
+
+  - Aktuelle Sicherheitslücken: [PHP2Shell](https://de.wikipedia.org/wiki/PHP2Shell), [Broccoli2shell](https://broccoli2shell.com/), [*sshhole](https://sshhole.com/), [Ping of death](https://en.wikipedia.org/wiki/Ping_of_death), [Heartbleed](https://heartbleed.com/)
+  - [https://simplications.tucmi.de](https://simplications.tucmi.de)
+  - [https://www.heise.de/news/Kurz-vor-historischem-Meilenstein-Kontakt-zu-Voyager-1-steht-wieder-11513463.html](https://www.heise.de/news/Kurz-vor-historischem-Meilenstein-Kontakt-zu-Voyager-1-steht-wieder-11513463.html)  - Wasserzeichen in KI-Texten: [Anthropic Info 1](https://www.anthropic.com/news/claude-text-watermark), [Anthropic Info 2](https://support.claude.com/de/articles/16266773-wie-claude-ki-generierte-inhalte-kennzeichnet), [Pangram](https://www.pangram.com/), [OpenAI Info](https://openai.com/index/eu-text-provenance/)
+  - KI-gestützte Videoüberwachung: [Tageschau Bericht](https://www.tagesschau.de/inland/regional/berlin/rbb-polizei-startet-projekt-zur-ki-unterstuetzten-videoueberwachung-am-kotti-100.html), [Netzpolitik 1](https://netzpolitik.org/2026/ki-gestuetzte-videoueberwachung-ccc-warnt-berlin-vor-automatischer-verhaltenserkennung/), [Netzpolitik 2](https://netzpolitik.org/2026/rechtlich-fragwuerdig-bundesregierung-will-biometrische-fotofahndung-im-netz/), [Netzpolitik 3](https://netzpolitik.org/2026/ki-training-berliner-verhaltensscanner-sollen-privatfirmen-mit-echtdaten-fuettern/), [Taz](https://taz.de/KI-Videoueberwachung-in-Kreuzberg/!6225655/)
+  - [https://www.tu.berlin/zifg/studium-und-lehre/ringvorlesungen/aktuelle-ringvorlesung](https://www.tu.berlin/zifg/studium-und-lehre/ringvorlesungen/aktuelle-ringvorlesung)
+  - [https://whispertome.de/](https://whispertome.de/)
+  - [https://events.ccc.de/congress/2026](https://events.ccc.de/congress/2026)
+
+
+  **Musik:**
+
+  &#x1f3b6;&nbsp;[Ketsa - Dark Night - Free Music Archive](https://freemusicarchive.org/music/Ketsa/vintage-modernity/dark-night/)
